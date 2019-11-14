@@ -1,0 +1,83 @@
+<plugin>
+
+<pluginname>Clutch Baseball</pluginname>
+
+<globalstat><label>Outs</label><initialvalue>0</initialvalue></globalstat>
+<globalstat><label>Inning</label><initialvalue>1</initialvalue></globalstat>
+
+<playerstat><label>Runs</label><initialvalue>0</initialvalue></playerstat>
+<playerstat><label>Pitcher Walks</label><initialvalue>0</initialvalue></playerstat>
+
+
+
+<deckzone>
+     <label>Strategy Deck</label>
+     <gamezonetoloadto>Deck</gamezonetoloadto>
+     <shuffle>yes</shuffle>
+</deckzone>
+
+<deckzone>
+     <label>Hitters</label>
+     <gamezonetoloadto>Bench</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+
+<deckzone>
+     <label>Pitchers</label>
+     <gamezonetoloadto>Bullpen</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+
+<deckzone>
+     <label>Stadium</label>
+     <gamezonetoloadto>Stadium</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+
+
+<gamezone>
+     <label>Hand</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Deck</label>
+     <visibletoowner>no</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Discard</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Bench</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Bullpen</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Stadium</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+
+
+<generalfunction><label>Draw</label><kind>DRAWCARD</kind></generalfunction>
+<generalfunction><label>Roll Regular Die</label><kind>ROLLD20</kind><includeasbutton>yes</includeasbutton></generalfunction>
+
+<cardfunction><label>Take Control</label><kind>CHANGEOWNER</kind></cardfunction>
+<cardfunction><label>Turn Over</label><kind>TURNOVER</kind></cardfunction>
+
+
+</plugin>
