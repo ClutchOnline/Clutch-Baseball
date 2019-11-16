@@ -1,7 +1,4 @@
-clutch baseball 09-16-19
-
+clutch baseball 11-16-19
 plugins/Clutch Baseball/plugininfo.txt https://raw.githubusercontent.com/ClutchOnline/Clutch-Baseball/master/plugininfo.txt
-
-
 CardGeneralURLs:
 http://cards.clutchbaseball.com/
