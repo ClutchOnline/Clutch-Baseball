@@ -1,6 +1,6 @@
 clutch baseball 09-16-19
 
-plugins/Clutch Baseball/plugininfo.txt https://github.com/ClutchOnline/Clutch-Baseball/blob/master/plugininfo.txt
+plugins/Clutch Baseball/plugininfo.txt https://raw.githubusercontent.com/ClutchOnline/Clutch-Baseball/master/plugininfo.txt
 
 
 CardGeneralURLs:
