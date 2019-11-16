@@ -1,1 +1,9 @@
+clutch baseball 09-16-19
 
+plugins/Clutch Baseball/plugininfo.txt https://github.com/ClutchOnline/Clutch-Baseball/blob/master/plugininfo.txt
+plugins/Clutch Baseball/sets/carddata.txt https://dl.dropboxusercontent.com/s/sk3oefph3odkrt6/carddata.txt
+plugins/Clutch Baseball/sets/setimages/cardback.jpg https://dl.dropboxusercontent.com/s/hrcop7e51dgm8p3/cardback.jpg
+plugins/Clutch Baseball/pluginpreferences.txt https://dl.dropboxusercontent.com/s/4h2dln1zlvqhw4q/pluginpreferences.txt
+
+CardGeneralURLs:
+http://cards.clutchbaseball.com/
