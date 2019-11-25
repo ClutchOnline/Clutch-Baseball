@@ -1,9 +1,8 @@
-Clutch-Baseball	11-16-19
+Clutch-Baseball 11-25-19
 
-plugins/Clutch-Baseball/plugininfo.txt https://github.com/ClutchOnline/Clutch-Baseball/blob/master/plugininfo.txt	9889
-plugins/Clutch-Baseball/sets/carddata.txt https://dl.dropboxusercontent.com/s/sk3oefph3odkrt6/carddata.txt	11111
-plugins/Clutch-Baseball/sets/setimages/cardback.jpg https://dl.dropboxusercontent.com/s/hrcop7e51dgm8p3/cardback.jpg	3482
-plugins/Clutch-Baseball/pluginpreferences.txt https://dl.dropboxusercontent.com/s/4h2dln1zlvqhw4q/pluginpreferences.txt	8888
+plugins/Clutch Baseball/plugininfo.txt https://raw.githubusercontent.com/ClutchOnline/Clutch-Baseball/master/plugininfo.txt 888
+plugins/Clutch Baseball/sets/carddata.txt https://raw.githubusercontent.com/ClutchOnline/Clutch-Baseball/master/updatelist.txt 999
+plugins/Clutch Baseball/sets/setimages/cardback.jpg https://github.com/ClutchOnline/Clutch-Baseball/blob/master/cardback.jpg 123
 
 CardGeneralURLs:
 http://cards.clutchbaseball.com/
