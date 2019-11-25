@@ -1,0 +1,1069 @@
+Name	Set	FileName	Type	Team	Hand	POS	SAL	OB/CMD	OB+/CMD+	CLT	SPD/IP	DEF	X-zone	SO	GB	FB	BB	1B	2B	3B	HR	Icon 1	Icon 2	Icon 3	Icon 4	Icon 5	Icon 6	LastName	FirstName									
+Khris Davis '19	2019S1	khrisdavis.png	Batter	OAK	R	LF/RF	350	12	0	1	8	0	-	1-3	4-5	6-7	8-11	12-15	16-17	-	18+	HR	RBI					Davis	Khris									
+Joey Gallo '19	2019S1	joeygallo.png	Batter	TEX	L	1B/OF	250	11	0	-1	16	1	-	1-4	5	6-8	9-11	12-15	16-17	-	18+	HR						Gallo	Joey									
+J.D. Martinez '19	2019S1	jdmartinez.png	Batter	BOS	R	LF/RF	600	14	0	2	4	1	-	1	2	3	4-8	9-15	16-18	-	19+	SL	HR	RBI	R			Martinez	J.D.									
+Giancarlo Stanton '19	2019S1	giancarlostanton.png	Batter	NY-A	R	LF/RF	445	12	L+1	-1	12	4	-	1-2	3-4	5	6-10	11-15	16-18	-	19+							Stanton	Giancarlo									
+Mike Zunino '19	2019S1	mikezunino.png	Batter	TB	R	C	225	10	0	1	8	9	-	1-4	5-6	7-8	9-11	12-15	16-18	-	19+							Zunino	Mike									
+Hunter Renfroe '19	2019S1	hunterrenfroe.png	Batter	SD	R	LF/RF	170	10	L+1	-1	12	1	-	1-2	3-4	5-7	8-10	11-15	16-18	-	19+							Renfroe	Hunter									
+Mookie Betts '19	2019S1	mookiebetts.png	Batter	BOS	R	OF	675	13	L+1	1	20	4	-	1	2	3-4	5-9	10-15	16-19	-	20+	MVP	SL	R	GG			Betts	Mookie									
+Jose Ramirez '19	2019S1	joseramirez.png	Batter	CLE	S	2B/3B	570	13	0	-1	20	4	-	-	1-2	3-4	5-9	10-15	16-19	-	20+	SL	SB					Ramirez	Jose									
+Trevor Story '19	2019S1	trevorstory.png	Batter	COL	R	SS	400	11	L+1	1	16	4	-	1-2	3-4	5-6	7-9	10-15	16-19	-	20+	SL	HR					Story	Trevor									
+Randal Grichuk '19	2019S1	randalgrichuk.png	Batter	TOR	R	OF	185	10	0	1	16	3	-	1-2	3-4	5-7	8-10	11-15	16-19	-	20+							Grichuk	Randal									
+Miguel Andujar '19	2019S1	miguelandujar.png	Batter	NY-A	R	3B	330	12	0	1	12	1	-	1	2-3	4	5-6	7-15	16-20	-	21+							Andujar	Miguel									
+Max Muncy '19	2019S1	maxmuncy.png	Batter	LA-N	L	1B/3B	405	13	0	-1	16	1	-	1-2	3-4	5-6	7-11	12-16	17-18	-	19+							Muncy	Max									
+Nelson Cruz '19	2019S1	nelsoncruz.png	Batter	MIN	R	LF/RF	355	12	L+1	2	4	0	-	1	2-3	4-5	6-9	10-16	17-18	-	19+							Cruz	Nelson									
+Nolan Arenado '19	2019S1	nolanarenado.png	Batter	COL	R	3B	580	12	L+2	1	12	4	-	1	2	3-4	5-8	9-16	17-19	-	20+	SL	HR	RBI	GG			Arenado	Nolan									
+Paul Goldschmidt '19	2019S1	paulgoldschmidt.png	Batter	STL	R	1B	530	14	0	-1	16	1	-	1	2-3	4	5-10	11-16	17-19	-	20+	SL						Goldschmidt	Paul									
+Christian Yelich '19	2019S1	christianyelich.png	Batter	MIL	L	OF	530	13	0	-1	20	2	-	1	2-3	4	5-9	10-16	17-19	-	20+	MVP	SL	HR	RBI	R		Yelich	Christian									
+Francisco Lindor '19	2019S1	franciscolindor.png	Batter	CLE	S	SS	525	12	L+1	1	16	5	-	1	2-3	4-5	6-9	10-16	17-19	-	20+	SL	RBI					Lindor	Francisco									
+Matt Carpenter '19	2019S1	mattcarpenter.png	Batter	STL	L	1B/3B	420	13	0	1	12	1	-	1-2	3	4-6	7-12	13-16	17-19	-	20+	HR	R					Carpenter	Matt									
+Javier Baez '19	2019S1	javierbaez.png	Batter	CHI-N	R	2B/SS	390	11	L+1	-1	20	3	-	1-2	3-4	5	6-7	8-16	17-19	-	20+	SL	RBI					Baez	Javier									
+Rhys Hoskins '19	2019S1	rhyshoskins.png	Batter	PHI	R	1B	365	13	0	-1	12	1	-	1	2-3	4-6	7-12	13-16	17-19	-	20+							Hoskins	Rhys									
+Jesus Aguilar '19	2019S1	jesusaguilar.png	Batter	MIL	R	1B	305	12	0	1	8	1	-	1	2-3	4-5	6-9	10-16	17-19	-	20+							Aguilar	Jesus									
+Salvador Perez '19	2019S1	salvadorperez.png	Batter	KC	R	C	300	10	0	1	4	9	-	1	2-3	4-6	7-8	9-16	17-19	-	20+	SL	GG					Perez	Salvador									
+Ryan O'Hearn '19	2019S1	ryanohearn.png	Batter	KC	L	1B	255	11	R+2	-3	12	1	-	1-2	3-4	5-6	7-11	12-16	17-19	-	20+							O'Hearn	Ryan									
+Alex Bregman '19	2019S1	alexbregman.png	Batter	HOU	R	3B/SS	420	13	0	1	16	2	-	1	2-3	4-5	6-10	11-16	17-20	-	21+							Bregman	Alex									
+Jose Abreu '19	2019S1	joseabreu.png	Batter	CHI-A	R	1B	250	11	L+1	-1	12	0	-	1	2-3	4-5	6-8	9-16	17-20	-	21+							Abreu	Jose									
+Mike Trout '19	2019S1	miketrout.png	Batter	LA-A	R	CF	715	15	0	1	20	4	-	1	2	3-4	5-11	12-17	18-19	-	20+	SL						Trout	Mike									
+Aaron Judge '19	2019S1	aaronjudge.png	Batter	NY-A	R	LF/RF	515	14	0	-1	12	4	-	1-2	3	4-5	6-11	12-17	18-19	-	20+							Judge	Aaron									
+Eugenio Suarez '19	2019S1	eugeniosuarez.png	Batter	CIN	R	3B	380	12	L+1	1	8	3	-	1	2-3	4-5	6-10	11-17	18-19	-	20+							Suarez	Eugenio									
+Matt Olson '19	2019S1	mattolson.png	Batter	OAK	L	1B	310	12	0	1	8	2	-	1-2	3-4	5-6	7-11	12-17	18-19	-	20+	GG						Olson	Matt									
+Gary Sanchez '19	2019S1	garysanchez.png	Batter	NY-A	R	C	280	11	0	1	12	8	-	1-2	3-5	6-7	8-11	12-17	18-19	-	20+							Sanchez	Gary									
+Edwin Encarnacion '19	2019S1	edwinencarnacion.png	Batter	SEA	R	1B	260	12	0	1	4	0	-	1-2	3-4	5-6	7-12	13-17	18-19	-	20+	RBI						Encarnacion	Edwin									
+Kyle Schwarber '19	2019S1	kyleschwarber.png	Batter	CHI-N	L	LF/RF	215	12	0	-2	12	2	-	1-3	4-5	6-8	9-13	14-17	18-19	-	20+							Schwarber	Kyle									
+Charlie Blackmon '19	2019S1	charlieblackmon.png	Batter	COL	L	LF/RF	435	13	0	1	16	1	-	1	2-3	4	5-7	8-17	18-20	-	21+	R						Blackmon	Charlie									
+Ronald Acuna Jr. '19	2019S1	ronaldacunajr.png	Batter	ATL	R	OF	400	12	L+1	2	16	2	-	1	2-3	4	5-8	9-17	18-20	-	21+							Acuna Jr.	Ronald									
+David Peralta '19	2019S1	davidperalta.png	Batter	ARI	L	LF/RF	395	12	R+1	1	12	2	-	1	2-3	4	5-7	8-17	18-20	-	21+	SL						Peralta	David									
+Scooter Gennett '19	2019S1	scootergennett.png	Batter	CIN	L	2B	350	12	R+1	-1	12	2	-	1	2-3	4	5-7	8-17	18-20	-	21+							Gennett	Scooter									
+Travis Shaw '19	2019S1	travisshaw.png	Batter	MIL	L	2B/3B	345	12	R+1	1	12	3	-	1-2	3-4	5-6	7-11	12-17	18-20	-	21+							Shaw	Travis									
+Kurt Suzuki '19	2019S1	kurtsuzuki.png	Batter	WAS	R	C	330	12	0	1	8	7	-	1	2-3	4-5	6-8	9-17	18-20	-	21+							Suzuki	Kurt									
+Ryan Zimmerman '19	2019S1	ryanzimmerman.png	Batter	WAS	R	1B	315	12	L+1	-1	12	0	-	1	2-3	4	5-7	8-17	18-20	-	21+							Zimmerman	Ryan									
+Justin Upton '19	2019S1	justinupton.png	Batter	LA-A	R	LF/RF	300	12	0	1	16	2	-	1-2	3-4	5-6	7-11	12-17	18-20	-	21+							Upton	Justin									
+Ji-Man Choi '19	2019S1	jimanchoi.png	Batter	TB	L	1B	260	11	R+2	-1	12	2	-	1-2	3-4	5-6	7-11	12-17	18-20	-	21+							Choi	Ji-Man									
+Eddie Rosario '19	2019S1	eddierosario.png	Batter	MIN	L	LF/RF	250	11	0	-1	16	2	-	1	2	3-4	5-7	8-17	18-20	-	21+							Rosario	Eddie									
+Paul DeJong '19	2019S1	pauldejong.png	Batter	STL	R	SS	230	11	0	-1	12	4	-	1-2	3-4	5-6	7-9	10-17	18-20	-	21+							DeJong	Paul									
+Justin Smoak '19	2019S1	justinsmoak.png	Batter	TOR	S	1B	210	12	0	1	4	0	-	1-2	3-4	5-6	7-11	12-17	18-20	-	21+							Smoak	Justin									
+Brian Goodwin '19	2019S1	briangoodwin.png	Batter	KC	L	OF	195	11	L+1	-1	12	2	-	1-2	3-4	5-7	8-10	11-17	18-20	-	21+							Goodwin	Brian									
+Joc Pederson '19	2019S1	jocpederson.png	Batter	LA-N	L	OF	195	11	R+1	-2	12	2	-	1	2-4	5-7	8-12	13-17	18-20	-	21+							Pederson	Joc									
+Adalberto Mondesi '19	2019S1	adalbertomondesi.png	Batter	KC	S	2B/SS	190	10	0	1	20	3	-	1-2	3-4	5-6	7-8	9-17	18-20	-	21+							Mondesi	Adalberto									
+Jonathan Schoop '19	2019S1	jonathanschoop.png	Batter	MIN	R	2B	185	11	0	-1	8	3	-	1-2	3-4	5-6	7-8	9-17	18-20	-	21+							Schoop	Jonathan									
+Rafael Devers '19	2019S1	rafaeldevers.png	Batter	BOS	L	3B	180	11	0	1	12	1	-	1-2	3-4	5-6	7-9	10-17	18-20	-	21+							Devers	Rafael									
+Ryan Braun '19	2019S1	ryanbraun.png	Batter	MIL	R	LF/RF	160	11	0	-2	12	1	-	1	2-4	5-6	7-9	10-17	18-20	-	21+							Braun	Ryan									
+Wil Myers '19	2019S1	wilmyers.png	Batter	SD	R	1B/3B	145	11	0	-1	16	1	-	1-3	4-5	6-7	8-11	12-17	18-20	-	21+							Myers	Wil									
+Scott Schebler '19	2019S1	scottschebler.png	Batter	CIN	L	OF	135	11	0	-1	12	1	-	1-2	3-5	6-7	8-10	11-17	18-20	-	21+							Schebler	Scott									
+Kyle Seager '19	2019S1	kyleseager.png	Batter	SEA	L	3B	125	10	0	1	8	4	-	1-2	3-4	5-7	8-10	11-17	18-20	-	21+							Seager	Kyle									
+Teoscar Hernandez '19	2019S1	teoscarhernandez.png	Batter	TOR	R	LF/RF	105	10	R+1	1	12	1	-	1-3	4-5	6-7	8-10	11-17	18-20	-	21+							Hernandez	Teoscar									
+Freddie Freeman '19	2019S1	freddiefreeman.png	Batter	ATL	L	1B	480	14	0	-1	12	2	-	1	2-3	4	5-9	10-17	18-21	-	22+	GG						Freeman	Freddie									
+Anthony Rendon '19	2019S1	anthonyrendon.png	Batter	WAS	R	3B	445	13	0	-1	16	4	-	1	2	3-4	5-9	10-17	18-21	-	22+							Rendon	Anthony									
+Matt Chapman '19	2019S1	mattchapman.png	Batter	OAK	R	3B	360	12	0	1	16	4	-	1-2	3-4	5-6	7-10	11-17	18-21	-	22+	GG						Chapman	Matt									
+Corey Dickerson '19	2019S1	coreydickerson.png	Batter	PIT	L	LF/RF	290	11	0	-1	12	4	-	1	2-3	4	5-6	7-17	18-21	-	22+	GG						Dickerson	Corey									
+Nicholas Castellanos '19	2019S1	nicholascastellanos.png	Batter	DET	R	LF/RF	235	11	L+1	1	12	1	-	1	2-3	4-5	6-8	9-17	18-21	-	22+							Castellanos	Nicholas									
+Anthony Rizzo '19	2019S1	anthonyrizzo.png	Batter	CHI-N	L	1B	410	13	R+1	1	4	2	-	1	2-3	4-5	6-10	11-18	19-20	-	21+	GG						Rizzo	Anthony									
+Marcell Ozuna '19	2019S1	marcellozuna.png	Batter	STL	R	LF/RF	345	12	0	1	12	3	-	1	2-3	4	5-7	8-18	19-20	-	21+							Ozuna	Marcell									
+George Springer '19	2019S1	georgespringer.png	Batter	HOU	R	OF	320	12	L+1	-1	12	2	-	1	2-3	4-5	6-10	11-18	19-20	-	21+							Springer	George									
+Gleyber Torres '19	2019S1	gleybertorres.png	Batter	NY-A	R	2B/SS	310	12	0	3	12	2	-	1-2	3	4-5	6-9	10-18	19-20	-	21+							Torres	Gleyber									
+Michael Conforto '19	2019S1	michaelconforto.png	Batter	NY-N	L	OF	310	12	R+1	1	12	2	-	1-2	3-4	5-6	7-12	13-18	19-20	-	21+							Conforto	Michael									
+Franmil Reyes '19	2019S1	franmilreyes.png	Batter	SD	R	LF/RF	290	11	L+2	3	12	1	-	1-2	3-4	5	6-8	9-18	19-20	-	21+							Reyes	Franmil									
+Yasiel Puig '19	2019S1	yasielpuig.png	Batter	CIN	R	LF/RF	285	11	R+1	1	16	3	-	1	2-4	5-6	7-10	11-18	19-20	-	21+							Puig	Yasiel									
+Justin Bour '19	2019S1	justinbour.png	Batter	LA-A	L	1B	265	12	R+1	2	4	1	-	1-2	3-4	5-6	7-11	12-18	19-20	-	21+							Bour	Justin									
+Cody Bellinger '19	2019S1	codybellinger.png	Batter	LA-N	L	1B/CF	250	12	0	-1	16	1	-	1-2	3-4	5-6	7-11	12-18	19-20	-	21+							Bellinger	Cody									
+Billy Hamilton '19	2019S1	billyhamilton.png	Batter	KC	S	CF	235	10	R+1	-1	20	5	-	1-2	3-5	6-7	8-10	11-18	19-20	21-22	23+							Hamilton	Billy									
+Lourdes Gurriel Jr. '19	2019S1	lourdesgurrieljr.png	Batter	TOR	R	SS	200	10	L+1	3	12	2	-	1	2-3	4-5	6-7	8-18	19-20	-	21+							Gurriel Jr.	Lourdes									
+Todd Frazier '19	2019S1	toddfrazier.png	Batter	NY-N	R	3B	190	11	0	1	12	4	-	1-2	3-5	6-8	9-13	14-18	19-20	-	21+							Frazier	Todd									
+Yonder Alonso '19	2019S1	yonderalonso.png	Batter	CHI-A	L	1B	175	11	R+1	1	8	0	-	1-2	3-4	5-6	7-11	12-18	19-20	-	21+							Alonso	Yonder									
+Trey Mancini '19	2019S1	treymancini.png	Batter	BAL	R	1B/LF/RF	150	11	0	-1	12	1	-	1-2	3-5	6	7-9	10-18	19-20	-	21+							Mancini	Trey									
+Kendrys Morales '19	2019S1	kendrysmorales.png	Batter	TOR	S	1B	110	11	0	-1	4	0	-	1	2-4	5-6	7-10	11-18	19-20	-	21+							Morales	Kendrys									
+Rougned Odor '19	2019S1	rougnedodor.png	Batter	TEX	L	2B	85	10	0	-1	16	3	-	1-2	3-5	6-8	9-11	12-18	19-20	-	21+							Odor	Rougned									
+Maikel Franco '19	2019S1	maikelfranco.png	Batter	PHI	R	3B	55	10	0	1	8	1	-	1	2-4	5-7	8-10	11-18	19-20	-	21+							Franco	Maikel									
+Mark Trumbo '19	2019S1	marktrumbo.png	Batter	BAL	R	1B	50	10	0	1	8	1	-	1-2	3-5	6-7	8-10	11-18	19-20	-	21+							Trumbo	Mark									
+JT Realmuto '19	2019S1	jtrealmuto.png	Batter	PHI	R	C	450	12	0	1	16	9	-	1	2-3	4-5	6-8	9-18	19-21	-	22+	SL						Realmuto	JT									
+Kris Bryant '19	2019S1	krisbryant.png	Batter	CHI-N	R	3B	385	13	L+1	-1	16	1	-	1	2-3	4-5	6-10	11-18	19-21	-	22+							Bryant	Kris									
+Mitch Haniger '19	2019S1	mitchhaniger.png	Batter	SEA	R	OF	365	13	0	1	12	2	-	1	2-3	4-5	6-9	10-18	19-21	-	22+							Haniger	Mitch									
+Daniel Murphy '19	2019S1	danielmurphy.png	Batter	COL	L	1B/2B	350	12	R+1	2	12	1	-	-	1-2	3-4	5-7	8-18	19-21	-	22+							Murphy	Daniel									
+Robinson Cano '19	2019S1	robinsoncano.png	Batter	NY-N	L	1B/2B	330	12	R+1	2	8	2	-	-	1-3	4-5	6-8	9-18	19-21	-	22+							Cano	Robinson									
+Carlos Correa '19	2019S1	carloscorrea.png	Batter	HOU	R	SS	305	12	L+1	-1	12	2	-	1	2-3	4-5	6-10	11-18	19-21	-	22+							Correa	Carlos									
+Ozzie Albies '19	2019S1	ozziealbies.png	Batter	ATL	S	2B	300	11	L+1	-1	20	4	-	1	2-3	4-6	7-9	10-18	19-21	-	22+							Albies	Ozzie									
+Yadier Molina '19	2019S1	yadiermolina.png	Batter	STL	R	C	295	11	0	1	4	9	-	1	2-4	5-6	7-8	9-18	19-21	-	22+	GG						Molina	Yadier									
+Michael A. Taylor '19	2019S1	michaelataylor.png	Batter	WAS	R	CF	295	11	0	1	20	5	-	1-2	3-4	5-6	7-9	10-18	19-21	-	22+							Taylor	Michael A.									
+Zack Cozart '19	2019S1	zackcozart.png	Batter	LA-A	R	3B/SS	290	12	0	-1	12	3	-	1	2-3	4-5	6-10	11-18	19-21	-	22+							Cozart	Zack									
+Jorge Alfaro '19	2019S1	jorgealfaro.png	Batter	MIA	R	C	285	11	R+1	-2	12	8	-	1-2	3-4	5	6-7	8-18	19-21	-	22+							Alfaro	Jorge									
+Domingo Santana '19	2019S1	domingosantana.png	Batter	SEA	R	LF/RF	275	12	0	1	16	1	-	1-2	3-4	5	6-10	11-18	19-21	-	22+							Santana	Domingo									
+Wilson Ramos '19	2019S1	wilsonramos.png	Batter	NY-N	R	C	245	12	0	-2	4	6	-	1	2-3	4	5-7	8-18	19-21	-	22+							Ramos	Wilson									
+Stephen Piscotty '19	2019S1	stephenpiscotty.png	Batter	OAK	R	LF/RF	245	12	0	1	8	2	-	1	2-4	5-6	7-10	11-18	19-21	-	22+							Piscotty	Stephen									
+Ian Kinsler '19	2019S1	iankinsler.png	Batter	SD	R	2B/3B	235	11	0	-1	16	4	-	1	2-4	5-7	8-10	11-18	19-21	-	22+	GG						Kinsler	Ian									
+Max Kepler '19	2019S1	maxkepler.png	Batter	MIN	L	OF	235	11	R+1	1	16	4	-	1-2	3-5	6-8	9-12	13-18	19-21	-	22+							Kepler	Max									
+Evan Longoria '19	2019S1	evanlongoria.png	Batter	SF	R	3B	210	11	0	1	12	3	-	1	2-4	5-6	7-9	10-18	19-21	-	22+							Longoria	Evan									
+Nick Ahmed '19	2019S1	nickahmed.png	Batter	ARI	R	SS	210	10	L+1	1	12	5	-	1-2	3-5	6-7	8-10	11-18	19-21	-	22+	GG						Ahmed	Nick									
+Enrique Hernandez '19	2019S1	enriquehernandez.png	Batter	LA-N	R	U	210	11	L+1	1	16	2	-	1-2	3-4	5-7	8-12	13-18	19-21	-	22+							Hernandez	Enrique									
+Eduardo Escobar '19	2019S1	eduardoescobar.png	Batter	ARI	S	2B/3B	190	11	0	-1	12	3	-	1	2-3	4-6	7-9	10-18	19-21	-	22+							Escobar	Eduardo									
+Yolmer Sanchez '19	2019S1	yolmersanchez.png	Batter	CHI-A	S	3B	185	10	R+1	1	12	4	-	1	2-4	5-6	7-9	10-18	19-21	22	23+							Sanchez	Yolmer									
+Nomar Mazara '19	2019S1	nomarmazara.png	Batter	TEX	L	LF/RF	185	11	R+1	1	8	1	-	1	2-4	5-6	7-9	10-18	19-21	-	22+							Mazara	Nomar									
+Renato Nunez '19	2019S1	renatonunez.png	Batter	BAL	R	3B	180	11	R+1	-3	8	3	-	1-2	3-4	5-6	7-9	10-18	19-21	-	22+							Nunez	Renato									
+Odubel Herrera '19	2019S1	odubelherrera.png	Batter	PHI	L	OF	175	11	0	1	12	2	-	1-2	3-4	5-6	7-9	10-18	19-21	-	22+							Herrera	Odubel									
+Jason Kipnis '19	2019S1	jasonkipnis.png	Batter	CLE	L	2B	150	11	0	-1	16	3	-	1-2	3-5	6-8	9-11	12-18	19-21	-	22+							Kipnis	Jason									
+Amed Rosario '19	2019S1	amedrosario.png	Batter	NY-N	R	SS	120	10	0	-1	20	2	-	1	2-4	5-6	7-8	9-18	19-21	22	23+							Rosario	Amed									
+Niko Goodrum '19	2019S1	nikogoodrum.png	Batter	DET	S	IF	110	10	L+1	1	16	1	-	1-2	3-5	6-7	8-10	11-18	19-21	-	22+							Goodrum	Niko									
+Tim Anderson '19	2019S1	timanderson.png	Batter	CHI-A	R	SS	65	9	L+1	-1	16	2	-	1	2-4	5-6	7-8	9-18	19-21	-	22+							Anderson	Tim									
+Justin Turner '19	2019S1	justinturner.png	Batter	LA-N	R	3B	485	14	L+1	1	12	2	-	1	2	3-4	5-9	10-18	19-22	-	23+							Turner	Justin									
+Whit Merrifield '19	2019S1	whitmerrifield.png	Batter	KC	R	2B/CF	375	12	0	-1	20	3	-	-	1-2	3-4	5-7	8-18	19-22	-	23+	SB						Merrifield	Whit									
+Xander Bogaerts '19	2019S1	xanderbogaerts.png	Batter	BOS	R	SS	375	12	L+1	1	16	4	-	1	2-3	4-5	6-9	10-18	19-22	-	23+							Bogaerts	Xander									
+Joey Wendle '19	2019S1	joeywendle.png	Batter	TB	L	U	285	12	0	-1	16	2	-	1	2-3	4	5-7	8-18	19-22	-	23+							Wendle	Joey									
+Yuli Gurriel '19	2019S1	yuligurriel.png	Batter	HOU	R	1B	200	11	0	1	12	1	-	-	1-2	3-4	5-6	7-18	19-22	-	23+							Gurriel	Yuli									
+Kevin Pillar '19	2019S1	kevinpillar.png	Batter	TOR	R	CF	150	10	0	-2	16	5	-	1	2-4	5-6	7-8	9-18	19-22	-	23+							Pillar	Kevin									
+Pedro Alvarez '19	2019S1	pedroalvarez.png	Batter	MIA	L	1B/3B	50	9	L+2	1	12	2	-	1-2	3-5	6-8	9-13	14-19	20	-	21+							Alvarez	Pedro									
+Tommy Pham '19	2019S1	tommypham.png	Batter	TB	R	OF	425	13	0	-1	20	3	-	1	2-3	4	5-9	10-19	20-21	-	22+							Pham	Tommy									
+Juan Soto '19	2019S1	juansoto.png	Batter	WAS	L	LF/RF	395	13	R+1	1	12	1	-	1	2-3	4	5-10	11-19	20-21	-	22+							Soto	Juan									
+Aaron Hicks '19	2019S1	aaronhicks.png	Batter	NY-A	S	CF	340	12	0	1	20	4	-	1-2	3-4	5-6	7-12	13-19	20-21	-	22+							Hicks	Aaron									
+Andrew McCutchen '19	2019S1	andrewmccutchen.png	Batter	PHI	R	LF/RF	325	13	0	1	16	1	-	1-2	3-4	5-6	7-11	12-19	20-21	-	22+							McCutchen	Andrew									
+Mallex Smith '19	2019S1	mallexsmith.png	Batter	SEA	L	CF	305	12	0	-2	20	2	-	1	2-3	4-5	6-8	9-19	20-21	22	23+	SB						Smith	Mallex									
+Kevin Kiermaier '19	2019S1	kevinkiermaier.png	Batter	TB	L	CF	285	11	0	1	20	5	-	1	2-4	5-6	7-9	10-19	20-21	22	23+							Kiermaier	Kevin									
+Brandon Belt '19	2019S1	brandonbelt.png	Batter	SF	L	1B	250	12	R+1	-1	12	2	-	1-2	3-4	5-7	8-12	13-19	20-21	-	22+							Belt	Brandon									
+Jake Lamb '19	2019S1	jakelamb.png	Batter	ARI	L	1B/3B	220	11	R+2	1	12	2	-	1-2	3-5	6-7	8-12	13-19	20-21	-	22+							Lamb	Jake									
+Ketel Marte '19	2019S1	ketelmarte.png	Batter	ARI	S	2B/CF	210	11	L+1	-1	12	3	-	1	2-4	5-6	7-10	11-19	20-21	22	23+							Marte	Ketel									
+Kole Calhoun '19	2019S1	kolecalhoun.png	Batter	LA-A	L	LF/RF	165	11	0	1	12	4	-	1-2	3-5	6-8	9-12	13-19	20-21	-	22+							Calhoun	Kole									
+Erik Kratz '19	2019S1	erikkratz.png	Batter	MIL	R	C	95	10	0	3	12	6	-	1	2-4	5-7	8	9-19	20-21	-	22+							Kratz	Erik									
+Jose Altuve '19	2019S1	josealtuve.png	Batter	HOU	R	2B	505	14	0	-1	20	2	-	1	2	3	4-6	7-19	20-22	-	23+	SL						Altuve	Jose									
+Buster Posey '19	2019S1	busterposey.png	Batter	SF	R	C	435	13	L+1	-1	8	8	-	1	2-3	4	5-8	9-19	20-22	-	23+							Posey	Buster									
+Andrelton Simmons '19	2019S1	andreltonsimmons.png	Batter	LA-A	R	SS	390	12	0	1	16	5	-	-	1-3	4-5	6-8	9-19	20-22	-	23+	GG						Simmons	Andrelton									
+Corey Seager '19	2019S1	coreyseager.png	Batter	LA-N	L	SS	385	13	0	-1	12	4	-	1	2-3	4	5-9	10-19	20-22	-	23+							Seager	Corey									
+Adam Eaton '19	2019S1	adameaton.png	Batter	WAS	L	LF/RF	355	13	0	1	16	1	-	1	2-3	4	5-9	10-19	20-22	-	23+							Eaton	Adam									
+Willson Contreras '19	2019S1	willsoncontreras.png	Batter	CHI-N	R	C	340	12	L+1	-1	4	9	-	1	2-4	5-6	7-10	11-19	20-22	-	23+							Contreras	Willson									
+Tucker Barnhart '19	2019S1	tuckerbarnhart.png	Batter	CIN	S	C	335	12	0	1	8	9	-	1	2-4	5-6	7-10	11-19	20-22	-	23+							Barnhart	Tucker									
+Starling Marte '19	2019S1	starlingmarte.png	Batter	PIT	R	CF	315	11	R+1	-1	20	4	-	1	2-3	4-5	6-8	9-19	20-22	-	23+	SB						Marte	Starling									
+Andrew Benintendi '19	2019S1	andrewbenintendi.png	Batter	BOS	L	OF	315	12	R+1	1	16	2	-	1	2-3	4-5	6-10	11-19	20-22	-	23+							Benintendi	Andrew									
+Chris Taylor '19	2019S1	christaylor.png	Batter	LA-N	R	2B/LF/RF	300	12	0	1	20	2	-	1	2-3	4-5	6-9	10-19	20-22	-	23+							Taylor	Chris									
+Jean Segura '19	2019S1	jeansegura.png	Batter	PHI	R	SS	300	12	0	-1	16	3	-	1	2-3	4	5-6	7-19	20-22	-	23+							Segura	Jean									
+Joe Panik '19	2019S1	joepanik.png	Batter	SF	L	2B	295	12	0	1	12	3	-	-	1-3	4-5	6-8	9-19	20-22	-	23+							Panik	Joe									
+Michael Brantley '19	2019S1	michaelbrantley.png	Batter	HOU	L	LF/RF	295	12	R+1	-1	16	1	-	1	2-3	4	5-7	8-19	20-22	-	23+							Brantley	Michael									
+Kolten Wong '19	2019S1	koltenwong.png	Batter	STL	L	2B	285	12	0	-1	16	4	-	1	2-4	5-6	7-9	10-19	20-22	-	23+							Wong	Kolten									
+Josh Reddick '19	2019S1	joshreddick.png	Batter	HOU	L	LF/RF	275	12	0	1	16	2	-	1	2-3	4-5	6-9	10-19	20-22	-	23+							Reddick	Josh									
+Jackie Bradley Jr. '19	2019S1	jackiebradleyjr.png	Batter	BOS	L	CF	265	11	0	1	20	5	-	1-2	3-5	6-7	8-10	11-19	20-22	-	23+							Bradley Jr.	Jackie									
+Brandon Nimmo '19	2019S1	brandonnimmo.png	Batter	NY-N	L	OF	265	12	R+1	-1	16	2	-	1-2	3-4	5-6	7-12	13-19	20-22	-	23+							Nimmo	Brandon									
+Adam Frazier '19	2019S1	adamfrazier.png	Batter	PIT	L	2B/OF	260	11	R+1	2	16	2	-	-	1-3	4-5	6-8	9-19	20-22	-	23+							Frazier	Adam									
+Brian Anderson '19	2019S1	briananderson.png	Batter	MIA	R	3B/LF/RF	260	12	0	-1	12	3	-	1	2-3	4-5	6-9	10-19	20-22	-	23+							Anderson	Brian									
+Harrison Bader '19	2019S1	harrisonbader.png	Batter	STL	R	CF	260	11	L+1	-1	20	4	-	1-2	3-4	5-6	7-9	10-19	20-22	-	23+							Bader	Harrison									
+Jonathan Lucroy '19	2019S1	jonathanlucroy.png	Batter	LA-A	R	C	255	11	0	1	8	9	-	1	2-4	5-6	7-9	10-19	20-22	-	23+							Lucroy	Jonathan									
+Elvis Andrus '19	2019S1	elvisandrus.png	Batter	TEX	R	SS	245	11	0	1	16	4	-	1	2-3	4-5	6-8	9-19	20-22	-	23+							Andrus	Elvis									
+Albert Almora Jr. '19	2019S1	albertalmorajr.png	Batter	CHI-N	R	CF	240	11	L+1	1	8	3	-	1	2-3	4	5-6	7-19	20-22	-	23+							Almora Jr.	Albert									
+Starlin Castro '19	2019S1	starlincastro.png	Batter	MIA	R	2B	235	12	0	-1	12	2	-	1	2-3	4-5	6-8	9-19	20-22	-	23+							Castro	Starlin									
+Jurickson Profar '19	2019S1	juricksonprofar.png	Batter	OAK	S	2B/3B	210	12	0	1	16	1	-	1	2-4	5-7	8-11	12-19	20-22	-	23+							Profar	Jurickson									
+Brandon Crawford '19	2019S1	brandoncrawford.png	Batter	SF	L	SS	210	11	0	-1	12	5	-	1	2-4	5-6	7-9	10-19	20-22	-	23+							Crawford	Brandon									
+Isiah Kiner-Falefa '19	2019S1	isiahkinerfalefa.png	Batter	TEX	R	IF	195	11	L+1	1	12	2	-	1	2-4	5-6	7-9	10-19	20-22	-	23+							Kiner-Falefa	Isiah									
+Marcus Semien '19	2019S1	marcussemien.png	Batter	OAK	R	SS	195	11	0	-1	16	4	-	1-2	3-4	5-6	7-10	11-19	20-22	-	23+							Semien	Marcus									
+Manuel Margot '19	2019S1	manuelmargot.png	Batter	SD	R	CF	185	11	0	-1	12	4	-	1	2-4	5-6	7-9	10-19	20-22	-	23+							Margot	Manuel									
+Miguel Cabrera '19	2019S1	miguelcabrera.png	Batter	DET	R	1B	180	11	L+2	1	4	1	-	1	2-4	5-6	7-11	12-19	20-22	-	23+							Cabrera	Miguel									
+Steven Duggar '19	2019S1	stevenduggar.png	Batter	SF	L	CF	175	10	L+2	-3	16	4	-	1-2	3-4	5-6	7-9	10-19	20-22	-	23+							Duggar	Steven									
+Jeimer Candelario '19	2019S1	jeimercandelario.png	Batter	DET	S	3B	165	11	L+1	-1	12	3	-	1-2	3-5	6-7	8-11	12-19	20-22	-	23+							Candelario	Jeimer									
+Jordy Mercer '19	2019S1	jordymercer.png	Batter	DET	R	SS	160	11	0	-1	12	3	-	1	2-4	5-6	7-9	10-19	20-22	-	23+							Mercer	Jordy									
+Jason Castro '19	2019S1	jasoncastro.png	Batter	MIN	L	C	115	11	0	-2	8	8	-	1-3	4-6	7-8	9-13	14-19	20-22	-	23+							Castro	Jason									
+John Hicks '19	2019S1	johnhicks.png	Batter	DET	R	C	100	11	0	-1	12	5	-	1-2	3-4	5-6	7-9	10-19	20-22	-	23+							Hicks	John									
+Tyler Naquin '19	2019S1	tylernaquin.png	Batter	CLE	L	LF/RF	90	10	0	1	12	3	-	1-2	3-5	6	7-8	9-19	20-22	-	23+							Naquin	Tyler									
+Jake Bauers '19	2019S1	jakebauers.png	Batter	CLE	L	1B	85	11	R+1	-1	12	1	-	1-3	4-6	7-8	9-14	15-19	20-22	-	23+							Bauers	Jake									
+Joey Rickard '19	2019S1	joeyrickard.png	Batter	BAL	R	OF	65	10	0	-1	16	3	-	1-2	3-4	5-7	8-9	10-19	20-22	-	23+							Rickard	Joey									
+Martin Prado '19	2019S1	martinprado.png	Batter	MIA	R	3B	50	10	0	-1	8	3	-	1	2-5	6-7	8-9	10-19	20-22	-	23+							Prado	Martin									
+Austin Wynns '19	2019S1	austinwynns.png	Batter	BAL	R	C	70	9	R+2	-1	12	6	-	1	2-4	5-6	7-8	9-20	21	-	22+							Wynns	Austin									
+Joey Votto '19	2019S1	joeyvotto.png	Batter	CIN	L	1B	470	15	0	1	4	2	-	1	2-3	4	5-11	12-20	21-22	-	23+							Votto	Joey									
+Lorenzo Cain '19	2019S1	lorenzocain.png	Batter	MIL	R	CF	465	13	0	1	20	5	-	1	2-3	4	5-8	9-20	21-22	-	23+							Cain	Lorenzo									
+Ender Inciarte '19	2019S1	enderinciarte.png	Batter	ATL	L	CF	370	12	0	-1	20	5	-	1	2-3	4-5	6-8	9-20	21-22	-	23+	GG						Inciarte	Ender									
+Francisco Cervelli '19	2019S1	franciscocervelli.png	Batter	PIT	R	C	355	13	0	-1	12	8	-	1-2	3-4	5-6	7-11	12-20	21-22	-	23+							Cervelli	Francisco									
+Cesar Hernandez '19	2019S1	cesarhernandez.png	Batter	PHI	S	2B	350	13	0	1	12	3	-	1	2-3	4-5	6-10	11-20	21-22	-	23+							Hernandez	Cesar									
+Matt Duffy '19	2019S1	mattduffy.png	Batter	TB	R	3B	350	13	0	-1	12	3	-	1	2-3	4	5-7	8-20	21-22	-	23+							Duffy	Matt									
+Trea Turner '19	2019S1	treaturner.png	Batter	WAS	R	SS	345	12	0	-1	20	4	-	1	2-3	4-5	6-8	9-20	21-22	-	23+	SB						Turner	Trea									
+Delino DeShields Jr. '19	2019S1	delinodeshieldsjr.png	Batter	TEX	R	CF	320	12	0	2	20	5	-	1-2	3-5	6-7	8-11	12-20	21-22	-	23+							DeShields Jr.	Delino									
+Dustin Pedroia '19	2019S1	dustinpedroia.png	Batter	BOS	R	2B	310	12	L+2	-1	8	3	-	1	2-4	5	6-9	10-20	21-22	-	23+							Pedroia	Dustin									
+Jason Heyward '19	2019S1	jasonheyward.png	Batter	CHI-N	L	OF	295	12	0	1	16	4	-	1	2-4	5-6	7-9	10-20	21-22	-	23+							Heyward	Jason									
+Dee Gordon '19	2019S1	deegordon.png	Batter	SEA	L	2B	280	11	0	1	20	4	-	1	2-3	4	5	6-20	21-22	-	23+							Gordon	Dee									
+Brett Gardner '19	2019S1	brettgardner.png	Batter	NY-A	L	OF	280	11	R+1	1	20	4	-	1	2-4	5-6	7-11	12-20	21-22	-	23+							Gardner	Brett									
+Shin-Soo Choo '19	2019S1	shinsoochoo.png	Batter	TEX	L	LF/RF	255	13	0	-1	12	1	-	1-2	3-5	6	7-11	12-20	21-22	-	23+							Choo	Shin-Soo									
+Tyler Flowers '19	2019S1	tylerflowers.png	Batter	ATL	R	C	235	11	L+2	-1	12	7	-	1-2	3-4	5-6	7-10	11-20	21-22	-	23+							Flowers	Tyler									
+Jose Peraza '19	2019S1	joseperaza.png	Batter	CIN	R	SS	215	11	0	-1	20	3	-	1	2-3	4-5	6-7	8-20	21-22	-	23+							Peraza	Jose									
+Jarrod Dyson '19	2019S1	jarroddyson.png	Batter	ARI	L	OF	200	11	0	2	20	4	-	1	2-5	6-8	9-11	12-20	21-22	-	23+							Dyson	Jarrod									
+Eric Hosmer '19	2019S1	erichosmer.png	Batter	KC	L	1B	190	11	R+2	-1	12	0	-	1	2-4	5	6-9	10-20	21-22	-	23+							Hosmer	Eric									
+Byron Buxton '19	2019S1	byronbuxton.png	Batter	MIN	R	CF	190	10	L+1	2	20	5	-	1-3	4-5	6-7	8-10	11-20	21-22	-	23+							Buxton	Byron									
+Dansby Swanson '19	2019S1	dansbyswanson.png	Batter	ATL	R	SS	190	11	0	2	16	4	-	1-2	3-5	6-7	8-11	12-20	21-22	-	23+							Swanson	Dansby									
+Jonathan Villar '19	2019S1	jonathanvillar.png	Batter	BAL	S	2B/SS	180	11	0	1	20	2	-	1-2	3-5	6	7-9	10-20	21-22	-	23+							Villar	Jonathan									
+Tony Wolters '19	2019S1	tonywolters.png	Batter	COL	L	C	175	11	0	2	12	8	-	1-2	3-6	7-8	9-13	14-20	21-22	-	23+							Wolters	Tony									
+Travis Jankowski '19	2019S1	travisjankowski.png	Batter	SD	L	OF	175	11	R+1	-1	16	3	-	1-2	3-6	7	8-11	12-20	21-22	-	23+							Jankowski	Travis									
+Orlando Arcia '19	2019S1	orlandoarcia.png	Batter	MIL	R	SS	170	11	0	1	12	3	-	1	2-4	5-6	7-9	10-20	21-22	-	23+							Arcia	Orlando									
+Carlos Santana '19	2019S1	carlossantana.png	Batter	CLE	S	1B	160	12	0	-1	12	1	-	1	2-4	5-7	8-13	14-20	21-22	-	23+							Santana	Carlos									
+Josh Bell '19	2019S1	joshbell.png	Batter	PIT	S	1B	155	12	0	1	4	0	-	1	2-4	5-6	7-11	12-20	21-22	-	23+							Bell	Josh									
+J.P. Crawford '19	2019S1	jpcrawford.png	Batter	SEA	L	SS	145	11	R+1	2	16	2	-	1-3	4-5	6-8	9-13	14-20	21-22	-	23+							Crawford	J.P.									
+Leonys Martin '19	2019S1	leonysmartin.png	Batter	CLE	L	CF	140	10	R+1	1	16	5	-	1-2	3-5	6-8	9-11	12-20	21-22	-	23+							Martin	Leonys									
+Colin Moran '19	2019S1	colinmoran.png	Batter	PIT	L	3B	135	11	R+1	-2	8	1	-	1	2-3	4-5	6-8	9-20	21-22	-	23+							Moran	Colin									
+Miguel Rojas '19	2019S1	miguelrojas.png	Batter	MIA	R	IF	125	11	0	1	8	2	-	1	2-4	5-6	7-9	10-20	21-22	-	23+							Rojas	Miguel									
+Alex Gordon '19	2019S1	alexgordon.png	Batter	KC	L	LF/RF	125	11	0	-1	12	4	-	1-3	4-6	7-8	9-11	12-20	21-22	-	23+	GG						Gordon	Alex									
+Yoan Moncada '19	2019S1	yoanmoncada.png	Batter	CHI-A	S	2B	120	11	0	1	16	2	-	1-3	4-5	6-7	8-12	13-20	21-22	-	23+							Moncada	Yoan									
+Ian Desmond '19	2019S1	iandesmond.png	Batter	COL	R	1B/LF/RF	115	11	0	-1	16	1	-	1-2	3-5	6	7-9	10-20	21-22	-	23+							Desmond	Ian									
+James McCann '19	2019S1	jamesmccann.png	Batter	CHI-A	R	C	110	10	0	-1	8	9	-	1-2	3-5	6-7	8-10	11-20	21-22	-	23+							McCann	James									
+Ryan McMahon '19	2019S1	ryanmcmahon.png	Batter	COL	L	IF	95	10	L+2	3	12	2	-	1-3	4-6	7-8	9-12	13-20	21-22	-	23+							McMahon	Ryan									
+Rajai Davis '19	2019S1	rajaidavis.png	Batter	NY-N	R	OF	50	10	0	1	20	3	-	1-2	3-5	6-8	9-11	12-20	21-22	-	23+							Davis	Rajai									
+Willy Adames '19	2019S1	willyadames.png	Batter	TB	R	SS	205	12	0	-1	12	2	-	1-2	3-4	5	6-9	10-21	22	-	23+							Adames	Willy									
+Austin Slater '19	2019S1	austinslater.png	Batter	SF	R	LF/RF	165	12	0	-3	16	1	-	1-2	3-5	6	7-9	10-21	22	-	23+							Slater	Austin									
+Max Scherzer '19	2019S1	maxscherzer.png	Pitcher	WAS	R	SP	665	6	R+1	-1	7	4	1	1-8	9-12	13-18	-	19-22	23	-	24+	W	K					Scherzer	Max									
+Jacob DeGrom '19	2019S1	jacobdegrom.png	Pitcher	NY-N	R	SP	640	6	0	1	7	3	1	1-7	8-13	14-18	-	19-23	24+	-	25+	MVP	K					DeGrom	Jacob									
+Clayton Kershaw '19	2019S1	claytonkershaw.png	Pitcher	LA-N	L	SP	590	6	0	1	7	5	1	1-6	7-13	14-17	-	18-22	23	-	24+							Kershaw	Clayton									
+Corey Kluber '19	2019S1	coreykluber.png	Pitcher	CLE	R	SP	590	6	0	1	7	4	1	1-6	7-12	13-17	-	18-22	23	-	24+	W						Kluber	Corey									
+Justin Verlander '19	2019S1	justinverlander.png	Pitcher	HOU	R	SP	580	6	0	1	7	4	1	1-7	8-11	12-17	-	18-21	22	-	23+	K						Verlander	Justin									
+Chris Sale '19	2019S1	chrissale.png	Pitcher	BOS	L	SP	570	6	0	-1	7	4	1	1-8	9-12	13-17	-	18-22	23	-	24+	K						Sale	Chris									
+Blake Snell '19	2019S1	blakesnell.png	Pitcher	TB	L	SP	555	5	L+1	2	6	4	1	1-6	7-12	13-17	18	19-22	23	-	24+	MVP	W					Snell	Blake									
+Miles Mikolas '19	2019S1	milesmikolas.png	Pitcher	STL	R	SP	550	5	R+1	-1	7	5	1	1-4	5-12	13-17	-	18-23	24	-	25+	W						Mikolas	Miles									
+Zack Greinke '19	2019S1	zackgreinke.png	Pitcher	ARI	R	SP	520	5	0	-1	7	5	1	1-5	6-12	13-17	-	18-22	23	-	24+	GG						Greinke	Zack									
+Walker Buehler '19	2019S1	walkerbuehler.png	Pitcher	LA-N	R	SP	505	6	0	1	5	4	1	1-6	7-13	14-17	-	18-22	23	-	24+							Buehler	Walker									
+Luis Severino '19	2019S1	luisseverino.png	Pitcher	NY-A	R	SP	480	5	0	1	6	4	1	1-6	7-12	13-17	-	18-22	23	-	24+	W						Severino	Luis									
+Aaron Nola '19	2019S1	aaronnola.png	Pitcher	PHI	R	SP	475	5	0	1	7	3	1	1-6	7-13	14-17	-	18-23	24	-	25+							Nola	Aaron									
+Alex Wood '19	2019S1	alexwood.png	Pitcher	CIN	L	SP	460	5	0	1	5	5	1	1-5	6-13	14-17	-	18-23	24	-	25+							Wood	Alex									
+Gerrit Cole '19	2019S1	gerritcole.png	Pitcher	HOU	R	SP	460	5	0	1	7	3	1-2	1-6	7-12	13-17	-	18-22	23	-	24+	K						Cole	Gerrit									
+Stephen Strasburg '19	2019S1	stephenstrasburg.png	Pitcher	WAS	R	SP	455	5	0	1	6	4	1	1-6	7-12	13-17	-	18-22	23	-	24+							Strasburg	Stephen									
+Wade LeBlanc '19	2019S1	wadeleblanc.png	Pitcher	SEA	L	SP	445	5	0	1	6	5	1-2	1-4	5-10	11-17	-	18-22	23	-	24+							LeBlanc	Wade									
+Carlos Carrasco '19	2019S1	carloscarrasco.png	Pitcher	CLE	R	SP	445	5	0	1	6	4	1-2	1-6	7-12	13-17	-	18-23	24	-	25+							Carrasco	Carlos									
+James Paxton '19	2019S1	jamespaxton.png	Pitcher	NY-A	L	SP	445	5	R+1	-1	6	4	1-2	1-7	8-12	13-17	-	18-22	23	-	24+							Paxton	James									
+Jhoulys Chacin '19	2019S1	jhoulyschacin.png	Pitcher	MIL	R	SP	440	4	R+2	1	6	4	1-2	1-5	6-12	13-17	18	19-23	24	-	25+							Chacin	Jhoulys									
+Brad Peacock '19	2019S1	bradpeacock.png	Pitcher	HOU	R	SP	435	4	R+2	1	6	3	1	1-7	8-12	13-17	18	19-22	23	-	24+							Peacock	Brad									
+Josh Hader '19	2019S1	joshhader.png	Pitcher	MIL	L	RP	435	7	0	-1	2	4	1	1-10	11-14	15-19	20	21-22	23	-	24+	K						Hader	Josh									
+Charlie Morton '19	2019S1	charliemorton.png	Pitcher	TB	R	SP	430	5	0	1	6	4	1-2	1-6	7-13	14-17	18	19-22	23	-	24+							Morton	Charlie									
+David Price '19	2019S1	davidprice.png	Pitcher	BOS	L	SP	425	5	0	1	6	4	1-2	1-5	6-11	12-17	-	18-22	23	-	24+							Price	David									
+Mike Clevinger '19	2019S1	mikeclevinger.png	Pitcher	CLE	R	SP	415	4	R+1	1	6	4	1	1-6	7-12	13-17	18	19-22	23	-	24+							Clevinger	Mike									
+Noah Syndergaard '19	2019S1	noahsyndergaard.png	Pitcher	NY-N	R	SP	410	5	0	1	6	1	1	1-5	6-13	14-17	-	18-24	25	-	26+							Syndergaard	Noah									
+Nathan Eovaldi '19	2019S1	nathaneovaldi.png	Pitcher	BOS	R	SP	405	5	R+1	-1	5	4	1-2	1-5	6-12	13-17	-	18-22	23	-	24+							Eovaldi	Nathan									
+Daniel Mengden '19	2019S1	danielmengden.png	Pitcher	OAK	R	SP	400	5	0	1	6	4	1-2	1-3	4-10	11-17	-	18-21	22	-	23+							Mengden	Daniel									
+Madison Bumgarner '19	2019S1	madisonbumgarner.png	Pitcher	SF	L	SP	400	5	0	-1	7	3	1-2	1-5	6-11	12-17	-	18-22	23	-	24+							Bumgarner	Madison									
+Kyle Hendricks '19	2019S1	kylehendricks.png	Pitcher	CHI-N	R	SP	400	5	0	1	6	3	1-2	1-5	6-12	13-17	-	18-22	23	-	24+							Hendricks	Kyle									
+Masahiro Tanaka '19	2019S1	masahirotanaka.png	Pitcher	NY-A	R	SP	400	5	0	1	6	4	1-2	1-5	6-12	13-17	-	18-20	21-22	-	23+							Tanaka	Masahiro									
+Rich Hill '19	2019S1	richhill.png	Pitcher	LA-N	L	SP	400	5	0	-1	6	3	1-2	1-6	7-11	12-17	18	19-21	22	-	23+							Hill	Rich									
+Kyle Freeland '19	2019S1	kylefreeland.png	Pitcher	COL	L	SP	395	4	L+1	1	6	4	1-2	1-4	5-12	13-17	18	19-23	24	-	25+							Freeland	Kyle									
+Mike Minor '19	2019S1	mikeminor.png	Pitcher	TEX	L	SP	395	5	0	-1	6	4	1-2	1-5	6-10	11-17	-	18-22	23	-	24+							Minor	Mike									
+Luis Castillo '19	2019S1	luiscastillo.png	Pitcher	CIN	R	SP	395	4	R+1	1	6	5	1-2	1-5	6-12	13-17	-	18-21	22	-	23+							Castillo	Luis									
+German Marquez '19	2019S1	germanmarquez.png	Pitcher	COL	R	SP	395	4	R+1	2	6	4	1-2	1-6	7-12	13-17	-	18-21	22-23	-	24+							Marquez	German									
+Collin McHugh '19	2019S1	collinmchugh.png	Pitcher	HOU	R	SP	390	3	R+2	1	6	4	1	1-6	7-11	12-17	-	18-23	24	-	25+							McHugh	Collin									
+Trevor Bauer '19	2019S1	trevorbauer.png	Pitcher	CLE	R	SP	390	4	0	1	6	4	1	1-6	7-12	13-17	-	18-23	24	-	25+							Bauer	Trevor									
+Chase Anderson '19	2019S1	chaseanderson.png	Pitcher	MIL	R	SP	385	5	0	1	6	3	1-2	1-5	6-11	12-17	-	18-21	22	-	23+							Anderson	Chase									
+Jose Berrios '19	2019S1	joseberrios.png	Pitcher	MIN	R	SP	385	4	R+1	1	6	4	1-2	1-5	6-11	12-17	-	18-22	23	-	24+							Berrios	Jose									
+Mike Foltynewicz '19	2019S1	mikefoltynewicz.png	Pitcher	ATL	R	SP	385	4	R+1	1	6	4	1-2	1-5	6-11	12-17	18	19-22	23	-	24+							Foltynewicz	Mike									
+Jameson Taillon '19	2019S1	jamesontaillon.png	Pitcher	PIT	R	SP	375	4	R+1	1	6	3	1-2	1-5	6-12	13-17	-	18-23	24	-	25+							Taillon	Jameson									
+Mike Leake '19	2019S1	mikeleake.png	Pitcher	SEA	R	SP	370	4	0	1	6	5	1-2	1-4	5-12	13-17	-	18-22	23-24	-	25+							Leake	Mike									
+Ivan Nova '19	2019S1	ivannova.png	Pitcher	CHI-A	R	SP	370	4	R+1	1	6	4	1-2	1-4	5-12	13-17	-	18-21	22-23	-	24+							Nova	Ivan									
+Dan Straily '19	2019S1	danstraily.png	Pitcher	MIA	R	SP	360	4	R+1	1	6	4	1-2	1-5	6-10	11-17	18	19-20	21-22	-	23+							Straily	Dan									
+Jake Arrieta '19	2019S1	jakearrieta.png	Pitcher	PHI	R	SP	360	4	R+1	1	6	3	1-2	1-5	6-12	13-17	-	18-22	23	-	24+							Arrieta	Jake									
+Zack Wheeler '19	2019S1	zackwheeler.png	Pitcher	NY-N	R	SP	360	4	0	1	6	4	1-2	1-5	6-12	13-17	18	19-23	24	-	25+							Wheeler	Zack									
+Patrick Corbin '19	2019S1	patrickcorbin.png	Pitcher	WAS	L	SP	360	4	0	-1	6	4	1-2	1-6	7-13	14-17	-	18-23	24	-	25+	K						Corbin	Patrick									
+Marcus Stroman '19	2019S1	marcusstroman.png	Pitcher	TOR	R	SP	355	4	0	1	6	4	1-2	1-4	5-14	15-17	-	18-23	24	-	25+							Stroman	Marcus									
+J.A. Happ '19	2019S1	jahapp.png	Pitcher	NY-A	L	SP	355	4	L+1	-1	6	4	1-2	1-5	6-11	12-17	-	18-22	23	-	24+							Happ	J.A.									
+Andrew Heaney '19	2019S1	andrewheaney.png	Pitcher	LA-A	L	SP	355	4	L+1	-1	6	5	1-2	1-5	6-11	12-17	-	18-20	21-22	-	23+							Heaney	Andrew									
+Danny Duffy '19	2019S1	dannyduffy.png	Pitcher	KC	L	SP	350	3	L+2	1	6	4	1-2	1-5	6-11	12-17	18	19-22	23-24	-	25+							Duffy	Danny									
+Jakob Junis '19	2019S1	jakobjunis.png	Pitcher	KC	R	SP	345	4	R+1	-1	6	4	1-2	1-5	6-11	12-17	-	18-21	22-23	-	24+							Junis	Jakob									
+Jon Lester '19	2019S1	jonlester.png	Pitcher	CHI-N	L	SP	345	4	0	1	6	3	1-2	1-5	6-12	13-17	18	19-22	23	-	24+	W						Lester	Jon									
+Jose Quintana '19	2019S1	josequintana.png	Pitcher	CHI-N	L	SP	345	4	0	-1	6	4	1-2	1-5	6-12	13-17	18	19-21	22-23	-	24+							Qunitana	Jose									
+Jack Flaherty '19	2019S1	jackflaherty.png	Pitcher	STL	R	SP	345	4	R+1	1	5	4	1-2	1-6	7-12	13-17	18	19-21	22	-	23+							Flaherty	Jack									
+Michael Fulmer '19	2019S1	michaelfulmer.png	Pitcher	DET	R	SP	340	4	0	-1	6	5	1-2	1-4	5-12	13-17	-	18-22	23-24	-	25+							Fulmer	Michael									
+Brandon Woodruff '19	2019S1	brandonwoodruff.png	Pitcher	MIL	R	SP	340	3	R+2	2	6	3	1-2	1-5	6-12	13-17	-	18-22	23-24	-	25+							Woodruff	Brandon									
+Chris Archer '19	2019S1	chrisarcher.png	Pitcher	PIT	R	SP	340	4	0	1	6	4	1-2	1-6	7-12	13-17	-	18-21	22-23	-	24+							Archer	Chris									
+Robbie Ray '19	2019S1	robbieray.png	Pitcher	ARI	L	SP	340	3	L+2	1	6	4	1-2	1-7	8-12	13-17	18	19-21	22	-	23+							Ray	Robbie									
+Rick Porcello '19	2019S1	rickporcello.png	Pitcher	BOS	R	SP	335	4	0	1	6	4	1-2	1-5	6-11	12-17	-	18-21	22-23	-	24+							Porcello	Rick									
+Kevin Gausman '19	2019S1	kevingausman.png	Pitcher	BAL	R	SP	335	4	0	1	6	4	1-2	1-5	6-12	13-17	-	18-21	22-23	-	24+							Gausman	Kevin									
+Marco Gonzales '19	2019S1	marcogonzales.png	Pitcher	SEA	L	SP	335	4	0	2	5	4	1-2	1-5	6-12	13-17	-	18-22	23-24	-	25+							Gonzales	Marco									
+Cole Hamels '19	2019S1	colehamels.png	Pitcher	CHI-N	L	SP	335	4	0	2	6	3	1-2	1-5	6-12	13-17	18	19-22	23	-	24+							Hamels	Cole									
+Kyle Gibson '19	2019S1	kylegibson.png	Pitcher	MIN	R	SP	335	3	R+1	2	6	5	1-2	1-5	6-13	14-17	18	19-21	22-23	-	24+							Gibson	Kyle									
+Reynaldo Lopez '19	2019S1	reynaldolopez.png	Pitcher	CHI-A	R	SP	330	4	0	1	6	4	1-2	1-4	5-9	10-17	18	19-21	22-23	-	24+							Lopez	Reynaldo									
+Alex Cobb '19	2019S1	alexcobb.png	Pitcher	BAL	R	SP	330	4	0	1	6	4	1-2	1-4	5-12	13-17	-	18-21	22-23	-	24+							Cobb	Alex									
+Carlos Martinez '19	2019S1	carlosmartinez.png	Pitcher	STL	R	SP	330	3	R+2	1	5	4	1-2	1-5	6-12	13-17	18	19-23	24	-	25+							Martinez	Carlos									
+Tanner Roark '19	2019S1	tannerroark.png	Pitcher	CIN	R	SP	330	4	R+1	-2	6	4	1-2	1-5	6-12	13-17	-	18-21	22-23	-	24+							Roark	Tanner									
+Sean Doolittle '19	2019S1	seandoolittle.png	Pitcher	WAS	L	RP	330	7	0	1	1	3	1	1-8	9-12	13-19	-	20-23	24	-	25+							Doolittle	Sean									
+Trevor Williams '19	2019S1	trevorwilliams.png	Pitcher	PIT	R	SP	325	4	0	1	5	4	1-2	1-4	5-11	12-17	18	19-23	24	-	25+							Williams	Trevor									
+Robbie Erlin '19	2019S1	robbieerlin.png	Pitcher	SD	L	SP	325	4	0	2	6	4	1-2	1-4	5-12	13-17	-	18-22	23-24	-	25+							Erlin	Robbie									
+Zack Godley '19	2019S1	zackgodley.png	Pitcher	ARI	R	SP	325	4	0	-1	6	4	1-2	1-6	7-13	14-17	18	19-22	23-24	-	25+							Godley	Zack									
+Ian Kennedy '19	2019S1	iankennedy.png	Pitcher	KC	R	SP	320	4	0	1	6	5	1-3	1-5	6-10	11-17	18	19-20	21-22	-	23+							Kennedy	Ian									
+Kenta Maeda '19	2019S1	kentamaeda.png	Pitcher	LA-N	R	SP	320	4	R+1	-1	5	4	1-2	1-6	7-12	13-17	-	18-21	22-23	-	24+							Maeda	Kenta									
+Diego Castillo '19	2019S1	diegocastillo.png	Pitcher	TB	R	RP	320	5	0	1	2	5	1	1-7	8-13	14-18	-	19-22	23	-	24+							Castillo	Diego									
+Jose Urena '19	2019S1	joseurena.png	Pitcher	MIA	R	SP	310	4	0	-1	6	4	1-2	1-4	5-11	12-17	18	1-22	23	-	24+							Urena	Jose									
+Mike Fiers '19	2019S1	mikefiers.png	Pitcher	LA-N	R	SP	310	4	0	2	6	3	1-2	1-5	6-11	12-17	-	18-20	21-22	-	23+							Fiers	Mike									
+Julio Teheran '19	2019S1	julioteheran.png	Pitcher	ATL	R	SP	310	4	R+1	1	6	2	1-2	1-5	6-11	12-17	18	19-20	21-22	-	23+							Teheran	Julio									
+Trevor Richards '19	2019S1	trevorrichards.png	Pitcher	MIA	R	SP	310	4	0	1	5	4	1-2	1-6	7-11	12-17	18	19-21	22-23	-	24+							Richards	Trevor									
+Antonio Senzatela '19	2019S1	antoniosenzatela.png	Pitcher	COL	R	SP	305	4	0	1	6	4	1-3	1-4	5-12	13-17	18	19-21	22-23	-	24+							Senzatela	Antonio									
+Lance Lynn '19	2019S1	lancelynn.png	Pitcher	TEX	R	SP	305	3	R+2	-1	6	4	1-2	1-5	6-12	13-17	18	19-21	22-23	-	24+							Lynn	Lance									
+Joe Musgrove '19	2019S1	joemusgrove.png	Pitcher	PIT	R	SP	300	4	0	-1	5	5	1-2	1-5	6-12	13-17	-	18-21	22-23	-	24+							Musgrove	Joe									
+Nick Pivetta '19	2019S1	nickpivetta.png	Pitcher	PHI	R	SP	300	4	0	2	5	4	1-3	1-6	7-12	13-17	18	19-21	22-23	-	24+							Pivetta	Nick									
+Tyler Anderson '19	2019S1	tyleranderson.png	Pitcher	COL	L	SP	295	4	0	1	6	2	1-3	1-5	6-11	12-17	-	18-20	21-22	-	23+							Anderson	Tyler									
+Kenley Jansen '19	2019S1	kenleyjansen.png	Pitcher	LA-N	R	RP	295	7	0	1	1	1	1	1-8	9-13	14-18	-	19-22	23	-	24+	SV						Jansen	Kenley									
+Andrew Miller '19	2019S1	andrewmiller.png	Pitcher	STL	L	RP	295	6	0	1	1	5	1	1-8	9-13	14-18	19	20-23	24	-	25+							Miller	Andrew									
+Chad Green '19	2019S1	chadgreen.png	Pitcher	NY-A	R	RP	290	5	0	-1	2	3	1	1-8	9-12	13-18	-	19-23	24	-	25+							Green	Chad									
+Matthew Boyd '19	2019S1	matthewboyd.png	Pitcher	DET	L	SP	285	4	0	1	6	3	1-3	1-5	6-10	11-17	18	19-21	22-23	-	24+							Boyd	Matthew									
+Dylan Bundy '19	2019S1	dylanbundy.png	Pitcher	BAL	R	SP	280	4	R+1	-1	6	3	1-3	1-5	6-10	11-17	-	18-20	21-22	-	23+							Bundy	Dylan									
+Carlos Rodon '19	2019S1	carlosrodon.png	Pitcher	CHI-A	L	SP	280	4	R+1	-1	6	2	1-2	1-5	6-11	12-17	18	19-20	21-22	-	23+							Rodon	Carlos									
+Jeff Samardzija '19	2019S1	jeffsamardzija.png	Pitcher	SF	R	SP	280	4	0	-1	6	4	1-3	1-5	6-11	12-17	-	18-21	22-23	-	24+							Samardzija	Jeff									
+Pat Neshek '19	2019S1	patneshek.png	Pitcher	PHI	R	RP	280	6	R+1	1	1	4	1	1-5	6-10	11-17	-	18-23	24	-	25+							Neshek	Pat									
+Yusmeiro Petit '19	2019S1	yusmeiropetit.png	Pitcher	OAK	R	RP	275	5	0	1	2	3	1	1-5	6-10	11-17	-	18-22	23	-	24+							Petit	Yusmeiro									
+Sean Newcomb '19	2019S1	seannewcomb.png	Pitcher	ATL	L	SP	270	3	0	1	6	4	1-2	1-5	6-11	12-17	18	19-22	23-24	-	25+							Newcomb	Sean									
+Joey Lucchesi '19	2019S1	joeylucchesi.png	Pitcher	SD	L	SP	270	4	0	1	5	3	1-2	1-6	7-12	13-17	-	18-20	21-22	-	23+							Lucchesi	Joey									
+Pedro Strop '19	2019S1	pedrostrop.png	Pitcher	CHI-N	R	RP	270	5	R+1	1	1	5	1	1-6	7-13	14-18	19	20-23	24	-	25+							Strop	Pedro									
+Jake Odorizzi '19	2019S1	jakeodorizzi.png	Pitcher	MIN	R	SP	260	4	0	-1	5	4	1-2	1-5	6-10	11-17	18	19-20	21-22	-	23+							Odorizzi	Jake									
+Edwin Diaz '19	2019S1	edwindiaz.png	Pitcher	NY-N	R	RP	260	6	0	-1	1	2	1	1-8	9-13	14-18	19	20-22	23	-	24+	SV	K					Diaz	Edwin									
+Eric Lauer '19	2019S1	ericlauer.png	Pitcher	SD	L	SP	255	3	0	2	5	4	1-2	1-5	6-11	12-17	18	19-22	23-24	-	25+							Lauer	Eric									
+Ryan Brasier '19	2019S1	ryanbrasier.png	Pitcher	BOS	R	RP	255	5	R+2	-2	1	4	1	1-5	6-12	13-18	-	19-23	24	-	25+							Brasier	Ryan									
+Jose Alvarado '19	2019S1	josealvarado.png	Pitcher	TB	L	RP	255	5	R+1	-2	1	4	1	1-6	7-14	15-18	19	20-24	25	-	26+	HL						Alvarado	Jose									
+Aroldis Chapman '19	2019S1	aroldischapman.png	Pitcher	NY-A	L	RP	255	5	L+1	1	1	2	1	1-9	10-14	15-18	19	20-23	24	-	25+	K						Chapman	Aroldis									
+Clayton Richard '19	2019S1	claytonrichard.png	Pitcher	TOR	L	SP	250	3	L+1	-1	6	4	1-3	1-4	5-14	15-17	18	19-22	23-24	-	25+							Richard	Clayton									
+Frankie Montas '19	2019S1	frankiemontas.png	Pitcher	OAK	R	SP	250	2	R+2	1	6	5	1-3	1-4	5-11	12-17	18	19-21	22-23	-	24+							Montas	Frankie									
+Michael Pineda '19	2019S1	michaelpineda.png	Pitcher	MIN	R	SP	250	4	0	-2	6	3	1-2	1-5	6-12	13-17	-	18-20	21-22	-	23+							Pineda	Michael									
+Wei-Yin Chen '19	2019S1	weiyinchen.png	Pitcher	MIA	L	SP	245	3	L+2	-1	5	4	1-3	1-4	5-10	11-17	18	19-21	22-23	-	24+							Chen	Wei-Yin									
+Keone Kela '19	2019S1	keonekela.png	Pitcher	PIT	R	RP	245	5	R+2	-1	1	3	1	1-7	8-12	13-18	19	20-22	23	-	24+							Kela	Keone									
+Blake Treinen '19	2019S1	blaketreinen.png	Pitcher	OAK	R	RP	240	5	R+1	1	1	3	1	1-6	7-14	15-17	-	18-23	24	-	25+	SV						Treinen	Blake									
+Anibal Sanchez '19	2019S1	anibalsanchez.png	Pitcher	WAS	R	SP	240	4	0	1	5	2	1-2	1-5	6-11	12-17	-	18-20	21-22	-	23+							Sanchez	Anibal									
+Vince Velasquez '19	2019S1	vincevelasquez.png	Pitcher	PHI	R	SP	240	3	R+1	-1	5	5	1-3	1-6	7-12	13-17	18	19-21	22-23	-	24+							Velasquez	Vince									
+Roberto Osuna '19	2019S1	robertoosuna.png	Pitcher	HOU	R	RP	240	6	0	-1	1	3	1	1-6	7-12	13-17	-	18-24	25	-	26+							Osuna	Roberto									
+Taylor Rogers '19	2019S1	taylorrogers.png	Pitcher	MIN	L	RP	240	5	L+1	1	1	4	1	1-6	7-12	13-17	-	18-23	24	-	25+							Rogers	Taylor									
+Wade Davis '19	2019S1	wadedavis.png	Pitcher	COL	R	RP	240	5	L+1	1	1	3	1-2	1-7	8-13	14-18	19	20-22	23	-	24+	SV						Davis	Wade									
+Brandon Morrow '19	2019S1	brandonmorrow.png	Pitcher	CHI-N	R	RP	235	5	L+1	-1	1	4	1	1-6	7-13	14-17	-	18-24	25	-	26+							Morrow	Brandon									
+Brad Hand '19	2019S1	bradhand.png	Pitcher	CLE	L	RP	235	5	L+1	-1	1	5	1	1-8	9-13	14-17	-	18-22	23	-	24+.							Hand	Brad									
+Trevor Cahill '19	2019S1	trevorcahill.png	Pitcher	LA-A	R	SP	235	4	0	1	5	1	1-2	1-5	6-13	14-17	18	19-21	22-23	-	24+							Cahill	Trevor									
+Jose LeClerc '19	2019S1	joseleclerc.png	Pitcher	TEX	R	RP	235	5	0	-1	1	3	1	1-9	10-13	14-19	20-21	22-23	24	-	25+							LeClerc	Jose									
+Andrew Cashner '19	2019S1	andrewcashner.png	Pitcher	BAL	R	SP	230	3	0	-1	6	4	1-2	1-3	4-11	12-17	18	19-22	23-24	-	25+							Cashner	Andrew									
+Dellin Betances '19	2019S1	dellinbetances.png	Pitcher	NY-A	R	RP	230	5	L+1	-1	1	1	1	1-10	11-15	16-18	19	20-23	24	-	25+	K						Betances	Dellin									
+Alex Colome '19	2019S1	alexcolome.png	Pitcher	CHI-A	R	RP	230	5	0	-1	1	5	1	1-5	6-12	13-17	-	18-23	24	-	25+	HL						Colome	Alex									
+Yoshihisa Hirano '19	2019S1	yoshihisahirano.png	Pitcher	ARI	R	RP	230	5	0	1	1	4	1	1-5	6-12	13-17	18	19-23	24	-	25+	HL						Hirano	Yoshihisa									
+Felipe Vazquez '19	2019S1	felipevazquez.png	Pitcher	PIT	L	RP	230	4	L+2	-1	1	4	1	1-6	7-12	13-17	-	18-23	24	-	25+	SV	K					Vazquez	Felipe									
+Jordan Zimmermann '19	2019S1	jordanzimmermann.png	Pitcher	DET	R	SP	225	3	0	1	6	4	1-3	1-4	5-10	11-17	-	18-21	22-23	-	24+							Zimmermann	Jordan									
+Kirby Yates '19	2019S1	kirbyyates.png	Pitcher	SD	R	RP	225	5	R+2	1	1	2	1	1-8	9-12	13-17	-	18-21	22	-	23+							Yates	Kirby									
+Chris Stratton '19	2019S1	chrisstratton.png	Pitcher	SF	R	SP	220	3	R+1	-1	5	4	1-3	1-4	5-11	12-17	18	19-22	23-24	-	25+							Stratton	Chris									
+Archie Bradley '19	2019S1	archiebradley.png	Pitcher	ARI	R	RP	220	5	0	-1	1	4	1	1-6	7-13	14-17	-	18-23	24	-	25+	HL						Bradley	Archie									
+Raisel Iglesias '19	2019S1	raiseliglesias.png	Pitcher	CIN	R	RP	220	5	R+1	-1	1	4	1	1-7	8-12	13-17	18	19-22	23	-	24+							Iglesias	Raisel									
+Matt Shoemaker '19	2019S1	mattshoemaker.png	Pitcher	TOR	R	SP	220	4	0	-2	5	4	1-3	1-5	6-11	12-17	18	19-20	21-22	-	23+							Shoemaker	Matt									
+Tony Watson '19	2019S1	tonywatson.png	Pitcher	SF	L	RP	215	5	0	-1	1	4	1	1-5	6-12	13-17	-	18-23	24	-	25+	HL						Watson	Tony									
+Richard Rodriguez '19	2019S1	richardrodriguez.png	Pitcher	PIT	R	RP	215	4	L+2	1	1	5	1-2	1-6	7-11	12-17	-	18-22	23	-	24+							Rodriguez	Richard									
+Carl Edwards Jr. '19	2019S1	carledwardsjr.png	Pitcher	CHI-N	R	RP	215	5	0	-2	1	2	1	1-9	10-14	15-19	20	21-23	24	-	25+							Edwards Jr.	Carl									
+Craig Stammen '19	2019S1	craigstammen.png	Pitcher	SD	R	RP	210	5	R+1	-1	1	3	1	1-5	6-12	13-17	-	18-23	24	-	25+							Stammen	Craig									
+Matt Strahm '19	2019S1	mattstrahm.png	Pitcher	SD	L	RP	210	4	R+2	-1	2	4	1-2	1-6	7-11	12-17	18	19-21	22	-	23+							Strahm	Matt									
+Arodys Vizcaino '19	2019S1	arodysvizcaino.png	Pitcher	ATL	R	RP	210	4	R+2	-1	1	5	1	1-6	7-11	12-17	18	19-22	23	-	24+							Vizcaino	Arodys									
+Tyler Olson '19	2019S1	tylerolson.png	Pitcher	CLE	L	RP	210	4	L+2	-1	1	4	1	1-7	8-13	14-17	18	19-23	24	-	25+							Olson	Tyler									
+Addison Reed '19	2019S1	addisonreed.png	Pitcher	MIN	R	RP	205	5	0	1	1	5	1-2	1-5	6-11	12-17	-	18-21	22	-	23+							Reed	Addison									
+John Brebbia '19	2019S1	johnbrebbia.png	Pitcher	STL	R	RP	205	5	R+1	-1	1	3	1	1-6	7-10	11-17	-	18-22	23	-	24+							Brebbia	John									
+Will Harris '19	2019S1	willharris.png	Pitcher	HOU	R	RP	205	5	R+1	-2	1	4	1-2	1-6	7-13	14-17	-	18-23	24	-	25+							Harris	Will									
+Corey Knebel '19	2019S1	coreyknebel.png	Pitcher	MIL	R	RP	205	5	0	1	1	1	1	1-9	10-14	15-18	19	20-22	23	-	24+							Knebel	Corey									
+Richard Bleier '19	2019S1	richardbleier.png	Pitcher	BAL	L	RP	200	5	0	1	1	3	1	1-2	3-13	14-17	-	18-23	24	-	25+							Bleier	Richard									
+Anthony Swarzak '19	2019S1	anthonyswarzak.png	Pitcher	SEA	R	RP	200	5	0	1	1	4	1-2	1-6	7-11	12-17	18	19-22	23	-	24+							Swarzak	Anthony									
+Chaz Roe '19	2019S1	chazroe.png	Pitcher	TB	R	RP	200	5	R+1	1	1	1	1-2	1-6	7-13	14-17	18	19-22	23	-	24+	HL						Roe	Chaz									
+Lucas Giolito '19	2019S1	lucasgiolito.png	Pitcher	CHI-A	R	SP	195	4	0	-2	6	2	1-3	1-4	5-11	12-17	18	19-20	21-22	-	23+							Giolito	Lucas									
+Seung Hwan Oh '19	2019S1	seunghwanoh.png	Pitcher	COL	R	RP	195	4	R+2	-1	1	5	1-2	1-5	6-10	11-17	-	18-22	23	-	24+							Oh	Seung Hwan									
+Ken Giles '19	2019S1	kengiles.png	Pitcher	TOR	R	RP	195	5	0	1	1	3	1-2	1-6	7-12	13-17	-	18-23	24	-	25+							Giles	Ken									
+Steven Matz '19	2019S1	stevenmatz.png	Pitcher	NY-N	L	SP	195	4	0	1	5	1	1-3	1-5	6-12	13-17	18	19-20	21-22	-	23+							Matz	Steven									
+Joakim Soria '19	2019S1	joakimsoria.png	Pitcher	OAK	R	RP	195	4	R+1	-1	1	5	1-2	1-6	7-12	13-17	-	18-24	25	-	26+							Soria	Joakim									
+Luke Weaver '19	2019S1	lukeweaver.png	Pitcher	ARI	R	SP	195	3	0	-1	5	5	1-3	1-5	6-12	13-17	18	19-21	22-23	-	24+							Weaver	Luke									
+Kevin McCarthy '19	2019S1	kevinmccarthy.png	Pitcher	KC	R	RP	190	4	R+1	-1	1	5	1	1-3	4-13	14-17	-	18-23	24	-	25+							McCarthy	Kevin									
+Jared Hughes '19	2019S1	jaredhughes.png	Pitcher	CIN	R	RP	190	5	0	1	1	2	1	1-4	5-14	15-17	18	19-23	24	-	25+							Hughes	Jared									
+Jesse Chavez '19	2019S1	jessechavez.png	Pitcher	TEX	R	RP	190	4	0	-1	3	4	1-2	1-5	6-11	12-17	-	18-20	21-22	-	23+							Chavez	Jesse									
+Shane Greene '19	2019S1	shanegreene.png	Pitcher	DET	R	RP	190	4	R+1	1	1	5	1-2	1-5	6-11	12-17	18	19-22	23	-	24+							Greene	Shane									
+Tommy Hunter '19	2019S1	tommyhunter.png	Pitcher	PHI	R	RP	190	5	0	-1	1	3	1	1-5	6-12	13-17	-	18-23	24	-	25+							Hunter	Tommy									
+Ryan Pressly '19	2019S1	ryanpressly.png	Pitcher	HOU	R	RP	190	5	0	1	1	3	1-2	1-6	7-13	14-17	-	18-22	23	-	24+							Pressly	Ryan									
+Scott Alexander '19	2019S1	scottalexander.png	Pitcher	LA-N	L	RP	185	4	L+1	-1	1	4	1	1-5	6-15	16-17	18	19-23	24	-	25+							Alexander	Scott									
+Jarlin Garcia '19	2019S1	jarlingarcia.png	Pitcher	MIA	L	RP	180	4	L+1	1	2	4	1-3	1-4	5-11	12-17	18	19-20	21-22	-	23+							Garcia	Jarlin									
+Shawn Armstrong '19	2019S1	shawnarmstrong.png	Pitcher	SEA	R	RP	180	4	R+2	-2	1	4	1	1-5	6-11	12-17	-	18-21	22	-	23+							Armstrong	Shawn									
+Mychal Givens '19	2019S1	mychalgivens.png	Pitcher	BAL	R	RP	180	5	0	-1	1	3	1-2	1-6	7-12	13-17	18	19-23	24	-	25+							Givens	Mychal									
+Darren O'Day '19	2019S1	darrenoday.png	Pitcher	BAL	R	RP	180	5	0	-1	1	4	1-2	1-7	8-12	13-17	18	19-21	22	-	23+							O'Day	Darren									
+Joe Kelly '19	2019S1	joekelly.png	Pitcher	LA-N	R	RP	175	4	R+1	1	1	3	1-2	1-5	6-12	13-17	18	19-23	24	-	25+							Kelly	Joe									
+Jace Fry '19	2019S1	jacefry.png	Pitcher	CHI-A	L	RP	175	4	L+1	1	1	4	1-3	1-7	8-13	14-17	18	19-22	23-24	-	25+							Fry	Jace									
+Andrew Triggs '19	2019S1	andrewtriggs.png	Pitcher	OAK	R	SP	175	4	0	-1	5	1	1-3	1-4	5-11	12-17	18	19-21	22-23	-	24+							Triggs	Andrew									
+Jeremy Jeffress '19	2019S1	jeremyjeffress.png	Pitcher	MIL	R	RP	170	4	0	1	1	4	1	1-5	6-13	14-17	18	19-22	23	-	24+							Jeffress	Jeremy									
+Dan Otero '19	2019S1	danotero.png	Pitcher	CLE	R	RP	165	3	R+2	1	1	5	1-2	1-4	5-14	15-17	-	18-21	22-23	-	24+							Otero	Dan									
+Matt Barnes '19	2019S1	mattbarnes.png	Pitcher	BOS	R	RP	165	4	R+1	-1	1	3	1-2	1-7	8-13	14-17	18	19-23	24	-	25+							Barnes	Matt									
+Tyler Glasnow '19	2019S1	tylerglasnow.png	Pitcher	TB	R	SP	165	3	0	1	6	1	1-3	1-6	7-12	13-17	18	19-21	22-23	-	24+							Glasnow	Tyler									
+Blaine Hardy '19	2019S1	blainehardy.png	Pitcher	DET	L	RP	160	3	L+1	1	2	4	1-2	1-4	5-10	11-17	-	18-21	22-23	-	24+							Hardy	Blaine									
+Adam Conley '19	2019S1	adamconley.png	Pitcher	MIA	L	RP	160	3	L+1	1	2	5	1-3	1-4	5-11	12-17	18	19-21	22-23	-	24+							Conley	Adam									
+Luis Garcia '19	2019S1	luisgarcia.png	Pitcher	LA-A	R	RP	160	4	R+1	-1	1	3	1-2	1-5	6-13	14-17	18	19-23	24	-	25+							Garcia	Luis									
+Scott Oberg '19	2019S1	scottoberg.png	Pitcher	COL	R	RP	160	4	R+1	-1	1	3	1-2	1-5	6-14	15-17	-	18-23	24	-	25+							Oberg	Scott									
+Robert Gsellman '19	2019S1	robertgsellman.png	Pitcher	NY-N	R	RP	155	3	0	1	3	3	1-3	1-4	5-12	13-17	18	19-22	23-24	-	25+							Gsellman	Robert									
+Chris Martin '19	2019S1	chrismartin.png	Pitcher	TEX	R	RP	155	4	R+1	1	1	3	1-3	1-5	6-12	13-17	-	18-22	23-24	-	25+							Martin	Chris									
+Nate Jones '19	2019S1	natejones.png	Pitcher	CHI-A	R	RP	155	3	L+1	1	1	4	1	1-6	7-12	13-17	18	19-22	23	-	24+							Jones	Nate									
+Jeurys Familia '19	2019S1	jeurysfamilia.png	Pitcher	NY-N	R	RP	155	4	R+1	-1	1	2	1-2	1-6	7-13	14-17	18	19-24	25	-	26+							Familia	Jeurys									
+Matt Harvey '19	2019S1	mattharvey.png	Pitcher	LA-A	R	SP	150	3	0	-1	5	4	1-3	1-4	5-11	12-17	18	19-20	21-22	-	23+							Harvey	Matt									
+Chasen Bradford '19	2019S1	chasenbradford.png	Pitcher	SEA	R	RP	150	4	0	2	1	3	1-2	1-4	5-12	13-17	-	18-22	23	-	24+							Bradford	Chasen									
+Mike Wright '19	2019S1	mikewright.png	Pitcher	BAL	R	RP	150	3	0	2	2	5	1-3	1-5	6-11	12-17	18	19-21	22-23	-	24+							Wright	Mike									
+Heath Hembree '19	2019S1	heathhembree.png	Pitcher	BOS	R	RP	150	4	0	1	1	3	1-2	1-6	7-11	12-17	18	19-22	23	-	24+							Hembree	Heath									
+Drew Steckenrider '19	2019S1	drewsteckenrider.png	Pitcher	MIA	R	RP	150	3	R+2	1	1	3	1-2	1-7	8-12	13-17	18	19-22	23	-	24+							Steckenrider	Drew									
+Ariel Jurado '19	2019S1	arieljurado.png	Pitcher	TEX	R	SP	145	2	R+2	-2	5	5	1-3	1-2	3-11	12-16	-	17-22	23-24	-	25+							Jurado	Ariel									
+Cam Bedrosian '19	2019S1	cambedrosian.png	Pitcher	LA-A	R	RP	145	4	0	-1	1	4	1-2	1-5	6-12	13-17	18	19-22	23-24	-	25+							Bedrosian	Cam									
+Andrew Chafin '19	2019S1	andrewchafin.png	Pitcher	ARI	L	RP	145	4	0	-2	1	4	1-2	1-6	7-14	15-17	18	19-23	24	-	25+							Chafin	Andrew									
+Tyson Ross '19	2019S1	tysonross.png	Pitcher	DET	R	SP	140	2	R+2	-1	5	3	1-3	1-4	5-12	13-17	18	19-21	22-23	-	24+							Ross	Tyson									
+Tim Hill '19	2019S1	timhill.png	Pitcher	KC	L	RP	140	4	L+1	-1	1	3	1-3	1-5	6-14	15-17	-	18-22	23-24	-	25+							Hill	Tim									
+Ryan Tepera '19	2019S1	ryantepera.png	Pitcher	TOR	R	RP	140	4	R+1	-1	1	2	1-2	1-6	7-12	13-17	18	19-22	23	-	24+							Tepera	Ryan									
+Miguel Castro '19	2019S1	miguelcastro.png	Pitcher	BAL	R	RP	135	3	R+1	-1	2	3	1-2	1-3	4-11	12-17	18	19-22	23	-	24+							Castro	Miguel									
+Matt Grace '19	2019S1	mattgrace.png	Pitcher	WAS	L	RP	135	4	0	-1	1	3	1-2	1-4	5-13	14-17	-	18-23	24	-	25+							Grace	Matt									
+Sam Freeman '19	2019S1	samfreeman.png	Pitcher	ATL	L	RP	135	3	L+1	-1	1	4	1-2	1-6	7-13	14-17	18	19-23	24	-	25+							Freeman	Sam									
+Adam Morgan '19	2019S1	adammorgan.png	Pitcher	PHI	L	RP	135	4	0	1	1	2	1-2	1-6	7-13	14-17	18	19-22	23	-	24+							Morgan	Adam									
+Sam Gaviglio '19	2019S1	samgaviglio.png	Pitcher	TOR	R	SP	130	3	0	1	5	2	1-3	1-4	5-12	13-17	-	18-20	21-22	-	23+							Gaviglio	Sam									
+Brian Flynn '19	2019S1	brianflynn.png	Pitcher	KC	L	RP	125	3	0	-1	2	5	1-2	1-3	4-11	12-16	17	18-22	23-24	-	25+							Flynn	Brian									
+Buck Farmer '19	2019S1	buckfarmer.png	Pitcher	DET	R	RP	115	3	0	-1	2	4	1-3	1-5	6-11	12-17	18	19-21	22-23	-	24+							Farmer	Buck									
+Hansel Robles '19	2019S1	hanselrobles.png	Pitcher	LA-A	R	RP	115	3	R+1	-1	1	4	1-2	1-6	7-11	12-17	18	19-20	21-22	-	23+							Robles	Hansel									
+Kyle Barraclough '19	2019S1	kylebarraclough.png	Pitcher	WAS	R	RP	115	3	L+1	-1	1	3	1-2	1-6	7-12	13-17	18	19-22	23	-	24+							Barraclough	Kyle									
+Amir Garrett '19	2019S1	amirgarrett.png	Pitcher	CIN	L	RP	110	3	0	-1	2	4	1-3	1-5	6-11	12-17	18	19-20	21-22	-	23+							Garrett	Amir									
+Mark Melancon '19	2019S1	markmelancon.png	Pitcher	SF	R	RP	105	3	0	1	1	4	1-2	1-4	5-12	13-16	-	17-23	24	-	25+							Melancon	Mark									
+Trevor Hildenberger '19	2019S1	trevorhildenberger.png	Pitcher	MIN	R	RP	95	4	0	-2	1	2	1-3	1-5	6-13	14-17	-	18-21	22-23	-	24+							Hildenberger	Trevor									
+Joe Biagini '19	2019S1	joebiagini.png	Pitcher	TOR	R	RP	95	3	0	1	2	1	1-3	1-4	5-12	13-17	18	19-21	22-23	-	24+							Biagini	Joe									
+Luke Gregerson '19	2019S1	lukegregerson.png	Pitcher	STL	R	RP	90	4	0	-2	1	2	1-3	1-6	7-13	14-17	18	19-20	21-22	-	23+							Gregerson	Luke									
+Sam Dyson '19	2019S1	samdyson.png	Pitcher	SF	R	RP	90	3	R+1	-1	1	1	1-2	1-4	5-14	15-17	18	19-22	23-24	-	25+							Dyson	Sam									
+Frank Robinson Manager	Promo	frankrobinsonmanager.png	Strategy	UR		Inning Effect																								FrankRobinsonManager	FrankRobinsonManager	FrankRobinsonManager	FrankRobinsonManager	FrankRobinsonManager	FrankRobinsonManager	FrankRobinsonManager		FrankRobinsonManager
+Hail to the King	Promo	hailtotheking.png	Strategy	UR	MVP/SL/HR/RBI/R/SB/GG/AS																									HailtotheKing	HailtotheKing	HailtotheKing	HailtotheKing	HailtotheKing	HailtotheKing	HailtotheKing		HailtotheKing
+Defend the Throne	Promo	defendthethrone.png	Strategy	UR	MVP/W/K/SV/HL/GG/AS																									DefendtheThrone	DefendtheThrone	DefendtheThrone	DefendtheThrone	DefendtheThrone	DefendtheThrone	DefendtheThrone		DefendtheThrone
+Do or Die	2019S1	doordie.png	Strategy	C		Clutch Moment																								DoorDie	DoorDie	DoorDie	DoorDie	DoorDie	DoorDie	DoorDie		DoorDie
+Ace In the Hole	2019S1	aceinthehole.png	Strategy	R	MVP/W/K/SV/HL	Clutch Moment																								AceIntheHole	AceIntheHole	AceIntheHole	AceIntheHole	AceIntheHole	AceIntheHole	AceIntheHole		AceIntheHole
+Ahead in the Count	2019S1	aheadinthecount.png	Strategy	C	MVP/W/K																									AheadintheCount	AheadintheCount	AheadintheCount	AheadintheCount	AheadintheCount	AheadintheCount	AheadintheCount		AheadintheCount
+Back Burner	2019S1	backburner.png	Strategy	C																										BackBurner	BackBurner	BackBurner	BackBurner	BackBurner	BackBurner	BackBurner		BackBurner
+Bang Bang	2019S1	bangbang.png	Strategy	U	GG																									BangBang	BangBang	BangBang	BangBang	BangBang	BangBang	BangBang		BangBang
+Breathing Room 2.0	2019S1	breathingroom20.png	Strategy	U	K/SV	Clutch Moment																								BreathingRoom2.0	BreathingRoom2.0	BreathingRoom2.0	BreathingRoom2.0	BreathingRoom20	BreathingRoom20	BreathingRoom20		BreathingRoom20
+Bridging the Gap	2019S1	bridgingthegap.png	Strategy	R	HL	Clutch Moment																								BridgingtheGap	BridgingtheGap	BridgingtheGap	BridgingtheGap	BridgingtheGap	BridgingtheGap	BridgingtheGap		BridgingtheGap
+Choke Artist	2019S1	chokeartist.png	Strategy	C		Momentum																								ChokeArtist	ChokeArtist	ChokeArtist	ChokeArtist	ChokeArtist	ChokeArtist	ChokeArtist		ChokeArtist
+Circus Act	2019S1	circusact.png	Strategy	C	GG																									CircusAct	CircusAct	CircusAct	CircusAct	CircusAct	CircusAct	CircusAct		CircusAct
+Claustrophobia	2019S1	claustrophobia.png	Strategy	C																										Claustrophobia	Claustrophobia	Claustrophobia	Claustrophobia	Claustrophobia	Claustrophobia	Claustrophobia		Claustrophobia
+Cut the Lights	2019S1	cutthelights.png	Strategy	U	SV	Momentum																								CuttheLights	CuttheLights	CuttheLights	CuttheLights	CuttheLights	CuttheLights	CuttheLights		CuttheLights
+Daylight Play	2019S1	daylightplay.png	Strategy	C	GG																									DaylightPlay	DaylightPlay	DaylightPlay	DaylightPlay	DaylightPlay	DaylightPlay	DaylightPlay		DaylightPlay
+Down and Away	2019S1	downandaway.png	Strategy	U	W																									DownandAway	DownandAway	DownandAway	DownandAway	DownandAway	DownandAway	DownandAway		DownandAway
+Eat the Ball	2019S1	eattheball.png	Strategy	C																										EattheBall	EattheBall	EattheBall	EattheBall	EattheBall	EattheBall	EattheBall		EattheBall
+Effectively Wild	2019S1	effectivelywild.png	Strategy	U																										EffectivelyWild	EffectivelyWild	EffectivelyWild	EffectivelyWild	EffectivelyWild	EffectivelyWild	EffectivelyWild		EffectivelyWild
+Front Loaded	2019S1	frontloaded.png	Strategy	C																										FrontLoaded	FrontLoaded	FrontLoaded	FrontLoaded	FrontLoaded	FrontLoaded	FrontLoaded		FrontLoaded
+Get Hyphy	2019S1	gethyphy.png	Strategy	C	MVP/W/K/SV/HL	Momentum																								GetHyphy	GetHyphy	GetHyphy	GetHyphy	GetHyphy	GetHyphy	GetHyphy		GetHyphy
+Grab and Go	2019S1	grabandgo.png	Strategy	C	GG																									GrabandGo	GrabandGo	GrabandGo	GrabandGo	GrabandGo	GrabandGo	GrabandGo		GrabandGo
+Grudge Match	2019S1	grudgematch.png	Strategy	U	MVP/W/K/SV/HL																									GrudgeMatch	GrudgeMatch	GrudgeMatch	GrudgeMatch	GrudgeMatch	GrudgeMatch	GrudgeMatch		GrudgeMatch
+Hanging K's	2019S1	hanginks.png	Strategy	U	MVP/K	Momentum																								HangingK's	HangingKs	HangingKs	HangingKs	HangingKs	HangingKs	HangingKs		HangingKs
+High and Tight	2019S1	highandtight.png	Strategy	U	K																									HighandTight	HighandTight	HighandTight	HighandTight	HighandTight	HighandTight	HighandTight		HighandTight
+Jack in the Box	2019S1	jackinthebox.png	Strategy	C																										JackintheBox	JackintheBox	JackintheBox	JackintheBox	JackintheBox	JackintheBox	JackintheBox		JackintheBox
+Left for Dead	2019S1	leftfordead.png	Strategy	R																										LeftforDead	LeftforDead	LeftforDead	LeftforDead	LeftforDead	LeftforDead	LeftforDead		LeftforDead
+Ordinary Hero	2019S1	ordinaryhero.png	Strategy	C																										OrdinaryHero	OrdinaryHero	OrdinaryHero	OrdinaryHero	OrdinaryHero	OrdinaryHero	OrdinaryHero		OrdinaryHero
+Pitch Out	2019S1	pitchout.png	Strategy	C																										PitchOut	PitchOut	PitchOut	PitchOut	PitchOut	PitchOut	PitchOut		PitchOut
+Pump Fake	2019S1	pumpfake.png	Strategy	C																										PumpFake	PumpFake	PumpFake	PumpFake	PumpFake	PumpFake	PumpFake		PumpFake
+Seems So Simple	2019S1	seemssosimple.png	Strategy	C																										SeemsSoSimple	SeemsSoSimple	SeemsSoSimple	SeemsSoSimple	SeemsSoSimple	SeemsSoSimple	SeemsSoSimple		SeemsSoSimple
+Set-Up Man 2.0	2019S1	setupman20.png	Strategy	U	K/HL																									Set-UpMan2.0	Set-UpMan2.0	Set-UpMan2.0	Set-UpMan2.0	Set-UpMan20	Set-UpMan20	Set-UpMan20		SetUpMan20
+Team Chemistry	2019S1	teamchemistry.png	Strategy	C																										TeamChemistry	TeamChemistry	TeamChemistry	TeamChemistry	TeamChemistry	TeamChemistry	TeamChemistry		TeamChemistry
+Throwing Strikes	2019S1	throwingstrikes.png	Strategy	C	MVP/W/SV/HL																									ThrowingStrikes	ThrowingStrikes	ThrowingStrikes	ThrowingStrikes	ThrowingStrikes	ThrowingStrikes	ThrowingStrikes		ThrowingStrikes
+Bat on Ball	2019S1	batonball.png	Strategy	C																										BatonBall	BatonBall	BatonBall	BatonBall	BatonBall	BatonBall	BatonBall		BatonBall
+Better 1 Out Than 2	2019S1	better1outthan2.png	Strategy	C																										Better1OutThan2	Better1OutThan2	Better1OutThan2	Better1OutThan2	Better1OutThan2	Better1OutThan2	Better1OutThan2		Better1OutThan2
+Chain Reaction	2019S1	chainreaction.png	Strategy	U																										ChainReaction	ChainReaction	ChainReaction	ChainReaction	ChainReaction	ChainReaction	ChainReaction		ChainReaction
+Charged Up	2019S1	chargedup.png	Strategy	C	MVP/HR/R																									ChargedUp	ChargedUp	ChargedUp	ChargedUp	ChargedUp	ChargedUp	ChargedUp		ChargedUp
+Chugga Chugga	2019S1	chuggachugga.png	Strategy	C																										ChuggaChugga	ChuggaChugga	ChuggaChugga	ChuggaChugga	ChuggaChugga	ChuggaChugga	ChuggaChugga		ChuggaChugga
+Clickbait	2019S1	clickbait.png	Strategy	C	SB	Speed (A)																								Clickbait	Clickbait	Clickbait	Clickbait	Clickbait	Clickbait	Clickbait		Clickbait
+Cloud Nine	2019S1	cloudnine.png	Strategy	C	SL/RBI	Momentum																								CloudNine	CloudNine	CloudNine	CloudNine	CloudNine	CloudNine	CloudNine		CloudNine
+Disrespected	2019S1	disrespected.png	Strategy	C																										Disrespected	Disrespected	Disrespected	Disrespected	Disrespected	Disrespected	Disrespected		Disrespected
+Four Corners	2019S1	fourcorners.png	Strategy	C	SB																									FourCorners	FourCorners	FourCorners	FourCorners	FourCorners	FourCorners	FourCorners		FourCorners
+Hit the Road Jack	2019S1	hittheroadjack.png	Strategy	U	SL/R	Momentum																								HittheRoadJack	HittheRoadJack	HittheRoadJack	HittheRoadJack	HittheRoadJack	HittheRoadJack	HittheRoadJack		HittheRoadJack
+Homeward Bound	2019S1	homewardbound.png	Strategy	C																										HomewardBound	HomewardBound	HomewardBound	HomewardBound	HomewardBound	HomewardBound	HomewardBound		HomewardBound
+Meatball Masher 2.0	2019S1	meatballmasher20.png	Strategy	R	MVP/SL/HR/RBI																									MeatballMasher2.0	MeatballMasher2.0	MeatballMasher2.0	MeatballMasher2.0	MeatballMasher20	MeatballMasher20	MeatballMasher20		MeatballMasher20
+Never Enough	2019S1	neverenough.png	Strategy	C	MVP/SL/HR/RBI																									NeverEnough	NeverEnough	NeverEnough	NeverEnough	NeverEnough	NeverEnough	NeverEnough		NeverEnough
+On Deck Circle	2019S1	ondeckcircle.png	Strategy	U																										OnDeckCircle	OnDeckCircle	OnDeckCircle	OnDeckCircle	OnDeckCircle	OnDeckCircle	OnDeckCircle		OnDeckCircle
+Opposite Way	2019S1	oppositeway.png	Strategy	U	SL																									OppositeWay	OppositeWay	OppositeWay	OppositeWay	OppositeWay	OppositeWay	OppositeWay		OppositeWay
+Passed Ball	2019S1	passedball.png	Strategy	U		Momentum																								PassedBall	PassedBall	PassedBall	PassedBall	PassedBall	PassedBall	PassedBall		PassedBall
+Pitch Count	2019S1	pitchcount.png	Strategy	C	MVP/HR																									PitchCount	PitchCount	PitchCount	PitchCount	PitchCount	PitchCount	PitchCount		PitchCount
+Pulled It	2019S1	pulledit.png	Strategy	U	RBI																									PulledIt	PulledIt	PulledIt	PulledIt	PulledIt	PulledIt	PulledIt		PulledIt
+Rattled	2019S1	rattled.png	Strategy	C																										Rattled	Rattled	Rattled	Rattled	Rattled	Rattled	Rattled		Rattled
+Reading the Ball 2.0	2019S1	readingtheball20.png	Strategy	U	SB/R																									ReadingtheBall2.0	ReadingtheBall2.0	ReadingtheBall2.0	ReadingtheBall2.0	ReadingtheBall20	ReadingtheBall20	ReadingtheBall20		ReadingtheBall20
+Rib-Eye Steak 2.0	2019S1	ribeyesteak20.png	Strategy	U	R																									Rib-EyeSteak2.0	Rib-EyeSteak2.0	Rib-EyeSteak2.0	Rib-EyeSteak2.0	Rib-EyeSteak20	Rib-EyeSteak20	Rib-EyeSteak20		RibEyeSteak20
+Round Em Up	2019S1	roundemup.png	Strategy	R	R	Momentum																								RoundEmUp	RoundEmUp	RoundEmUp	RoundEmUp	RoundEmUp	RoundEmUp	RoundEmUp		RoundEmUp
+Squash the Bug	2019S1	squashthebug.png	Strategy	R	MVP/SL/HR/RBI/R																									SquashtheBug	SquashtheBug	SquashtheBug	SquashtheBug	SquashtheBug	SquashtheBug	SquashtheBug		SquashtheBug
+Stealing Signs	2019S1	stealingsigns.png	Strategy	C																										StealingSigns	StealingSigns	StealingSigns	StealingSigns	StealingSigns	StealingSigns	StealingSigns		StealingSigns
+Unsung Hero	2019S1	unsunghero.png	Strategy	C		125 or less salary needed																								UnsungHero	UnsungHero	UnsungHero	UnsungHero	UnsungHero	UnsungHero	UnsungHero		UnsungHero
+Walk This Way	2019S1	walkthisway.png	Strategy	C		Momentum																								WalkThisWay	WalkThisWay	WalkThisWay	WalkThisWay	WalkThisWay	WalkThisWay	WalkThisWay		WalkThisWay
+Wandering Eye	2019S1	wanderingeye.png	Strategy	C	SB																									WanderingEye	WanderingEye	WanderingEye	WanderingEye	WanderingEye	WanderingEye	WanderingEye		WanderingEye
+Who Run It?	2019S1	whorunit.png	Strategy	U		R icon needed																								WhoRunIt?	WhoRunIt?	WhoRunIt?	WhoRunIt	WhoRunIt	WhoRunIt	WhoRunIt		WhoRunIt
+Did His Homework 2.0	2019S1	didhishomework20.png	Strategy	R																										DidHisHomework2.0	DidHisHomework2.0	DidHisHomework2.0	DidHisHomework2.0	DidHisHomework20	DidHisHomework20	DidHisHomework20		DidHisHomework20
+Give and Take	2019S1	giveandtake.png	Strategy	R																										GiveandTake	GiveandTake	GiveandTake	GiveandTake	GiveandTake	GiveandTake	GiveandTake		GiveandTake
+It's a Trap!	2019S1	itsatrap.png	Strategy	C																										It'saTrap!	ItsaTrap!	ItsaTrap	ItsaTrap	ItsaTrap	ItsaTrap	ItsaTrap		ItsaTrap
+The Long Con	2019S1	thelongcon.png	Strategy	C																										TheLongCon	TheLongCon	TheLongCon	TheLongCon	TheLongCon	TheLongCon	TheLongCon		TheLongCon
+Losing Steam	2019S1	losingsteam.png	Strategy	U	MVP																									LosingSteam	LosingSteam	LosingSteam	LosingSteam	LosingSteam	LosingSteam	LosingSteam		LosingSteam
+Seeing is Believing	2019S1	seeingisbelieving.png	Strategy	C																										SeeingisBelieving	SeeingisBelieving	SeeingisBelieving	SeeingisBelieving	SeeingisBelieving	SeeingisBelieving	SeeingisBelieving		SeeingisBelieving
+Afternoon Shade	2019S1	afternoonshade.png	Strategy	C																										AfternoonShade	AfternoonShade	AfternoonShade	AfternoonShade	AfternoonShade	AfternoonShade	AfternoonShade		AfternoonShade
+The Dog Days	2019S1	thedogdays.png	Strategy	R	MVP																									TheDogDays	TheDogDays	TheDogDays	TheDogDays	TheDogDays	TheDogDays	TheDogDays		TheDogDays
+Frozen Fingers	2019S1	frozenfingers.png	Strategy	C																										FrozenFingers	FrozenFingers	FrozenFingers	FrozenFingers	FrozenFingers	FrozenFingers	FrozenFingers		FrozenFingers
+Muddy Track	2019S1	muddytrack.png	Strategy	C	SB																									MuddyTrack	MuddyTrack	MuddyTrack	MuddyTrack	MuddyTrack	MuddyTrack	MuddyTrack		MuddyTrack
+Craig Counsell	2019S1	craigcounsell.png	Strategy	R																										CraigCounsell	CraigCounsell	CraigCounsell	CraigCounsell	CraigCounsell	CraigCounsell	CraigCounsell		CraigCounsell
+Alex Cora	2019S1	alexcora.png	Strategy	C																										AlexCora	AlexCora	AlexCora	AlexCora	AlexCora	AlexCora	AlexCora		AlexCora
+Arizona Field	2019S1	arizonafield.png	Stadium																											ArizonaField	ArizonaField	ArizonaField	ArizonaField	ArizonaField	ArizonaField	ArizonaField		ArizonaField
+Atlanta Park	2019S1	atlantapark.png	Stadium																											AtlantaPark	AtlantaPark	AtlantaPark	AtlantaPark	AtlantaPark	AtlantaPark	AtlantaPark		AtlantaPark
+Baltimore Yards	2019S1	baltimoreyards.png	Stadium																											BaltimoreYards	BaltimoreYards	BaltimoreYards	BaltimoreYards	BaltimoreYards	BaltimoreYards	BaltimoreYards		BaltimoreYards
+Boston Park	2019S1	bostonpark.png	Stadium																											BostonPark	BostonPark	BostonPark	BostonPark	BostonPark	BostonPark	BostonPark		BostonPark
+Brooklyn Field	Promo	brooklynfield.png	Stadium																											BrooklynField	BrooklynField	BrooklynField	BrooklynField	BrooklynField	BrooklynField	BrooklynField		BrooklynField
+Chicago (A) Field	2019S1	chicagoafield.png	Stadium																											Chicago(A)Field	Chicago(A)Field	Chicago(A)Field	Chicago(A)Field	Chicago(A)Field	ChicagoA)Field	ChicagoAField		ChicagoAField
+Chicago (N) Field	2019S1	chicagonfield.png	Stadium																											Chicago(N)Field	Chicago(N)Field	Chicago(N)Field	Chicago(N)Field	Chicago(N)Field	ChicagoN)Field	ChicagoNField		ChicagoNField
+Cincinnati Park	2019S1	cincinnatipark.png	Stadium																											CincinnatiPark	CincinnatiPark	CincinnatiPark	CincinnatiPark	CincinnatiPark	CincinnatiPark	CincinnatiPark		CincinnatiPark
+Cleveland Field	2019S1	clevelandfield.png	Stadium																											ClevelandField	ClevelandField	ClevelandField	ClevelandField	ClevelandField	ClevelandField	ClevelandField		ClevelandField
+Colorado Field	2019S1	coloradofield.png	Stadium																											ColoradoField	ColoradoField	ColoradoField	ColoradoField	ColoradoField	ColoradoField	ColoradoField		ColoradoField
+Detroit Park	2019S1	detroitpark.png	Stadium																											DetroitPark	DetroitPark	DetroitPark	DetroitPark	DetroitPark	DetroitPark	DetroitPark		DetroitPark
+Houston Park	2019S1	houstonpark.png	Stadium																											HoustonPark	HoustonPark	HoustonPark	HoustonPark	HoustonPark	HoustonPark	HoustonPark		HoustonPark
+Kansas City Stadium	2019S1	kansascitystadium.png	Stadium																											KansasCityStadium	KansasCityStadium	KansasCityStadium	KansasCityStadium	KansasCityStadium	KansasCityStadium	KansasCityStadium		KansasCityStadium
+Los Angeles (A) Stadium	2019S1	losangelesastadium.png	Stadium																											LosAngeles(A)Stadium	LosAngeles(A)Stadium	LosAngeles(A)Stadium	LosAngeles(A)Stadium	LosAngeles(A)Stadium	LosAngelesA)Stadium	LosAngelesAStadium		LosAngelesAStadium
+Los Angeles (N) Stadium	2019S1	losangelesnstadium.png	Stadium																											LosAngeles(N)Stadium	LosAngeles(N)Stadium	LosAngeles(N)Stadium	LosAngeles(N)Stadium	LosAngeles(N)Stadium	LosAngelesN)Stadium	LosAngelesNStadium		LosAngelesNStadium
+Miami Park	2019S1	miamipark.png	Stadium																											MiamiPark	MiamiPark	MiamiPark	MiamiPark	MiamiPark	MiamiPark	MiamiPark		MiamiPark
+Milwaukee Park	2019S1	milwaukeepark.png	Stadium																											MilwaukeePark	MilwaukeePark	MilwaukeePark	MilwaukeePark	MilwaukeePark	MilwaukeePark	MilwaukeePark		MilwaukeePark
+Minnesota Field	2019S1	minnesotafield.png	Stadium																											MinnesotaField	MinnesotaField	MinnesotaField	MinnesotaField	MinnesotaField	MinnesotaField	MinnesotaField		MinnesotaField
+New York (A) Stadium	2019S1	newyorkastadium.png	Stadium																											NewYork(A)Stadium	NewYork(A)Stadium	NewYork(A)Stadium	NewYork(A)Stadium	NewYork(A)Stadium	NewYorkA)Stadium	NewYorkAStadium		NewYorkAStadium
+New York (N) Field	2019S1	newyorknfield.png	Stadium																											NewYork(N)Field	NewYork(N)Field	NewYork(N)Field	NewYork(N)Field	NewYork(N)Field	NewYorkN)Field	NewYorkNField		NewYorkNField
+Oakland Stadium	2019S1	oaklandstadium.png	Stadium																											OaklandStadium	OaklandStadium	OaklandStadium	OaklandStadium	OaklandStadium	OaklandStadium	OaklandStadium		OaklandStadium
+Philadelphia Park	2019S1	philadelphiapark.png	Stadium																											PhiladelphiaPark	PhiladelphiaPark	PhiladelphiaPark	PhiladelphiaPark	PhiladelphiaPark	PhiladelphiaPark	PhiladelphiaPark		PhiladelphiaPark
+Pittsburgh Park	2019S1	pittsburghpark.png	Stadium																											PittsburghPark	PittsburghPark	PittsburghPark	PittsburghPark	PittsburghPark	PittsburghPark	PittsburghPark		PittsburghPark
+San Diego Park	2019S1	sandiegopark.png	Stadium																											SanDiegoPark	SanDiegoPark	SanDiegoPark	SanDiegoPark	SanDiegoPark	SanDiegoPark	SanDiegoPark		SanDiegoPark
+San Francisco Park	2019S1	sanfranciscopark.png	Stadium																											SanFranciscoPark	SanFranciscoPark	SanFranciscoPark	SanFranciscoPark	SanFranciscoPark	SanFranciscoPark	SanFranciscoPark		SanFranciscoPark
+Seattle Field	2019S1	seattlefield.png	Stadium																											SeattleField	SeattleField	SeattleField	SeattleField	SeattleField	SeattleField	SeattleField		SeattleField
+St. Louis Stadium	2019S1	stlouisstadium.png	Stadium																											St.LouisStadium	St.LouisStadium	St.LouisStadium	St.LouisStadium	StLouisStadium	StLouisStadium	StLouisStadium		StLouisStadium
+Tampa Bay Field	2019S1	tampabayfield.png	Stadium																											TampaBayField	TampaBayField	TampaBayField	TampaBayField	TampaBayField	TampaBayField	TampaBayField		TampaBayField
+Texas Park	2019S1	texaspark.png	Stadium																											TexasPark	TexasPark	TexasPark	TexasPark	TexasPark	TexasPark	TexasPark		TexasPark
+Toronto Centre	2019S1	torontocentre.png	Stadium																											TorontoCentre	TorontoCentre	TorontoCentre	TorontoCentre	TorontoCentre	TorontoCentre	TorontoCentre		TorontoCentre
+Washington Park	2019S1	washingtonpark.png	Stadium																											WashingtonPark	WashingtonPark	WashingtonPark	WashingtonPark	WashingtonPark	WashingtonPark	WashingtonPark		WashingtonPark
+Mickey Mantle	Promo	mickeymantle.png	Batter	NY-A	S	CF	895	16	0	1	12	3		1	2	3	4-9	10-15	16-17	-	18+	MVP	HR	RBI	R	AS		Mantle	Mickey	MickeyMantle	MickeyMantle	MickeyMantle	MickeyMantle	MickeyMantle	MickeyMantle	MickeyMantle		MickeyMantle
+Ted Williams	Promo	tedwilliams.png	Batter	BOS	L	LF/RF	840	16	0	1	8	2		-	1	2	3-9	10-15	16-18	-	19+	HR	RBI	R	AS			Williams	Ted	TedWilliams	TedWilliams	TedWilliams	TedWilliams	TedWilliams	TedWilliams	TedWilliams		TedWilliams
+Luis Gonzalez	Promo	luisgonzalez.png	Batter	ARI	L	LF/RF	685	15	0	2	8	1		1	2	3-4	5-9	10-15	16-18	-	19+	SL	HR	RBI	AS			Gonzalez	Luis	LuisGonzalez	LuisGonzalez	LuisGonzalez	LuisGonzalez	LuisGonzalez	LuisGonzalez	LuisGonzalez		LuisGonzalez
+Hank Aaron	Promo	hankaaron.png	Batter	ATL	R	LF/RF	615	12	L+1	1	12	4		-	1	2-3	4-7	8-16	17-18	-	19+	MVP	HR	RBI	R	AS		Aaron	Hank	HankAaron	HankAaron	HankAaron	HankAaron	HankAaron	HankAaron	HankAaron		HankAaron
+Kiki Cuyler	Promo	kikicuyler.png	Batter	PIT	R	OF	715	14	0	1	20	3		-	1	2	3-6	7-14	15-18	19-21	22+	SB	R					Cuyler	Kiki	KikiCuyler	KikiCuyler	KikiCuyler	KikiCuyler	KikiCuyler	KikiCuyler	KikiCuyler		KikiCuyler
+Mark Grace	Promo	markgrace.png	Batter	ARI	L	1B	365	12	R+2	2	8	2		-	1-2	3-4	5-9	10-17	18-20	-	21+							Grace	Mark	MarkGrace	MarkGrace	MarkGrace	MarkGrace	MarkGrace	MarkGrace	MarkGrace		MarkGrace
+Jose Canseco	Promo	josecanseco.png	Batter	OAK	R	LF/RF	640	13	L+1	-1	20	2		1	2	3-4	5-9	10-15	16-18	-	19+	MVP	SL	HR	RBI	R		Canseco	Jose	JoseCanseco	JoseCanseco	JoseCanseco	JoseCanseco	JoseCanseco	JoseCanseco	JoseCanseco		JoseCanseco
+Frank Robinson Batter	Promo	frankrobinsonbatter.png	Batter	BAL	R	LF/RF	590	13	R+1	-1	12	2		1	2	3-4	5-9	10-15	16-18	-	19+	MVP	HR	RBI	R	AS		Robinson	Frank	FrankRobinsonBatter	FrankRobinsonBatter	FrankRobinsonBatter	FrankRobinsonBatter	FrankRobinsonBatter	FrankRobinsonBatter	FrankRobinsonBatter		FrankRobinsonBatter
+Rickey Henderson	Promo	rickeyhenderson.png	Batter	OAK	R	LF/RF	550	13	R+1	1	24	3		1-2	3-4	5-6	7-12	13-18	19-21	-	22+	SB	R	AS				Henderson	Rickey	RickeyHenderson	RickeyHenderson	RickeyHenderson	RickeyHenderson	RickeyHenderson	RickeyHenderson	RickeyHenderson		RickeyHenderson
+Ozzie Smith	Promo	ozziesmith.png	Batter	STL	R	SS	575	13	R+1	-1	20	5		-	1-2	3-4	5-10	11-18	19-23	-	24+	SL	GG	AS				Smith	Ozzie	OzzieSmith	OzzieSmith	OzzieSmith	OzzieSmith	OzzieSmith	OzzieSmith	OzzieSmith		OzzieSmith
+Ernie Banks	Promo	erniebanks.png	Batter	CHI-N	R	SS	540	12	L+1	2	8	3		1	2	3-4	5-8	9-15	16-17	18	19+	MVP	HR	RBI	R	AS		Banks	Ernie	ErnieBanks	ErnieBanks	ErnieBanks	ErnieBanks	ErnieBanks	ErnieBanks	ErnieBanks		ErnieBanks
+Jackie Robinson	Promo	jackierobinson.png	Batter	LA-N	R	2B	740	14	R+1	2	20	2		-	1-2	3	4-8	9-16	17-20	21	22+	MVP	RBI	R	SB	AS		Robinson	Jackie	JackieRobinson	JackieRobinson	JackieRobinson	JackieRobinson	JackieRobinson	JackieRobinson	JackieRobinson		JackieRobinson
+Tom Seaver	Promo	tomseaver.png	Pitcher	NY-N	R	SP	630	6	0	-1	8	4		1	1-5	6-11	12-17	-	18-22	23	24+	MVP	W	AS				Seaver	Tom	TomSeaver	TomSeaver	TomSeaver	TomSeaver	TomSeaver	TomSeaver	TomSeaver		TomSeaver
+CC Sabathia	Promo	ccsabathia.png	Pitcher	NY-A	L	SP	440	4	L+2	-1	7	3		1-2	1-5	6-10	11-17	-	18-22	23-24	25+	W						Sabathia	CC	CCSabathia	CCSabathia	CCSabathia	CCSabathia	CCSabathia	CCSabathia	CCSabathia		CCSabathia
+Joel Zumaya	Promo	joelzumaya.png	Pitcher	DET	R	RP	240	4	R+1	1	1	4		1	1-6	7-10	11-18	19	20-23	24	25+	HL	K					Zumaya	Joel	JoelZumaya	JoelZumaya	JoelZumaya	JoelZumaya	JoelZumaya	JoelZumaya	JoelZumaya		JoelZumaya
+Nolan Ryan	Promo	nolanryan.png	Pitcher	LA-A	R	SP	500	4	0	1	8	3		1	1-7	8-12	13-17	18-19	20-23	24	25+	W	K	AS				Ryan	Nolan	NolanRyan	NolanRyan	NolanRyan	NolanRyan	NolanRyan	NolanRyan	NolanRyan		NolanRyan
+Bob Gibson	Promo	bobgibson.png	Pitcher	STL	R	SP	950	7	R+1	1	9	5		1	1-6	7-11	12-18	-	19-23	24	25+	MVP	W	K	GG	AS		Gibson	Bob	BobGibson	BobGibson	BobGibson	BobGibson	BobGibson	BobGibson	BobGibson		BobGibson
+Satchel Paige	Promo	satchelpaige.png	Pitcher	BAL	R	RP	300	4	L+1	-1	3	4		1	1-4	5-9	10-17	-	18-22	23-24	25+	AS						Paige	Satchel	SatchelPaige	SatchelPaige	SatchelPaige	SatchelPaige	SatchelPaige	SatchelPaige	SatchelPaige		SatchelPaige
+Sandy Koufax	Promo	sandykoufax.png	Pitcher	LA-N	L	SP	775	6	L+1	1	8	4		1	1-7	8-12	13-18	-	19-23	24	25+	MVP	W	K	AS			Koufax	Sandy	SandyKoufax	SandyKoufax	SandyKoufax	SandyKoufax	SandyKoufax	SandyKoufax	SandyKoufax		SandyKoufax
+Dwight Gooden	Promo	dwightgooden.png	Pitcher	NY-N	R	SP	670	6	0	1	8	3		1	1-6	7-11	12-17	-	18-23	24	25+	MVP	W	K	AS			Gooden	Dwight	DwightGooden	DwightGooden	DwightGooden	DwightGooden	DwightGooden	DwightGooden	DwightGooden		DwightGooden
+Yonny Chirinos '19	2019S2	yonnychirinos.png	Pitcher	TB	R	SP	355	4	-	1	5	5	1-2	1-5	6-12	13-17	-	18-23	24	-	25+							Chirinos	Yonny	YonnyChirinos'19	YonnyChirinos19	YonnyChirinos19	YonnyChirinos19	YonnyChirinos19	YonnyChirinos19	YonnyChirinos19		YonnyChirinos19
+Gio Gonzalez '19	2019S2	giogonzalez.png	Pitcher	MIL	L	SP	370	4	L+1	-1	6	4	1-2	1-5	6-12	13-17	18	19-23	24	-	25+							Gonzalez	Gio	GioGonzalez'19	GioGonzalez19	GioGonzalez19	GioGonzalez19	GioGonzalez19	GioGonzalez19	GioGonzalez19		GioGonzalez19
+Sonny Gray '19	2019S2	sonnygray.png	Pitcher	CIN	R	SP	295	4	-	1	5	3	1-2	1-5	6-13	14-17	18	19-22	23-24	-	25+							Gray	Sonny	SonnyGray'19	SonnyGray19	SonnyGray19	SonnyGray19	SonnyGray19	SonnyGray19	SonnyGray19		SonnyGray19
+Felix Hernandez '19	2019S2	felixhernandez.png	Pitcher	SEA	R	SP	260	4	-	-1	6	4	1-3	1-4	5-11	12-17	18	19-20	21-22	-	23+							Hernandez	Felix	FelixHernandez'19	FelixHernandez19	FelixHernandez19	FelixHernandez19	FelixHernandez19	FelixHernandez19	FelixHernandez19		FelixHernandez19
+David Hess '19	2019S2	davidhess.png	Pitcher	BAL	R	SP	260	4	-	1	5	4	1-3	1-4	5-10	11-17	18	19-20	21-22	-	23+							Hess	David	DavidHess'19	DavidHess19	DavidHess19	DavidHess19	DavidHess19	DavidHess19	DavidHess19		DavidHess19
+Brad Keller '19	2019S2	bradkeller.png	Pitcher	KC	R	SP	365	3	R+2	1	5	4	1	1-4	5-13	14-17	18	19-24	25	-	26+							Keller	Brad	BradKeller'19	BradKeller19	BradKeller19	BradKeller19	BradKeller19	BradKeller19	BradKeller19		BradKeller19
+Felix Pena '19	2019S2	felixpena.png	Pitcher	LA-A	R	SP	360	3	R+1	1	5	3	1-2	1-5	6-11	12-17	18	19-21	22-23	-	24+							Pena	Felix	FelixPena'19	FelixPena19	FelixPena19	FelixPena19	FelixPena19	FelixPena19	FelixPena19		FelixPena19
+Drew Pomeranz '19	2019S2	drewpomeranz.png	Pitcher	SF	L	SP	240	3	-	2	5	4	1-2	1-5	6-11	12-17	18	19-21	22-23	-	24+							Pomeranz	Drew	DrewPomeranz'19	DrewPomeranz19	DrewPomeranz19	DrewPomeranz19	DrewPomeranz19	DrewPomeranz19	DrewPomeranz19		DrewPomeranz19
+Edinson Volquez '19	2019S2	edinsonvolquez.png	Pitcher	TEX	R	SP	220	2	R+2	1	6	2	1-2	1-5	6-12	13-17	18	19-22	23-24	-	25+							Volquez	Edinson	EdinsonVolquez'19	EdinsonVolquez19	EdinsonVolquez19	EdinsonVolquez19	EdinsonVolquez19	EdinsonVolquez19	EdinsonVolquez19		EdinsonVolquez19
+Adam Wainwright '19	2019S2	adamwainwright.png	Pitcher	STL	R	SP	235	3	-	1	5	5	1-3	1-4	5-12	13-17	18	19-22	23-24	-	25+							Wainwright	Adam	AdamWainwright'19	AdamWainwright19	AdamWainwright19	AdamWainwright19	AdamWainwright19	AdamWainwright19	AdamWainwright19		AdamWainwright19
+Matt Albers '19	2019S2	mattalbers.png	Pitcher	MIL	R	RP	145	4	R+1	-1	1	3	1-2	1-5	6-12	13-17	-	18-21	22	-	23+							Albers	Matt	MattAlbers'19	MattAlbers19	MattAlbers19	MattAlbers19	MattAlbers19	MattAlbers19	MattAlbers19		MattAlbers19
+Justin Anderson '19	2019S2	justinanderson.png	Pitcher	LA-A	R	RP	130	3	R+1	-1	1	4	1-2	1-7	8-13	14-17	18-19	20-22	23-24	-	25+							Anderson	Justin	JustinAnderson'19	JustinAnderson19	JustinAnderson19	JustinAnderson19	JustinAnderson19	JustinAnderson19	JustinAnderson19		JustinAnderson19
+Matt Andriese '19	2019S2	mattandriese.png	Pitcher	ARI	R	RP	145	3	L+1	-1	3	3	1-3	1-5	6-12	13-17	-	18-20	21-22	-	23+							Andriese	Matt	MattAndriese'19	MattAndriese19	MattAndriese19	MattAndriese19	MattAndriese19	MattAndriese19	MattAndriese19		MattAndriese19
+Pedro Baez '19	2019S2	pedrobaez.png	Pitcher	LA-N	R	RP	160	4	-	1	1	3	1	1-6	7-11	12-17	18	19-22	23	-	24+							Baez	Pedro	PedroBaez'19	PedroBaez19	PedroBaez19	PedroBaez19	PedroBaez19	PedroBaez19	PedroBaez19		PedroBaez19
+Jalen Beeks '19	2019S2	jalenbeeks.png	Pitcher	TB	L	RP	185	2	L+2	2	3	5	1-3	1-4	5-12	13-17	18	19-22	23-24	-	25+							Beeks	Jalen	JalenBeeks'19	JalenBeeks19	JalenBeeks19	JalenBeeks19	JalenBeeks19	JalenBeeks19	JalenBeeks19		JalenBeeks19
+Brad Boxberger '19	2019S2	bradboxberger.png	Pitcher	KC	R	RP	130	4	-	-1	1	3	1-2	1-7	8-12	13-17	18	19-21	22	-	23+							Boxberger	Brad	BradBoxberger'19	BradBoxberger19	BradBoxberger19	BradBoxberger19	BradBoxberger19	BradBoxberger19	BradBoxberger19		BradBoxberger19
+Austin Brice '19	2019S2	austinbrice.png	Pitcher	MIA	R	RP	150	4	-	1	2	3	1-3	1-4	5-12	13-17	-	18-20	21-22	-	23+							Brice	Austin	AustinBrice'19	AustinBrice19	AustinBrice19	AustinBrice19	AustinBrice19	AustinBrice19	AustinBrice19		AustinBrice19
+Aaron Bummer '19	2019S2	aaronbummer.png	Pitcher	CHI-A	L	RP	110	2	L+2	1	1	3	1-2	1-5	6-14	15-17	18	19-22	23-24	-	25+							Bummer	Aaron	AaronBummer'19	AaronBummer19	AaronBummer19	AaronBummer19	AaronBummer19	AaronBummer19	AaronBummer19		AaronBummer19
+Adam Cimber '19	2019S2	adamcimber.png	Pitcher	CLE	R	RP	130	3	R+2	-2	1	3	1-2	1-5	6-14	15-17	-	18-23	24	-	25+							Cimber	Adam	AdamCimber'19	AdamCimber19	AdamCimber19	AdamCimber19	AdamCimber19	AdamCimber19	AdamCimber19		AdamCimber19
+Steve Cishek '19	2019S2	stevecishek.png	Pitcher	CHI-N	R	RP	275	5	R+2	-1	1	5	1	1-6	7-13	14-18	19	20-23	24	-	25+							Cishek	Steve	SteveCishek'19	SteveCishek19	SteveCishek19	SteveCishek19	SteveCishek19	SteveCishek19	SteveCishek19		SteveCishek19
+Alex Claudio '19	2019S2	alexclaudio.png	Pitcher	MIL	L	RP	160	3	L+2	1	1	4	1-2	1-3	4-14	15-17	-	18-23	24	-	25+							Claudio	Alex	AlexClaudio'19	AlexClaudio19	AlexClaudio19	AlexClaudio19	AlexClaudio19	AlexClaudio19	AlexClaudio19		AlexClaudio19
+Kyle Crick '19	2019S2	kylecrick.png	Pitcher	PIT	R	RP	195	5	-	1	1	2	1	1-6	7-12	13-17	18	19-23	24	-	25+							Crick	Kyle	KyleCrick'19	KyleCrick19	KyleCrick19	KyleCrick19	KyleCrick19	KyleCrick19	KyleCrick19		KyleCrick19
+Chris Devenski '19	2019S2	chrisdevenski.png	Pitcher	HOU	R	RP	195	5	L+2	-1	1	1	1	1-6	7-11	12-17	-	18-21	22	-	23+							Devenski	Chris	ChrisDevenski'19	ChrisDevenski19	ChrisDevenski19	ChrisDevenski19	ChrisDevenski19	ChrisDevenski19	ChrisDevenski19		ChrisDevenski19
+Jake Diekman '19	2019S2	jakediekman.png	Pitcher	KC	L	RP	130	2	R+2	2	1	4	1-2	1-6	7-12	13-17	18-19	20-22	23-24	-	25+							Diekman	Jake	JakeDiekman'19	JakeDiekman19	JakeDiekman19	JakeDiekman19	JakeDiekman19	JakeDiekman19	JakeDiekman19		JakeDiekman19
+Seranthony Dominguez '19	2019S2	seranthonydominguez.png	Pitcher	PHI	R	RP	320	6	R+1	-1	1	5	1	1-8	9-15	16-19	20	21-23	24	-	25+							Dominguez	Seranthony	SeranthonyDominguez'19	SeranthonyDominguez19	SeranthonyDominguez19	SeranthonyDominguez19	SeranthonyDominguez19	SeranthonyDominguez19	SeranthonyDominguez19		SeranthonyDominguez19
+Mike Dunn '19	2019S2	mikedunn.png	Pitcher	COL	L	RP	70	2	-	2	1	4	1-3	1-6	7-11	12-17	18-19	20-21	22-23	-	24+							Dunn	Mike	MikeDunn'19	MikeDunn19	MikeDunn19	MikeDunn19	MikeDunn19	MikeDunn19	MikeDunn19		MikeDunn19
+Roenis Elias '19	2019S2	roeniselias.png	Pitcher	SEA	L	RP	210	4	R+1	1	2	2	1	1-4	5-10	11-17	-	18-24	25	-	26+							Elias	Roenis	RoenisElias'19	RoenisElias19	RoenisElias19	RoenisElias19	RoenisElias19	RoenisElias19	RoenisElias19		RoenisElias19
+Wilmer Font '19	2019S2	wilmerfont.png	Pitcher	NY-N	R	RP	150	3	R+1	-2	2	5	1-3	1-3	4-10	11-17	18	19	20-21	-	22+							Font	Wilmer	WilmerFont'19	WilmerFont19	WilmerFont19	WilmerFont19	WilmerFont19	WilmerFont19	WilmerFont19		WilmerFont19
+John Gant '19	2019S2	johngant.png	Pitcher	STL	R	RP	165	4	-	1	3	4	1-2	1-4	5-11	12-17	18	19-23	24	-	25+							Gant	John	JohnGant'19	JohnGant19	JohnGant19	JohnGant19	JohnGant19	JohnGant19	JohnGant19		JohnGant19
+Cory Gearrin '19	2019S2	corygearrin.png	Pitcher	SEA	R	RP	165	4	-	1	1	3	1	1-5	6-12	13-17	18	19-23	24	-	25+							Gearrin	Cory	CoryGearrin'19	CoryGearrin19	CoryGearrin19	CoryGearrin19	CoryGearrin19	CoryGearrin19	CoryGearrin19		CoryGearrin19
+Jeanmar Gomez '19	2019S2	jeanmargomez.png	Pitcher	TEX	R	RP	60	2	L+2	-1	1	4	1-3	1-4	5-11	12-16	17	18-20	21-22	-	23+							Gomez	Jeanmar	JeanmarGomez'19	JeanmarGomez19	JeanmarGomez19	JeanmarGomez19	JeanmarGomez19	JeanmarGomez19	JeanmarGomez19		JeanmarGomez19
+Liam Hendriks '19	2019S2	liamhendriks.png	Pitcher	OAK	R	RP	135	4	L+1	-1	1	1	1-2	1-6	7-12	13-17	18	19-22	23-24	-	25+							Hendriks	Liam	LiamHendriks'19	LiamHendriks19	LiamHendriks19	LiamHendriks19	LiamHendriks19	LiamHendriks19	LiamHendriks19		LiamHendriks19
+David Hernandez '19	2019S2	davidhernandez.png	Pitcher	CIN	R	RP	245	6	-	-1	1	4	1	1-5	6-11	12-17	-	18-23	24	-	25+							Hernandez	David	DavidHernandez'19	DavidHernandez19	DavidHernandez19	DavidHernandez19	DavidHernandez19	DavidHernandez19	DavidHernandez19		DavidHernandez19
+Kelvin Herrera '19	2019S2	kelvinherrera.png	Pitcher	CHI-A	R	RP	150	4	R+1	-1	1	3	1-2	1-5	6-11	12-17	-	18-22	23	-	24+							Herrera	Kelvin	KelvinHerrera'19	KelvinHerrera19	KelvinHerrera19	KelvinHerrera19	KelvinHerrera19	KelvinHerrera19	KelvinHerrera19		KelvinHerrera19
+Jordan Hicks '19	2019S2	jordanhicks.png	Pitcher	STL	R	RP	160	3	R+2	-1	1	4	1-2	1-5	6-14	15-17	18	19-24	25	-	26+							Hicks	Jordan	JordanHicks'19	JordanHicks19	JordanHicks19	JordanHicks19	JordanHicks19	JordanHicks19	JordanHicks19		JordanHicks19
+Jonathan Holder '19	2019S2	jonathanholder.png	Pitcher	NY-A	R	RP	190	5	-	-1	1	4	1-2	1-5	6-10	11-17	-	18-23	24	-	25+							Holder	Jonathan	JonathanHolder'19	JonathanHolder19	JonathanHolder19	JonathanHolder19	JonathanHolder19	JonathanHolder19	JonathanHolder19		JonathanHolder19
+Greg Holland '19	2019S2	gregholland.png	Pitcher	ARI	R	RP	150	4	-	-1	1	4	1-2	1-6	7-12	13-17	18	19-22	23-24	-	25+							Holland	Greg	GregHolland'19	GregHolland19	GregHolland19	GregHolland19	GregHolland19	GregHolland19	GregHolland19		GregHolland19
+Luke Jackson '19	2019S2	lukejackson.png	Pitcher	ATL	R	RP	65	3	-	-1	1	2	1-3	1-4	5-11	12-17	18	19-22	23-24	-	25+							Jackson	Luke	LukeJackson'19	LukeJackson19	LukeJackson19	LukeJackson19	LukeJackson19	LukeJackson19	LukeJackson19		LukeJackson19
+Joe Jimenez '19	2019S2	joejimenez.png	Pitcher	DET	R	RP	90	3	-	-1	1	4	1-3	1-4	5-10	11-17	18	19-22	23-24	-	25+							Jimenez	Joe	JoeJimenez'19	JoeJimenez19	JoeJimenez19	JoeJimenez19	JoeJimenez19	JoeJimenez19	JoeJimenez19		JoeJimenez19
+Shawn Kelley '19	2019S2	shawnkelley.png	Pitcher	TEX	R	RP	175	5	R+1	-1	1	4	1-2	1-5	6-9	10-17	-	18	19-20	-	21+							Kelley	Shawn	ShawnKelley'19	ShawnKelley19	ShawnKelley19	ShawnKelley19	ShawnKelley19	ShawnKelley19	ShawnKelley19		ShawnKelley19
+Brandon Kintzler '19	2019S2	brandonkintzler.png	Pitcher	CHI-N	R	RP	160	4	-	1	1	4	1-2	1-3	4-12	13-17	-	18-23	24	-	25+							Kintzler	Brandon	BrandonKintzler'19	BrandonKintzler19	BrandonKintzler19	BrandonKintzler19	BrandonKintzler19	BrandonKintzler19	BrandonKintzler19		BrandonKintzler19
+Derek Law '19	2019S2	dereklaw.png	Pitcher	TOR	R	RP	60	2	-	2	1	4	1-3	1-4	5-10	11-16	17	18-21	22-23	-	24+							Law	Derek	DerekLaw'19	DerekLaw19	DerekLaw19	DerekLaw19	DerekLaw19	DerekLaw19	DerekLaw19		DerekLaw19
+Francisco Liriano '19	2019S2	franciscoliriano.png	Pitcher	PIT	L	RP	65	2	L+2	-2	3	3	1-3	1-5	6-12	13-17	18	19-21	22-23	-	24+							Liriano	Francisco	FranciscoLiriano'19	FranciscoLiriano19	FranciscoLiriano19	FranciscoLiriano19	FranciscoLiriano19	FranciscoLiriano19	FranciscoLiriano19		FranciscoLiriano19
+Michael Lorenzen '19	2019S2	michaellorenzen.png	Pitcher	CIN	R	RP	175	3	R+1	1	2	4	1-2	1-4	5-12	13-17	18	19-23	24	-	25+							Lorenzen	Michael	MichaelLorenzen'19	MichaelLorenzen19	MichaelLorenzen19	MichaelLorenzen19	MichaelLorenzen19	MichaelLorenzen19	MichaelLorenzen19		MichaelLorenzen19
+Aaron Loup '19	2019S2	aaronloup.png	Pitcher	SD	L	RP	90	2	L+1	1	1	3	1-2	1-6	7-13	14-17	18	19-22	23-24	-	25+							Loup	Aaron	AaronLoup'19	AaronLoup19	AaronLoup19	AaronLoup19	AaronLoup19	AaronLoup19	AaronLoup19		AaronLoup19
+Seth Lugo '19	2019S2	sethlugo.png	Pitcher	NY-N	R	RP	225	4	-	1	3	4	1-2	1-5	6-12	13-17	-	18-23	24	-	25+							Lugo	Seth	SethLugo'19	SethLugo19	SethLugo19	SethLugo19	SethLugo19	SethLugo19	SethLugo19		SethLugo19
+Trevor May '19	2019S2	trevormay.png	Pitcher	MIN	R	RP	225	6	-	1	1	2	1	1-7	8-12	13-17	-	18-21	22	-	23+							May	Trevor	TrevorMay'19	TrevorMay19	TrevorMay19	TrevorMay19	TrevorMay19	TrevorMay19	TrevorMay19		TrevorMay19
+Tim Mayza '19	2019S2	timmayza.png	Pitcher	TOR	L	RP	140	2	R+2	2	1	3	1-2	1-5	6-12	13-17	18	19-22	23-24	-	25+							Mayza	Tim	TimMayza'19	TimMayza19	TimMayza19	TimMayza19	TimMayza19	TimMayza19	TimMayza19		TimMayza19
+Justin Miller '19	2019S2	justinmiller.png	Pitcher	WAS	R	RP	190	5	R+1	1	1	2	1-2	1-6	7-10	11-17	-	18-21	22	-	23+							Miller	Justin	JustinMiller'19	JustinMiller19	JustinMiller19	JustinMiller19	JustinMiller19	JustinMiller19	JustinMiller19		JustinMiller19
+Reyes Moronta '19	2019S2	reyesmoronta.png	Pitcher	SF	R	RP	220	5	-	-1	1	2	1	1-8	9-14	15-19	20	21-23	24	-	25+							Moronta	Reyes	ReyesMoronta'19	ReyesMoronta19	ReyesMoronta19	ReyesMoronta19	ReyesMoronta19	ReyesMoronta19	ReyesMoronta19		ReyesMoronta19
+Hector Neris '19	2019S2	hectorneris.png	Pitcher	PHI	R	RP	175	4	R+1	1	1	4	1-2	1-7	8-11	12-17	18	19-21	22	-	23+							Neris	Hector	HectorNeris'19	HectorNeris19	HectorNeris19	HectorNeris19	HectorNeris19	HectorNeris19	HectorNeris19		HectorNeris19
+Adam Ottavino '19	2019S2	adamottavino.png	Pitcher	NY-A	R	RP	155	4	-	-1	1	1	1-2	1-8	9-13	14-18	19	20-22	23	-	24+							Ottavino	Adam	AdamOttavino'19	AdamOttavino19	AdamOttavino19	AdamOttavino19	AdamOttavino19	AdamOttavino19	AdamOttavino19		AdamOttavino19
+Blake Parker '19	2019S2	blakeparker.png	Pitcher	MIN	R	RP	220	6	-	-1	1	3	1	1-6	7-12	13-17	-	18-21	22	-	23+							Parker	Blake	BlakeParker'19	BlakeParker19	BlakeParker19	BlakeParker19	BlakeParker19	BlakeParker19	BlakeParker19		BlakeParker19
+Luis Perdomo '19	2019S2	luisperdomo.png	Pitcher	SD	R	RP	60	2	R+1	-1	3	4	1-3	1-4	5-13	14-16	17	18-22	23-24	-	25+							Perdomo	Luis	LuisPerdomo'19	LuisPerdomo19	LuisPerdomo19	LuisPerdomo19	LuisPerdomo19	LuisPerdomo19	LuisPerdomo19		LuisPerdomo19
+Noe Ramirez '19	2019S2	noeramirez.png	Pitcher	LA-A	R	RP	160	4	R+1	-2	1	5	1-2	1-6	7-12	13-17	18	19-20	21-22	-	23+							Ramirez	Noe	NoeRamirez'19	NoeRamirez19	NoeRamirez19	NoeRamirez19	NoeRamirez19	NoeRamirez19	NoeRamirez19		NoeRamirez19
+Sergio Romo '19	2019S2	sergioromo.png	Pitcher	MIA	R	RP	180	5	-	1	1	3	1-2	1-6	7-11	12-17	-	18-21	22	-	23+							Romo	Sergio	SergioRomo'19	SergioRomo19	SergioRomo19	SergioRomo19	SergioRomo19	SergioRomo19	SergioRomo19		SergioRomo19
+Hector Rondon '19	2019S2	hectorrondon.png	Pitcher	HOU	R	RP	140	4	R+1	-1	1	2	1-2	1-6	7-12	13-17	18	19-22	23	-	24+							Rondon	Hector	HectorRondon'19	HectorRondon19	HectorRondon19	HectorRondon19	HectorRondon19	HectorRondon19	HectorRondon19		HectorRondon19
+Bryan Shaw '19	2019S2	bryanshaw.png	Pitcher	COL	R	RP	95	3	-	1	1	3	1-3	1-5	6-13	14-17	18	19-22	23-24	-	25+							Shaw	Bryan	BryanShaw'19	BryanShaw19	BryanShaw19	BryanShaw19	BryanShaw19	BryanShaw19	BryanShaw19		BryanShaw19
+Tony Sipp '19	2019S2	tonysipp.png	Pitcher	WAS	L	RP	175	5	-	-1	1	3	1-2	1-6	7-12	13-17	18	19-22	23	-	24+							Sipp	Tony	TonySipp'19	TonySipp19	TonySipp19	TonySipp19	TonySipp19	TonySipp19	TonySipp19		TonySipp19
+Will Smith '19	2019S2	willsmith.png	Pitcher	SF	L	RP	255	5	L+2	-1	1	3	1	1-8	9-13	14-18	-	19-23	24	-	25+							Smith	Will	WillSmith'19	WillSmith19	WillSmith19	WillSmith19	WillSmith19	WillSmith19	WillSmith19		WillSmith19
+Ryne Stanek '19	2019S2	rynestanek.png	Pitcher	TB	R	RP	150	4	L+1	-1	1	3	1-2	1-7	8-11	12-17	18	19-21	22	-	23+							Stanek	Ryne	RyneStanek'19	RyneStanek19	RyneStanek19	RyneStanek19	RyneStanek19	RyneStanek19	RyneStanek19		RyneStanek19
+Ross Stripling '19	2019S2	rossstripling.png	Pitcher	LA-N	R	RP	300	5	-	1	3	4	1-2	1-6	7-12	13-17	-	18-22	23	-	24+							Stripling	Ross	RossStripling'19	RossStripling19	RossStripling19	RossStripling19	RossStripling19	RossStripling19	RossStripling19		RossStripling19
+Daniel Stumpf '19	2019S2	danielstumpf.png	Pitcher	DET	L	RP	75	2	L+2	-1	1	2	1-2	1-5	6-11	12-17	18	19-21	22-23	-	24+							Stumpf	Daniel	DanielStumpf'19	DanielStumpf19	DanielStumpf19	DanielStumpf19	DanielStumpf19	DanielStumpf19	DanielStumpf19		DanielStumpf19
+Josh Tomlin '19	2019S2	joshtomlin.png	Pitcher	ATL	R	RP	120	3	R+1	-1	2	5	1-3	1-4	5-10	11-16	-	17-20	21-22	-	23+							Tomlin	Josh	JoshTomlin'19	JoshTomlin19	JoshTomlin19	JoshTomlin19	JoshTomlin19	JoshTomlin19	JoshTomlin19		JoshTomlin19
+Lou Trivino '19	2019S2	loutrivino.png	Pitcher	OAK	R	RP	170	4	R+1	1	1	2	1	1-6	7-12	13-17	18	19-22	23	-	24+							Trivino	Lou	LouTrivino'19	LouTrivino19	LouTrivino19	LouTrivino19	LouTrivino19	LouTrivino19	LouTrivino19		LouTrivino19
+Hector Velazquez '19	2019S2	hectorvelazquez.png	Pitcher	BOS	R	RP	195	3	R+1	2	2	4	1	1-4	5-12	13-17	-	18-23	24	-	25+							Velazquez	Hector	HectorVelazquez'19	HectorVelazquez19	HectorVelazquez19	HectorVelazquez19	HectorVelazquez19	HectorVelazquez19	HectorVelazquez19		HectorVelazquez19
+Matt Wisler '19	2019S2	mattwisler.png	Pitcher	SD	R	RP	180	3	L+1	1	2	4	1-3	1-3	4-8	9-17	18	19-22	23	-	24+							Wisler	Matt	MattWisler'19	MattWisler19	MattWisler19	MattWisler19	MattWisler19	MattWisler19	MattWisler19		MattWisler19
+Nick Wittgren '19	2019S2	nickwittgren.png	Pitcher	CLE	R	RP	180	3	R+2	1	1	5	1-2	1-5	6-11	12-17	18	19-23	24	-	25+							Wittgren	Nick	NickWittgren'19	NickWittgren19	NickWittgren19	NickWittgren19	NickWittgren19	NickWittgren19	NickWittgren19		NickWittgren19
+Brandon Workman '19	2019S2	brandonworkman.png	Pitcher	BOS	R	RP	190	5	-	1	1	3	1	1-5	6-11	12-17	18	19-21	22	-	23+							Workman	Brandon	BrandonWorkman'19	BrandonWorkman19	BrandonWorkman19	BrandonWorkman19	BrandonWorkman19	BrandonWorkman19	BrandonWorkman19		BrandonWorkman19
+Jimmy Yacabonis '19	2019S2	jimmyyacabonis.png	Pitcher	BAL	R	RP	170	2	R+2	2	3	5	1-3	1-4	5-11	12-17	18	19-20	21-22	-	23+							Yacabonis	Jimmy	JimmyYacabonis'19	JimmyYacabonis19	JimmyYacabonis19	JimmyYacabonis19	JimmyYacabonis19	JimmyYacabonis19	JimmyYacabonis19		JimmyYacabonis19
+Alex Avila '19	2019S2	alexavila.png	Batter	ARI	L	C	245	12	R+1	1	8	8	-	1-4	5-6	7-8	9-14	15-20	21-22	-	23+							Avila	Alex	AlexAvila'19	AlexAvila19	AlexAvila19	AlexAvila19	AlexAvila19	AlexAvila19	AlexAvila19		AlexAvila19
+Austin Barnes '19	2019S2	austinbarnes.png	Batter	LA-N	R	C	315	13	-	-1	12	7	-	1-2	3-5	6	7-12	13-20	21-22	-	23+							Barnes	Austin	AustinBarnes'19	AustinBarnes19	AustinBarnes19	AustinBarnes19	AustinBarnes19	AustinBarnes19	AustinBarnes19		AustinBarnes19
+Robinson Chirinos '19	2019S2	robinsonchirinos.png	Batter	HOU	R	C	270	12	L+1	2	8	6	-	1-3	4-5	6-7	8-12	13-18	19-20	-	21+							Chirinos	Robinson	RobinsonChirinos'19	RobinsonChirinos19	RobinsonChirinos19	RobinsonChirinos19	RobinsonChirinos19	RobinsonChirinos19	RobinsonChirinos19		RobinsonChirinos19
+Yasmani Grandal '19	2019S2	yasmanigrandal.png	Batter	MIL	S	C	310	12	-	-2	4	9	-	1-2	3-5	6-7	8-12	13-17	18-20	-	21+							Grandal	Yasmani	YasmaniGrandal'19	YasmaniGrandal19	YasmaniGrandal19	YasmaniGrandal19	YasmaniGrandal19	YasmaniGrandal19	YasmaniGrandal19		YasmaniGrandal19
+Austin Hedges '19	2019S2	austinhedges.png	Batter	SD	R	C	50	9	-	-1	12	8	-	1-3	4-5	6-8	9-11	12-17	18-20	-	21+							Hedges	Austin	AustinHedges'19	AustinHedges19	AustinHedges19	AustinHedges19	AustinHedges19	AustinHedges19	AustinHedges19		AustinHedges19
+Luke Maile '19	2019S2	lukemaile.png	Batter	TOR	R	C	95	9	-	-1	12	9	-	1-2	3-5	6-8	9-13	14-20	21-23	-	24+							Maile	Luke	LukeMaile'19	LukeMaile19	LukeMaile19	LukeMaile19	LukeMaile19	LukeMaile19	LukeMaile19		LukeMaile19
+Jeff Mathis '19	2019S2	jeffmathis.png	Batter	TEX	R	C	85	9	L+2	-1	8	8	-	1-2	3-5	6-8	9-13	14-20	21-23	-	24+							Mathis	Jeff	JeffMathis'19	JeffMathis19	JeffMathis19	JeffMathis19	JeffMathis19	JeffMathis19	JeffMathis19		JeffMathis19
+Omar Narvaez '19	2019S2	omarnarvaez.png	Batter	SEA	L	C	355	13	-	-2	8	8	-	1	2-3	4-5	6-10	11-20	21-22	-	23+							Narvaez	Omar	OmarNarvaez'19	OmarNarvaez19	OmarNarvaez19	OmarNarvaez19	OmarNarvaez19	OmarNarvaez19	OmarNarvaez19		OmarNarvaez19
+Josh Phegley '19	2019S2	joshphegley.png	Batter	OAK	R	C	80	9	R+2	1	8	7	-	1-2	3-5	6-8	9-12	13-19	20-23	-	24+							Phegley	Josh	JoshPhegley'19	JoshPhegley19	JoshPhegley19	JoshPhegley19	JoshPhegley19	JoshPhegley19	JoshPhegley19		JoshPhegley19
+Kevin Plawecki '19	2019S2	kevinplawecki.png	Batter	CLE	R	C	50	11	-	-2	8	6	-	1-2	3-5	6-8	9-13	14-20	21-22	-	23+							Plawecki	Kevin	KevinPlawecki'19	KevinPlawecki19	KevinPlawecki19	KevinPlawecki19	KevinPlawecki19	KevinPlawecki19	KevinPlawecki19		KevinPlawecki19
+Christian Vazquez '19	2019S2	christianvazquez.png	Batter	BOS	R	C	215	11	-	-1	12	8	-	1	2-4	5-6	7-8	9-19	20-22	-	23+							Vazquez	Christian	ChristianVazquez'19	ChristianVazquez19	ChristianVazquez19	ChristianVazquez19	ChristianVazquez19	ChristianVazquez19	ChristianVazquez19		ChristianVazquez19
+Stephen Vogt '19	2019S2	stephenvogt.png	Batter	SF	L	C	55	10	-	-1	8	5	-	1-2	3-5	6-8	9-12	13-19	20-22	-	23+							Vogt	Stephen	StephenVogt'19	StephenVogt19	StephenVogt19	StephenVogt19	StephenVogt19	StephenVogt19	StephenVogt19		StephenVogt19
+CJ Cron '19	2019S2	cjcron.png	Batter	MIN	R	1B	175	11	-	-1	8	1	-	1-2	3-4	5-6	7-9	10-16	17-19	-	20+							Cron	CJ	CJCron'19	CJCron19	CJCron19	CJCron19	CJCron19	CJCron19	CJCron19		CJCron19
+Mitch Moreland '19	2019S2	mitchmoreland.png	Batter	BOS	L	1B	110	11	-	-1	8	2	-	1-2	3-5	6-7	8-11	12-18	19-21	-	22+							Moreland	Mitch	MitchMoreland'19	MitchMoreland19	MitchMoreland19	MitchMoreland19	MitchMoreland19	MitchMoreland19	MitchMoreland19		MitchMoreland19
+Luke Voit '19	2019S2	lukevoit.png	Batter	NY-A	R	1B	305	12	-	-2	12	2	-	1-2	3-4	5	6-8	9-16	17-19	-	20+							Voit	Luke	LukeVoit'19	LukeVoit19	LukeVoit19	LukeVoit19	LukeVoit19	LukeVoit19	LukeVoit19		LukeVoit19
+Yandy Diaz '19	2019S2	yandydiaz.png	Batter	TB	R	1B/3B	250	13	-	-3	12	2	-	1	2-4	5	6-9	10-21	22-23	-	24+							Diaz	Yandy	YandyDiaz'19	YandyDiaz19	YandyDiaz19	YandyDiaz19	YandyDiaz19	YandyDiaz19	YandyDiaz19		YandyDiaz19
+Tyler Austin '19	2019S2	tyleraustin.png	Batter	SF	R	1B/LF/RF	140	10	L+1	1	12	1	-	1-2	3-5	6-8	9-12	13-18	19-20	-	21+							Austin	Tyler	TylerAustin'19	TylerAustin19	TylerAustin19	TylerAustin19	TylerAustin19	TylerAustin19	TylerAustin19		TylerAustin19
+Jose Martinez '19	2019S2	josemartinez.png	Batter	STL	R	1B/LF/RF	275	12	L+1	-1	12	1	-	1	2-3	4	5-7	8-19	20-22	-	23+							Martinez	Jose	JoseMartinez'19	JoseMartinez19	JoseMartinez19	JoseMartinez19	JoseMartinez19	JoseMartinez19	JoseMartinez19		JoseMartinez19
+Dominic Smith '19	2019S2	dominicsmith.png	Batter	NY-N	L	1B/LF/RF	70	9	-	-1	12	1	-	1-2	3-5	6-8	9-11	12-17	18-20	-	21+							Smith	Dominic	DominicSmith'19	DominicSmith19	DominicSmith19	DominicSmith19	DominicSmith19	DominicSmith19	DominicSmith19		DominicSmith19
+Hanser Alberto '19	2019S2	hanseralberto.png	Batter	BAL	R	2B/3B	55	9	L+1	-3	12	3	-	1	2-4	5-9	10-13	14-19	20-23	-	24+							Alberto	Hanser	HanserAlberto'19	HanserAlberto19	HanserAlberto19	HanserAlberto19	HanserAlberto19	HanserAlberto19	HanserAlberto19		HanserAlberto19
+David Fletcher '19	2019S2	davidfletcher.png	Batter	LA-A	R	2B/3B	180	11	-	-2	16	4	-	1	2-3	4-5	6-7	8-20	21-23	-	24+							Fletcher	David	DavidFletcher'19	DavidFletcher19	DavidFletcher19	DavidFletcher19	DavidFletcher19	DavidFletcher19	DavidFletcher19		DavidFletcher19
+Logan Forsythe '19	2019S2	loganforsythe.png	Batter	TEX	R	2B/3B	215	12	-	1	12	4	-	1-2	3-5	6-8	9-13	14-20	21-22	-	23+							Forsythe	Logan	LoganForsythe'19	LoganForsythe19	LoganForsythe19	LoganForsythe19	LoganForsythe19	LoganForsythe19	LoganForsythe19		LoganForsythe19
+DJ LeMahieu '19	2019S2	djlemahieu.png	Batter	NY-A	R	2B/3B	370	12	L+1	1	8	4	-	1	2-3	4	5-7	8-19	20-22	-	23+							LeMahieu	DJ	DJLeMahieu'19	DJLeMahieu19	DJLeMahieu19	DJLeMahieu19	DJLeMahieu19	DJLeMahieu19	DJLeMahieu19		DJLeMahieu19
+Mike Moustakas '19	2019S2	mikemoustakas.png	Batter	MIL	L	2B/3B	225	11	-	1	8	2	-	1	2-3	4-6	7-9	10-16	17-19	-	20+							Moustakas	Mike	MikeMoustakas'19	MikeMoustakas19	MikeMoustakas19	MikeMoustakas19	MikeMoustakas19	MikeMoustakas19	MikeMoustakas19		MikeMoustakas19
+Eric Sogard '19	2019S2	ericsogard.png	Batter	TOR	L	2B/SS	180	12	-	-1	12	2	-	1	2-4	5-7	8-13	14-20	21-22	-	23+							Sogard	Eric	EricSogard'19	EricSogard19	EricSogard19	EricSogard19	EricSogard19	EricSogard19	EricSogard19		EricSogard19
+Howie Kendrick '19	2019S2	howiekendrick.png	Batter	WAS	R	2B/LF/RF	265	12	-	-1	12	2	-	1	2-3	4	5-6	7-18	19-22	-	23+							Kendrick	Howie	HowieKendrick'19	HowieKendrick19	HowieKendrick19	HowieKendrick19	HowieKendrick19	HowieKendrick19	HowieKendrick19		HowieKendrick19
+Jeff McNeil '19	2019S2	jeffmcneil.png	Batter	NY-N	L	2B/LF/RF	365	12	R+1	-1	16	2	-	1	2-3	4	5-7	8-17	18-20	21	22+							McNeil	Jeff	JeffMcNeil'19	JeffMcNeil19	JeffMcNeil19	JeffMcNeil19	JeffMcNeil19	JeffMcNeil19	JeffMcNeil19		JeffMcNeil19
+Josh Donaldson '19	2019S2	joshdonaldson.png	Batter	ATL	R	3B	355	13	-	-1	12	3	-	1-2	3-4	5-6	7-12	13-18	19-20	-	21+							Donaldson	Josh	JoshDonaldson'19	JoshDonaldson19	JoshDonaldson19	JoshDonaldson19	JoshDonaldson19	JoshDonaldson19	JoshDonaldson19		JoshDonaldson19
+Johan Camargo '19	2019S2	johancamargo.png	Batter	ATL	S	3B/SS	290	12	-	2	12	3	-	1	2-3	4-5	6-8	9-19	20-22	-	23+							Camargo	Johan	JohanCamargo'19	JohanCamargo19	JohanCamargo19	JohanCamargo19	JohanCamargo19	JohanCamargo19	JohanCamargo19		JohanCamargo19
+Manny Machado '19	2019S2	mannymachado.png	Batter	SD	R	3B/SS	430	12	-	2	12	4	-	1	2-3	4-5	6-8	9-16	17-19	-	20+							Machado	Manny	MannyMachado'19	MannyMachado19	MannyMachado19	MannyMachado19	MannyMachado19	MannyMachado19	MannyMachado19		MannyMachado19
+Jose Iglesias '19	2019S2	joseiglesias.png	Batter	CIN	R	SS	240	11	-	-1	16	5	-	1	2-4	5-6	7-8	9-18	19-22	-	23+							Iglesias	Jose	JoseIglesias'19	JoseIglesias19	JoseIglesias19	JoseIglesias19	JoseIglesias19	JoseIglesias19	JoseIglesias19		JoseIglesias19
+Jorge Polanco '19	2019S2	jorgepolanco.png	Batter	MIN	S	SS	205	11	R+1	2	12	2	-	1	2-3	4-6	7-9	10-19	20-22	-	23+							Polanco	Jorge	JorgePolanco'19	JorgePolanco19	JorgePolanco19	JorgePolanco19	JorgePolanco19	JorgePolanco19	JorgePolanco19		JorgePolanco19
+Tim Beckham '19	2019S2	timbeckham.png	Batter	SEA	R	IF	125	11	-	-1	12	1	-	1-2	3-4	5-6	7-9	10-19	20-21	-	22+							Beckham	Tim	TimBeckham'19	TimBeckham19	TimBeckham19	TimBeckham19	TimBeckham19	TimBeckham19	TimBeckham19		TimBeckham19
+Daniel Descalso '19	2019S2	danieldescalso.png	Batter	CHI-N	L	IF	200	12	-	2	16	1	-	1-2	3-4	5-7	8-13	14-20	21-22	-	23+							Descalso	Daniel	DanielDescalso'19	DanielDescalso19	DanielDescalso19	DanielDescalso19	DanielDescalso19	DanielDescalso19	DanielDescalso19		DanielDescalso19
+Brandon Drury '19	2019S2	brandondrury.png	Batter	TOR	R	IF	145	11	-	1	12	1	-	1	2-4	5-6	7-9	10-18	19-22	-	23+							Drury	Brandon	BrandonDrury'19	BrandonDrury19	BrandonDrury19	BrandonDrury19	BrandonDrury19	BrandonDrury19	BrandonDrury19		BrandonDrury19
+Wilmer Flores '19	2019S2	wilmerflores.png	Batter	ARI	R	IF	145	11	-	-1	8	1	-	1	2-3	4-5	6-8	9-18	19-21	-	22+							Flores	Wilmer	WilmerFlores'19	WilmerFlores19	WilmerFlores19	WilmerFlores19	WilmerFlores19	WilmerFlores19	WilmerFlores19		WilmerFlores19
+Erik Gonzalez '19	2019S2	erikgonzalez.png	Batter	PIT	R	IF	130	10	R+1	-2	16	2	-	1-2	3-5	6	7-8	9-19	20-23	-	24+							Gonzalez	Erik	ErikGonzalez'19	ErikGonzalez19	ErikGonzalez19	ErikGonzalez19	ErikGonzalez19	ErikGonzalez19	ErikGonzalez19		ErikGonzalez19
+Ronny Rodriguez '19	2019S2	ronnyrodriguez.png	Batter	DET	R	IF	50	9	-	2	12	1	-	1-2	3-5	6-8	9-11	12-20	21-22	-	23+							Rodriguez	Ronny	RonnyRodriguez'19	RonnyRodriguez19	RonnyRodriguez19	RonnyRodriguez19	RonnyRodriguez19	RonnyRodriguez19	RonnyRodriguez19		RonnyRodriguez19
+Melky Cabrera '19	2019S2	melkycabrera.png	Batter	PIT	S	LF/RF	150	11	-	1	8	1	-	-	1-3	4-5	6-8	9-19	20-22	-	23+							Cabrera	Melky	MelkyCabrera'19	MelkyCabrera19	MelkyCabrera19	MelkyCabrera19	MelkyCabrera19	MelkyCabrera19	MelkyCabrera19		MelkyCabrera19
+Dexter Fowler '19	2019S2	dexterfowler.png	Batter	STL	S	LF/RF	85	11	-	1	16	1	-	1-2	3-5	6-8	9-13	14-20	21-22	-	23+							Fowler	Dexter	DexterFowler'19	DexterFowler19	DexterFowler19	DexterFowler19	DexterFowler19	DexterFowler19	DexterFowler19		DexterFowler19
+Carlos Gonzalez '19	2019S2	carlosgonzalez.png	Batter	CLE	L	LF/RF	285	11	R+2	1	16	2	-	1	2-3	4-5	6-9	10-18	19-22	-	23+							Gonzalez	Carlos	CarlosGonzalez'19	CarlosGonzalez19	CarlosGonzalez19	CarlosGonzalez19	CarlosGonzalez19	CarlosGonzalez19	CarlosGonzalez19		CarlosGonzalez19
+Robbie Grossman '19	2019S2	robbiegrossman.png	Batter	OAK	S	LF/RF	225	12	L+1	1	8	1	-	1-2	3-4	5-6	7-12	13-19	20-22	-	23+							Grossman	Robbie	RobbieGrossman'19	RobbieGrossman19	RobbieGrossman19	RobbieGrossman19	RobbieGrossman19	RobbieGrossman19	RobbieGrossman19		RobbieGrossman19
+Mikie Mahtook '19	2019S2	mikiemahtook.png	Batter	DET	R	LF/RF	160	11	-	1	16	2	-	1-2	3-5	6-7	8-10	11-19	20-21	-	22+							Mahtook	Mikie	MikieMahtook'19	MikieMahtook19	MikieMahtook19	MikieMahtook19	MikieMahtook19	MikieMahtook19	MikieMahtook19		MikieMahtook19
+Nick Markakis '19	2019S2	nickmarkakis.png	Batter	ATL	L	LF/RF	395	13	-	-1	8	4	-	1	2-3	4-5	6-9	10-19	20-22	-	23+							Markakis	Nick	NickMarkakis'19	NickMarkakis19	NickMarkakis19	NickMarkakis19	NickMarkakis19	NickMarkakis19	NickMarkakis19		NickMarkakis19
+Daniel Palka '19	2019S2	danielpalka.png	Batter	CHI-A	L	LF/RF	130	10	-	1	12	1	-	1-3	4-5	6-7	8-10	11-16	17-18	-	19+							Palka	Daniel	DanielPalka'19	DanielPalka19	DanielPalka19	DanielPalka19	DanielPalka19	DanielPalka19	DanielPalka19		DanielPalka19
+Gerardo Parra '19	2019S2	gerardoparra.png	Batter	WAS	L	LF/RF	305	12	-	1	8	4	-	1	2-3	4	5-7	8-19	20-22	-	23+							Parra	Gerardo	GerardoParra'19	GerardoParra19	GerardoParra19	GerardoParra19	GerardoParra19	GerardoParra19	GerardoParra19		GerardoParra19
+Gregory Polanco '19	2019S2	gregorypolanco.png	Batter	PIT	L	LF/RF	205	11	-	1	16	2	-	1	2-3	4-6	7-10	11-18	19-21	-	22+							Polanco	Gregory	GregoryPolanco'19	GregoryPolanco19	GregoryPolanco19	GregoryPolanco19	GregoryPolanco19	GregoryPolanco19	GregoryPolanco19		GregoryPolanco19
+Dwight Smith Jr. '19	2019S2	dwightsmithjr.png	Batter	BAL	L	LF/RF	345	12	R+2	-1	12	2	-	1	2-3	4	5-7	8-18	19-22	-	23+							Smith Jr.	Dwight	DwightSmithJr.'19	DwightSmithJr.19	DwightSmithJr.19	DwightSmithJr.19	DwightSmithJr19	DwightSmithJr19	DwightSmithJr19		DwightSmithJr19
+Jorge Soler '19	2019S2	jorgesoler.png	Batter	KC	R	LF/RF	50	11	-	-1	8	2	-	1-3	4-6	7-8	9-12	13-19	20-22	-	23+							Soler	Jorge	JorgeSoler'19	JorgeSoler19	JorgeSoler19	JorgeSoler19	JorgeSoler19	JorgeSoler19	JorgeSoler19		JorgeSoler19
+Nick Williams '19	2019S2	nickwilliams.png	Batter	PHI	L	LF/RF	225	12	-	-1	12	1	-	1-2	3-4	5	6-8	9-19	20-21	-	22+							Williams	Nick	NickWilliams'19	NickWilliams19	NickWilliams19	NickWilliams19	NickWilliams19	NickWilliams19	NickWilliams19		NickWilliams19
+Jesse Winker '19	2019S2	jessewinker.png	Batter	CIN	L	LF/RF	355	13	R+1	1	8	1	-	1	2-3	4	5-10	11-19	20-22	-	23+							Winker	Jesse	JesseWinker'19	JesseWinker19	JesseWinker19	JesseWinker19	JesseWinker19	JesseWinker19	JesseWinker19		JesseWinker19
+Lewis Brinson '19	2019S2	lewisbrinson.png	Batter	MIA	R	CF	120	9	L+1	1	16	2	-	1-2	3-7	8-9	10-12	13-19	20	21	22+							Brinson	Lewis	LewisBrinson'19	LewisBrinson19	LewisBrinson19	LewisBrinson19	LewisBrinson19	LewisBrinson19	LewisBrinson19		LewisBrinson19
+Adam Jones '19	2019S2	adamjones.png	Batter	ARI	R	CF	165	11	-	-1	12	1	-	1	2-3	4-5	6-7	8-18	19-21	-	22+							Jones	Adam	AdamJones'19	AdamJones19	AdamJones19	AdamJones19	AdamJones19	AdamJones19	AdamJones19		AdamJones19
+Ramon Laureano '19	2019S2	ramonlaureano.png	Batter	OAK	R	CF	325	12	L+1	-2	16	4	-	1-2	3-4	5	6-8	9-19	20-22	-	23+							Laureano	Ramon	RamonLaureano'19	RamonLaureano19	RamonLaureano19	RamonLaureano19	RamonLaureano19	RamonLaureano19	RamonLaureano19		RamonLaureano19
+Jake Marisnick '19	2019S2	jakemarisnick.png	Batter	HOU	R	CF	140	10	-	-2	16	3	-	1-3	4-5	6-8	9-11	12-16	17-18	-	19+							Marisnick	Jake	JakeMarisnick'19	JakeMarisnick19	JakeMarisnick19	JakeMarisnick19	JakeMarisnick19	JakeMarisnick19	JakeMarisnick19		JakeMarisnick19
+Cedric Mullins II '19	2019S2	cedricmullinsii.png	Batter	BAL	S	CF	90	11	-	-2	12	2	-	1-2	3-5	6-7	8-11	12-19	20-22	-	23+							Mullins II	Cedric	CedricMullinsII'19	CedricMullinsII19	CedricMullinsII19	CedricMullinsII19	CedricMullinsII19	CedricMullinsII19	CedricMullinsII19		CedricMullinsII19
+AJ Pollock '19	2019S2	ajpollock.png	Batter	LA-N	R	CF	280	11	-	1	20	4	-	1	2-4	5-6	7-9	10-18	19-21	-	22+							Pollock	AJ	AJPollock'19	AJPollock19	AJPollock19	AJPollock19	AJPollock19	AJPollock19	AJPollock19		AJPollock19
+David Dahl '19	2019S2	daviddahl.png	Batter	COL	L	OF	305	11	R+1	2	12	2	-	1	2-3	4-5	6-8	9-17	18-19	-	20+							Dahl	David	DavidDahl'19	DavidDahl19	DavidDahl19	DavidDahl19	DavidDahl19	DavidDahl19	DavidDahl19		DavidDahl19
+Curtis Granderson '19	2019S2	curtisgranderson.png	Batter	MIA	L	OF	185	12	R+1	1	12	1	-	1-2	3-5	6-8	9-15	16-20	21-22	-	23+							Granderson	Curtis	CurtisGranderson'19	CurtisGranderson19	CurtisGranderson19	CurtisGranderson19	CurtisGranderson19	CurtisGranderson19	CurtisGranderson19		CurtisGranderson19
+Bryce Harper '19	2019S2	bryceharper.png	Batter	PHI	L	OF	485	14	-	1	12	2	-	1	2-3	4-5	6-10	11-18	19	-	20+							Harper	Bryce	BryceHarper'19	BryceHarper19	BryceHarper19	BryceHarper19	BryceHarper19	BryceHarper19	BryceHarper19		BryceHarper19
+Jacoby Jones '19	2019S2	jacobyjones.png	Batter	DET	R	OF	75	9	-	1	16	4	-	1-3	4-7	8-9	10-12	13-19	20-22	23	24+							Jones	Jacoby	JacobyJones'19	JacobyJones19	JacobyJones19	JacobyJones19	JacobyJones19	JacobyJones19	JacobyJones19		JacobyJones19
+Austin Meadows '19	2019S2	austinmeadows.png	Batter	TB	L	OF	195	11	L+1	1	12	1	-	1	2-3	4-5	6-7	8-19	20-22	-	23+							Meadows	Austin	AustinMeadows'19	AustinMeadows19	AustinMeadows19	AustinMeadows19	AustinMeadows19	AustinMeadows19	AustinMeadows19		AustinMeadows19
+Raimel Tapia '19	2019S2	raimeltapia.png	Batter	COL	L	OF	215	11	R+1	-1	16	2	-	1	2-3	4-5	6-7	8-19	20-22	-	23+							Tapia	Raimel	RaimelTapia'19	RaimelTapia19	RaimelTapia19	RaimelTapia19	RaimelTapia19	RaimelTapia19	RaimelTapia19		RaimelTapia19
+Nicky Delmonico '19	2019S2	nickydelmonico.png	Batter	CHI-A	L	U	95	11	-	1	12	1	-	1-2	3-5	6-8	9-12	13-19	20-21	-	22+							Delmonico	Nicky	NickyDelmonico'19	NickyDelmonico19	NickyDelmonico19	NickyDelmonico19	NickyDelmonico19	NickyDelmonico19	NickyDelmonico19		NickyDelmonico19
+Leury Garcia '19	2019S2	leurygarcia.png	Batter	CHI-A	S	U	125	10	L+1	2	12	2	-	1-2	3-4	5	6-7	8-20	21-22	-	23+							Garcia	Leury	LeuryGarcia'19	LeuryGarcia19	LeuryGarcia19	LeuryGarcia19	LeuryGarcia19	LeuryGarcia19	LeuryGarcia19		LeuryGarcia19
+Marwin Gonzalez '19	2019S2	marwingonzalez.png	Batter	MIN	S	U	265	12	-	1	12	1	-	1	2-3	4-5	6-9	10-18	19-21	-	22+							Gonzalez	Marwin	MarwinGonzalez'19	MarwinGonzalez19	MarwinGonzalez19	MarwinGonzalez19	MarwinGonzalez19	MarwinGonzalez19	MarwinGonzalez19		MarwinGonzalez19
+Chris Owings '19	2019S2	chrisowings.png	Batter	KC	R	U	50	10	-	1	16	1	-	1-2	3-5	6-7	8-10	11-19	20-22	-	23+							Owings	Chris	ChrisOwings'19	ChrisOwings19	ChrisOwings19	ChrisOwings19	ChrisOwings19	ChrisOwings19	ChrisOwings19		ChrisOwings19
+Neil Walker '19	2019S2	neilwalker.png	Batter	MIA	S	U	130	11	R+1	1	12	1	-	1-2	3-4	5-7	8-12	13-20	21-22	-	23+							Walker	Neil	NeilWalker'19	NeilWalker19	NeilWalker19	NeilWalker19	NeilWalker19	NeilWalker19	NeilWalker19		NeilWalker19
+Ben Zobrist '19	2019S2	benzobrist.png	Batter	CHI-N	S	U	235	12	-	-1	12	2	-	1	2-3	4-5	6-10	11-19	20-22	-	23+							Zobrist	Ben	BenZobrist'19	BenZobrist19	BenZobrist19	BenZobrist19	BenZobrist19	BenZobrist19	BenZobrist19		BenZobrist19
+Shohei Ohtani '19	2019S2	shoheiohtani.png	Batter	LA-A	L	DH	345	12	R+1	2	16	0	-	1-2	3-4	5	6-9	10-16	17-20	-	21+							Ohtani	Shohei	ShoheiOhtani'19	ShoheiOhtani19	ShoheiOhtani19	ShoheiOhtani19	ShoheiOhtani19	ShoheiOhtani19	ShoheiOhtani19		ShoheiOhtani19
+Heroes Get Remembered	Promo	heroesgetremembered.png	Strategy	UR																										HeroesGetRemembered	HeroesGetRemembered	HeroesGetRemembered	HeroesGetRemembered	HeroesGetRemembered	HeroesGetRemembered	HeroesGetRemembered		HeroesGetRemembered
+Legends Never Die	Promo	legendsneverdie.png	Strategy	UR																										LegendsNeverDie	LegendsNeverDie	LegendsNeverDie	LegendsNeverDie	LegendsNeverDie	LegendsNeverDie	LegendsNeverDie		LegendsNeverDie
+Get Your Game On!	2019S2	getyourgameon.png	Strategy	R																										GetYourGameOn!	GetYourGameOn!	GetYourGameOn	GetYourGameOn	GetYourGameOn	GetYourGameOn	GetYourGameOn		GetYourGameOn
+I Have the High Mound	2019S2	ihavethehighmound.png	Strategy	U																										IHavetheHighMound	IHavetheHighMound	IHavetheHighMound	IHavetheHighMound	IHavetheHighMound	IHavetheHighMound	IHavetheHighMound		IHavetheHighMound
+Hey Now!	2019S2	heynow.png	Strategy	U																										HeyNow!	HeyNow!	HeyNow	HeyNow	HeyNow	HeyNow	HeyNow		HeyNow
+High Heater	2019S2	highheater.png	Strategy	U																										HighHeater	HighHeater	HighHeater	HighHeater	HighHeater	HighHeater	HighHeater		HighHeater
+Kids These Days	2019S2	kidsthesedays.png	Strategy	U																										KidsTheseDays	KidsTheseDays	KidsTheseDays	KidsTheseDays	KidsTheseDays	KidsTheseDays	KidsTheseDays		KidsTheseDays
+The Man is Non-Stop	2019S2	themanisnonstop.png	Strategy	R																										TheManisNon-Stop	TheManisNon-Stop	TheManisNon-Stop	TheManisNon-Stop	TheManisNon-Stop	TheManisNon-Stop	TheManisNon-Stop		TheManisNonStop
+Missed Stop Sign	2019S2	missedstopsign.png	Strategy	U																										MissedStopSign	MissedStopSign	MissedStopSign	MissedStopSign	MissedStopSign	MissedStopSign	MissedStopSign		MissedStopSign
+Pitcher's Count	2019S2	pitcherscount.png	Strategy	U																										Pitcher'sCount	PitchersCount	PitchersCount	PitchersCount	PitchersCount	PitchersCount	PitchersCount		PitchersCount
+Phantom Tag	2019S2	phantomtag.png	Strategy	U																										PhantomTag	PhantomTag	PhantomTag	PhantomTag	PhantomTag	PhantomTag	PhantomTag		PhantomTag
+Wire to Wire	2019S2	wiretowire.png	Strategy	R																										WiretoWire	WiretoWire	WiretoWire	WiretoWire	WiretoWire	WiretoWire	WiretoWire		WiretoWire
+Hitter's Count	2019S2	hitterscount.png	Strategy	U																										Hitter'sCount	HittersCount	HittersCount	HittersCount	HittersCount	HittersCount	HittersCount		HittersCount
+Let the Kids Play	2019S2	letthekidsplay.png	Strategy	U																										LettheKidsPlay	LettheKidsPlay	LettheKidsPlay	LettheKidsPlay	LettheKidsPlay	LettheKidsPlay	LettheKidsPlay		LettheKidsPlay
+Light Tower Power	2019S2	lighttowerpower.png	Strategy	R																										LightTowerPower	LightTowerPower	LightTowerPower	LightTowerPower	LightTowerPower	LightTowerPower	LightTowerPower		LightTowerPower
+My Power Has Doubled	2019S2	mypowerhasdoubled.png	Strategy	U																										MyPowerHasDoubled	MyPowerHasDoubled	MyPowerHasDoubled	MyPowerHasDoubled	MyPowerHasDoubled	MyPowerHasDoubled	MyPowerHasDoubled		MyPowerHasDoubled
+Not Throwing Away  My Shot	2019S2	notthrowingawaymyshot.png	Strategy	R																										NotThrowingAwayMyShot	NotThrowingAwayMyShot	NotThrowingAwayMyShot	NotThrowingAwayMyShot	NotThrowingAwayMyShot	NotThrowingAwayMyShot	NotThrowingAwayMyShot		NotThrowingAwayMyShot
+Slump-Buster	2019S2	slumpbuster.png	Strategy	U																										Slump-Buster	Slump-Buster	Slump-Buster	Slump-Buster	Slump-Buster	Slump-Buster	Slump-Buster		SlumpBuster
+Speedy Gets Greedy	2019S2	speedygetsgreedy.png	Strategy	U																										SpeedyGetsGreedy	SpeedyGetsGreedy	SpeedyGetsGreedy	SpeedyGetsGreedy	SpeedyGetsGreedy	SpeedyGetsGreedy	SpeedyGetsGreedy		SpeedyGetsGreedy
+Upon Further Review	2019S2	uponfurtherreview.png	Strategy	U																										UponFurtherReview	UponFurtherReview	UponFurtherReview	UponFurtherReview	UponFurtherReview	UponFurtherReview	UponFurtherReview		UponFurtherReview
+You Were the Chosen One	2019S2	youwerethechosenone.png	Strategy	U																										YouWeretheChosenOne	YouWeretheChosenOne	YouWeretheChosenOne	YouWeretheChosenOne	YouWeretheChosenOne	YouWeretheChosenOne	YouWeretheChosenOne		YouWeretheChosenOne
+You're an All-Star!	2019S2	youreanallstar.png	Strategy	R																										You'reanAll-Star!	YoureanAll-Star!	YoureanAll-Star	YoureanAll-Star	YoureanAll-Star	YoureanAll-Star	YoureanAll-Star		YoureanAllStar
+Clutch It Up!	2019S2	clutchitup.png	Strategy	U																										ClutchItUp!	ClutchItUp!	ClutchItUp	ClutchItUp	ClutchItUp	ClutchItUp	ClutchItUp		ClutchItUp
+Frozen Rope	2019S2	frozenrope.png	Strategy	R																										FrozenRope	FrozenRope	FrozenRope	FrozenRope	FrozenRope	FrozenRope	FrozenRope		FrozenRope
+Go Play!	2019S2	goplay.png	Strategy	U																										GoPlay!	GoPlay!	GoPlay	GoPlay	GoPlay	GoPlay	GoPlay		GoPlay
+Hello There	2019S2	hellothere.png	Strategy	U																										HelloThere	HelloThere	HelloThere	HelloThere	HelloThere	HelloThere	HelloThere		HelloThere
+Know Your Role	2019S2	knowyourrole.png	Strategy	U																										KnowYourRole	KnowYourRole	KnowYourRole	KnowYourRole	KnowYourRole	KnowYourRole	KnowYourRole		KnowYourRole
+Now This is Baseball	2019S2	nowthisisbaseball.png	Strategy	U																										NowThisisBaseball	NowThisisBaseball	NowThisisBaseball	NowThisisBaseball	NowThisisBaseball	NowThisisBaseball	NowThisisBaseball		NowThisisBaseball
+Oh I Don't Think So	2019S2	ohidontthinkso.png	Strategy	U																										OhIDon'tThinkSo	OhIDontThinkSo	OhIDontThinkSo	OhIDontThinkSo	OhIDontThinkSo	OhIDontThinkSo	OhIDontThinkSo		OhIDontThinkSo
+Prime-Time Performance	2019S2	primetimeperformance.png	Strategy	R																										Prime-TimePerformance	Prime-TimePerformance	Prime-TimePerformance	Prime-TimePerformance	Prime-TimePerformance	Prime-TimePerformance	Prime-TimePerformance		PrimeTimePerformance
+Cleveland Stadium	2019S2	asgclevelandstadium.png	Stadium	R																										ClevelandStadium	ClevelandStadium	ClevelandStadium	ClevelandStadium	ClevelandStadium	ClevelandStadium	ClevelandStadium		ClevelandStadium
+The Jake in Cleveland	2019S2	asgthejake.png	Stadium	R																										TheJakeinCleveland	TheJakeinCleveland	TheJakeinCleveland	TheJakeinCleveland	TheJakeinCleveland	TheJakeinCleveland	TheJakeinCleveland		TheJakeinCleveland
+Whiff City	Promo	whiffcity.png	Stadium	UR																										WhiffCity	WhiffCity	WhiffCity	WhiffCity	WhiffCity	WhiffCity	WhiffCity		WhiffCity
+Justin Verlander ASG '19	Promo	asgjustinverlander.png	Pitcher	HOU	R	SP	795	8	L+1	-2	7	4	1	1-6	7-13	14-19	20	21	-	-	22+	AS						Verlander	Justin	JustinVerlanderASG'19	JustinVerlanderASG19	JustinVerlanderASG19	JustinVerlanderASG19	JustinVerlanderASG19	JustinVerlanderASG19	JustinVerlanderASG19		JustinVerlanderASG19
+Lucas Giolito ASG '19	2019S2	asglucasgiolito.png	Pitcher	CHI-A	R	SP	585	6	-	-2	6	5	1	1-5	6-12	13-18	19	20-23	24	-	25+	AS						Giolito	Lucas	LucasGiolitoASG'19	LucasGiolitoASG19	LucasGiolitoASG19	LucasGiolitoASG19	LucasGiolitoASG19	LucasGiolitoASG19	LucasGiolitoASG19		LucasGiolitoASG19
+Matthew Boyd ASG '19	2019S2	asgmatthewboyd.png	Pitcher	DET	L	SP	510	6	-	-2	6	4	1	1-5	6-12	13-17	18	19-22	23	-	24+	AS						Boyd	Matthew	MatthewBoydASG'19	MatthewBoydASG19	MatthewBoydASG19	MatthewBoydASG19	MatthewBoydASG19	MatthewBoydASG19	MatthewBoydASG19		MatthewBoydASG19
+Ryan Pressly ASG '19	Promo	asgryanpressly.png	Pitcher	HOU	R	RP	380	7	L+2	-2	1	5	1	1-6	7-17	18-19	-	20-23	24	-	25+	AS						Pressly	Ryan	RyanPresslyASG'19	RyanPresslyASG19	RyanPresslyASG19	RyanPresslyASG19	RyanPresslyASG19	RyanPresslyASG19	RyanPresslyASG19		RyanPresslyASG19
+Matt Strahm ASG '19	Promo	asgmattstrahm.png	Pitcher	SD	L	SP	375	4	R+2	-2	6	3	1-2	1-4	5-10	11-17	18	19-22	23	-	24+	AS						Strahm	Matt	MattStrahmASG'19	MattStrahmASG19	MattStrahmASG19	MattStrahmASG19	MattStrahmASG19	MattStrahmASG19	MattStrahmASG19		MattStrahmASG19
+Cliff Lee	Promo	clifflee.png	Pitcher	CLE	L	SP	585	5	-	1	7	3	1	1-4	5-10	11-17	-	18-23	24	-	25+	MVP	W	AS				Lee	Cliff	CliffLee	CliffLee	CliffLee	CliffLee	CliffLee	CliffLee	CliffLee		CliffLee
+Jose Mesa	Promo	josemesa.png	Pitcher	CLE	R	RP	260	5	L+1	-1	1	5	1	1-5	6-12	13-17	-	18-23	24	-	25+	SV	AS					Mesa	Jose	JoseMesa	JoseMesa	JoseMesa	JoseMesa	JoseMesa	JoseMesa	JoseMesa		JoseMesa
+Tim Lincecum	Promo	timlincecum.png	Pitcher	SF	R	SP	555	5	-	1	7	3	1	1-7	8-12	13-17	-	18-24	25	-	26+	MVP	W	K				Lincecum	Tim	TimLincecum	TimLincecum	TimLincecum	TimLincecum	TimLincecum	TimLincecum	TimLincecum		TimLincecum
+Rick Gossage	Promo	richgossage.png	Pitcher	NY-A	R	RP	305	5	R+1	-1	2	4	1	1-6	7-12	13-18	-	19-23	24	-	25+	SV						Gossage	Rick	RickGossage	RickGossage	RickGossage	RickGossage	RickGossage	RickGossage	RickGossage		RickGossage
+Fergie Jenkins	Promo	fergiejenkins.png	Pitcher	CHI-N	R	SP	650	5	R+1	1	8	4	1	1-5	6-11	12-17	-	18-23	24	-	25+	MVP	W	K	AS			Jenkins	Fergie	FergieJenkins	FergieJenkins	FergieJenkins	FergieJenkins	FergieJenkins	FergieJenkins	FergieJenkins		FergieJenkins
+Pedro Martinez	Promo	pedromartinez.png	Pitcher	BOS	R	SP	705	6	R+1	1	7	3	1	1-8	9-12	13-17	-	18-24	25	-	26+	MVP	W	K	AS			Martinez	Pedro	PedroMartinez	PedroMartinez	PedroMartinez	PedroMartinez	PedroMartinez	PedroMartinez	PedroMartinez		PedroMartinez
+Don Newcombe	Promo	donnewcombe.png	Pitcher	LA-N	R	SP	570	6	-	-1	7	5	1-2	1-4	5-10	11-17	-	18-22	23	-	24+	MVP	W					Newcombe	Don	DonNewcombe	DonNewcombe	DonNewcombe	DonNewcombe	DonNewcombe	DonNewcombe	DonNewcombe		DonNewcombe
+Rollie Fingers	Promo	rolliefingers.png	Pitcher	MIL	R	RP	410	6	R+1	-1	2	4	1	1-6	7-11	12-18	-	19-24	25	-	26+	MVP	SV	K	AS			Fingers	Rollie	RollieFingers	RollieFingers	RollieFingers	RollieFingers	RollieFingers	RollieFingers	RollieFingers		RollieFingers
+Gary Sanchez ASG '19	Promo	asggarysanchez.png	Batter	NY-A	R	C	415	12	R+1	-1	12	6	-	1-2	3	4-6	7-10	11-15	16-17	-	18+							Sanchez	Gary	GarySanchezASG'19	GarySanchezASG19	GarySanchezASG19	GarySanchezASG19	GarySanchezASG19	GarySanchezASG19	GarySanchezASG19		GarySanchezASG19
+James McCann ASG '19	Promo	asgjamesmccann.png	Batter	CHI-A	R	C	425	13	-	2	12	6	-	1	2	3	4-6	7-18	19-22	-	23+							McCann	James	JamesMcCannASG'19	JamesMcCannASG19	JamesMcCannASG19	JamesMcCannASG19	JamesMcCannASG19	JamesMcCannASG19	JamesMcCannASG19		JamesMcCannASG19
+Tim Anderson ASG '19	Promo	asgtimanderson.png	Batter	CHI-A	R	SS	505	13	R+1	1	16	2	-	1	2	3	4-5	6-18	19-20	-	21+	AS						Anderson	Tim	TimAndersonASG'19	TimAndersonASG19	TimAndersonASG19	TimAndersonASG19	TimAndersonASG19	TimAndersonASG19	TimAndersonASG19		TimAndersonASG19
+Josh Bell ASG '19	Promo	asgjoshbell.png	Batter	PIT	S	1B	610	14	-	-2	8	2	-	1	2	3	4-8	9-14	15-18	-	19+	AS						Bell	Josh	JoshBellASG'19	JoshBellASG19	JoshBellASG19	JoshBellASG19	JoshBellASG19	JoshBellASG19	JoshBellASG19		JoshBellASG19
+Cody Bellinger ASG '19	Promo	asgcodybellinger.png	Batter	LA-N	L	LF/RF	800	16	-	-1	12	3	-	-	1	2	3-8	9-16	17-18	-	19+	AS						Bellinger	Cody	CodyBellingerASG'19	CodyBellingerASG19	CodyBellingerASG19	CodyBellingerASG19	CodyBellingerASG19	CodyBellingerASG19	CodyBellingerASG19		CodyBellingerASG19
+Kenny Lofton	Promo	kennylofton.png	Batter	CLE	L	CF	715	14	-	-2	20	5	-	-	1-2	3	4-8	9-17	18-20	21	22+	SB	R	GG	AS			Lofton	Kenny	KennyLofton	KennyLofton	KennyLofton	KennyLofton	KennyLofton	KennyLofton	KennyLofton		KennyLofton
+Joe Jackson	Promo	joejackson.png	Batter	CLE	L	OF	650	14	R+1	1	20	2	-	-	1	-	2-5	6-16	17-20	21-23	24+	R						Jackson	Joe	JoeJackson	JoeJackson	JoeJackson	JoeJackson	JoeJackson	JoeJackson	JoeJackson		JoeJackson
+Nap Lajoie	Promo	naplajoie.png	Batter	CLE	R	2B	590	14	R+1	-1	16	3	-	-	1	2	3-7	8-17	18-22	23	24+	R						Lajoie	Nap	NapLajoie	NapLajoie	NapLajoie	NapLajoie	NapLajoie	NapLajoie	NapLajoie		NapLajoie
+Lou Boudreau	Promo	louboudreau.png	Batter	CLE	R	SS	630	15	-	1	8	3	-	-	1-2	3	4-9	10-18	19-21	-	22+	MVP	AS					Boudreau	Lou	LouBoudreau	LouBoudreau	LouBoudreau	LouBoudreau	LouBoudreau	LouBoudreau	LouBoudreau		LouBoudreau
+Jim Thome	Promo	jimthome.png	Batter	CLE	L	1B	630	14	R+2	1	4	0	-	1-2	3	4	5-10	11-15	16-17	-	18+	HR						Thome	Jim	JimThome	JimThome	JimThome	JimThome	JimThome	JimThome	JimThome		JimThome
+Al Rosen	Promo	alrosen.png	Batter	CLE	R	3B	670	14	-	1	12	2	-	1	2	3	4-8	9-15	16-18	-	19+	MVP	HR	RBI	R	AS		Rosen	Al	AlRosen	AlRosen	AlRosen	AlRosen	AlRosen	AlRosen	AlRosen		AlRosen
+Omar Vizquel	Promo	omarvizquel.png	Batter	CLE	S	SS	680	14	-	1	20	5	-	-	1	2-3	4-8	9-18	19-22	-	23+	SB	GG	AS				Vizquel	Omar	OmarVizquel	OmarVizquel	OmarVizquel	OmarVizquel	OmarVizquel	OmarVizquel	OmarVizquel		OmarVizquel
+Albert Belle	Promo	albertbelle.png	Batter	CLE	R	LF/RF	690	14	-	-1	12	2	-	1	2-3	4	5-8	9-13	14-17	-	18+	HR	RBI	R	SL	AS		Belle	Albert	AlbertBelle	AlbertBelle	AlbertBelle	AlbertBelle	AlbertBelle	AlbertBelle	AlbertBelle		AlbertBelle
+Ellis Burks	Promo	ellisburks.png	Batter	COL	R	OF	690	12	L+2	1	20	2	-	1	2	3	4-7	8-14	15-18	-	19+	SL	R					Burks	Ellis	EllisBurks	EllisBurks	EllisBurks	EllisBurks	EllisBurks	EllisBurks	EllisBurks		EllisBurks
+Dale Murphy	Promo	dalemurphy.png	Batter	ATL	R	OF	660	13	R+1	1	20	3	-	1	2-3	4	5-10	11-17	18-19	-	20+	MVP	SL	RBI	R	GG		Murphy	Dale	DaleMurphy	DaleMurphy	DaleMurphy	DaleMurphy	DaleMurphy	DaleMurphy	DaleMurphy		DaleMurphy
+Luis Aparicio	Promo	luisaparicio.png	Batter	CHI-A	R	SS	310	11	-	-2	20	4	-	1	2-3	4-5	6-9	10-19	20-22	-	23+	SB	GG					Apracicio	Luis	LuisAparicio	LuisAparicio	LuisAparicio	LuisAparicio	LuisAparicio	LuisAparicio	LuisAparicio		LuisAparicio
+Darryl Strawberry	Promo	darrylstrawberry.png	Batter	NY-N	L	LF/RF	370	11	R+1	-1	16	2	-	1-2	3-4	5-6	7-11	12-16	17-18	-	19+	HR	SL	RBI				Strawberry	Darryl	DarrylStrawberry	DarrylStrawberry	DarrylStrawberry	DarrylStrawberry	DarrylStrawberry	DarrylStrawberry	DarrylStrawberry		DarrylStrawberry
+Roy Campanella	Promo	roycampanella.png	Batter	LA-N	R	C	590	13	R+1	1	8	8	-	1	2	3-4	5-8	9-16	17-18	-	19+	MVP	HR	RBI				Campanella	Roy	RoyCampanella	RoyCampanella	RoyCampanella	RoyCampanella	RoyCampanella	RoyCampanella	RoyCampanella		RoyCampanella
+Ron Santo	Promo	ronsanto.png	Batter	CHI-N	R	3B	605	14	-	-1	8	4	-	1	2-3	4	5-9	10-17	18-19	-	20+	HR	RBI	R	GG			Santo	Ron	RonSanto	RonSanto	RonSanto	RonSanto	RonSanto	RonSanto	RonSanto		RonSanto
+Eddie Murray	Promo	eddiemurray.png	Batter	BAL	S	1B	625	14	-	1	12	2	-	1	2	3-4	5-9	10-16	17-19	-	20+	SL	R	GG				Murray	Eddie	EddieMurray	EddieMurray	EddieMurray	EddieMurray	EddieMurray	EddieMurray	EddieMurray		EddieMurray
+Joe Morgan	Promo	joemorgan.png	Batter	CIN	L	2B	800	15	R+1	-1	20	4	-	-	1	2-3	4-10	11-17	18-20	-	21+	MVP	SB	GG				Morgan	Joe	JoeMorgan	JoeMorgan	JoeMorgan	JoeMorgan	JoeMorgan	JoeMorgan	JoeMorgan		JoeMorgan
+2 Birds 1 Stone	2018S1	2birds1stone.png	Strategy	C																										2Birds1Stone	2Birds1Stone	2Birds1Stone	2Birds1Stone	2Birds1Stone	2Birds1Stone	2Birds1Stone		2Birds1Stone
+6-5-4	2018S1	654.png	Strategy	C																										6-5-4	6-5-4	6-5-4	6-5-4	6-5-4	6-5-4	6-5-4		654
+Absolute Cannon	2018S1	absolutecannon.png	Strategy	R																										AbsoluteCannon	AbsoluteCannon	AbsoluteCannon	AbsoluteCannon	AbsoluteCannon	AbsoluteCannon	AbsoluteCannon		AbsoluteCannon
+Bat Flip	2018S1	batflip.png	Strategy	C																										BatFlip	BatFlip	BatFlip	BatFlip	BatFlip	BatFlip	BatFlip		BatFlip
+Breathing Room	2018S1	breathingroom.png	Strategy	U																										BreathingRoom	BreathingRoom	BreathingRoom	BreathingRoom	BreathingRoom	BreathingRoom	BreathingRoom		BreathingRoom
+Child's Play	2018S1	childsplay.png	Strategy	C																										Child'sPlay	ChildsPlay	ChildsPlay	ChildsPlay	ChildsPlay	ChildsPlay	ChildsPlay		ChildsPlay
+Did His Homework	2018S1	didhishomework.png	Strategy	R																										DidHisHomework	DidHisHomework	DidHisHomework	DidHisHomework	DidHisHomework	DidHisHomework	DidHisHomework		DidHisHomework
+Digging Deep 2.0	2018S1	diggingdeep20.png	Strategy	R																										DiggingDeep2.0	DiggingDeep2.0	DiggingDeep2.0	DiggingDeep2.0	DiggingDeep20	DiggingDeep20	DiggingDeep20		DiggingDeep20
+Double Play Depth	2018S1	doubleplaydepth.png	Strategy	C																										DoublePlayDepth	DoublePlayDepth	DoublePlayDepth	DoublePlayDepth	DoublePlayDepth	DoublePlayDepth	DoublePlayDepth		DoublePlayDepth
+Escape Artist	2018S1	escapeartist.png	Strategy	C																										EscapeArtist	EscapeArtist	EscapeArtist	EscapeArtist	EscapeArtist	EscapeArtist	EscapeArtist		EscapeArtist
+Fast Worker 2.0	2018S1	fastworker20.png	Strategy	U																										FastWorker2.0	FastWorker2.0	FastWorker2.0	FastWorker2.0	FastWorker20	FastWorker20	FastWorker20		FastWorker20
+Golden Ratio	2018S1	goldenratio.png	Strategy	U																										GoldenRatio	GoldenRatio	GoldenRatio	GoldenRatio	GoldenRatio	GoldenRatio	GoldenRatio		GoldenRatio
+Held To One	2018S1	heldtoone.png	Strategy	U																										HeldToOne	HeldToOne	HeldToOne	HeldToOne	HeldToOne	HeldToOne	HeldToOne		HeldToOne
+High Heat	2018S1	highheat.png	Strategy	C																										HighHeat	HighHeat	HighHeat	HighHeat	HighHeat	HighHeat	HighHeat		HighHeat
+Hot Corner	2018S1	hotcorner.png	Strategy	C																										HotCorner	HotCorner	HotCorner	HotCorner	HotCorner	HotCorner	HotCorner		HotCorner
+In Command	2018S1	incommand.png	Strategy	C																										InCommand	InCommand	InCommand	InCommand	InCommand	InCommand	InCommand		InCommand
+Look What I Found!	2018S1	lookwhatifound.png	Strategy	C																										LookWhatIFound!	LookWhatIFound!	LookWhatIFound	LookWhatIFound	LookWhatIFound	LookWhatIFound	LookWhatIFound		LookWhatIFound
+Lookin' Silly	2018S1	lookinsilly.png	Strategy	U																										Lookin'Silly	LookinSilly	LookinSilly	LookinSilly	LookinSilly	LookinSilly	LookinSilly		LookinSilly
+Make Some Noise 2.0	2018S1	makesomenoise20.png	Strategy	C																										MakeSomeNoise2.0	MakeSomeNoise2.0	MakeSomeNoise2.0	MakeSomeNoise2.0	MakeSomeNoise20	MakeSomeNoise20	MakeSomeNoise20		MakeSomeNoise20
+Mound Visit	2018S1	moundvisit.png	Strategy	U																										MoundVisit	MoundVisit	MoundVisit	MoundVisit	MoundVisit	MoundVisit	MoundVisit		MoundVisit
+No Doubles	2018S1	nodoubles.png	Strategy	C																										NoDoubles	NoDoubles	NoDoubles	NoDoubles	NoDoubles	NoDoubles	NoDoubles		NoDoubles
+Not On My Watch	2018S1	notonmywatch.png	Strategy	C																										NotOnMyWatch	NotOnMyWatch	NotOnMyWatch	NotOnMyWatch	NotOnMyWatch	NotOnMyWatch	NotOnMyWatch		NotOnMyWatch
+Restrategize	2018S1	restrategize.png	Strategy	U																										Restrategize	Restrategize	Restrategize	Restrategize	Restrategize	Restrategize	Restrategize		Restrategize
+Set-Up Man	2018S1	setupman.png	Strategy	U																										Set-UpMan	Set-UpMan	Set-UpMan	Set-UpMan	Set-UpMan	Set-UpMan	Set-UpMan		SetUpMan
+Shutdown Defense	2018S1	shutdowndefense.png	Strategy	C																										ShutdownDefense	ShutdownDefense	ShutdownDefense	ShutdownDefense	ShutdownDefense	ShutdownDefense	ShutdownDefense		ShutdownDefense
+Silver Lining	2018S1	silverlining.png	Strategy	C																										SilverLining	SilverLining	SilverLining	SilverLining	SilverLining	SilverLining	SilverLining		SilverLining
+Sit Back Down	2018S1	sitbackdown.png	Strategy	C																										SitBackDown	SitBackDown	SitBackDown	SitBackDown	SitBackDown	SitBackDown	SitBackDown		SitBackDown
+Splitter	2018S1	splitter.png	Strategy	C																										Splitter	Splitter	Splitter	Splitter	Splitter	Splitter	Splitter		Splitter
+Twin Killing	2018S1	twinkilling.png	Strategy	U																										TwinKilling	TwinKilling	TwinKilling	TwinKilling	TwinKilling	TwinKilling	TwinKilling		TwinKilling
+Under Pressure 2.0	2018S1	underpressure20.png	Strategy	C																										UnderPressure2.0	UnderPressure2.0	UnderPressure2.0	UnderPressure2.0	UnderPressure20	UnderPressure20	UnderPressure20		UnderPressure20
+The 5-Hole	2018S1	the5hole.png	Strategy	U																										The5-Hole	The5-Hole	The5-Hole	The5-Hole	The5-Hole	The5-Hole	The5-Hole		The5Hole
+90-Foot Dash	2018S1	90footdash.png	Strategy	C																										90-FootDash	90-FootDash	90-FootDash	90-FootDash	90-FootDash	90-FootDash	90-FootDash		90FootDash
+Balls and Strikes	2018S1	ballsandstrikes.png	Strategy	U																										BallsandStrikes	BallsandStrikes	BallsandStrikes	BallsandStrikes	BallsandStrikes	BallsandStrikes	BallsandStrikes		BallsandStrikes
+Bobbled It	2018S1	bobbledit.png	Strategy	U																										BobbledIt	BobbledIt	BobbledIt	BobbledIt	BobbledIt	BobbledIt	BobbledIt		BobbledIt
+Check Swing	2018S1	checkswing.png	Strategy	C																										CheckSwing	CheckSwing	CheckSwing	CheckSwing	CheckSwing	CheckSwing	CheckSwing		CheckSwing
+Cold-Blooded	2018S1	coldblooded.png	Strategy	R																										Cold-Blooded	Cold-Blooded	Cold-Blooded	Cold-Blooded	Cold-Blooded	Cold-Blooded	Cold-Blooded		ColdBlooded
+Confidence Shaker	2018S1	confidenceshaker.png	Strategy	C																										ConfidenceShaker	ConfidenceShaker	ConfidenceShaker	ConfidenceShaker	ConfidenceShaker	ConfidenceShaker	ConfidenceShaker		ConfidenceShaker
+Deep Drive	2018S1	deepdrive.png	Strategy	C																										DeepDrive	DeepDrive	DeepDrive	DeepDrive	DeepDrive	DeepDrive	DeepDrive		DeepDrive
+Double Steal	2018S1	doublesteal.png	Strategy	C																										DoubleSteal	DoubleSteal	DoubleSteal	DoubleSteal	DoubleSteal	DoubleSteal	DoubleSteal		DoubleSteal
+Exuberant 2.0	2018S1	exuberant20.png	Strategy	C																										Exuberant2.0	Exuberant2.0	Exuberant2.0	Exuberant2.0	Exuberant20	Exuberant20	Exuberant20		Exuberant20
+"First Time, Every Time"	2018S1	firsttimeeverytime.png	Strategy	C																										"FirstTime,EveryTime"	"FirstTime,EveryTime"	"FirstTime,EveryTime"	"FirstTime,EveryTime"	"FirstTime,EveryTime"	"FirstTime,EveryTime"	"FirstTime,EveryTime"		"FirstTime,EveryTime"
+Fresh Legs	2018S1	freshlegs.png	Strategy	C																										FreshLegs	FreshLegs	FreshLegs	FreshLegs	FreshLegs	FreshLegs	FreshLegs		FreshLegs
+Go Big or Go Home	2018S1	gobigorgohome.png	Strategy	U																										GoBigorGoHome	GoBigorGoHome	GoBigorGoHome	GoBigorGoHome	GoBigorGoHome	GoBigorGoHome	GoBigorGoHome		GoBigorGoHome
+Lead By Example	2018S1	leadbyexample.png	Strategy	U																										LeadByExample	LeadByExample	LeadByExample	LeadByExample	LeadByExample	LeadByExample	LeadByExample		LeadByExample
+Leg It Out	2018S1	legitout.png	Strategy	C																										LegItOut	LegItOut	LegItOut	LegItOut	LegItOut	LegItOut	LegItOut		LegItOut
+Locked In 2.0	2018S1	lockedin20.png	Strategy	R																										LockedIn2.0	LockedIn2.0	LockedIn2.0	LockedIn2.0	LockedIn20	LockedIn20	LockedIn20		LockedIn20
+Make Him Pay 2.0	2018S1	makehimpay20.png	Strategy	C																										MakeHimPay2.0	MakeHimPay2.0	MakeHimPay2.0	MakeHimPay2.0	MakeHimPay20	MakeHimPay20	MakeHimPay20		MakeHimPay20
+Not Top 10	2018S1	nottop10.png	Strategy	R																										NotTop10	NotTop10	NotTop10	NotTop10	NotTop10	NotTop10	NotTop10		NotTop10
+Plunked	2018S1	plunked.png	Strategy	C																										Plunked	Plunked	Plunked	Plunked	Plunked	Plunked	Plunked		Plunked
+Prime Time 2.0	2018S1	primetime20.png	Strategy	C																										PrimeTime2.0	PrimeTime2.0	PrimeTime2.0	PrimeTime2.0	PrimeTime20	PrimeTime20	PrimeTime20		PrimeTime20
+Rib-Eye Steak	2018S1	ribeyesteak.png	Strategy	U																										Rib-EyeSteak	Rib-EyeSteak	Rib-EyeSteak	Rib-EyeSteak	Rib-EyeSteak	Rib-EyeSteak	Rib-EyeSteak		RibEyeSteak
+Running On Fumes	2018S1	runningonfumes.png	Strategy	C																										RunningOnFumes	RunningOnFumes	RunningOnFumes	RunningOnFumes	RunningOnFumes	RunningOnFumes	RunningOnFumes		RunningOnFumes
+Shaky Start	2018S1	shakystart.png	Strategy	C																										ShakyStart	ShakyStart	ShakyStart	ShakyStart	ShakyStart	ShakyStart	ShakyStart		ShakyStart
+Speed Demon	2018S1	speeddemon.png	Strategy	U																										SpeedDemon	SpeedDemon	SpeedDemon	SpeedDemon	SpeedDemon	SpeedDemon	SpeedDemon		SpeedDemon
+Super Sub	2018S1	supersub.png	Strategy	C																										SuperSub	SuperSub	SuperSub	SuperSub	SuperSub	SuperSub	SuperSub		SuperSub
+Switch It Up	2018S1	switchitup.png	Strategy	C																										SwitchItUp	SwitchItUp	SwitchItUp	SwitchItUp	SwitchItUp	SwitchItUp	SwitchItUp		SwitchItUp
+Too Hot To Handle	2018S1	toohottohandle.png	Strategy	C																										TooHotToHandle	TooHotToHandle	TooHotToHandle	TooHotToHandle	TooHotToHandle	TooHotToHandle	TooHotToHandle		TooHotToHandle
+Unmasked	2018S1	unmasked.png	Strategy	C																										Unmasked	Unmasked	Unmasked	Unmasked	Unmasked	Unmasked	Unmasked		Unmasked
+Upper Decker	2018S1	upperdecker.png	Strategy	U																										UpperDecker	UpperDecker	UpperDecker	UpperDecker	UpperDecker	UpperDecker	UpperDecker		UpperDecker
+Upper Hand	2018S1	upperhand.png	Strategy	U																										UpperHand	UpperHand	UpperHand	UpperHand	UpperHand	UpperHand	UpperHand		UpperHand
+Inertia	2018S1	inertia.png	Strategy	U																										Inertia	Inertia	Inertia	Inertia	Inertia	Inertia	Inertia		Inertia
+Mano Y Mano	2018S1	manoymano.png	Strategy	C																										ManoYMano	ManoYMano	ManoYMano	ManoYMano	ManoYMano	ManoYMano	ManoYMano		ManoYMano
+Not So Fast	2018S1	notsofast.png	Strategy	R																										NotSoFast	NotSoFast	NotSoFast	NotSoFast	NotSoFast	NotSoFast	NotSoFast		NotSoFast
+Right Where I Want 'Em	2018S1	rightwhereiwantem.png	Strategy	R																										RightWhereIWant'Em	RightWhereIWantEm	RightWhereIWantEm	RightWhereIWantEm	RightWhereIWantEm	RightWhereIWantEm	RightWhereIWantEm		RightWhereIWantEm
+Brisk Winds	2018S1	briskwinds.png	Strategy	C																										BriskWinds	BriskWinds	BriskWinds	BriskWinds	BriskWinds	BriskWinds	BriskWinds		BriskWinds
+Clear Skies	2018S1	clearskies.png	Strategy	C																										ClearSkies	ClearSkies	ClearSkies	ClearSkies	ClearSkies	ClearSkies	ClearSkies		ClearSkies
+Scattered Showers	2018S1	scatteredshowers.png	Strategy	C																										ScatteredShowers	ScatteredShowers	ScatteredShowers	ScatteredShowers	ScatteredShowers	ScatteredShowers	ScatteredShowers		ScatteredShowers
+Terry Francona	2018S1	terryfrancona.png	Strategy	R																										TerryFrancona	TerryFrancona	TerryFrancona	TerryFrancona	TerryFrancona	TerryFrancona	TerryFrancona		TerryFrancona
+Joe Maddon	2018S1	joemaddon.png	Strategy	U																										JoeMaddon	JoeMaddon	JoeMaddon	JoeMaddon	JoeMaddon	JoeMaddon	JoeMaddon		JoeMaddon
+Buck Showalter	2018S1	buckshowalter.png	Strategy	R																										BuckShowalter	BuckShowalter	BuckShowalter	BuckShowalter	BuckShowalter	BuckShowalter	BuckShowalter		BuckShowalter
+Double Play Depth 2.0	ASG18	doubleplaydepth20.png	Strategy	U																										DoublePlayDepth2.0	DoublePlayDepth2.0	DoublePlayDepth2.0	DoublePlayDepth2.0	DoublePlayDepth20	DoublePlayDepth20	DoublePlayDepth20		DoublePlayDepth20
+Splitter 2.0	ASG18	splitter20.png	Strategy	U																										Splitter2.0	Splitter2.0	Splitter2.0	Splitter2.0	Splitter20	Splitter20	Splitter20		Splitter20
+Check Swing 2.0	ASG18	checkswing20.png	Strategy	U																										CheckSwing2.0	CheckSwing2.0	CheckSwing2.0	CheckSwing2.0	CheckSwing20	CheckSwing20	CheckSwing20		CheckSwing20
+Super Sub 2.0	ASG18	supersub20.png	Strategy	U																										SuperSub2.0	SuperSub2.0	SuperSub2.0	SuperSub2.0	SuperSub20	SuperSub20	SuperSub20		SuperSub20
+Scattered Showers 2.0	ASG18	scatteredshowers20.png	Strategy	U																										ScatteredShowers2.0	ScatteredShowers2.0	ScatteredShowers2.0	ScatteredShowers2.0	ScatteredShowers20	ScatteredShowers20	ScatteredShowers20		ScatteredShowers20
+Flyswatter	ASG18	flyswater.png	Strategy	UR																										Flyswatter	Flyswatter	Flyswatter	Flyswatter	Flyswatter	Flyswatter	Flyswatter		Flyswatter
+Security Bypass	ASG18	securitybypass.png	Strategy	UR																										SecurityBypass	SecurityBypass	SecurityBypass	SecurityBypass	SecurityBypass	SecurityBypass	SecurityBypass		SecurityBypass
+Turning Point	ASG18	turningpoint.png	Strategy	UR																										TurningPoint	TurningPoint	TurningPoint	TurningPoint	TurningPoint	TurningPoint	TurningPoint		TurningPoint
+The Flip	GEN18	theflip.png	Strategy	R																										TheFlip	TheFlip	TheFlip	TheFlip	TheFlip	TheFlip	TheFlip		TheFlip
+Highway Robbery 2.0	GEN18	highwayrobbery20.png	Strategy	R																										HighwayRobbery2.0	HighwayRobbery2.0	HighwayRobbery2.0	HighwayRobbery2.0	HighwayRobbery20	HighwayRobbery20	HighwayRobbery20		HighwayRobbery20
+Into Orbit	GEN18	intoorbit.png	Strategy	R																										IntoOrbit	IntoOrbit	IntoOrbit	IntoOrbit	IntoOrbit	IntoOrbit	IntoOrbit		IntoOrbit
+The Slide	GEN18	theslide.png	Strategy	R																										TheSlide	TheSlide	TheSlide	TheSlide	TheSlide	TheSlide	TheSlide		TheSlide
+Clueless Joe	GEN18	cluelessjoe.png	Strategy	R																										CluelessJoe	CluelessJoe	CluelessJoe	CluelessJoe	CluelessJoe	CluelessJoe	CluelessJoe		CluelessJoe
+Aaron Boone	Promo	aaronboone.png	Strategy	UR																										AaronBoone	AaronBoone	AaronBoone	AaronBoone	AaronBoone	AaronBoone	AaronBoone		AaronBoone
+Heartbreaker	Promo	heartbreaker.png	Strategy	UR																										Heartbreaker	Heartbreaker	Heartbreaker	Heartbreaker	Heartbreaker	Heartbreaker	Heartbreaker		Heartbreaker
+Back to the Track	Promo	backtothetrack.png	Strategy	UR																										BacktotheTrack	BacktotheTrack	BacktotheTrack	BacktotheTrack	BacktotheTrack	BacktotheTrack	BacktotheTrack		BacktotheTrack
+Short Porch	Promo	shortporch.png	Strategy	UR																										ShortPorch	ShortPorch	ShortPorch	ShortPorch	ShortPorch	ShortPorch	ShortPorch		ShortPorch
+Washington Park (ASG)	ASG18	18asgwashington.png	Stadium	UR																										WashingtonPark(ASG)	WashingtonPark(ASG)	WashingtonPark(ASG)	WashingtonPark(ASG)	WashingtonPark(ASG)	WashingtonParkASG)	WashingtonParkASG		WashingtonParkASG
+Montreal Stadium	ASG18	18asgmontreal.png	Stadium	UR																										MontrealStadium	MontrealStadium	MontrealStadium	MontrealStadium	MontrealStadium	MontrealStadium	MontrealStadium		MontrealStadium
+Old New York Stadium	GEN18	oldnewyorkstadium.png	Stadium	UR																										OldNewYorkStadium	OldNewYorkStadium	OldNewYorkStadium	OldNewYorkStadium	OldNewYorkStadium	OldNewYorkStadium	OldNewYorkStadium		OldNewYorkStadium
+Dinger Town	Promo	dingertown.png	Stadium	UR																										DingerTown	DingerTown	DingerTown	DingerTown	DingerTown	DingerTown	DingerTown		DingerTown
+Big Red Machine	Promo	bigredmachine.png	Stadium	UR																										BigRedMachine	BigRedMachine	BigRedMachine	BigRedMachine	BigRedMachine	BigRedMachine	BigRedMachine		BigRedMachine
+Arizona Field	2018S1	18arizonafield.png	Stadium	C																										ArizonaField	ArizonaField	ArizonaField	ArizonaField	ArizonaField	ArizonaField	ArizonaField		ArizonaField
+Atlanta Park	2018S1	18atlantapark.png	Stadium	U																										AtlantaPark	AtlantaPark	AtlantaPark	AtlantaPark	AtlantaPark	AtlantaPark	AtlantaPark		AtlantaPark
+Baltimore Yards	2018S1	18baltimoreyards.png	Stadium	R																										BaltimoreYards	BaltimoreYards	BaltimoreYards	BaltimoreYards	BaltimoreYards	BaltimoreYards	BaltimoreYards		BaltimoreYards
+Boston Park	2018S1	18bostonpark.png	Stadium	R																										BostonPark	BostonPark	BostonPark	BostonPark	BostonPark	BostonPark	BostonPark		BostonPark
+Chicago (A) Field	2018S1	18chicagoafield.png	Stadium	C																										Chicago(A)Field	Chicago(A)Field	Chicago(A)Field	Chicago(A)Field	Chicago(A)Field	ChicagoA)Field	ChicagoAField		ChicagoAField
+Chicago (N) Field	2018S1	18chicagonfield.png	Stadium	C																										Chicago(N)Field	Chicago(N)Field	Chicago(N)Field	Chicago(N)Field	Chicago(N)Field	ChicagoN)Field	ChicagoNField		ChicagoNField
+Cincinnati Park	2018S1	18cincinnatipark.png	Stadium	U																										CincinnatiPark	CincinnatiPark	CincinnatiPark	CincinnatiPark	CincinnatiPark	CincinnatiPark	CincinnatiPark		CincinnatiPark
+Cleveland Field	2018S1	18clevelandfield.png	Stadium	C																										ClevelandField	ClevelandField	ClevelandField	ClevelandField	ClevelandField	ClevelandField	ClevelandField		ClevelandField
+Colorado Field	2018S1	18coloradofield.png	Stadium	U																										ColoradoField	ColoradoField	ColoradoField	ColoradoField	ColoradoField	ColoradoField	ColoradoField		ColoradoField
+Detroit Park	2018S1	18detroitpark.png	Stadium	C																										DetroitPark	DetroitPark	DetroitPark	DetroitPark	DetroitPark	DetroitPark	DetroitPark		DetroitPark
+Houston Park	2018S1	18houstonpark.png	Stadium	C																										HoustonPark	HoustonPark	HoustonPark	HoustonPark	HoustonPark	HoustonPark	HoustonPark		HoustonPark
+Kansas City Stadium	2018S1	18kansascitystadium.png	Stadium	C																										KansasCityStadium	KansasCityStadium	KansasCityStadium	KansasCityStadium	KansasCityStadium	KansasCityStadium	KansasCityStadium		KansasCityStadium
+Los Angeles (A) Stadium	2018S1	18losangelesastadium.png	Stadium	R																										LosAngeles(A)Stadium	LosAngeles(A)Stadium	LosAngeles(A)Stadium	LosAngeles(A)Stadium	LosAngeles(A)Stadium	LosAngelesA)Stadium	LosAngelesAStadium		LosAngelesAStadium
+Los Angeles (N) Stadium	2018S1	18losangelesnstadium.png	Stadium	C																										LosAngeles(N)Stadium	LosAngeles(N)Stadium	LosAngeles(N)Stadium	LosAngeles(N)Stadium	LosAngeles(N)Stadium	LosAngelesN)Stadium	LosAngelesNStadium		LosAngelesNStadium
+Miami Park	2018S1	18miamipark.png	Stadium	C																										MiamiPark	MiamiPark	MiamiPark	MiamiPark	MiamiPark	MiamiPark	MiamiPark		MiamiPark
+Milwaukee Park	2018S1	18milwaukeepark.png	Stadium	C																										MilwaukeePark	MilwaukeePark	MilwaukeePark	MilwaukeePark	MilwaukeePark	MilwaukeePark	MilwaukeePark		MilwaukeePark
+Minnesota Field	2018S1	18minnesotafield.png	Stadium	C																										MinnesotaField	MinnesotaField	MinnesotaField	MinnesotaField	MinnesotaField	MinnesotaField	MinnesotaField		MinnesotaField
+New York (A) Field	2018S1	18newyorkafield.png	Stadium	R																										NewYork(A)Field	NewYork(A)Field	NewYork(A)Field	NewYork(A)Field	NewYork(A)Field	NewYorkA)Field	NewYorkAField		NewYorkAField
+New York (N) Field	2018S1	18newyorknfield.png	Stadium	C																										NewYork(N)Field	NewYork(N)Field	NewYork(N)Field	NewYork(N)Field	NewYork(N)Field	NewYorkN)Field	NewYorkNField		NewYorkNField
+Oakland Stadium	2018S1	18oaklandstadium.png	Stadium	C																										OaklandStadium	OaklandStadium	OaklandStadium	OaklandStadium	OaklandStadium	OaklandStadium	OaklandStadium		OaklandStadium
+Philadelphia Park	2018S1	18philadelphiapark.png	Stadium	U																										PhiladelphiaPark	PhiladelphiaPark	PhiladelphiaPark	PhiladelphiaPark	PhiladelphiaPark	PhiladelphiaPark	PhiladelphiaPark		PhiladelphiaPark
+Pittsburgh Park	2018S1	18pittsburghpark.png	Stadium	U																										PittsburghPark	PittsburghPark	PittsburghPark	PittsburghPark	PittsburghPark	PittsburghPark	PittsburghPark		PittsburghPark
+San Diego Park	2018S1	18sandiegopark.png	Stadium	C																										SanDiegoPark	SanDiegoPark	SanDiegoPark	SanDiegoPark	SanDiegoPark	SanDiegoPark	SanDiegoPark		SanDiegoPark
+San Francisco Park	2018S1	18sanfranciscopark.png	Stadium	C																										SanFranciscoPark	SanFranciscoPark	SanFranciscoPark	SanFranciscoPark	SanFranciscoPark	SanFranciscoPark	SanFranciscoPark		SanFranciscoPark
+Seattle Field	2018S1	18seattlefield.png	Stadium	U																										SeattleField	SeattleField	SeattleField	SeattleField	SeattleField	SeattleField	SeattleField		SeattleField
+St. Louis Stadium	2018S1	18stlouisstadium.png	Stadium	U																										St.LouisStadium	St.LouisStadium	St.LouisStadium	St.LouisStadium	StLouisStadium	StLouisStadium	StLouisStadium		StLouisStadium
+Tampa Bay Field	2018S1	18tampabayfield.png	Stadium	C																										TampaBayField	TampaBayField	TampaBayField	TampaBayField	TampaBayField	TampaBayField	TampaBayField		TampaBayField
+Texas Park	2018S1	18texaspark.png	Stadium	C																										TexasPark	TexasPark	TexasPark	TexasPark	TexasPark	TexasPark	TexasPark		TexasPark
+Toronto Centre	2018S1	18torontocentre.png	Stadium	C																										TorontoCentre	TorontoCentre	TorontoCentre	TorontoCentre	TorontoCentre	TorontoCentre	TorontoCentre		TorontoCentre
+Washington Park	2018S1	18washingtonpark.png	Stadium	U																										WashingtonPark	WashingtonPark	WashingtonPark	WashingtonPark	WashingtonPark	WashingtonPark	WashingtonPark		WashingtonPark
+Barry Bonds	GEN18	barrybonds.png	Batter	SF	L	LF/RF	870	15	R+1	1	16	4	-	-	1	2-3	4-9	10-15	16-18	-	19+	MVP	SL	HR	RBI	GG		Bonds	Barry	BarryBonds	BarryBonds	BarryBonds	BarryBonds	BarryBonds	BarryBonds	BarryBonds		BarryBonds
+Frank Thomas	GEN18	frankthomas.png	Batter	CHI-A	R	1B	705	16	-	-1	8	0	-	-	-	1-2	3-9	10-16	17-19	-	20+	MVP	SL	HR	RBI			Thomas	Frank	FrankThomas	FrankThomas	FrankThomas	FrankThomas	FrankThomas	FrankThomas	FrankThomas		FrankThomas
+Barry Larkin	GEN18	barrylarkin.png	Batter	CIN	R	SS	725	14	-	1	20	4	-	-	1	2-3	4-8	9-17	18-20	21	22+	MVP	SL	SB	GG			Larkin	Barry	BarryLarkin	BarryLarkin	BarryLarkin	BarryLarkin	BarryLarkin	BarryLarkin	BarryLarkin		BarryLarkin
+Ken Caminiti	GEN18	kencaminiti.png	Batter	SD	S	3B	685	14	-	1	12	3	-	1	2	3	4-8	9-15	16-18	-	19+	MVP	SL	RBI	GG			Caminiti	Ken	KenCaminiti	KenCaminiti	KenCaminiti	KenCaminiti	KenCaminiti	KenCaminiti	KenCaminiti		KenCaminiti
+Larry Walker	GEN18	larrywalker.png	Batter	COL	L	LF/RF	880	15	R+1	-1	16	4	-	-	1	2	3-7	8-14	15-18	-	19+	MVP	SL	HR	RBI	GG		Walker	Larry	LarryWalker	LarryWalker	LarryWalker	LarryWalker	LarryWalker	LarryWalker	LarryWalker		LarryWalker
+Chipper Jones	GEN18	chipperjones.png	Batter	ATL	S	3B	735	15	-	1	16	2	-	1	2	3	4-9	10-15	16-18	-	19+	MVP	SL	HR				Jones	Chipper	ChipperJones	ChipperJones	ChipperJones	ChipperJones	ChipperJones	ChipperJones	ChipperJones		ChipperJones
+Ryan Howard	GEN18	ryanhoward.png	Batter	PHI	L	1B	660	14	R+2	1	8	0	-	1-2	3	4	5-10	11-15	16-17	-	18+	MVP	SL	HR	RBI			Howard	Ryan	RyanHoward	RyanHoward	RyanHoward	RyanHoward	RyanHoward	RyanHoward	RyanHoward		RyanHoward
+Alex Rodriguez	GEN18	alexrodriguez.png	Batter	NY-A	R	3B	725	15	-	-3	16	2	-	1	2	3-4	5-9	10-14	15-17	-	18+	MVP	SL	HR	RBI			Rodriguez	Alex	AlexRodriguez	AlexRodriguez	AlexRodriguez	AlexRodriguez	AlexRodriguez	AlexRodriguez	AlexRodriguez		AlexRodriguez
+John Olerud	GEN18	johnolerud.png	Batter	TOR	L	1B	635	15	R+1	-1	12	1	-	-	1	2	3-8	9-16	17-20	-	21+							Olerud	John	JohnOlerud	JohnOlerud	JohnOlerud	JohnOlerud	JohnOlerud	JohnOlerud	JohnOlerud		JohnOlerud
+Craig Biggio	GEN18	craigbiggio.png	Batter	HOU	R	2B	615	14	-	-1	20	3	-	-	1-2	3-4	5-9	10-17	18-22	-	23+	SL	SB	GG				Biggio	Craig	CraigBiggio	CraigBiggio	CraigBiggio	CraigBiggio	CraigBiggio	CraigBiggio	CraigBiggio		CraigBiggio
+Mo Vaughn	GEN18	movaughn.png	Batter	BOS	L	1B	505	13	R+1	1	8	2	-	1	2	3-4	5-9	10-16	17-19	-	20+	MVP	SL	RBI				Vaughn	Mo	MoVaughn	MoVaughn	MoVaughn	MoVaughn	MoVaughn	MoVaughn	MoVaughn		MoVaughn
+Gary Sheffield	GEN18	garysheffield.png	Batter	MIA	R	LF/RF	745	16	-	-1	12	1	-	-	1-2	3-4	5-9	10-15	16-18	-	19+	SL	HR					Sheffield	Gary	GarySheffield	GarySheffield	GarySheffield	GarySheffield	GarySheffield	GarySheffield	GarySheffield		GarySheffield
+Tino Martinez	GEN18	tinomartinez.png	Batter	NY-A	L	1B	485	12	R+1	1	12	1	-	-	1-2	3-4	5-8	9-15	16-18	-	19+	SL	HR	RBI				Martinez	Tino	TinoMartinez	TinoMartinez	TinoMartinez	TinoMartinez	TinoMartinez	TinoMartinez	TinoMartinez		TinoMartinez
+Juan Gonzalez	GEN18	juangonzalez.png	Batter	TEX	R	LF/RF	460	12	L+1	-1	12	1	-	1	2	3-4	5-7	8-14	15-18	-	19+	MVP	SL	RBI				Gonzalez	Juan	JuanGonzalez	JuanGonzalez	JuanGonzalez	JuanGonzalez	JuanGonzalez	JuanGonzalez	JuanGonzalez		JuanGonzalez
+Bernie Williams	GEN18	berniewilliams.png	Batter	NY-A	S	CF	675	15	-	-1	12	3	-	-	1-2	3	4-8	9-16	17-19	-	20+	GG						Williams	Bernie	BernieWilliams	BernieWilliams	BernieWilliams	BernieWilliams	BernieWilliams	BernieWilliams	BernieWilliams		BernieWilliams
+Rafael Palmeiro	GEN18	rafaelpalmero.png	Batter	TEX	L	1B	675	13	R+2	1	12	2	-	-	1	2-3	4-8	9-15	16-18	-	19+	SL	HR	RBI	GG			Palmeiro	Rafael	RafaelPalmeiro	RafaelPalmeiro	RafaelPalmeiro	RafaelPalmeiro	RafaelPalmeiro	RafaelPalmeiro	RafaelPalmeiro		RafaelPalmeiro
+Jason Giambi	GEN18	jasongiambi.png	Batter	OAK	L	1B	680	15	R+1	1	8	0	-	1	-	2-3	4-10	11-16	17-18	-	19+	MVP	HR					Giambi	Jason	JasonGiambi	JasonGiambi	JasonGiambi	JasonGiambi	JasonGiambi	JasonGiambi	JasonGiambi		JasonGiambi
+Todd Helton	GEN18	toddhelton.png	Batter	COL	L	1B	845	16	-	2	12	2	-	-	1	2	3-7	8-14	15-18	-	19+	SL	RBI					Helton	Todd	ToddHelton	ToddHelton	ToddHelton	ToddHelton	ToddHelton	ToddHelton	ToddHelton		ToddHelton
+Jeff Kent	GEN18	jeffkent.png	Batter	SF	R	2B	655	14	L+1	1	12	3	-	1	2	3	4-8	9-16	17-19	-	20+	MVP	SL					Kent	Jeff	JeffKent	JeffKent	JeffKent	JeffKent	JeffKent	JeffKent	JeffKent		JeffKent
+Mike Piazza	GEN18	mikepiazza.png	Batter	NY-N	R	C	530	14	-	1	8	5	-	-	1	2-3	4-8	9-16	17-19	-	20+	SL						Piazza	Mike	MikePiazza	MikePiazza	MikePiazza	MikePiazza	MikePiazza	MikePiazza	MikePiazza		MikePiazza
+Alfonso Soriano	GEN18	alfonsosoriano.png	Batter	NY-A	R	2B	495	12	-	1	20	2	-	1	2	3-4	5-6	7-14	15-19	-	20+	SL	SB					Soriano	Alfonso	AlfonsoSoriano	AlfonsoSoriano	AlfonsoSoriano	AlfonsoSoriano	AlfonsoSoriano	AlfonsoSoriano	AlfonsoSoriano		AlfonsoSoriano
+Jim Edmonds	GEN18	jimedmonds.png	Batter	STL	L	CF	735	14	-	1	16	5	-	1	2	3-4	5-9	10-14	15-18	-	19+	SL	GG					Edmonds	Jim	JimEdmonds	JimEdmonds	JimEdmonds	JimEdmonds	JimEdmonds	JimEdmonds	JimEdmonds		JimEdmonds
+Manny Ramirez	GEN18	mannyramirez.png	Batter	BOS	R	LF/RF	525	13	L+1	1	4	1	-	1	2	3-4	5-9	10-14	15-18	-	19+	SL	HR	RBI				Ramirez	Manny	MannyRamirez	MannyRamirez	MannyRamirez	MannyRamirez	MannyRamirez	MannyRamirez	MannyRamirez		MannyRamirez
+Scott Rolen	GEN18	scottrolen.png	Batter	STL	R	3B	640	13	L+2	-1	16	4	-	1	2-3	4	5-9	10-16	17-19	-	20+	RBI	GG					Rolen	Scott	ScottRolen	ScottRolen	ScottRolen	ScottRolen	ScottRolen	ScottRolen	ScottRolen		ScottRolen
+Miguel Tejada	GEN18	migueltejada.png	Batter	BAL	R	SS	510	12	L+1	1	12	4	-	1	2-3	4	5-7	8-15	16-19	-	20+	SL	RBI					Tejada	Miguel	MiguelTejada	MiguelTejada	MiguelTejada	MiguelTejada	MiguelTejada	MiguelTejada	MiguelTejada		MiguelTejada
+Andruw Jones	GEN18	andruwjones.png	Batter	ATL	R	CF	540	12	-	1	16	5	-	1	2-3	4-6	7-10	11-15	16-18	-	19+	SL	HR	RBI	GG			Jones	Andruw	AndruwJones	AndruwJones	AndruwJones	AndruwJones	AndruwJones	AndruwJones	AndruwJones		AndruwJones
+Jason Varitek	GEN18	jasonvaritek.png	Batter	BOS	S	C	395	12	L+1	1	8	7	-	1	2-3	4-5	6-9	10-16	17-20	-	21+	SL	GG					Varitek	Jason	JasonVaritek	JasonVaritek	JasonVaritek	JasonVaritek	JasonVaritek	JasonVaritek	JasonVaritek		JasonVaritek
+Derek Jeter	GEN18	derekjeter.png	Batter	NY-A	R	SS	670	14	L+1	3	16	3	-	-	1-3	-	4-7	8-18	19-21	-	22+	SL	GG					Jeter	Derek	DerekJeter	DerekJeter	DerekJeter	DerekJeter	DerekJeter	DerekJeter	DerekJeter		DerekJeter
+Magglio Ordonez	GEN18	magglioordonez.png	Batter	DET	R	LF/RF	700	14	L+1	1	12	3	-	-	1	2	3-7	8-15	16-19	-	20+	SL	RBI					Ordonez	Magglio	MagglioOrdonez	MagglioOrdonez	MagglioOrdonez	MagglioOrdonez	MagglioOrdonez	MagglioOrdonez	MagglioOrdonez		MagglioOrdonez
+Jimmy Rollins	GEN18	jimmyrollins.png	Batter	PHI	S	SS	555	12	-	-1	20	4	-	-	1-2	3-4	5-7	8-15	16-18	19	20+	MVP	SL	GG				Rollins	Jimmy	JimmyRollins	JimmyRollins	JimmyRollins	JimmyRollins	JimmyRollins	JimmyRollins	JimmyRollins		JimmyRollins
+Cecil Fielder	GEN18	cecilfielder.png	Batter	DET	R	1B	470	12	L+2	1	12	1	-	1-2	3	4-5	6-11	12-16	17-18	-	19+	SL	HR	RBI				Fielder	Cecil	CecilFielder	CecilFielder	CecilFielder	CecilFielder	CecilFielder	CecilFielder	CecilFielder		CecilFielder
+Paul Moliter	GEN18	paulmolitor.png	Batter	MIL	R	1B	550	14	-	-1	16	2	-	-	1	2-3	4-8	9-16	17-19	20	21+							Moliter	Paul	PaulMoliter	PaulMoliter	PaulMoliter	PaulMoliter	PaulMoliter	PaulMoliter	PaulMoliter		PaulMoliter
+Paul O'Neill	GEN18	pauloneill.png	Batter	CIN	L	LF/RF	385	11	R+2	1	12	4	-	1	2-3	4-6	7-10	11-15	16-19	-	20+							O'Neill	Paul	PaulO'Neill	PaulONeill	PaulONeill	PaulONeill	PaulONeill	PaulONeill	PaulONeill		PaulONeill
+Fred McGriff	GEN18	fredmcgriff.png	Batter	ATL	L	1B	365	12	R+1	1	12	1	-	1	2-3	4-5	6-9	10-16	17-19	-	20+							McGriff	Fred	FredMcGriff	FredMcGriff	FredMcGriff	FredMcGriff	FredMcGriff	FredMcGriff	FredMcGriff		FredMcGriff
+Robin Ventura	GEN18	robinventura.png	Batter	CHI-A	L	3B	435	12	R+1	-1	12	3	-	-	1-2	3-5	6-9	10-16	17-19	-	20+	GG						Ventura	Robin	RobinVentura	RobinVentura	RobinVentura	RobinVentura	RobinVentura	RobinVentura	RobinVentura		RobinVentura
+Sandy Alomar Jr.	GEN18	sandyalomarjr.png	Batter	CLE	R	C	400	12	-	1	12	8	-	-	1	2-3	4-5	6-15	16-20	-	21+							Alomar Jr.	Sandy	SandyAlomarJr.	SandyAlomarJr.	SandyAlomarJr.	SandyAlomarJr.	SandyAlomarJr	SandyAlomarJr	SandyAlomarJr		SandyAlomarJr
+Shawn Green	GEN18	shawngreen.png	Batter	TOR	L	LF/RF	560	13	-	-1	12	3	-	1	2	3-4	5-8	9-14	15-18	-	19+	SL	GG					Green	Shawn	ShawnGreen	ShawnGreen	ShawnGreen	ShawnGreen	ShawnGreen	ShawnGreen	ShawnGreen		ShawnGreen
+Johnny Damon	GEN18	johnnydamon.png	Batter	KC	L	OF	605	13	L+1	2	20	3	-	-	1	2-3	4-7	8-16	17-20	21	22+	SB						Damon	Johnny	JohnnyDamon	JohnnyDamon	JohnnyDamon	JohnnyDamon	JohnnyDamon	JohnnyDamon	JohnnyDamon		JohnnyDamon
+Troy Glaus	GEN18	troyglaus.png	Batter	LA-A	R	3B	610	13	L+2	-1	12	4	-	1-2	3	4-5	6-10	11-15	16-18	-	19+	SL	HR					Glaus	Troy	TroyGlaus	TroyGlaus	TroyGlaus	TroyGlaus	TroyGlaus	TroyGlaus	TroyGlaus		TroyGlaus
+Jose Vidro	GEN18	josevidro.png	Batter	WAS	S	2B	485	13	L+1	-1	12	2	-	1	1-2	3	4-6	7-15	16-20	-	21+							Vidro	Jose	JoseVidro	JoseVidro	JoseVidro	JoseVidro	JoseVidro	JoseVidro	JoseVidro		JoseVidro
+Mike Lowell	GEN18	mikelowell.png	Batter	MIA	R	3B	415	12	-	1	12	3	-	-	1-2	3-5	6-9	10-16	17-19	-	20+	SL						Lowell	Mike	MikeLowell	MikeLowell	MikeLowell	MikeLowell	MikeLowell	MikeLowell	MikeLowell		MikeLowell
+Trot Nixon	GEN18	trotnixon.png	Batter	BOS	L	LF/RF	530	13	R+2	-1	12	3	-	1	2-3	4	5-9	10-16	17-19	-	20+							Nixon	Trot	TrotNixon	TrotNixon	TrotNixon	TrotNixon	TrotNixon	TrotNixon	TrotNixon		TrotNixon
+Juan Pierre	GEN18	juanpierre.png	Batter	MIA	L	CF	510	13	-	1	20	5	-	-	1-3	4	5-8	9-19	20-22	23	24+	SB						Pierre	Juan	JuanPierre	JuanPierre	JuanPierre	JuanPierre	JuanPierre	JuanPierre	JuanPierre		JuanPierre
+Jorge Posada	GEN18	jorgeposada.png	Batter	NY-A	S	C	575	15	-	1	4	6	-	1	2	3	4-8	9-16	17-20	-	21+	SL						Posada	Jorge	JorgePosada	JorgePosada	JorgePosada	JorgePosada	JorgePosada	JorgePosada	JorgePosada		JorgePosada
+Torii Hunter	GEN18	toriihunter.png	Batter	LA-A	R	CF	505	12	L+1	1	16	4	-	1	2-3	4	5-8	9-17	18-20	-	21+	SL	GG					Hunter	Torii	ToriiHunter	ToriiHunter	ToriiHunter	ToriiHunter	ToriiHunter	ToriiHunter	ToriiHunter		ToriiHunter
+Greg Allen '18	GEN18	18gregallen.png	Batter	CLE	S	OF	95	10	R+1	-1	20	2	-	1	2-4	5-7	8-9	10-19	20-23	-	24+							Allen	Greg	GregAllen'18	GregAllen18	GregAllen18	GregAllen18	GregAllen18	GregAllen18	GregAllen18		GregAllen18
+Vladimir Guerrero Jr. '18	GEN18	18vladimirguerrerojr.png	Batter	TOR	R	3B	265	12	-	-2	8	1	-	1	2-3	4	5-8	9-16	17-20	-	21+							Guerrero Jr.	Vladimir	VladimirGuerreroJr.'18	VladimirGuerreroJr.18	VladimirGuerreroJr.18	VladimirGuerreroJr.18	VladimirGuerreroJr18	VladimirGuerreroJr18	VladimirGuerreroJr18		VladimirGuerreroJr18
+Ronald Guzman '18	GEN18	18ronaldguzman.png	Batter	TEX	L	1B	70	10	R+1	-1	12	1	-	1-2	3-5	6-7	8-11	12-18	19-21	-	22+							Guzman	Ronald	RonaldGuzman'18	RonaldGuzman18	RonaldGuzman18	RonaldGuzman18	RonaldGuzman18	RonaldGuzman18	RonaldGuzman18		RonaldGuzman18
+Scott Kingery '18	GEN18	18scottkingery.png	Batter	PHI	R	U	50	9	-	1	16	2	-	1-2	3-5	6-8	9-10	11-18	19-22	-	23+							Kingery	Scott	ScottKingery'18	ScottKingery18	ScottKingery18	ScottKingery18	ScottKingery18	ScottKingery18	ScottKingery18		ScottKingery18
+Tzu-Wei Lin '18	GEN18	18tzuweilin.png	Batter	BOS	L	IF	60	10	R+2	-3	16	1	-	1-2	3-5	6-7	8-10	11-19	20-23	-	24+							Lin	Tzu-Wei	Tzu-WeiLin'18	Tzu-WeiLin18	Tzu-WeiLin18	Tzu-WeiLin18	Tzu-WeiLin18	Tzu-WeiLin18	Tzu-WeiLin18		TzuWeiLin18
+Jeff McNeil '18	GEN18	18jeffmcneil.png	Batter	NY-N	L	2B/3B	370	12	R+1	-1	16	2	-	1	2-3	4	5-7	8-17	18-20	21	22+							McNeil	Jeff	JeffMcNeil'18	JeffMcNeil18	JeffMcNeil18	JeffMcNeil18	JeffMcNeil18	JeffMcNeil18	JeffMcNeil18		JeffMcNeil18
+Francisco Mejia '18	GEN18	18franciscomejia.png	Batter	SD	S	C	80	9	R+2	1	12	6	-	1-2	3-5	6-8	9-12	13-17	18-20	-	21+							Mejia	Francisco	FranciscoMejia'18	FranciscoMejia18	FranciscoMejia18	FranciscoMejia18	FranciscoMejia18	FranciscoMejia18	FranciscoMejia18		FranciscoMejia18
+Shohei Ohtani 18 Gens	GEN18	18shoheiohtani.png	Batter	LA-A	L	DH	350	12	R+1	2	16	0	-	1-2	3-4	5	6-9	10-16	17-20	-	21+							Ohtani	Shohei	ShoheiOhtani18Gens	ShoheiOhtani18Gens	ShoheiOhtani18Gens	ShoheiOhtani18Gens	ShoheiOhtani18Gens	ShoheiOhtani18Gens	ShoheiOhtani18Gens		ShoheiOhtani18Gens
+Alex Verdugo '18	GEN18	18alexverdugo.png	Batter	LA-N	L	OF	210	10	R+2	-1	16	2	-	1	2-3	4-6	7-10	11-16	17-21	-	22+							Verdugo	Alex	AlexVerdugo'18	AlexVerdugo18	AlexVerdugo18	AlexVerdugo18	AlexVerdugo18	AlexVerdugo18	AlexVerdugo18		AlexVerdugo18
+Jesse Winker '18	GEN18	18jessewinker.png	Batter	CIN	L	LF/RF	350	13	R+1	1	8	1	-	1	2-3	4	5-10	11-19	20-22	-	23+							Winker	Jesse	JesseWinker'18	JesseWinker18	JesseWinker18	JesseWinker18	JesseWinker18	JesseWinker18	JesseWinker18		JesseWinker18
+Deion Sanders	GEN18	deionsanders.png	Batter	ATL	L	OF	325	11	R+1	2	20	3	-	-	1-2	3-4	5-6	7-19	20	21-22	23+							Sanders	Deion	DeionSanders	DeionSanders	DeionSanders	DeionSanders	DeionSanders	DeionSanders	DeionSanders		DeionSanders
+Luis Gonzalez	Promo	luisgonzalez.png	Batter	ARI	L	LF/RF	685	15	-	2	8	1	-	1	2	3-4	5-9	10-15	16-18	-	19+	SL	AS	HR	RBI			Gonzalez	Luis	LuisGonzalez	LuisGonzalez	LuisGonzalez	LuisGonzalez	LuisGonzalez	LuisGonzalez	LuisGonzalez		LuisGonzalez
+Ryne Sandberg	Promo	rynesandberg.png	Batter	CHI-N	R	2B	570	12	L+1	-1	16	4	-	1	2-3	4	5-7	8-15	16-18	19-20	21+	MVP	AS	SL	GG			Sandberg	Ryne	RyneSandberg	RyneSandberg	RyneSandberg	RyneSandberg	RyneSandberg	RyneSandberg	RyneSandberg		RyneSandberg
+Jeff Bagwell	Promo	jeffbagwell.png	Batter	HOU	R	1B	785	14	L+2	-1	12	2	-	-	-	1-2	3-5	6-15	16-18	-	19+	MVP	SL	HR	RBI	GG	AS	Bagwell	Jeff	JeffBagwell	JeffBagwell	JeffBagwell	JeffBagwell	JeffBagwell	JeffBagwell	JeffBagwell		JeffBagwell
+Shohei Ohtani Batter	Promo	18shoheiohtanibatter.png	Batter	HOK	L	DH	805	12	R+1	1	12	0	-	1-2	3	4	5-6	7-17	18-20	-	21+							Ohtani	Shohei	ShoheiOhtaniBatter	ShoheiOhtaniBatter	ShoheiOhtaniBatter	ShoheiOhtaniBatter	ShoheiOhtaniBatter	ShoheiOhtaniBatter	ShoheiOhtaniBatter		ShoheiOhtaniBatter
+Ivan Rodriguez	Promo	ivanrodriguez.png	Batter	TEX	R	C	560	12	-	-2	12	9	-	-	1-2	3	4	5-15	16-19	-	20+	MVP	SL	GG	AS			Rodriguez	Ivan	IvanRodriguez	IvanRodriguez	IvanRodriguez	IvanRodriguez	IvanRodriguez	IvanRodriguez	IvanRodriguez		IvanRodriguez
+Tony Gwynn	Promo	tonygwynn.png	Batter	SD	L	LF/RF	810	15	-	-1	20	4	-	-	1	2	3-5	6-16	17-20	21-22	23+	SL	GG	AS				Gwynn	Tony	TonyGwynn	TonyGwynn	TonyGwynn	TonyGwynn	TonyGwynn	TonyGwynn	TonyGwynn		TonyGwynn
+Pete Rose	Promo	peterose.png	Batter	CIN	S	LF/RF	560	13	R+2	1	12	2	-	-	1-2	3	4-6	7-17	18-21	22	23+	MVP	AS					Rose	Pete	PeteRose	PeteRose	PeteRose	PeteRose	PeteRose	PeteRose	PeteRose		PeteRose
+Joe Carter	Promo	joecarter.png	Batter	TOR	R	LF/RF	355	11	L+1	3	12	2	-	1-2	3	4-6	7-9	10-16	17-19	-	20+	RBI	AS					Carter	Joe	JoeCarter	JoeCarter	JoeCarter	JoeCarter	JoeCarter	JoeCarter	JoeCarter		JoeCarter
+Kirk Gibson	Promo	kirkgibson.png	Batter	LA-N	L	LF/RF	460	12	R+1	3	16	2	-	1	2	3-4	5-8	9-17	18-20	-	21+	MVP	SL					Gibson	Kirk	KirkGibson	KirkGibson	KirkGibson	KirkGibson	KirkGibson	KirkGibson	KirkGibson		KirkGibson
+Roger Maris	Promo	rogermaris.png	Batter	NY-A	L	LF/RF	475	12	R+1	-1	8	2	-	1	2-3	4-6	7-10	11-15	16-17	-	18+	MVP	HR	RBI	AS			Maris	Roger	RogerMaris	RogerMaris	RogerMaris	RogerMaris	RogerMaris	RogerMaris	RogerMaris		RogerMaris
+Mark McGwire	Promo	markmcgwire.png	Batter	STL	R	1B	775	16	-	1	4	1	-	1-2	3	4	5-11	12-15	16-17	-	18+	SL	HR	RBI	AS			McGwire	Mark	MarkMcGwire	MarkMcGwire	MarkMcGwire	MarkMcGwire	MarkMcGwire	MarkMcGwire	MarkMcGwire		MarkMcGwire
+Sammy Sosa	Promo	sammysosa.png	Batter	CHI-N	R	LF/RF	610	13	L+1	1	12	1	-	1-2	3	4	5-7	8-15	16-17	-	18+	MVP	SL	HR	RBI	AS		Sosa	Sammy	SammySosa	SammySosa	SammySosa	SammySosa	SammySosa	SammySosa	SammySosa		SammySosa
+Greg Maddux	GEN18	gregmaddux.png	Pitcher	ATL	R	SP	805	7	-	2	8	4	1	1-5	6-12	13-18	-	19-24	-	-	25+	MVP	W	K	GG			Maddux	Greg	GregMaddux	GregMaddux	GregMaddux	GregMaddux	GregMaddux	GregMaddux	GregMaddux		GregMaddux
+Hideo Nomo	GEN18	hideonomo.png	Pitcher	LA-N	R	SP	545	5	R+1	2	7	4	1	1-7	8-13	14-18	19	20-21	22	-	23+	K						Nomo	Hideo	HideoNomo	HideoNomo	HideoNomo	HideoNomo	HideoNomo	HideoNomo	HideoNomo		HideoNomo
+Roger Clemens	GEN18	rogerclemens.png	Pitcher	TOR	R	SP	545	5	-	-1	8	4	1	1-6	7-13	14-17	-	18-23	24	-	25+	MVP	W	K				Clemens	Roger	RogerClemens	RogerClemens	RogerClemens	RogerClemens	RogerClemens	RogerClemens	RogerClemens		RogerClemens
+Billy Wagner	GEN18	billywagner.png	Pitcher	HOU	L	CP	355	7	R+1	1	1	3	1	1-11	12-15	16-19	20	21	22	-	23+	SV						Wagner	Billy	BillyWagner	BillyWagner	BillyWagner	BillyWagner	BillyWagner	BillyWagner	BillyWagner		BillyWagner
+Randy Johnson	GEN18	randyjohnson.png	Pitcher	ARI	L	SP	600	5	R+1	1	8	3	1	1-7	8-13	14-18	-	19-21	22	-	23+	MVP	W	K				Johnson	Randy	RandyJohnson	RandyJohnson	RandyJohnson	RandyJohnson	RandyJohnson	RandyJohnson	RandyJohnson		RandyJohnson
+Eric Gagne	GEN18	ericgagne.png	Pitcher	LA-N	R	CP	405	8	-	1	1	4	1	1-11	12-16	17-19	-	20-24	-	-	25+	MVP	SV					Gagne	Eric	EricGagne	EricGagne	EricGagne	EricGagne	EricGagne	EricGagne	EricGagne		EricGagne
+Johan Santana	GEN18	johansantana.png	Pitcher	MIN	L	SP	590	6	-	-1	7	4	1	1-7	8-12	13-18	-	19-20	21	-	22+	MVP	W	K				Santana	Johan	JohanSantana	JohanSantana	JohanSantana	JohanSantana	JohanSantana	JohanSantana	JohanSantana		JohanSantana
+Doug Drabek	GEN18	dougdrabek.png	Pitcher	PIT	R	SP	555	5	R+1	1	7	4	1	1-3	4-11	12-17	-	18-22	23	-	24+	MVP	W					Drabek	Doug	DougDrabek	DougDrabek	DougDrabek	DougDrabek	DougDrabek	DougDrabek	DougDrabek		DougDrabek
+Tom Glavine	GEN18	tomglavine.png	Pitcher	ATL	L	SP	490	4	R+2	-1	7	4	1	1-4	5-11	12-17	-	18-22	23	-	24+	MVP	W	K				Glavine	Tom	TomGlavine	TomGlavine	TomGlavine	TomGlavine	TomGlavine	TomGlavine	TomGlavine		TomGlavine
+Rod Beck	GEN18	rodbeck.png	Pitcher	SF	R	CP	300	7	-	1	1	5	1	1-6	7-10	11-17	-	18-19	20	-	21+	SV						Beck	Rod	RodBeck	RodBeck	RodBeck	RodBeck	RodBeck	RodBeck	RodBeck		RodBeck
+David Cone	GEN18	davidcone.png	Pitcher	KC	R	SP	550	4	R+2	2	8	4	1	1-4	5-9	10-17	18	19-21	22	-	23+	MVP	W					Cone	David	DavidCone	DavidCone	DavidCone	DavidCone	DavidCone	DavidCone	DavidCone		DavidCone
+Barry Zito	GEN18	barryzito.png	Pitcher	OAK	L	SP	465	4	R+1	1	7	4	1	1-4	5-10	11-17	18	19-21	22	-	23+	MVP	W	K				Zito	Barry	BarryZito	BarryZito	BarryZito	BarryZito	BarryZito	BarryZito	BarryZito		BarryZito
+Mark Prior	GEN18	markprior.png	Pitcher	CHI-N	R	SP	585	5	R+1	2	7	4	1	1-6	7-12	13-17	-	18-22	23	-	24+	W	K					Prior	Mark	MarkPrior	MarkPrior	MarkPrior	MarkPrior	MarkPrior	MarkPrior	MarkPrior		MarkPrior
+Chris Carpenter	GEN18	chriscarpenter.png	Pitcher	STL	R	SP	560	5	R+1	-1	7	5	1	1-5	6-13	14-17	-	18-22	23	-	24+	MVP	W	K				Carpenter	Chris	ChrisCarpenter	ChrisCarpenter	ChrisCarpenter	ChrisCarpenter	ChrisCarpenter	ChrisCarpenter	ChrisCarpenter		ChrisCarpenter
+Jake Peavy	GEN18	jakepeavy.png	Pitcher	SD	R	SP	545	5	R+1	1	7	3	1	1-6	7-12	13-17	18	19-22	23	-	24+	MVP	W	K				Peavy	Jake	JakePeavy	JakePeavy	JakePeavy	JakePeavy	JakePeavy	JakePeavy	JakePeavy		JakePeavy
+Chuck Finley	GEN18	chuckfinley.png	Pitcher	LA-A	L	SP	390	4	R+1	-2	7	4	1	1-4	5-11	12-17	18	19-22	23	-	24+							Finley	Chuck	ChuckFinley	ChuckFinley	ChuckFinley	ChuckFinley	ChuckFinley	ChuckFinley	ChuckFinley		ChuckFinley
+Kevin Appier	GEN18	kevinappier.png	Pitcher	KC	R	SP	420	4	R+1	-1	7	4	1	1-4	5-10	11-17	18	19-23	24	-	25+							Appier	Kevin	KevinAppier	KevinAppier	KevinAppier	KevinAppier	KevinAppier	KevinAppier	KevinAppier		KevinAppier
+Jack McDowell	GEN18	jackmcdowell.png	Pitcher	CHI-A	R	SP	435	4	L+1	-2	8	4	1-2	1-3	4-11	12-17	-	18-22	23	-	24+	MVP	W					McDowell	Jack	JackMcDowell	JackMcDowell	JackMcDowell	JackMcDowell	JackMcDowell	JackMcDowell	JackMcDowell		JackMcDowell
+Mike Mussina	GEN18	mikemussina.png	Pitcher	BAL	R	SP	445	5	-	-2	7	5	1-2	1-4	5-9	10-17	-	18-21	22	-	23+	W						Mussina	Mike	MikeMussina	MikeMussina	MikeMussina	MikeMussina	MikeMussina	MikeMussina	MikeMussina		MikeMussina
+Tim Wakefield	GEN18	timwakefield.png	Pitcher	BOS	R	SP	340	3	-	1	7	4	1-2	1-3	4-10	11-19	20	21	22	-	23+							Wakefield	Tim	TimWakefield	TimWakefield	TimWakefield	TimWakefield	TimWakefield	TimWakefield	TimWakefield		TimWakefield
+Livan Hernandez	GEN18	livianhernandez.png	Pitcher	MIA	R	SP	395	4	R+1	2	6	4	1-2	1-4	5-10	11-17	18	19-23	24	-	25+							Hernandez	Livan	LivanHernandez	LivanHernandez	LivanHernandez	LivanHernandez	LivanHernandez	LivanHernandez	LivanHernandez		LivanHernandez
+Brad Radke	GEN18	bradradke.png	Pitcher	MIN	R	SP	425	4	R+1	1	7	4	1-2	1-4	5-11	12-17	-	18-21	22	-	23+	W						Radke	Brad	BradRadke	BradRadke	BradRadke	BradRadke	BradRadke	BradRadke	BradRadke		BradRadke
+Al Leiter	GEN18	alleiter.png	Pitcher	NY-N	L	SP	500	5	-	1	7	4	1	1-6	7-11	12-17	18	19-23	24	-	25+							Leiter	Al	AlLeiter	AlLeiter	AlLeiter	AlLeiter	AlLeiter	AlLeiter	AlLeiter		AlLeiter
+Kerry Wood	GEN18	kerrywood.png	Pitcher	CHI-N	R	SP	390	3	R+2	2	6	4	1-2	1-8	9-13	14-17	18	19-21	22	-	23+	K						Wood	Kerry	KerryWood	KerryWood	KerryWood	KerryWood	KerryWood	KerryWood	KerryWood		KerryWood
+Roberto Hernandez	GEN18	robertohernandez.png	Pitcher	TB	R	CP	210	4	L+1	1	1	4	1-2	1-6	7-12	13-17	18	19-24	25	-	26+	SV						Hernandez	Roberto	RobertoHernandez	RobertoHernandez	RobertoHernandez	RobertoHernandez	RobertoHernandez	RobertoHernandez	RobertoHernandez		RobertoHernandez
+Kevin Brown	GEN18	kevinbrown.png	Pitcher	LA-N	R	SP	570	6	-	2	7	3	1	1-6	7-13	14-17	-	18-21	22	-	23+	K						Brown	Kevin	KevinBrown	KevinBrown	KevinBrown	KevinBrown	KevinBrown	KevinBrown	KevinBrown		KevinBrown
+David Wells	GEN18	davidwells.png	Pitcher	TOR	L	SP	420	4	-	2	7	4	1-2	1-4	5-10	11-17	-	18-21	22-23	-	24+	W						Wells	David	DavidWells	DavidWells	DavidWells	DavidWells	DavidWells	DavidWells	DavidWells		DavidWells
+John Smoltz	GEN18	johnsmoltz.png	Pitcher	ATL	R	CP	265	6	-	-1	1	5	1	1-6	7-13	14-17	18	19-23	24	-	25+	SV						Smoltz	John	JohnSmoltz	JohnSmoltz	JohnSmoltz	JohnSmoltz	JohnSmoltz	JohnSmoltz	JohnSmoltz		JohnSmoltz
+Roy Oswalt	GEN18	royoswalt.png	Pitcher	HOU	R	SP	405	4	-	-2	7	5	1-2	1-5	6-12	13-17	-	18-22	23-24	-	25+	W						Oswalt	Roy	RoyOswalt	RoyOswalt	RoyOswalt	RoyOswalt	RoyOswalt	RoyOswalt	RoyOswalt		RoyOswalt
+Andy Pettitte	GEN18	andypettitte.png	Pitcher	NY-A	L	SP	510	5	L+1	-1	7	5	1	1-4	5-12	13-17	-	18-22	23	-	24+							Pettitte	Andy	AndyPettitte	AndyPettitte	AndyPettitte	AndyPettitte	AndyPettitte	AndyPettitte	AndyPettitte		AndyPettitte
+Victor Arano '18	GEN18	18victorarano.png	Pitcher	PHI	R	RP	125	3	R+2	-1	1	3	1-2	1-5	6-10	11-17	-	18-21	22-23	-	24+							Arano	Victor	VictorArano'18	VictorArano18	VictorArano18	VictorArano18	VictorArano18	VictorArano18	VictorArano18		VictorArano18
+Jesse Biddle '18	GEN18	18jessebiddle.png	Pitcher	ATL	L	RP	95	4	-	-2	1	3	1-3	1-5	6-11	12-17	18	19-20	21	-	22+							Biddle	Jesse	JesseBiddle'18	JesseBiddle18	JesseBiddle18	JesseBiddle18	JesseBiddle18	JesseBiddle18	JesseBiddle18		JesseBiddle18
+Ryan Borucki '18	GEN18	18ryanborucki.png	Pitcher	TOR	L	SP	305	4	L+1	-2	6	2	1-2	1-4	5-11	12-17	18	19-22	23-24	-	25+							Borucki	Ryan	RyanBorucki'18	RyanBorucki18	RyanBorucki18	RyanBorucki18	RyanBorucki18	RyanBorucki18	RyanBorucki18		RyanBorucki18
+A.J. Minter '18	GEN18	18ajminter.png	Pitcher	ATL	L	RP	190	4	L+1	1	1	4	1-2	1-6	7-12	13-17	18	19-23	24	-	25+							Minter	A.J.	A.J.Minter'18	A.J.Minter18	A.J.Minter18	A.J.Minter18	AJMinter18	AJMinter18	AJMinter18		AJMinter18
+Edgar Santana '18	GEN18	18edgarsantana.png	Pitcher	PIT	R	RP	215	5	L+1	2	1	4	1-2	1-4	5-11	12-17	-	18-21	22	-	23+							Santana	Edgar	EdgarSantana'18	EdgarSantana18	EdgarSantana18	EdgarSantana18	EdgarSantana18	EdgarSantana18	EdgarSantana18		EdgarSantana18
+Caleb Smith '18	GEN18	18calebsmith.png	Pitcher	MIA	L	SP	330	4	R+1	1	5	4	1-2	1-6	7-11	12-17	18	19-20	21	-	22+							Smith	Caleb	CalebSmith'18	CalebSmith18	CalebSmith18	CalebSmith18	CalebSmith18	CalebSmith18	CalebSmith18		CalebSmith18
+Andrew Suarez '18	GEN18	18andrewsuarez.png	Pitcher	SF	L	SP	290	3	L+2	-2	6	5	1-2	1-4	5-12	13-17	18	19-20	21	-	22+							Suarez	Andrew	AndrewSuarez'18	AndrewSuarez18	AndrewSuarez18	AndrewSuarez18	AndrewSuarez18	AndrewSuarez18	AndrewSuarez18		AndrewSuarez18
+Lou Trivino '18	GEN18	18loutrivino.png	Pitcher	OAK	R	RP	155	4	R+1	1	1	2	1	1-6	7-12	13-17	18	19-20	21	-	22+							Trivino	Lou	LouTrivino'18	LouTrivino18	LouTrivino18	LouTrivino18	LouTrivino18	LouTrivino18	LouTrivino18		LouTrivino18
+Hector Velazquez '18	GEN18	18hectorvelazquez.png	Pitcher	BOS	R	RP	160	3	-	2	2	4	1-2	1-3	4-11	12-17	18	19-23	24	-	25+							Velazquez	Hector	HectorVelazquez'18	HectorVelazquez18	HectorVelazquez18	HectorVelazquez18	HectorVelazquez18	HectorVelazquez18	HectorVelazquez18		HectorVelazquez18
+Ryan Yarbrough '18	GEN18	18ryanyarbrough.png	Pitcher	TB	L	RP	180	4	-	1	2	4	1-2	1-5	6-11	12-17	18	13-21	22	-	23+							Yarbrough	Ryan	RyanYarbrough'18	RyanYarbrough18	RyanYarbrough18	RyanYarbrough18	RyanYarbrough18	RyanYarbrough18	RyanYarbrough18		RyanYarbrough18
+Jim Abbott '18	GEN18	jimabbott.png	Pitcher	LA-A	L	SP	425	4	L+1	1	7	3	1	1-4	5-12	13-17	-	18-23	24	-	25+							Abbott	Jim	JimAbbott'18	JimAbbott18	JimAbbott18	JimAbbott18	JimAbbott18	JimAbbott18	JimAbbott18		JimAbbott18
+Kenny Rogers	Promo	kennyrogers.png	Pitcher	DET	L	SP	445	4	L+1	-1	6	5	1-2	1-3	4-11	12-17	-	18-23	24	-	25+	AS	GG					Rogers	Kenny	KennyRogers	KennyRogers	KennyRogers	KennyRogers	KennyRogers	KennyRogers	KennyRogers		KennyRogers
+Roy Halladay	Promo	18royhalladay.png	Pitcher	TOR	R	SP	620	6	R+1	1	7	2	1-2	1-4	5-12	13-17	-	18-23	24	-	25+	MVP	AS	W	K			Halladay	Roy	RoyHalladay	RoyHalladay	RoyHalladay	RoyHalladay	RoyHalladay	RoyHalladay	RoyHalladay		RoyHalladay
+Shohei Ohtani Pitcher	Promo	18shoheiohtanipitcher.png	Pitcher	HOK	R	SP	805	5	R+1	1	7	3	1	1-6	7-12	13-17	18	19-23	24	-	25+							Ohtani	Shohei	ShoheiOhtaniPitcher	ShoheiOhtaniPitcher	ShoheiOhtaniPitcher	ShoheiOhtaniPitcher	ShoheiOhtaniPitcher	ShoheiOhtaniPitcher	ShoheiOhtaniPitcher		ShoheiOhtaniPitcher
+Trevor Hoffman	Promo	trevorhoffman.png	Pitcher	SD	R	CP	345	7	-	1	1	3	1	1-6	7-12	13-18	-	19-24	25	-	26+	SV	AS					Hoffman	Trevor	TrevorHoffman	TrevorHoffman	TrevorHoffman	TrevorHoffman	TrevorHoffman	TrevorHoffman	TrevorHoffman		TrevorHoffman
+Frank Viola	Promo	frankviola.png	Pitcher	MIN	L	SP	570	5	-	1	7	4	1	1-5	6-10	11-17	-	18-23	24	-	25+	MVP	AS	W	K			Viola	Frank	FrankViola	FrankViola	FrankViola	FrankViola	FrankViola	FrankViola	FrankViola		FrankViola
+Jack Morris	Promo	jackmorris.png	Pitcher	MIN	R	SP	420	4	R+1	2	7	2	1-2	1-4	5-10	11-17	18	19-23	24	-	25+	AS						Morris	Jack	JackMorris	JackMorris	JackMorris	JackMorris	JackMorris	JackMorris	JackMorris		JackMorris
+Curt Schilling	Promo	curtschilling.png	Pitcher	BOS	R	SP	640	6	-	2	7	4	1-2	1-5	6-11	12-17	-	18-23	24	-	25+	W	K	AS				Schilling	Curt	CurtSchilling	CurtSchilling	CurtSchilling	CurtSchilling	CurtSchilling	CurtSchilling	CurtSchilling		CurtSchilling
+The 9-Hole	2017S1	the9hole.png	Strategy	C																										The9-Hole	The9-Hole	The9-Hole	The9-Hole	The9-Hole	The9-Hole	The9-Hole		The9Hole
+Back-Door Slider	2017S1	backdoorslider.png	Strategy	C																										Back-DoorSlider	Back-DoorSlider	Back-DoorSlider	Back-DoorSlider	Back-DoorSlider	Back-DoorSlider	Back-DoorSlider		BackDoorSlider
+Barehand-It	2017S1	barehandit.png	Strategy	C																										Barehand-It	Barehand-It	Barehand-It	Barehand-It	Barehand-It	Barehand-It	Barehand-It		BarehandIt
+Changeup	2017S1	changeup.png	Strategy	C																										Changeup	Changeup	Changeup	Changeup	Changeup	Changeup	Changeup		Changeup
+Chin Music	2017S1	chinmusic.png	Strategy	C																										ChinMusic	ChinMusic	ChinMusic	ChinMusic	ChinMusic	ChinMusic	ChinMusic		ChinMusic
+Coming in Hot	2017S1	cominginhot.png	Strategy	C																										CominginHot	CominginHot	CominginHot	CominginHot	CominginHot	CominginHot	CominginHot		CominginHot
+Crowd on its Feet	2017S1	crowdonitsfeet.png	Strategy	R																										CrowdonitsFeet	CrowdonitsFeet	CrowdonitsFeet	CrowdonitsFeet	CrowdonitsFeet	CrowdonitsFeet	CrowdonitsFeet		CrowdonitsFeet
+Cutter	2017S1	cutter.png	Strategy	U																										Cutter	Cutter	Cutter	Cutter	Cutter	Cutter	Cutter		Cutter
+Digging Deep	2017S1	diggingdeep.png	Strategy	R																										DiggingDeep	DiggingDeep	DiggingDeep	DiggingDeep	DiggingDeep	DiggingDeep	DiggingDeep		DiggingDeep
+Diving up the Middle	2017S1	divingupthemiddle.png	Strategy	C																										DivinguptheMiddle	DivinguptheMiddle	DivinguptheMiddle	DivinguptheMiddle	DivinguptheMiddle	DivinguptheMiddle	DivinguptheMiddle		DivinguptheMiddle
+Enter Night	2017S1	enternight.png	Strategy	U																										EnterNight	EnterNight	EnterNight	EnterNight	EnterNight	EnterNight	EnterNight		EnterNight
+Fast Worker	2017S1	fastworker.png	Strategy	U																										FastWorker	FastWorker	FastWorker	FastWorker	FastWorker	FastWorker	FastWorker		FastWorker
+Fired Up	2017S1	firedup.png	Strategy	U																										FiredUp	FiredUp	FiredUp	FiredUp	FiredUp	FiredUp	FiredUp		FiredUp
+Ground Rule Double	2017S1	groundruledouble.png	Strategy	C																										GroundRuleDouble	GroundRuleDouble	GroundRuleDouble	GroundRuleDouble	GroundRuleDouble	GroundRuleDouble	GroundRuleDouble		GroundRuleDouble
+Highway Robbery	2017S1	highwayrobbery.png	Strategy	R																										HighwayRobbery	HighwayRobbery	HighwayRobbery	HighwayRobbery	HighwayRobbery	HighwayRobbery	HighwayRobbery		HighwayRobbery
+Hit the Cut-Off Man	2017S1	hitthecutoffman.png	Strategy	C																										HittheCut-OffMan	HittheCut-OffMan	HittheCut-OffMan	HittheCut-OffMan	HittheCut-OffMan	HittheCut-OffMan	HittheCut-OffMan		HittheCutOffMan
+How About That!?	2017S1	howaboutthat.png	Strategy	C																										HowAboutThat!?	HowAboutThat!?	HowAboutThat?	HowAboutThat	HowAboutThat	HowAboutThat	HowAboutThat		HowAboutThat
+Hung One	2017S1	hungone.png	Strategy	C																										HungOne	HungOne	HungOne	HungOne	HungOne	HungOne	HungOne		HungOne
+In on the Hands	2017S1	inonthehands.png	Strategy	C																										InontheHands	InontheHands	InontheHands	InontheHands	InontheHands	InontheHands	InontheHands		InontheHands
+Infield Fly	2017S1	infieldfly.png	Strategy	C																										InfieldFly	InfieldFly	InfieldFly	InfieldFly	InfieldFly	InfieldFly	InfieldFly		InfieldFly
+Keep Him in Check	2017S1	keephimincheck.png	Strategy	C																										KeepHiminCheck	KeepHiminCheck	KeepHiminCheck	KeepHiminCheck	KeepHiminCheck	KeepHiminCheck	KeepHiminCheck		KeepHiminCheck
+Lefty Shift	2017S1	leftyshift.png	Strategy	C																										LeftyShift	LeftyShift	LeftyShift	LeftyShift	LeftyShift	LeftyShift	LeftyShift		LeftyShift
+Make Some Noise	2017S1	makesomenoise.png	Strategy	C																										MakeSomeNoise	MakeSomeNoise	MakeSomeNoise	MakeSomeNoise	MakeSomeNoise	MakeSomeNoise	MakeSomeNoise		MakeSomeNoise
+Pitch Around	2017S1	pitcharound.png	Strategy	U																										PitchAround	PitchAround	PitchAround	PitchAround	PitchAround	PitchAround	PitchAround		PitchAround
+Quality Start	2017S1	qualitystart.png	Strategy	U																										QualityStart	QualityStart	QualityStart	QualityStart	QualityStart	QualityStart	QualityStart		QualityStart
+Quick Draw	2017S1	quickdraw.png	Strategy	U																										QuickDraw	QuickDraw	QuickDraw	QuickDraw	QuickDraw	QuickDraw	QuickDraw		QuickDraw
+Scooped It	2017S1	scoopedit.png	Strategy	C																										ScoopedIt	ScoopedIt	ScoopedIt	ScoopedIt	ScoopedIt	ScoopedIt	ScoopedIt		ScoopedIt
+Throwing Gas	2017S1	throwinggas.png	Strategy	U																										ThrowingGas	ThrowingGas	ThrowingGas	ThrowingGas	ThrowingGas	ThrowingGas	ThrowingGas		ThrowingGas
+Triple Play!	2017S1	tripleplay.png	Strategy	C																										TriplePlay!	TriplePlay!	TriplePlay	TriplePlay	TriplePlay	TriplePlay	TriplePlay		TriplePlay
+Under Pressure	2017S1	underpressure.png	Strategy	C																										UnderPressure	UnderPressure	UnderPressure	UnderPressure	UnderPressure	UnderPressure	UnderPressure		UnderPressure
+Web Gem	2017S1	webgem.png	Strategy	R																										WebGem	WebGem	WebGem	WebGem	WebGem	WebGem	WebGem		WebGem
+Airmailed It	2017S1	airmailedit.png	Strategy	C																										AirmailedIt	AirmailedIt	AirmailedIt	AirmailedIt	AirmailedIt	AirmailedIt	AirmailedIt		AirmailedIt
+Back...Back...Back!	2017S1	backbackback.png	Strategy	R																										Back...Back...Back!	Back...Back...Back!	Back...Back...Back	Back...Back...Back	BackBackBack	BackBackBack	BackBackBack		BackBackBack
+Baltimore Chop	2017S1	baltimorechop.png	Strategy	U																										BaltimoreChop	BaltimoreChop	BaltimoreChop	BaltimoreChop	BaltimoreChop	BaltimoreChop	BaltimoreChop		BaltimoreChop
+Barnum and Bailey	2017S1	barnumandbailey.png	Strategy	C																										BarnumandBailey	BarnumandBailey	BarnumandBailey	BarnumandBailey	BarnumandBailey	BarnumandBailey	BarnumandBailey		BarnumandBailey
+Blooper	2017S1	blooper.png	Strategy	C																										Blooper	Blooper	Blooper	Blooper	Blooper	Blooper	Blooper		Blooper
+Bush-League	2017S1	bushleague.png	Strategy	C																										Bush-League	Bush-League	Bush-League	Bush-League	Bush-League	Bush-League	Bush-League		BushLeague
+Drag Bunt	2017S1	dragbunt.png	Strategy	U																										DragBunt	DragBunt	DragBunt	DragBunt	DragBunt	DragBunt	DragBunt		DragBunt
+Dropped Third Strike	2017S1	droppedthirdstrike.png	Strategy	C																										DroppedThirdStrike	DroppedThirdStrike	DroppedThirdStrike	DroppedThirdStrike	DroppedThirdStrike	DroppedThirdStrike	DroppedThirdStrike		DroppedThirdStrike
+Exuberant	2017S1	exuberant.png	Strategy	C																										Exuberant	Exuberant	Exuberant	Exuberant	Exuberant	Exuberant	Exuberant		Exuberant
+Get Foul!	2017S1	getfoul.png	Strategy	C																										GetFoul!	GetFoul!	GetFoul	GetFoul	GetFoul	GetFoul	GetFoul		GetFoul
+Good Jump	2017S1	goodjump.png	Strategy	U																										GoodJump	GoodJump	GoodJump	GoodJump	GoodJump	GoodJump	GoodJump		GoodJump
+Hit and Run	2017S1	hitandrun.png	Strategy	U																										HitandRun	HitandRun	HitandRun	HitandRun	HitandRun	HitandRun	HitandRun		HitandRun
+Hot Shot	2017S1	hotshot.png	Strategy	U																										HotShot	HotShot	HotShot	HotShot	HotShot	HotShot	HotShot		HotShot
+Late-Inning Fireworks	2017S1	lateinningfireworks.png	Strategy	R																										Late-InningFireworks	Late-InningFireworks	Late-InningFireworks	Late-InningFireworks	Late-InningFireworks	Late-InningFireworks	Late-InningFireworks		LateInningFireworks
+Locked In	2017S1	lockedin.png	Strategy	R																										LockedIn	LockedIn	LockedIn	LockedIn	LockedIn	LockedIn	LockedIn		LockedIn
+Make Him Pay	2017S1	makehimpay.png	Strategy	C																										MakeHimPay	MakeHimPay	MakeHimPay	MakeHimPay	MakeHimPay	MakeHimPay	MakeHimPay		MakeHimPay
+Meatball Masher	2017S1	meatballmasher.png	Strategy	R																										MeatballMasher	MeatballMasher	MeatballMasher	MeatballMasher	MeatballMasher	MeatballMasher	MeatballMasher		MeatballMasher
+The One Who Knocks	2017S1	theonewhoknocks.png	Strategy	C																										TheOneWhoKnocks	TheOneWhoKnocks	TheOneWhoKnocks	TheOneWhoKnocks	TheOneWhoKnocks	TheOneWhoKnocks	TheOneWhoKnocks		TheOneWhoKnocks
+Oppo-Power	2017S1	oppopower.png	Strategy	C																										Oppo-Power	Oppo-Power	Oppo-Power	Oppo-Power	Oppo-Power	Oppo-Power	Oppo-Power		OppoPower
+Prime Time	2017S1	primetime.png	Strategy	C																										PrimeTime	PrimeTime	PrimeTime	PrimeTime	PrimeTime	PrimeTime	PrimeTime		PrimeTime
+Productive Out	2017S1	productiveout.png	Strategy	C																										ProductiveOut	ProductiveOut	ProductiveOut	ProductiveOut	ProductiveOut	ProductiveOut	ProductiveOut		ProductiveOut
+Reading the Ball	2017S1	readingtheball.png	Strategy	U																										ReadingtheBall	ReadingtheBall	ReadingtheBall	ReadingtheBall	ReadingtheBall	ReadingtheBall	ReadingtheBall		ReadingtheBall
+Suicide Squeeze	2017S1	suicidesqueeze.png	Strategy	C																										SuicideSqueeze	SuicideSqueeze	SuicideSqueeze	SuicideSqueeze	SuicideSqueeze	SuicideSqueeze	SuicideSqueeze		SuicideSqueeze
+Sweet Spot	2017S1	sweetspot.png	Strategy	C																										SweetSpot	SweetSpot	SweetSpot	SweetSpot	SweetSpot	SweetSpot	SweetSpot		SweetSpot
+Tailing Winds	2017S1	tailingwinds.png	Strategy	U																										TailingWinds	TailingWinds	TailingWinds	TailingWinds	TailingWinds	TailingWinds	TailingWinds		TailingWinds
+Thou Shall Not Pass	2017S1	thoushallnotpass.png	Strategy	C																										ThouShallNotPass	ThouShallNotPass	ThouShallNotPass	ThouShallNotPass	ThouShallNotPass	ThouShallNotPass	ThouShallNotPass		ThouShallNotPass
+Tipping His Pitches	2017S1	tippinghispitches.png	Strategy	U																										TippingHisPitches	TippingHisPitches	TippingHisPitches	TippingHisPitches	TippingHisPitches	TippingHisPitches	TippingHisPitches		TippingHisPitches
+Turned on One	2017S1	turnedonone.png	Strategy	C																										TurnedonOne	TurnedonOne	TurnedonOne	TurnedonOne	TurnedonOne	TurnedonOne	TurnedonOne		TurnedonOne
+The Wheelhouse	2017S1	thewheelhouse.png	Strategy	C																										TheWheelhouse	TheWheelhouse	TheWheelhouse	TheWheelhouse	TheWheelhouse	TheWheelhouse	TheWheelhouse		TheWheelhouse
+Who's Got the Yipps?	2017S1	whosgottheyipps.png	Strategy	C																										Who'sGottheYipps?	WhosGottheYipps?	WhosGottheYipps?	WhosGottheYipps	WhosGottheYipps	WhosGottheYipps	WhosGottheYipps		WhosGottheYipps
+Wild Thing	2017S1	wildthing.png	Strategy	C																										WildThing	WildThing	WildThing	WildThing	WildThing	WildThing	WildThing		WildThing
+Challenge Flag	2017S1	challengeflag.png	Strategy	U																										ChallengeFlag	ChallengeFlag	ChallengeFlag	ChallengeFlag	ChallengeFlag	ChallengeFlag	ChallengeFlag		ChallengeFlag
+Deja Vu	2017S1	dejavu.png	Strategy	R																										DejaVu	DejaVu	DejaVu	DejaVu	DejaVu	DejaVu	DejaVu		DejaVu
+Instant Replay	2017S1	instantreplay.png	Strategy	R																										InstantReplay	InstantReplay	InstantReplay	InstantReplay	InstantReplay	InstantReplay	InstantReplay		InstantReplay
+Lost his Mojo	2017S1	losthismojo.png	Strategy	U																										LosthisMojo	LosthisMojo	LosthisMojo	LosthisMojo	LosthisMojo	LosthisMojo	LosthisMojo		LosthisMojo
+Not Without a Fight	2017S1	notwithoutafight.png	Strategy	U																										NotWithoutaFight	NotWithoutaFight	NotWithoutaFight	NotWithoutaFight	NotWithoutaFight	NotWithoutaFight	NotWithoutaFight		NotWithoutaFight
+Overruled	2017S1	overruled.png	Strategy	U																										Overruled	Overruled	Overruled	Overruled	Overruled	Overruled	Overruled		Overruled
+Road Rally	2017S1	roadrally.png	Strategy	C																										RoadRally	RoadRally	RoadRally	RoadRally	RoadRally	RoadRally	RoadRally		RoadRally
+Scouting Reports	2017S1	scoutingreports.png	Strategy	C																										ScoutingReports	ScoutingReports	ScoutingReports	ScoutingReports	ScoutingReports	ScoutingReports	ScoutingReports		ScoutingReports
+Chin Music 2.0	ASG17	chinmusic20.png	Strategy	U																										ChinMusic2.0	ChinMusic2.0	ChinMusic2.0	ChinMusic2.0	ChinMusic20	ChinMusic20	ChinMusic20		ChinMusic20
+Coming In Hot 2.0	ASG17	cominginhot20.png	Strategy	U																										ComingInHot2.0	ComingInHot2.0	ComingInHot2.0	ComingInHot2.0	ComingInHot20	ComingInHot20	ComingInHot20		ComingInHot20
+Blooper 2.0	ASG17	blooper20.png	Strategy	U																										Blooper2.0	Blooper2.0	Blooper2.0	Blooper2.0	Blooper20	Blooper20	Blooper20		Blooper20
+The One Who Knocks 2.0	ASG17	theonewhoknocks20.png	Strategy	U																										TheOneWhoKnocks2.0	TheOneWhoKnocks2.0	TheOneWhoKnocks2.0	TheOneWhoKnocks2.0	TheOneWhoKnocks20	TheOneWhoKnocks20	TheOneWhoKnocks20		TheOneWhoKnocks20
+Road Rally 2.0	ASG17	roadrally20.png	Strategy	U																										RoadRally2.0	RoadRally2.0	RoadRally2.0	RoadRally2.0	RoadRally20	RoadRally20	RoadRally20		RoadRally20
+Got His Number	ASG17	gothisnumber.png	Strategy	UR																										GotHisNumber	GotHisNumber	GotHisNumber	GotHisNumber	GotHisNumber	GotHisNumber	GotHisNumber		GotHisNumber
+In His Head	ASG17	inhishead.png	Strategy	UR																										InHisHead	InHisHead	InHisHead	InHisHead	InHisHead	InHisHead	InHisHead		InHisHead
+Twist of Fate	ASG17	twistoffate.png	Strategy	UR																										TwistofFate	TwistofFate	TwistofFate	TwistofFate	TwistofFate	TwistofFate	TwistofFate		TwistofFate
+Goatbusters	Promo	goatbusters.png	Strategy	UR																										Goatbusters	Goatbusters	Goatbusters	Goatbusters	Goatbusters	Goatbusters	Goatbusters		Goatbusters
+Curse Of The Black Cat	Promo	curseoftheblackcat.png	Strategy	UR																										CurseOfTheBlackCat	CurseOfTheBlackCat	CurseOfTheBlackCat	CurseOfTheBlackCat	CurseOfTheBlackCat	CurseOfTheBlackCat	CurseOfTheBlackCat		CurseOfTheBlackCat
+Edgar Martinez	Promo	edgarmartinez.png	Batter	SEA	R	DH	685	15	L+2	1	8	0	 -	-	1	2	3-10	11-17	18-22	-	23+	SL	RBI	AS				Martinez	Edgar	EdgarMartinez	EdgarMartinez	EdgarMartinez	EdgarMartinez	EdgarMartinez	EdgarMartinez	EdgarMartinez		EdgarMartinez
+Harold Baines	Promo	haroldbaines.png	Batter	CHI-A	L	LF/RF	460	13	R+1	1	12	2	 -	-	1-2	3-4	5-8	9-17	18-20	21	22+							Baines	Harold	HaroldBaines	HaroldBaines	HaroldBaines	HaroldBaines	HaroldBaines	HaroldBaines	HaroldBaines		HaroldBaines
+Roy Halladay HOF	Promo	royhalladay.png	Pitcher	PHI	R	SP	705	6	-	2	8	4	1	1-5	6-14	15-17	-	18-23	24	 -	25+	MVP	W	K	AS			Halladay	Roy	RoyHalladayHOF	RoyHalladayHOF	RoyHalladayHOF	RoyHalladayHOF	RoyHalladayHOF	RoyHalladayHOF	RoyHalladayHOF		RoyHalladayHOF
+Mike Mussina	Promo	mikemussina.png	Pitcher	NY-A	R	SP	555	5	R+1	-1	7	4	1	1-5	6-12	13-17	18	19-23	24	 -	25+	K	GG					Mussina	Mike	MikeMussina	MikeMussina	MikeMussina	MikeMussina	MikeMussina	MikeMussina	MikeMussina		MikeMussina
+Mariano Rivera	Promo	marianorivera.png	Pitcher	NY-A	R	RP	355	6	L+2	2	1	4	1	1-5	6-15	16-18	19	20-24	25	 -	26+	SV	AS					Rivera	Mariano	MarianoRivera	MarianoRivera	MarianoRivera	MarianoRivera	MarianoRivera	MarianoRivera	MarianoRivera		MarianoRivera
+Lee Smith	Promo	leesmith.png	Pitcher	CHI-N	R	RP	350	5	R+1	1	2	3	1	1-5	6-12	13-18	19	20-23	24	 -	25+	SV	AS					Smith	Lee	LeeSmith	LeeSmith	LeeSmith	LeeSmith	LeeSmith	LeeSmith	LeeSmith		LeeSmith
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
