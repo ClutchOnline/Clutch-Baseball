@@ -1,6 +1,6 @@
 <plugin>
 
-<pluginname>Clutch Baseball</pluginname>
+<pluginname>Clutch-Baseball</pluginname>
 
 <globalstat><label>Outs</label><initialvalue>0</initialvalue></globalstat>
 <globalstat><label>Inning</label><initialvalue>1</initialvalue></globalstat>

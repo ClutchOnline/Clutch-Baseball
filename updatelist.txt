@@ -1,5 +1,5 @@
 Clutch-Baseball	11-26-19
-plugins/Clutch-Baseball/plugininfo.txt	https://raw.githubusercontent.com/ClutchOnline/Clutch-Baseball/master/plugininfo.txt	183222
+plugins/Clutch-Baseball/plugininfo.txt	https://raw.githubusercontent.com/ClutchOnline/Clutch-Baseball/master/plugininfo.txt	183235
 plugins/Clutch-Baseball/sets/setimages/cardback.jpg	https://raw.githubusercontent.com/ClutchOnline/Clutch-Baseball/master/cardback.jpg	-44649
 plugins/Clutch-Baseball/sets/carddata.txt	https://raw.githubusercontent.com/ClutchOnline/Clutch-Baseball/master/carddata.txt	19469037
 CardGeneralURLs:
