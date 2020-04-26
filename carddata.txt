@@ -400,109 +400,109 @@ Joe Biagini '19	2019S1	18-19series1/19joebiagini.png	Pitcher	TOR	R	RP	95	3	0	1	2
 Luke Gregerson '19	2019S1	18-19series1/19lukegregerson.png	Pitcher	STL	R	RP	90	4	0	-2	1	2	1-3	1-6	7-13	14-17	18	19-20	21-22	-	23+						
 Sam Dyson '19	2019S1	18-19series1/19samdyson.png	Pitcher	SF	R	RP	90	3	R+1	-1	1	1	1-2	1-4	5-14	15-17	18	19-22	23-24	-	25+						
 Frank Robinson Manager	19PreOrder	16-19series1preorder/19frankrobinsonmanager.png	Strategy	UR		Inning Effect																					
-Hail to the King	TripleCrown	19-19triplecrown/19hailtothekingpng.png	Strategy	UR	MVP/SL/HR/RBI/R/SB/GG/AS																						
-Defend the Throne	TripleCrown	19-19triplecrown/19defendthethronepng.png	Strategy	UR	MVP/W/K/SV/HL/GG/AS																						
-Do or Die	2019S1	18-19series1/19doordiepng.png	Strategy	C		Clutch Moment																					
-Ace In the Hole	2019S1	18-19series1/19aceintheholepng.png	Strategy	R	MVP/W/K/SV/HL	Clutch Moment																					
-Ahead in the Count	2019S1	18-19series1/19aheadinthecountpng.png	Strategy	C	MVP/W/K																						
-Back Burner	2019S1	18-19series1/19backburnerpng.png	Strategy	C																							
-Bang Bang	2019S1	18-19series1/19bangbangpng.png	Strategy	U	GG																						
-Breathing Room 2.0	2019S1	18-19series1/19breathingroom20png.png	Strategy	U	K/SV	Clutch Moment																					
-Bridging the Gap	2019S1	18-19series1/19bridgingthegappng.png	Strategy	R	HL	Clutch Moment																					
-Choke Artist	2019S1	18-19series1/19chokeartistpng.png	Strategy	C		Momentum																					
-Circus Act	2019S1	18-19series1/19circusactpng.png	Strategy	C	GG																						
-Claustrophobia	2019S1	18-19series1/19claustrophobiapng.png	Strategy	C																							
-Cut the Lights	2019S1	18-19series1/19cutthelightspng.png	Strategy	U	SV	Momentum																					
-Daylight Play	2019S1	18-19series1/19daylightplaypng.png	Strategy	C	GG																						
-Down and Away	2019S1	18-19series1/19downandawaypng.png	Strategy	U	W																						
-Eat the Ball	2019S1	18-19series1/19eattheballpng.png	Strategy	C																							
-Effectively Wild	2019S1	18-19series1/19effectivelywildpng.png	Strategy	U																							
-Front Loaded	2019S1	18-19series1/19frontloadedpng.png	Strategy	C																							
-Get Hyphy	2019S1	18-19series1/19gethyphypng.png	Strategy	C	MVP/W/K/SV/HL	Momentum																					
-Grab and Go	2019S1	18-19series1/19grabandgopng.png	Strategy	C	GG																						
-Grudge Match	2019S1	18-19series1/19grudgematchpng.png	Strategy	U	MVP/W/K/SV/HL																						
-Hanging K's	2019S1	18-19series1/19hanginks.png	Strategy	U	MVP/K	Momentum																					
-High and Tight	2019S1	18-19series1/19highandtightpng.png	Strategy	U	K																						
-Jack in the Box	2019S1	18-19series1/19jackintheboxpng.png	Strategy	C																							
-Left for Dead	2019S1	18-19series1/19leftfordeadpng.png	Strategy	R																							
-Ordinary Hero	2019S1	18-19series1/19ordinaryheropng.png	Strategy	C																							
-Pitch Out	2019S1	18-19series1/19pitchoutpng.png	Strategy	C																							
-Pump Fake	2019S1	18-19series1/19pumpfakepng.png	Strategy	C																							
-Seems So Simple	2019S1	18-19series1/19seemssosimplepng.png	Strategy	C																							
+Hail to the King	TripleCrown	19-19triplecrown/19hailtotheking.png	Strategy	UR	MVP/SL/HR/RBI/R/SB/GG/AS																						
+Defend the Throne	TripleCrown	19-19triplecrown/19defendthethrone.png	Strategy	UR	MVP/W/K/SV/HL/GG/AS																						
+Do or Die	2019S1	18-19series1/19doordie.png	Strategy	C		Clutch Moment																					
+Ace In the Hole	2019S1	18-19series1/19aceinthehole.png	Strategy	R	MVP/W/K/SV/HL	Clutch Moment																					
+Ahead in the Count	2019S1	18-19series1/19aheadinthecount.png	Strategy	C	MVP/W/K																						
+Back Burner	2019S1	18-19series1/19backburner.png	Strategy	C																							
+Bang Bang	2019S1	18-19series1/19bangbang.png	Strategy	U	GG																						
+Breathing Room 2.0	2019S1	18-19series1/19breathingroom20.png	Strategy	U	K/SV	Clutch Moment																					
+Bridging the Gap	2019S1	18-19series1/19bridgingthegap.png	Strategy	R	HL	Clutch Moment																					
+Choke Artist	2019S1	18-19series1/19chokeartist.png	Strategy	C		Momentum																					
+Circus Act	2019S1	18-19series1/19circusact.png	Strategy	C	GG																						
+Claustrophobia	2019S1	18-19series1/19claustrophobia.png	Strategy	C																							
+Cut the Lights	2019S1	18-19series1/19cutthelights.png	Strategy	U	SV	Momentum																					
+Daylight Play	2019S1	18-19series1/19daylightplay.png	Strategy	C	GG																						
+Down and Away	2019S1	18-19series1/19downandaway.png	Strategy	U	W																						
+Eat the Ball	2019S1	18-19series1/19eattheball.png	Strategy	C																							
+Effectively Wild	2019S1	18-19series1/19effectivelywild.png	Strategy	U																							
+Front Loaded	2019S1	18-19series1/19frontloaded.png	Strategy	C																							
+Get Hyphy	2019S1	18-19series1/19gethyphy.png	Strategy	C	MVP/W/K/SV/HL	Momentum																					
+Grab and Go	2019S1	18-19series1/19grabandgo.png	Strategy	C	GG																						
+Grudge Match	2019S1	18-19series1/19grudgematch.png	Strategy	U	MVP/W/K/SV/HL																						
+Hanging K's	2019S1	18-19series1/19hangingks.png	Strategy	U	MVP/K	Momentum																					
+High and Tight	2019S1	18-19series1/19highandtight.png	Strategy	U	K																						
+Jack in the Box	2019S1	18-19series1/19jackinthebox.png	Strategy	C																							
+Left for Dead	2019S1	18-19series1/19leftfordead.png	Strategy	R																							
+Ordinary Hero	2019S1	18-19series1/19ordinaryhero.png	Strategy	C																							
+Pitch Out	2019S1	18-19series1/19pitchout.png	Strategy	C																							
+Pump Fake	2019S1	18-19series1/19pumpfake.png	Strategy	C																							
+Seems So Simple	2019S1	18-19series1/19seemssosimple.png	Strategy	C																							
 Set-Up Man 2.0	2019S1	18-19series1/19setupman20.png	Strategy	U	K/HL																						
-Team Chemistry	2019S1	18-19series1/19teamchemistrypng.png	Strategy	C																							
-Throwing Strikes	2019S1	18-19series1/19throwingstrikespng.png	Strategy	C	MVP/W/SV/HL																						
-Bat on Ball	2019S1	18-19series1/19batonballpng.png	Strategy	C																							
-Better 1 Out Than 2	2019S1	18-19series1/19better1outthan2png.png	Strategy	C																							
-Chain Reaction	2019S1	18-19series1/19chainreactionpng.png	Strategy	U																							
-Charged Up	2019S1	18-19series1/19chargeduppng.png	Strategy	C	MVP/HR/R																						
-Chugga Chugga	2019S1	18-19series1/19chuggachuggapng.png	Strategy	C																							
-Clickbait	2019S1	18-19series1/19clickbaitpng.png	Strategy	C	SB	Speed (A)																					
-Cloud Nine	2019S1	18-19series1/19cloudninepng.png	Strategy	C	SL/RBI	Momentum																					
-Disrespected	2019S1	18-19series1/19disrespectedpng.png	Strategy	C																							
-Four Corners	2019S1	18-19series1/19fourcornerspng.png	Strategy	C	SB																						
-Hit the Road Jack	2019S1	18-19series1/19hittheroadjackpng.png	Strategy	U	SL/R	Momentum																					
-Homeward Bound	2019S1	18-19series1/19homewardboundpng.png	Strategy	C																							
-Meatball Masher 2.0	2019S1	18-19series1/19meatballmasher20png.png	Strategy	R	MVP/SL/HR/RBI																						
-Never Enough	2019S1	18-19series1/19neverenoughpng.png	Strategy	C	MVP/SL/HR/RBI																						
-On Deck Circle	2019S1	18-19series1/19ondeckcirclepng.png	Strategy	U																							
-Opposite Way	2019S1	18-19series1/19oppositewaypng.png	Strategy	U	SL																						
-Passed Ball	2019S1	18-19series1/19passedballpng.png	Strategy	U		Momentum																					
-Pitch Count	2019S1	18-19series1/19pitchcountpng.png	Strategy	C	MVP/HR																						
-Pulled It	2019S1	18-19series1/19pulleditpng.png	Strategy	U	RBI																						
-Rattled	2019S1	18-19series1/19rattledpng.png	Strategy	C																							
-Reading the Ball 2.0	2019S1	18-19series1/19readingtheball20png.png	Strategy	U	SB/R																						
+Team Chemistry	2019S1	18-19series1/19teamchemistry.png	Strategy	C																							
+Throwing Strikes	2019S1	18-19series1/19throwingstrikes.png	Strategy	C	MVP/W/SV/HL																						
+Bat on Ball	2019S1	18-19series1/19batonball.png	Strategy	C																							
+Better 1 Out Than 2	2019S1	18-19series1/19better1outthan2.png	Strategy	C																							
+Chain Reaction	2019S1	18-19series1/19chainreaction.png	Strategy	U																							
+Charged Up	2019S1	18-19series1/19chargedup.png	Strategy	C	MVP/HR/R																						
+Chugga Chugga	2019S1	18-19series1/19chuggachugga.png	Strategy	C																							
+Clickbait	2019S1	18-19series1/19clickbait.png	Strategy	C	SB	Speed (A)																					
+Cloud Nine	2019S1	18-19series1/19cloudnine.png	Strategy	C	SL/RBI	Momentum																					
+Disrespected	2019S1	18-19series1/19disrespected.png	Strategy	C																							
+Four Corners	2019S1	18-19series1/19fourcorners.png	Strategy	C	SB																						
+Hit the Road Jack	2019S1	18-19series1/19hittheroadjack.png	Strategy	U	SL/R	Momentum																					
+Homeward Bound	2019S1	18-19series1/19homewardbound.png	Strategy	C																							
+Meatball Masher 2.0	2019S1	18-19series1/19meatballmasher20.png	Strategy	R	MVP/SL/HR/RBI																						
+Never Enough	2019S1	18-19series1/19neverenough.png	Strategy	C	MVP/SL/HR/RBI																						
+On Deck Circle	2019S1	18-19series1/19ondeckcircle.png	Strategy	U																							
+Opposite Way	2019S1	18-19series1/19oppositeway.png	Strategy	U	SL																						
+Passed Ball	2019S1	18-19series1/19passedball.png	Strategy	U		Momentum																					
+Pitch Count	2019S1	18-19series1/19pitchcount.png	Strategy	C	MVP/HR																						
+Pulled It	2019S1	18-19series1/19pulledit.png	Strategy	U	RBI																						
+Rattled	2019S1	18-19series1/19rattled.png	Strategy	C																							
+Reading the Ball 2.0	2019S1	18-19series1/19readingtheball20.png	Strategy	U	SB/R																						
 Rib-Eye Steak 2.0	2019S1	18-19series1/19ribeyesteak20.png	Strategy	U	R																						
-Round Em Up	2019S1	18-19series1/19roundemuppng.png	Strategy	R	R	Momentum																					
-Squash the Bug	2019S1	18-19series1/19squashthebugpng.png	Strategy	R	MVP/SL/HR/RBI/R																						
-Stealing Signs	2019S1	18-19series1/19stealingsignspng.png	Strategy	C																							
-Unsung Hero	2019S1	18-19series1/19unsungheropng.png	Strategy	C		125 or less salary needed																					
-Walk This Way	2019S1	18-19series1/19walkthiswaypng.png	Strategy	C		Momentum																					
-Wandering Eye	2019S1	18-19series1/19wanderingeyepng.png	Strategy	C	SB																						
-Who Run It?	2019S1	18-19series1/19whorunitpng.png	Strategy	U		R icon needed																					
-Did His Homework 2.0	2019S1	18-19series1/19didhishomework20png.png	Strategy	R																							
-Give and Take	2019S1	18-19series1/19giveandtakepng.png	Strategy	R																							
-It's a Trap!	2019S1	18-19series1/19itsatrappng.png	Strategy	C																							
-The Long Con	2019S1	18-19series1/19thelongconpng.png	Strategy	C																							
-Losing Steam	2019S1	18-19series1/19losingsteampng.png	Strategy	U	MVP																						
-Seeing is Believing	2019S1	18-19series1/19seeingisbelievingpng.png	Strategy	C																							
-Afternoon Shade	2019S1	18-19series1/19afternoonshadepng.png	Strategy	C																							
-The Dog Days	2019S1	18-19series1/19thedogdayspng.png	Strategy	R	MVP																						
-Frozen Fingers	2019S1	18-19series1/19frozenfingerspng.png	Strategy	C																							
-Muddy Track	2019S1	18-19series1/19muddytrackpng.png	Strategy	C	SB																						
-Craig Counsell	2019S1	18-19series1/19craigcounsellpng.png	Strategy	R																							
-Alex Cora	2019S1	18-19series1/19alexcorapng.png	Strategy	C																							
-Arizona Field	2019S1	18-19series1/19arizonafieldpng.png	Stadium																								
-Atlanta Park	2019S1	18-19series1/19atlantaparkpng.png	Stadium																								
-Baltimore Yards	2019S1	18-19series1/19baltimoreyardspng.png	Stadium																								
-Boston Park	2019S1	18-19series1/19bostonparkpng.png	Stadium																								
-Brooklyn Field	Black History	15-19blackhistory/19brooklynfieldpng.png	Stadium																								
-Chicago (A) Field	2019S1	18-19series1/19chicagoafieldpng.png	Stadium																								
-Chicago (N) Field	2019S1	18-19series1/19chicagonfieldpng.png	Stadium																								
-Cincinnati Park	2019S1	18-19series1/19cincinnatiparkpng.png	Stadium																								
-Cleveland Field	2019S1	18-19series1/19clevelandfieldpng.png	Stadium																								
-Colorado Field	2019S1	18-19series1/19coloradofieldpng.png	Stadium																								
-Detroit Park	2019S1	18-19series1/19detroitparkpng.png	Stadium																								
-Houston Park	2019S1	18-19series1/19houstonparkpng.png	Stadium																								
-Kansas City Stadium	2019S1	18-19series1/19kansascitystadiumpng.png	Stadium																								
-Los Angeles (A) Stadium	2019S1	18-19series1/19losangelesastadiumpng.png	Stadium																								
-Los Angeles (N) Stadium	2019S1	18-19series1/19losangelesnstadiumpng.png	Stadium																								
-Miami Park	2019S1	18-19series1/19miamiparkpng.png	Stadium																								
-Milwaukee Park	2019S1	18-19series1/19milwaukeeparkpng.png	Stadium																								
-Minnesota Field	2019S1	18-19series1/19minnesotafieldpng.png	Stadium																								
-New York (A) Stadium	2019S1	18-19series1/19newyorkastadiumpng.png	Stadium																								
-New York (N) Field	2019S1	18-19series1/19newyorknfieldpng.png	Stadium																								
-Oakland Stadium	2019S1	18-19series1/19oaklandstadiumpng.png	Stadium																								
-Philadelphia Park	2019S1	18-19series1/19philadelphiaparkpng.png	Stadium																								
-Pittsburgh Park	2019S1	18-19series1/19pittsburghparkpng.png	Stadium																								
-San Diego Park	2019S1	18-19series1/19sandiegoparkpng.png	Stadium																								
-San Francisco Park	2019S1	18-19series1/19sanfranciscoparkpng.png	Stadium																								
-Seattle Field	2019S1	18-19series1/19seattlefieldpng.png	Stadium																								
-St. Louis Stadium	2019S1	18-19series1/19stlouisstadiumpng.png	Stadium																								
-Tampa Bay Field	2019S1	18-19series1/19tampabayfieldpng.png	Stadium																								
-Texas Park	2019S1	18-19series1/19texasparkpng.png	Stadium																								
-Toronto Centre	2019S1	18-19series1/19torontocentrepng.png	Stadium																								
-Washington Park	2019S1	18-19series1/19washingtonparkpng.png	Stadium																								
+Round Em Up	2019S1	18-19series1/19roundemup.png	Strategy	R	R	Momentum																					
+Squash the Bug	2019S1	18-19series1/19squashthebug.png	Strategy	R	MVP/SL/HR/RBI/R																						
+Stealing Signs	2019S1	18-19series1/19stealingsigns.png	Strategy	C																							
+Unsung Hero	2019S1	18-19series1/19unsunghero.png	Strategy	C		125 or less salary needed																					
+Walk This Way	2019S1	18-19series1/19walkthisway.png	Strategy	C		Momentum																					
+Wandering Eye	2019S1	18-19series1/19wanderingeye.png	Strategy	C	SB																						
+Who Run It?	2019S1	18-19series1/19whorunit.png	Strategy	U		R icon needed																					
+Did His Homework 2.0	2019S1	18-19series1/19didhishomework20.png	Strategy	R																							
+Give and Take	2019S1	18-19series1/19giveandtake.png	Strategy	R																							
+It's a Trap!	2019S1	18-19series1/19itsatrap.png	Strategy	C																							
+The Long Con	2019S1	18-19series1/19thelongcon.png	Strategy	C																							
+Losing Steam	2019S1	18-19series1/19losingsteam.png	Strategy	U	MVP																						
+Seeing is Believing	2019S1	18-19series1/19seeingisbelieving.png	Strategy	C																							
+Afternoon Shade	2019S1	18-19series1/19afternoonshade.png	Strategy	C																							
+The Dog Days	2019S1	18-19series1/19thedogdays.png	Strategy	R	MVP																						
+Frozen Fingers	2019S1	18-19series1/19frozenfingers.png	Strategy	C																							
+Muddy Track	2019S1	18-19series1/19muddytrack.png	Strategy	C	SB																						
+Craig Counsell	2019S1	18-19series1/19craigcounsell.png	Strategy	R																							
+Alex Cora	2019S1	18-19series1/19alexcora.png	Strategy	C																							
+Arizona Field	2019S1	18-19series1/19arizonafield.png	Stadium																								
+Atlanta Park	2019S1	18-19series1/19atlantapark.png	Stadium																								
+Baltimore Yards	2019S1	18-19series1/19baltimoreyards.png	Stadium																								
+Boston Park	2019S1	18-19series1/19bostonpark.png	Stadium																								
+Brooklyn Field	Black History	18-19series1/19brooklynfield.png	Stadium																								
+Chicago (A) Field	2019S1	18-19series1/19chicagoafield.png	Stadium																								
+Chicago (N) Field	2019S1	18-19series1/19chicagonfield.png	Stadium																								
+Cincinnati Park	2019S1	18-19series1/19cincinnatipark.png	Stadium																								
+Cleveland Field	2019S1	18-19series1/19clevelandfield.png	Stadium																								
+Colorado Field	2019S1	18-19series1/19coloradofield.png	Stadium																								
+Detroit Park	2019S1	18-19series1/19detroitpark.png	Stadium																								
+Houston Park	2019S1	18-19series1/19houstonpark.png	Stadium																								
+Kansas City Stadium	2019S1	18-19series1/19kansascitystadium.png	Stadium																								
+Los Angeles (A) Stadium	2019S1	18-19series1/19losangelesastadium.png	Stadium																								
+Los Angeles (N) Stadium	2019S1	18-19series1/19losangelesnstadium.png	Stadium																								
+Miami Park	2019S1	18-19series1/19miamipark.png	Stadium																								
+Milwaukee Park	2019S1	18-19series1/19milwaukeepark.png	Stadium																								
+Minnesota Field	2019S1	18-19series1/19minnesotafield.png	Stadium																								
+New York (A) Stadium	2019S1	18-19series1/19newyorkastadium.png	Stadium																								
+New York (N) Field	2019S1	18-19series1/19newyorknfield.png	Stadium																								
+Oakland Stadium	2019S1	18-19series1/19oaklandstadium.png	Stadium																								
+Philadelphia Park	2019S1	18-19series1/19philadelphiapark.png	Stadium																								
+Pittsburgh Park	2019S1	18-19series1/19pittsburghpark.png	Stadium																								
+San Diego Park	2019S1	18-19series1/19sandiegopark.png	Stadium																								
+San Francisco Park	2019S1	18-19series1/19sanfranciscopark.png	Stadium																								
+Seattle Field	2019S1	18-19series1/19seattlefield.png	Stadium																								
+St. Louis Stadium	2019S1	18-19series1/19stlouisstadium.png	Stadium																								
+Tampa Bay Field	2019S1	18-19series1/19tampabayfield.png	Stadium																								
+Texas Park	2019S1	18-19series1/19texaspark.png	Stadium																								
+Toronto Centre	2019S1	18-19series1/19torontocentre.png	Stadium																								
+Washington Park	2019S1	18-19series1/19washingtonpark.png	Stadium																								
 Mickey Mantle	TripleCrown	19-19triplecrown/19mickeymantle.png	Batter	NY-A	S	CF	895	16	0	1	12	3		1	2	3	4-9	10-15	16-17	-	18+	MVP	HR	RBI	R	AS	
 Ted Williams	TripleCrown	19-19triplecrown/19tedwilliams.png	Batter	BOS	L	LF/RF	840	16	0	1	8	2		-	1	2	3-9	10-15	16-18	-	19+	HR	RBI	R	AS		
 Luis Gonzalez	BallparkExclusive	17-19ballparkexclusives/19luisgonzalez.png	Batter	ARI	L	LF/RF	685	15	0	2	8	1		1	2	3-4	5-9	10-15	16-18	-	19+	SL	HR	RBI	AS		
@@ -666,36 +666,36 @@ Shohei Ohtani '19	2019S2	22-19series2/19shoheiohtani.png	Batter	LA-A	L	DH	345	12
 Heroes Get Remembered	HallofFame	23-19halloffame/19heroesgetremembered.png	Strategy	UR																							
 Legends Never Die	HallofFame	23-19halloffame/19legendsneverdie.png	Strategy	UR																							
 Get Your Game On!	2019S2	22-19series2/19getyourgameon.png	Strategy	R																							
-I Have the High Mound	2019S2	22-19series2/19ihavethehighmoundpng.png	Strategy	U																							
-Hey Now!	2019S2	22-19series2/19heynowpng.png	Strategy	U																							
-High Heater	2019S2	22-19series2/19highheaterpng.png	Strategy	U																							
-Kids These Days	2019S2	22-19series2/19kidsthesedayspng.png	Strategy	U																							
+I Have the High Mound	2019S2	22-19series2/19ihavethehighmound.png	Strategy	U																							
+Hey Now!	2019S2	22-19series2/19heynow.png	Strategy	U																							
+High Heater	2019S2	22-19series2/19highheater.png	Strategy	U																							
+Kids These Days	2019S2	22-19series2/19kidsthesedays.png	Strategy	U																							
 The Man is Non-Stop	2019S2	22-19series2/19themanisnonstop.png	Strategy	R																							
-Missed Stop Sign	2019S2	22-19series2/19missedstopsignpng.png	Strategy	U																							
-Pitcher's Count	2019S2	22-19series2/19pitcherscountpng.png	Strategy	U																							
-Phantom Tag	2019S2	22-19series2/19phantomtagpng.png	Strategy	U																							
-Wire to Wire	2019S2	22-19series2/19wiretowirepng.png	Strategy	R																							
-Hitter's Count	2019S2	22-19series2/19hitterscountpng.png	Strategy	U																							
-Let the Kids Play	2019S2	22-19series2/19letthekidsplaypng.png	Strategy	U																							
-Light Tower Power	2019S2	22-19series2/19lighttowerpowerpng.png	Strategy	R																							
-My Power Has Doubled	2019S2	22-19series2/19mypowerhasdoubledpng.png	Strategy	U																							
-Not Throwing Away  My Shot	2019S2	22-19series2/19notthrowingawaymyshotpng.png	Strategy	R																							
-Slump-Buster	2019S2	22-19series2/19slumpbusterpng.png	Strategy	U																							
-Speedy Gets Greedy	2019S2	22-19series2/19speedygetsgreedypng.png	Strategy	U																							
-Upon Further Review	2019S2	22-19series2/19uponfurtherreviewpng.png	Strategy	U																							
-You Were the Chosen One	2019S2	22-19series2/19youwerethechosenonepng.png	Strategy	U																							
-You're an All-Star!	2019S2	22-19series2/19youreanallstarpng.png	Strategy	R																							
-Clutch It Up!	2019S2	22-19series2/19clutchituppng.png	Strategy	U																							
-Frozen Rope	2019S2	22-19series2/19frozenropepng.png	Strategy	R																							
-Go Play!	2019S2	22-19series2/19goplaypng.png	Strategy	U																							
-Hello There	2019S2	22-19series2/19hellotherepng.png	Strategy	U																							
-Know Your Role	2019S2	22-19series2/19knowyourrolepng.png	Strategy	U																							
-Now This is Baseball	2019S2	22-19series2/19nowthisisbaseballpng.png	Strategy	U																							
-Oh I Don't Think So	2019S2	22-19series2/19ohidontthinksopng.png	Strategy	U																							
-Prime-Time Performance	2019S2	22-19series2/19primetimeperformancepng.png	Strategy	R																							
-Cleveland Stadium	2019S2	22-19series2/19asgclevelandstadium.png	Stadium	R																							
-The Jake in Cleveland	2019S2	22-19series2/19asgthejake.png	Stadium	R																							
-Whiff City	Promo	21-19series2preorder/19whiffcitypng.png	Stadium	UR																							
+Missed Stop Sign	2019S2	22-19series2/19missedstopsign.png	Strategy	U																							
+Pitcher's Count	2019S2	22-19series2/19pitcherscount.png	Strategy	U																							
+Phantom Tag	2019S2	22-19series2/19phantomtag.png	Strategy	U																							
+Wire to Wire	2019S2	22-19series2/19wiretowire.png	Strategy	R																							
+Hitter's Count	2019S2	22-19series2/19hitterscount.png	Strategy	U																							
+Let the Kids Play	2019S2	22-19series2/19letthekidsplay.png	Strategy	U																							
+Light Tower Power	2019S2	22-19series2/19lighttowerpower.png	Strategy	R																							
+My Power Has Doubled	2019S2	22-19series2/19mypowerhasdoubled.png	Strategy	U																							
+Not Throwing Away  My Shot	2019S2	22-19series2/19notthrowingawaymyshot.png	Strategy	R																							
+Slump-Buster	2019S2	22-19series2/19slumpbuster.png	Strategy	U																							
+Speedy Gets Greedy	2019S2	22-19series2/19speedygetsgreedy.png	Strategy	U																							
+Upon Further Review	2019S2	22-19series2/19uponfurtherreview.png	Strategy	U																							
+You Were the Chosen One	2019S2	22-19series2/19youwerethechosenone.png	Strategy	U																							
+You're an All-Star!	2019S2	22-19series2/19youreanallstar.png	Strategy	R																							
+Clutch It Up!	2019S2	22-19series2/19clutchitup.png	Strategy	U																							
+Frozen Rope	2019S2	22-19series2/19frozenrope.png	Strategy	R																							
+Go Play!	2019S2	22-19series2/19goplay.png	Strategy	U																							
+Hello There	2019S2	22-19series2/19hellothere.png	Strategy	U																							
+Know Your Role	2019S2	22-19series2/19knowyourrole.png	Strategy	U																							
+Now This is Baseball	2019S2	22-19series2/19nowthisisbaseball.png	Strategy	U																							
+Oh I Don't Think So	2019S2	22-19series2/19ohidontthinkso.png	Strategy	U																							
+Prime-Time Performance	2019S2	22-19series2/19primetimeperformance.png	Strategy	R																							
+Cleveland Stadium	2019S2	22-19series2/19clevelandstadium.png	Stadium	R																							
+The Jake in Cleveland	2019S2	22-19series2/19thejakeincleveland.png	Stadium	R																							
+Whiff City	Promo	22-19series2/19whiffcity.png	Stadium	UR																							
 Justin Verlander ASG '19	2019S2	22-19series2/19asgjustinverlander.png	Pitcher	HOU	R	SP	795	8	L+1	-2	7	4	1	1-6	7-13	14-19	20	21	-	-	22+	AS					
 Lucas Giolito ASG '19	2019S2	22-19series2/19asglucasgiolito.png	Pitcher	CHI-A	R	SP	585	6	-	-2	6	5	1	1-5	6-12	13-18	19	20-23	24	-	25+	AS					
 Matthew Boyd ASG '19	2019S2	22-19series2/19asgmatthewboyd.png	Pitcher	DET	L	SP	510	6	-	-2	6	4	1	1-5	6-12	13-17	18	19-22	23	-	24+	AS					
@@ -730,128 +730,128 @@ Roy Campanella	2019S2	22-19series2/19roycampanella.png	Batter	LA-N	R	C	590	13	R+
 Ron Santo	2019S2	22-19series2/19ronsanto.png	Batter	CHI-N	R	3B	605	14	-	-1	8	4	-	1	2-3	4	5-9	10-17	18-19	-	20+	HR	RBI	R	GG		
 Eddie Murray	2019S2	22-19series2/19eddiemurray.png	Batter	BAL	S	1B	625	14	-	1	12	2	-	1	2	3-4	5-9	10-16	17-19	-	20+	SL	R	GG			
 Joe Morgan	2019S2	22-19series2/19joemorgan.png	Batter	CIN	L	2B	800	15	R+1	-1	20	4	-	-	1	2-3	4-10	11-17	18-20	-	21+	MVP	SB	GG			
-2 Birds 1 Stone	2018S1	08-18base/182birds1stonepng.png	Strategy	C																							
-6-5-4	2018S1	08-18base/18654png.png	Strategy	C																							
-Absolute Cannon	2018S1	08-18base/18absolutecannonpng.png	Strategy	R																							
-Bat Flip	2018S1	08-18base/18batflippng.png	Strategy	C																							
-Breathing Room	2018S1	08-18base/18breathingroompng.png	Strategy	U																							
-Child's Play	2018S1	08-18base/18childsplaypng.png	Strategy	C																							
-Did His Homework	2018S1	08-18base/18didhishomeworkpng.png	Strategy	R																							
-Digging Deep 2.0	2018S1	08-18base/18diggingdeep20png.png	Strategy	R																							
-Double Play Depth	2018S1	08-18base/18doubleplaydepthpng.png	Strategy	C																							
-Escape Artist	2018S1	08-18base/18escapeartistpng.png	Strategy	C																							
-Fast Worker 2.0	2018S1	08-18base/18fastworker20png.png	Strategy	U																							
-Golden Ratio	2018S1	08-18base/18goldenratiopng.png	Strategy	U																							
-Held To One	2018S1	08-18base/18heldtoonepng.png	Strategy	U																							
-High Heat	2018S1	08-18base/18highheatpng.png	Strategy	C																							
-Hot Corner	2018S1	08-18base/18hotcornerpng.png	Strategy	C																							
-In Command	2018S1	08-18base/18incommandpng.png	Strategy	C																							
-Look What I Found!	2018S1	08-18base/18lookwhatifoundpng.png	Strategy	C																							
-Lookin' Silly	2018S1	08-18base/18lookinsillypng.png	Strategy	U																							
-Make Some Noise 2.0	2018S1	08-18base/18makesomenoise20png.png	Strategy	C																							
-Mound Visit	2018S1	08-18base/18moundvisitpng.png	Strategy	U																							
-No Doubles	2018S1	08-18base/18nodoublespng.png	Strategy	C																							
-Not On My Watch	2018S1	08-18base/18notonmywatchpng.png	Strategy	C																							
-Restrategize	2018S1	08-18base/18restrategizepng.png	Strategy	U																							
-Set-Up Man	2018S1	08-18base/18setupmanpng.png	Strategy	U																							
-Shutdown Defense	2018S1	08-18base/18shutdowndefensepng.png	Strategy	C																							
-Silver Lining	2018S1	08-18base/18silverliningpng.png	Strategy	C																							
-Sit Back Down	2018S1	08-18base/18sitbackdownpng.png	Strategy	C																							
-Splitter	2018S1	08-18base/18splitterpng.png	Strategy	C																							
-Twin Killing	2018S1	08-18base/18twinkillingpng.png	Strategy	U																							
-Under Pressure 2.0	2018S1	08-18base/18underpressure20png.png	Strategy	C																							
-The 5-Hole	2018S1	08-18base/18the5holepng.png	Strategy	U																							
-90-Foot Dash	2018S1	08-18base/1890footdashpng.png	Strategy	C																							
-Balls and Strikes	2018S1	08-18base/18ballsandstrikespng.png	Strategy	U																							
-Bobbled It	2018S1	08-18base/18bobbleditpng.png	Strategy	U																							
-Check Swing	2018S1	08-18base/18checkswingpng.png	Strategy	C																							
-Cold-Blooded	2018S1	08-18base/18coldbloodedpng.png	Strategy	R																							
-Confidence Shaker	2018S1	08-18base/18confidenceshakerpng.png	Strategy	C																							
-Deep Drive	2018S1	08-18base/18deepdrivepng.png	Strategy	C																							
-Double Steal	2018S1	08-18base/18doublestealpng.png	Strategy	C																							
-Exuberant 2.0	2018S1	08-18base/18exuberant20png.png	Strategy	C																							
+2 Birds 1 Stone	2018S1	08-18base/182birds1stone.png	Strategy	C																							
+6-5-4	2018S1	08-18base/18654.png	Strategy	C																							
+Absolute Cannon	2018S1	08-18base/18absolutecannon.png	Strategy	R																							
+Bat Flip	2018S1	08-18base/18batflip.png	Strategy	C																							
+Breathing Room	2018S1	08-18base/18breathingroom.png	Strategy	U																							
+Child's Play	2018S1	08-18base/18childsplay.png	Strategy	C																							
+Did His Homework	2018S1	08-18base/18didhishomework.png	Strategy	R																							
+Digging Deep 2.0	2018S1	08-18base/18diggingdeep20.png	Strategy	R																							
+Double Play Depth	2018S1	08-18base/18doubleplaydepth.png	Strategy	C																							
+Escape Artist	2018S1	08-18base/18escapeartist.png	Strategy	C																							
+Fast Worker 2.0	2018S1	08-18base/18fastworker20.png	Strategy	U																							
+Golden Ratio	2018S1	08-18base/18goldenratio.png	Strategy	U																							
+Held To One	2018S1	08-18base/18heldtoone.png	Strategy	U																							
+High Heat	2018S1	08-18base/18highheat.png	Strategy	C																							
+Hot Corner	2018S1	08-18base/18hotcorner.png	Strategy	C																							
+In Command	2018S1	08-18base/18incommand.png	Strategy	C																							
+Look What I Found!	2018S1	08-18base/18lookwhatifound.png	Strategy	C																							
+Lookin' Silly	2018S1	08-18base/18lookinsilly.png	Strategy	U																							
+Make Some Noise 2.0	2018S1	08-18base/18makesomenoise20.png	Strategy	C																							
+Mound Visit	2018S1	08-18base/18moundvisit.png	Strategy	U																							
+No Doubles	2018S1	08-18base/18nodoubles.png	Strategy	C																							
+Not On My Watch	2018S1	08-18base/18notonmywatch.png	Strategy	C																							
+Restrategize	2018S1	08-18base/18restrategize.png	Strategy	U																							
+Set-Up Man	2018S1	08-18base/18setupman.png	Strategy	U																							
+Shutdown Defense	2018S1	08-18base/18shutdowndefense.png	Strategy	C																							
+Silver Lining	2018S1	08-18base/18silverlining.png	Strategy	C																							
+Sit Back Down	2018S1	08-18base/18sitbackdown.png	Strategy	C																							
+Splitter	2018S1	08-18base/18splitter.png	Strategy	C																							
+Twin Killing	2018S1	08-18base/18twinkilling.png	Strategy	U																							
+Under Pressure 2.0	2018S1	08-18base/18underpressure20.png	Strategy	C																							
+The 5-Hole	2018S1	08-18base/18the5hole.png	Strategy	U																							
+90-Foot Dash	2018S1	08-18base/1890footdash.png	Strategy	C																							
+Balls and Strikes	2018S1	08-18base/18ballsandstrikes.png	Strategy	U																							
+Bobbled It	2018S1	08-18base/18bobbledit.png	Strategy	U																							
+Check Swing	2018S1	08-18base/18checkswing.png	Strategy	C																							
+Cold-Blooded	2018S1	08-18base/18coldblooded.png	Strategy	R																							
+Confidence Shaker	2018S1	08-18base/18confidenceshaker.png	Strategy	C																							
+Deep Drive	2018S1	08-18base/18deepdrive.png	Strategy	C																							
+Double Steal	2018S1	08-18base/18doublesteal.png	Strategy	C																							
+Exuberant 2.0	2018S1	08-18base/18exuberant20.png	Strategy	C																							
 First Time Every Time	2018S1	08-18base/18firsttimeeverytime.png	Strategy	C																							
-Fresh Legs	2018S1	08-18base/18freshlegspng.png	Strategy	C																							
-Go Big or Go Home	2018S1	08-18base/18gobigorgohomepng.png	Strategy	U																							
-Lead By Example	2018S1	08-18base/18leadbyexamplepng.png	Strategy	U																							
-Leg It Out	2018S1	08-18base/18legitoutpng.png	Strategy	C																							
-Locked In 2.0	2018S1	08-18base/18lockedin20png.png	Strategy	R																							
-Make Him Pay 2.0	2018S1	08-18base/18makehimpay20png.png	Strategy	C																							
-Not Top 10	2018S1	08-18base/18nottop10png.png	Strategy	R																							
-Plunked	2018S1	08-18base/18plunkedpng.png	Strategy	C																							
-Prime Time 2.0	2018S1	08-18base/18primetime20png.png	Strategy	C																							
-Rib-Eye Steak	2018S1	08-18base/18ribeyesteakpng.png	Strategy	U																							
-Running On Fumes	2018S1	08-18base/18runningonfumespng.png	Strategy	C																							
-Shaky Start	2018S1	08-18base/18shakystartpng.png	Strategy	C																							
-Speed Demon	2018S1	08-18base/18speeddemonpng.png	Strategy	U																							
-Super Sub	2018S1	08-18base/18supersubpng.png	Strategy	C																							
-Switch It Up	2018S1	08-18base/18switchituppng.png	Strategy	C																							
-Too Hot To Handle	2018S1	08-18base/18toohottohandlepng.png	Strategy	C																							
-Unmasked	2018S1	08-18base/18unmaskedpng.png	Strategy	C																							
-Upper Decker	2018S1	08-18base/18upperdeckerpng.png	Strategy	U																							
-Upper Hand	2018S1	08-18base/18upperhandpng.png	Strategy	U																							
-Inertia	2018S1	08-18base/18inertiapng.png	Strategy	U																							
-Mano Y Mano	2018S1	08-18base/18manoymanopng.png	Strategy	C																							
-Not So Fast	2018S1	08-18base/18notsofastpng.png	Strategy	R																							
-Right Where I Want 'Em	2018S1	08-18base/18rightwhereiwantempng.png	Strategy	R																							
-Brisk Winds	2018S1	08-18base/18briskwindspng.png	Strategy	C																							
-Clear Skies	2018S1	08-18base/18clearskiespng.png	Strategy	C																							
-Scattered Showers	2018S1	08-18base/18scatteredshowerspng.png	Strategy	C																							
-Terry Francona	2018S1	08-18base/18terryfranconapng.png	Strategy	R																							
-Joe Maddon	2018S1	08-18base/18joemaddonpng.png	Strategy	U																							
-Buck Showalter	2018S1	08-18base/18buckshowalterpng.png	Strategy	R																							
-Double Play Depth 2.0	ASG18	11-18washington/18doubleplaydepth20png.png	Strategy	U																							
-Splitter 2.0	ASG18	11-18washington/18splitter20png.png	Strategy	U																							
-Check Swing 2.0	ASG18	11-18washington/18checkswing20png.png	Strategy	U																							
-Super Sub 2.0	ASG18	11-18washington/18supersub20png.png	Strategy	U																							
-Scattered Showers 2.0	ASG18	11-18washington/18scatteredshowers20png.png	Strategy	U																							
+Fresh Legs	2018S1	08-18base/18freshlegs.png	Strategy	C																							
+Go Big or Go Home	2018S1	08-18base/18gobigorgohome.png	Strategy	U																							
+Lead By Example	2018S1	08-18base/18leadbyexample.png	Strategy	U																							
+Leg It Out	2018S1	08-18base/18legitout.png	Strategy	C																							
+Locked In 2.0	2018S1	08-18base/18lockedin20.png	Strategy	R																							
+Make Him Pay 2.0	2018S1	08-18base/18makehimpay20.png	Strategy	C																							
+Not Top 10	2018S1	08-18base/18nottop10.png	Strategy	R																							
+Plunked	2018S1	08-18base/18plunked.png	Strategy	C																							
+Prime Time 2.0	2018S1	08-18base/18primetime20.png	Strategy	C																							
+Rib-Eye Steak	2018S1	08-18base/18ribeyesteak.png	Strategy	U																							
+Running On Fumes	2018S1	08-18base/18runningonfumes.png	Strategy	C																							
+Shaky Start	2018S1	08-18base/18shakystart.png	Strategy	C																							
+Speed Demon	2018S1	08-18base/18speeddemon.png	Strategy	U																							
+Super Sub	2018S1	08-18base/18supersub.png	Strategy	C																							
+Switch It Up	2018S1	08-18base/18switchitup.png	Strategy	C																							
+Too Hot To Handle	2018S1	08-18base/18toohottohandle.png	Strategy	C																							
+Unmasked	2018S1	08-18base/18unmasked.png	Strategy	C																							
+Upper Decker	2018S1	08-18base/18upperdecker.png	Strategy	U																							
+Upper Hand	2018S1	08-18base/18upperhand.png	Strategy	U																							
+Inertia	2018S1	08-18base/18inertia.png	Strategy	U																							
+Mano Y Mano	2018S1	08-18base/18manoymano.png	Strategy	C																							
+Not So Fast	2018S1	08-18base/18notsofast.png	Strategy	R																							
+Right Where I Want 'Em	2018S1	08-18base/18rightwhereiwantem.png	Strategy	R																							
+Brisk Winds	2018S1	08-18base/18briskwinds.png	Strategy	C																							
+Clear Skies	2018S1	08-18base/18clearskies.png	Strategy	C																							
+Scattered Showers	2018S1	08-18base/18scatteredshowers.png	Strategy	C																							
+Terry Francona	2018S1	08-18base/18terryfrancona.png	Strategy	R																							
+Joe Maddon	2018S1	08-18base/18joemaddon.png	Strategy	U																							
+Buck Showalter	2018S1	08-18base/18buckshowalter.png	Strategy	R																							
+Double Play Depth 2.0	ASG18	11-18washington/18doubleplaydepth20.png	Strategy	U																							
+Splitter 2.0	ASG18	11-18washington/18splitter20.png	Strategy	U																							
+Check Swing 2.0	ASG18	11-18washington/18checkswing20.png	Strategy	U																							
+Super Sub 2.0	ASG18	11-18washington/18supersub20.png	Strategy	U																							
+Scattered Showers 2.0	ASG18	11-18washington/18scatteredshowers20.png	Strategy	U																							
 Flyswatter	ASG18	11-18washington/18flyswater.png	Strategy	UR																							
-Security Bypass	ASG18	11-18washington/18securitybypasspng.png	Strategy	UR																							
-Turning Point	ASG18	11-18washington/18turningpointpng.png	Strategy	UR																							
-The Flip	GEN18	14-18generations/18theflippng.png	Strategy	R																							
-Highway Robbery 2.0	GEN18	14-18generations/18highwayrobbery20png.png	Strategy	R																							
-Into Orbit	GEN18	14-18generations/18intoorbitpng.png	Strategy	R																							
-The Slide	GEN18	14-18generations/18theslidepng.png	Strategy	R																							
-Clueless Joe	GEN18	14-18generations/18cluelessjoepng.png	Strategy	R																							
-Aaron Boone	18Postseason	13-18postseason/18aaronboonepng.png	Strategy	UR																							
-Heartbreaker	Valentines	06-18valentines/18heartbreakerpng.png	Strategy	UR																							
-Back to the Track	Memorial	09-18memorial/18backtothetrackpng.png	Strategy	UR																							
-Short Porch	Memorial	09-18memorial/18shortporchpng.png	Strategy	UR																							
+Security Bypass	ASG18	11-18washington/18securitybypass.png	Strategy	UR																							
+Turning Point	ASG18	11-18washington/18turningpoint.png	Strategy	UR																							
+The Flip	GEN18	14-18generations/18theflip.png	Strategy	R																							
+Highway Robbery 2.0	GEN18	14-18generations/18highwayrobbery20.png	Strategy	R																							
+Into Orbit	GEN18	14-18generations/18intoorbit.png	Strategy	R																							
+The Slide	GEN18	14-18generations/18theslide.png	Strategy	R																							
+Clueless Joe	GEN18	14-18generations/18cluelessjoe.png	Strategy	R																							
+Aaron Boone	18Postseason	13-18postseason/18aaronboone.png	Strategy	UR																							
+Heartbreaker	Valentines	06-18valentines/18heartbreaker.png	Strategy	UR																							
+Back to the Track	Memorial	09-18memorial/18backtothetrack.png	Strategy	UR																							
+Short Porch	Memorial	09-18memorial/18shortporch.png	Strategy	UR																							
 Washington Park (ASG)	ASG18	11-18washington/1818asgwashington.png	Stadium	UR																							
 Montreal Stadium	ASG18	11-18washington/1818asgmontreal.png	Stadium	UR																							
-Old New York Stadium	GEN18	14-18generations/18oldnewyorkstadiumpng.png	Stadium	UR																							
-Dinger Town	18Preorder	07-18preorder/18dingertownpng.png	Stadium	UR																							
-Big Red Machine	Valentines	06-18valentines/18bigredmachinepng.png	Stadium	UR																							
-Arizona Field	2018S1	08-18base/1818arizonafieldpng.png	Stadium	C																							
-Atlanta Park	2018S1	08-18base/1818atlantaparkpng.png	Stadium	U																							
-Baltimore Yards	2018S1	08-18base/1818baltimoreyardspng.png	Stadium	R																							
-Boston Park	2018S1	08-18base/1818bostonparkpng.png	Stadium	R																							
-Chicago (A) Field	2018S1	08-18base/1818chicagoafieldpng.png	Stadium	C																							
-Chicago (N) Field	2018S1	08-18base/1818chicagonfieldpng.png	Stadium	C																							
-Cincinnati Park	2018S1	08-18base/1818cincinnatiparkpng.png	Stadium	U																							
-Cleveland Field	2018S1	08-18base/1818clevelandfieldpng.png	Stadium	C																							
-Colorado Field	2018S1	08-18base/1818coloradofieldpng.png	Stadium	U																							
-Detroit Park	2018S1	08-18base/1818detroitparkpng.png	Stadium	C																							
-Houston Park	2018S1	08-18base/1818houstonparkpng.png	Stadium	C																							
-Kansas City Stadium	2018S1	08-18base/1818kansascitystadiumpng.png	Stadium	C																							
-Los Angeles (A) Stadium	2018S1	08-18base/1818losangelesastadiumpng.png	Stadium	R																							
-Los Angeles (N) Stadium	2018S1	08-18base/1818losangelesnstadiumpng.png	Stadium	C																							
-Miami Park	2018S1	08-18base/1818miamiparkpng.png	Stadium	C																							
-Milwaukee Park	2018S1	08-18base/1818milwaukeeparkpng.png	Stadium	C																							
-Minnesota Field	2018S1	08-18base/1818minnesotafieldpng.png	Stadium	C																							
-New York (A) Field	2018S1	08-18base/1818newyorkafieldpng.png	Stadium	R																							
-New York (N) Field	2018S1	08-18base/1818newyorknfieldpng.png	Stadium	C																							
-Oakland Stadium	2018S1	08-18base/1818oaklandstadiumpng.png	Stadium	C																							
-Philadelphia Park	2018S1	08-18base/1818philadelphiaparkpng.png	Stadium	U																							
-Pittsburgh Park	2018S1	08-18base/1818pittsburghparkpng.png	Stadium	U																							
-San Diego Park	2018S1	08-18base/1818sandiegoparkpng.png	Stadium	C																							
-San Francisco Park	2018S1	08-18base/1818sanfranciscoparkpng.png	Stadium	C																							
-Seattle Field	2018S1	08-18base/1818seattlefieldpng.png	Stadium	U																							
-St. Louis Stadium	2018S1	08-18base/1818stlouisstadiumpng.png	Stadium	U																							
-Tampa Bay Field	2018S1	08-18base/1818tampabayfieldpng.png	Stadium	C																							
-Texas Park	2018S1	08-18base/1818texasparkpng.png	Stadium	C																							
-Toronto Centre	2018S1	08-18base/1818torontocentrepng.png	Stadium	C																							
-Washington Park	2018S1	08-18base/1818washingtonparkpng.png	Stadium	U																							
+Old New York Stadium	GEN18	14-18generations/18oldnewyorkstadium.png	Stadium	UR																							
+Dinger Town	18Preorder	07-18preorder/18dingertown.png	Stadium	UR																							
+Big Red Machine	Valentines	06-18valentines/18bigredmachine.png	Stadium	UR																							
+Arizona Field	2018S1	08-18base/18arizonafield.png	Stadium	C																							
+Atlanta Park	2018S1	08-18base/18atlantapark.png	Stadium	U																							
+Baltimore Yards	2018S1	08-18base/18baltimoreyards.png	Stadium	R																							
+Boston Park	2018S1	08-18base/18bostonpark.png	Stadium	R																							
+Chicago (A) Field	2018S1	08-18base/18chicagoafield.png	Stadium	C																							
+Chicago (N) Field	2018S1	08-18base/18chicagonfield.png	Stadium	C																							
+Cincinnati Park	2018S1	08-18base/18cincinnatipark.png	Stadium	U																							
+Cleveland Field	2018S1	08-18base/18clevelandfield.png	Stadium	C																							
+Colorado Field	2018S1	08-18base/18coloradofield.png	Stadium	U																							
+Detroit Park	2018S1	08-18base/18detroitpark.png	Stadium	C																							
+Houston Park	2018S1	08-18base/18houstonpark.png	Stadium	C																							
+Kansas City Stadium	2018S1	08-18base/18kansascitystadium.png	Stadium	C																							
+Los Angeles (A) Stadium	2018S1	08-18base/18losangelesastadium.png	Stadium	R																							
+Los Angeles (N) Stadium	2018S1	08-18base/18losangelesnstadium.png	Stadium	C																							
+Miami Park	2018S1	08-18base/18miamipark.png	Stadium	C																							
+Milwaukee Park	2018S1	08-18base/18milwaukeepark.png	Stadium	C																							
+Minnesota Field	2018S1	08-18base/18minnesotafield.png	Stadium	C																							
+New York (A) Field	2018S1	08-18base/18newyorkafield.png	Stadium	R																							
+New York (N) Field	2018S1	08-18base/18newyorknfield.png	Stadium	C																							
+Oakland Stadium	2018S1	08-18base/18oaklandstadium.png	Stadium	C																							
+Philadelphia Park	2018S1	08-18base/18philadelphiapark.png	Stadium	U																							
+Pittsburgh Park	2018S1	08-18base/18pittsburghpark.png	Stadium	U																							
+San Diego Park	2018S1	08-18base/18sandiegopark.png	Stadium	C																							
+San Francisco Park	2018S1	08-18base/18sanfranciscopark.png	Stadium	C																							
+Seattle Field	2018S1	08-18base/18seattlefield.png	Stadium	U																							
+St. Louis Stadium	2018S1	08-18base/18stlouisstadium.png	Stadium	U																							
+Tampa Bay Field	2018S1	08-18base/18tampabayfield.png	Stadium	C																							
+Texas Park	2018S1	08-18base/18texaspark.png	Stadium	C																							
+Toronto Centre	2018S1	08-18base/18torontocentre.png	Stadium	C																							
+Washington Park	2018S1	08-18base/18washingtonpark.png	Stadium	U																							
 Barry Bonds	GEN18	14-18generations/18barrybonds.png	Batter	SF	L	LF/RF	870	15	R+1	1	16	4	-	-	1	2-3	4-9	10-15	16-18	-	19+	MVP	SL	HR	RBI	GG	
 Frank Thomas	GEN18	14-18generations/18frankthomas.png	Batter	CHI-A	R	1B	705	16	-	-1	8	0	-	-	-	1-2	3-9	10-16	17-19	-	20+	MVP	SL	HR	RBI		
 Barry Larkin	GEN18	14-18generations/18barrylarkin.png	Batter	CIN	R	SS	725	14	-	1	20	4	-	-	1	2-3	4-8	9-17	18-20	21	22+	MVP	SL	SB	GG		
@@ -968,92 +968,92 @@ Trevor Hoffman	Memorial	09-18memorial/18trevorhoffman.png	Pitcher	SD	R	CP	345	7	
 Frank Viola	Valentines	06-18valentines/18frankviola.png	Pitcher	MIN	L	SP	570	5	-	1	7	4	1	1-5	6-10	11-17	-	18-23	24	-	25+	MVP	AS	W	K		
 Jack Morris	18Postseason	13-18postseason/18jackmorris.png	Pitcher	MIN	R	SP	420	4	R+1	2	7	2	1-2	1-4	5-10	11-17	18	19-23	24	-	25+	AS					
 Curt Schilling	18Postseason	13-18postseason/18curtschilling.png	Pitcher	BOS	R	SP	640	6	-	2	7	4	1-2	1-5	6-11	12-17	-	18-23	24	-	25+	W	K	AS			
-The 9-Hole	2017S1	02-17base/17the9holepng.png	Strategy	C																							
-Back-Door Slider	2017S1	02-17base/17backdoorsliderpng.png	Strategy	C																							
-Barehand-It	2017S1	02-17base/17barehanditpng.png	Strategy	C																							
-Changeup	2017S1	02-17base/17changeuppng.png	Strategy	C																							
-Chin Music	2017S1	02-17base/17chinmusicpng.png	Strategy	C																							
-Coming in Hot	2017S1	02-17base/17cominginhotpng.png	Strategy	C																							
-Crowd on its Feet	2017S1	02-17base/17crowdonitsfeetpng.png	Strategy	R																							
-Cutter	2017S1	02-17base/17cutterpng.png	Strategy	U																							
-Digging Deep	2017S1	02-17base/17diggingdeeppng.png	Strategy	R																							
-Diving up the Middle	2017S1	02-17base/17divingupthemiddlepng.png	Strategy	C																							
-Enter Night	2017S1	02-17base/17enternightpng.png	Strategy	U																							
-Fast Worker	2017S1	02-17base/17fastworkerpng.png	Strategy	U																							
-Fired Up	2017S1	02-17base/17fireduppng.png	Strategy	U																							
-Ground Rule Double	2017S1	02-17base/17groundruledoublepng.png	Strategy	C																							
-Highway Robbery	2017S1	02-17base/17highwayrobberypng.png	Strategy	R																							
-Hit the Cut-Off Man	2017S1	02-17base/17hitthecutoffmanpng.png	Strategy	C																							
-How About That!?	2017S1	02-17base/17howaboutthatpng.png	Strategy	C																							
-Hung One	2017S1	02-17base/17hungonepng.png	Strategy	C																							
-In on the Hands	2017S1	02-17base/17inonthehandspng.png	Strategy	C																							
-Infield Fly	2017S1	02-17base/17infieldflypng.png	Strategy	C																							
-Keep Him in Check	2017S1	02-17base/17keephimincheckpng.png	Strategy	C																							
-Lefty Shift	2017S1	02-17base/17leftyshiftpng.png	Strategy	C																							
-Make Some Noise	2017S1	02-17base/17makesomenoisepng.png	Strategy	C																							
-Pitch Around	2017S1	02-17base/17pitcharoundpng.png	Strategy	U																							
-Quality Start	2017S1	02-17base/17qualitystartpng.png	Strategy	U																							
-Quick Draw	2017S1	02-17base/17quickdrawpng.png	Strategy	U																							
-Scooped It	2017S1	02-17base/17scoopeditpng.png	Strategy	C																							
-Throwing Gas	2017S1	02-17base/17throwinggaspng.png	Strategy	U																							
-Triple Play!	2017S1	02-17base/17tripleplaypng.png	Strategy	C																							
-Under Pressure	2017S1	02-17base/17underpressurepng.png	Strategy	C																							
-Web Gem	2017S1	02-17base/17webgempng.png	Strategy	R																							
-Airmailed It	2017S1	02-17base/17airmaileditpng.png	Strategy	C																							
-Back...Back...Back!	2017S1	02-17base/17backbackbackpng.png	Strategy	R																							
-Baltimore Chop	2017S1	02-17base/17baltimorechoppng.png	Strategy	U																							
-Barnum and Bailey	2017S1	02-17base/17barnumandbaileypng.png	Strategy	C																							
-Blooper	2017S1	02-17base/17blooperpng.png	Strategy	C																							
-Bush-League	2017S1	02-17base/17bushleaguepng.png	Strategy	C																							
-Drag Bunt	2017S1	02-17base/17dragbuntpng.png	Strategy	U																							
-Dropped Third Strike	2017S1	02-17base/17droppedthirdstrikepng.png	Strategy	C																							
-Exuberant	2017S1	02-17base/17exuberantpng.png	Strategy	C																							
-Get Foul!	2017S1	02-17base/17getfoulpng.png	Strategy	C																							
-Good Jump	2017S1	02-17base/17goodjumppng.png	Strategy	U																							
-Hit and Run	2017S1	02-17base/17hitandrunpng.png	Strategy	U																							
-Hot Shot	2017S1	02-17base/17hotshotpng.png	Strategy	U																							
-Late-Inning Fireworks	2017S1	02-17base/17lateinningfireworkspng.png	Strategy	R																							
-Locked In	2017S1	02-17base/17lockedinpng.png	Strategy	R																							
-Make Him Pay	2017S1	02-17base/17makehimpaypng.png	Strategy	C																							
-Meatball Masher	2017S1	02-17base/17meatballmasherpng.png	Strategy	R																							
-The One Who Knocks	2017S1	02-17base/17theonewhoknockspng.png	Strategy	C																							
-Oppo-Power	2017S1	02-17base/17oppopowerpng.png	Strategy	C																							
-Prime Time	2017S1	02-17base/17primetimepng.png	Strategy	C																							
-Productive Out	2017S1	02-17base/17productiveoutpng.png	Strategy	C																							
-Reading the Ball	2017S1	02-17base/17readingtheballpng.png	Strategy	U																							
-Suicide Squeeze	2017S1	02-17base/17suicidesqueezepng.png	Strategy	C																							
-Sweet Spot	2017S1	02-17base/17sweetspotpng.png	Strategy	C																							
-Tailing Winds	2017S1	02-17base/17tailingwindspng.png	Strategy	U																							
-Thou Shall Not Pass	2017S1	02-17base/17thoushallnotpasspng.png	Strategy	C																							
-Tipping His Pitches	2017S1	02-17base/17tippinghispitchespng.png	Strategy	U																							
-Turned on One	2017S1	02-17base/17turnedononepng.png	Strategy	C																							
-The Wheelhouse	2017S1	02-17base/17thewheelhousepng.png	Strategy	C																							
-Who's Got the Yipps?	2017S1	02-17base/17whosgottheyippspng.png	Strategy	C																							
-Wild Thing	2017S1	02-17base/17wildthingpng.png	Strategy	C																							
-Challenge Flag	2017S1	02-17base/17challengeflagpng.png	Strategy	U																							
-Deja Vu	2017S1	02-17base/17dejavupng.png	Strategy	R																							
-Instant Replay	2017S1	02-17base/17instantreplaypng.png	Strategy	R																							
-Lost his Mojo	2017S1	02-17base/17losthismojopng.png	Strategy	U																							
-Not Without a Fight	2017S1	02-17base/17notwithoutafightpng.png	Strategy	U																							
-Overruled	2017S1	02-17base/17overruledpng.png	Strategy	U																							
-Road Rally	2017S1	02-17base/17roadrallypng.png	Strategy	C																							
-Scouting Reports	2017S1	02-17base/17scoutingreportspng.png	Strategy	C																							
-Chin Music 2.0	ASG17	03-17miami/17chinmusic20png.png	Strategy	U																							
-Coming In Hot 2.0	ASG17	03-17miami/17cominginhot20png.png	Strategy	U																							
-Blooper 2.0	ASG17	03-17miami/17blooper20png.png	Strategy	U																							
-The One Who Knocks 2.0	ASG17	03-17miami/17theonewhoknocks20png.png	Strategy	U																							
-Road Rally 2.0	ASG17	03-17miami/17roadrally20png.png	Strategy	U																							
-Got His Number	ASG17	03-17miami/17gothisnumberpng.png	Strategy	UR																							
-In His Head	ASG17	03-17miami/17inhisheadpng.png	Strategy	UR																							
-Twist of Fate	ASG17	03-17miami/17twistoffatepng.png	Strategy	UR																							
-Goatbusters	17Preorder	01-17preorder/17goatbusterspng.png	Strategy	UR																							
-Curse Of The Black Cat	Halloween	05-17halloween/17curseoftheblackcatpng.png	Strategy	UR																							
-Edgar Martinez	19HOF	23-19halloffame/19edgarmartinezpng.png	Batter	SEA	R	DH	685	15	L+2	1	8	0	 -	-	1	2	3-10	11-17	18-22	-	23+	SL	RBI	AS			
-Harold Baines	19HOF	23-19halloffame/19haroldbainespng.png	Batter	CHI-A	L	LF/RF	460	13	R+1	1	12	2	 -	-	1-2	3-4	5-8	9-17	18-20	21	22+						
+The 9-Hole	2017S1	02-17base/17the9hole.png	Strategy	C																							
+Back-Door Slider	2017S1	02-17base/17backdoorslider.png	Strategy	C																							
+Barehand-It	2017S1	02-17base/17barehandit.png	Strategy	C																							
+Changeup	2017S1	02-17base/17changeup.png	Strategy	C																							
+Chin Music	2017S1	02-17base/17chinmusic.png	Strategy	C																							
+Coming in Hot	2017S1	02-17base/17cominginhot.png	Strategy	C																							
+Crowd on its Feet	2017S1	02-17base/17crowdonitsfeet.png	Strategy	R																							
+Cutter	2017S1	02-17base/17cutter.png	Strategy	U																							
+Digging Deep	2017S1	02-17base/17diggingdeep.png	Strategy	R																							
+Diving up the Middle	2017S1	02-17base/17divingupthemiddle.png	Strategy	C																							
+Enter Night	2017S1	02-17base/17enternight.png	Strategy	U																							
+Fast Worker	2017S1	02-17base/17fastworker.png	Strategy	U																							
+Fired Up	2017S1	02-17base/17firedup.png	Strategy	U																							
+Ground Rule Double	2017S1	02-17base/17groundruledouble.png	Strategy	C																							
+Highway Robbery	2017S1	02-17base/17highwayrobbery.png	Strategy	R																							
+Hit the Cut-Off Man	2017S1	02-17base/17hitthecutoffman.png	Strategy	C																							
+How About That!?	2017S1	02-17base/17howaboutthat.png	Strategy	C																							
+Hung One	2017S1	02-17base/17hungone.png	Strategy	C																							
+In on the Hands	2017S1	02-17base/17inonthehands.png	Strategy	C																							
+Infield Fly	2017S1	02-17base/17infieldfly.png	Strategy	C																							
+Keep Him in Check	2017S1	02-17base/17keephimincheck.png	Strategy	C																							
+Lefty Shift	2017S1	02-17base/17leftyshift.png	Strategy	C																							
+Make Some Noise	2017S1	02-17base/17makesomenoise.png	Strategy	C																							
+Pitch Around	2017S1	02-17base/17pitcharound.png	Strategy	U																							
+Quality Start	2017S1	02-17base/17qualitystart.png	Strategy	U																							
+Quick Draw	2017S1	02-17base/17quickdraw.png	Strategy	U																							
+Scooped It	2017S1	02-17base/17scoopedit.png	Strategy	C																							
+Throwing Gas	2017S1	02-17base/17throwinggas.png	Strategy	U																							
+Triple Play!	2017S1	02-17base/17tripleplay.png	Strategy	C																							
+Under Pressure	2017S1	02-17base/17underpressure.png	Strategy	C																							
+Web Gem	2017S1	02-17base/17webgem.png	Strategy	R																							
+Airmailed It	2017S1	02-17base/17airmailedit.png	Strategy	C																							
+Back...Back...Back!	2017S1	02-17base/17backbackback.png	Strategy	R																							
+Baltimore Chop	2017S1	02-17base/17baltimorechop.png	Strategy	U																							
+Barnum and Bailey	2017S1	02-17base/17barnumandbailey.png	Strategy	C																							
+Blooper	2017S1	02-17base/17blooper.png	Strategy	C																							
+Bush-League	2017S1	02-17base/17bushleague.png	Strategy	C																							
+Drag Bunt	2017S1	02-17base/17dragbunt.png	Strategy	U																							
+Dropped Third Strike	2017S1	02-17base/17droppedthirdstrike.png	Strategy	C																							
+Exuberant	2017S1	02-17base/17exuberant.png	Strategy	C																							
+Get Foul!	2017S1	02-17base/17getfoul.png	Strategy	C																							
+Good Jump	2017S1	02-17base/17goodjump.png	Strategy	U																							
+Hit and Run	2017S1	02-17base/17hitandrun.png	Strategy	U																							
+Hot Shot	2017S1	02-17base/17hotshot.png	Strategy	U																							
+Late-Inning Fireworks	2017S1	02-17base/17lateinningfireworks.png	Strategy	R																							
+Locked In	2017S1	02-17base/17lockedin.png	Strategy	R																							
+Make Him Pay	2017S1	02-17base/17makehimpay.png	Strategy	C																							
+Meatball Masher	2017S1	02-17base/17meatballmasher.png	Strategy	R																							
+The One Who Knocks	2017S1	02-17base/17theonewhoknocks.png	Strategy	C																							
+Oppo-Power	2017S1	02-17base/17oppopower.png	Strategy	C																							
+Prime Time	2017S1	02-17base/17primetime.png	Strategy	C																							
+Productive Out	2017S1	02-17base/17productiveout.png	Strategy	C																							
+Reading the Ball	2017S1	02-17base/17readingtheball.png	Strategy	U																							
+Suicide Squeeze	2017S1	02-17base/17suicidesqueeze.png	Strategy	C																							
+Sweet Spot	2017S1	02-17base/17sweetspot.png	Strategy	C																							
+Tailing Winds	2017S1	02-17base/17tailingwinds.png	Strategy	U																							
+Thou Shall Not Pass	2017S1	02-17base/17thoushallnotpass.png	Strategy	C																							
+Tipping His Pitches	2017S1	02-17base/17tippinghispitches.png	Strategy	U																							
+Turned on One	2017S1	02-17base/17turnedonone.png	Strategy	C																							
+The Wheelhouse	2017S1	02-17base/17thewheelhouse.png	Strategy	C																							
+Who's Got the Yipps?	2017S1	02-17base/17whosgottheyipps.png	Strategy	C																							
+Wild Thing	2017S1	02-17base/17wildthing.png	Strategy	C																							
+Challenge Flag	2017S1	02-17base/17challengeflag.png	Strategy	U																							
+Deja Vu	2017S1	02-17base/17dejavu.png	Strategy	R																							
+Instant Replay	2017S1	02-17base/17instantreplay.png	Strategy	R																							
+Lost his Mojo	2017S1	02-17base/17losthismojo.png	Strategy	U																							
+Not Without a Fight	2017S1	02-17base/17notwithoutafight.png	Strategy	U																							
+Overruled	2017S1	02-17base/17overruled.png	Strategy	U																							
+Road Rally	2017S1	02-17base/17roadrally.png	Strategy	C																							
+Scouting Reports	2017S1	02-17base/17scoutingreports.png	Strategy	C																							
+Chin Music 2.0	ASG17	03-17miami/17chinmusic20.png	Strategy	U																							
+Coming In Hot 2.0	ASG17	03-17miami/17cominginhot20.png	Strategy	U																							
+Blooper 2.0	ASG17	03-17miami/17blooper20.png	Strategy	U																							
+The One Who Knocks 2.0	ASG17	03-17miami/17theonewhoknocks20.png	Strategy	U																							
+Road Rally 2.0	ASG17	03-17miami/17roadrally20.png	Strategy	U																							
+Got His Number	ASG17	03-17miami/17gothisnumber.png	Strategy	UR																							
+In His Head	ASG17	03-17miami/17inhishead.png	Strategy	UR																							
+Twist of Fate	ASG17	03-17miami/17twistoffate.png	Strategy	UR																							
+Goatbusters	17Preorder	01-17preorder/17goatbusters.png	Strategy	UR																							
+Curse Of The Black Cat	Halloween	05-17halloween/17curseoftheblackcat.png	Strategy	UR																							
+Edgar Martinez	19HOF	23-19halloffame/19edgarmartinez.png	Batter	SEA	R	DH	685	15	L+2	1	8	0	 -	-	1	2	3-10	11-17	18-22	-	23+	SL	RBI	AS			
+Harold Baines	19HOF	23-19halloffame/19haroldbaines.png	Batter	CHI-A	L	LF/RF	460	13	R+1	1	12	2	 -	-	1-2	3-4	5-8	9-17	18-20	21	22+						
 Roy Halladay HOF	19HOF	23-19halloffame/19royhalladay.png	Pitcher	PHI	R	SP	705	6	-	2	8	4	1	1-5	6-14	15-17	-	18-23	24	 -	25+	MVP	W	K	AS		
-Mike Mussina	19HOF	23-19halloffame/19mikemussinapng.png	Pitcher	NY-A	R	SP	555	5	R+1	-1	7	4	1	1-5	6-12	13-17	18	19-23	24	 -	25+	K	GG				
-Mariano Rivera	19HOF	23-19halloffame/19marianoriverapng.png	Pitcher	NY-A	R	RP	355	6	L+2	2	1	4	1	1-5	6-15	16-18	19	20-24	25	 -	26+	SV	AS				
-Lee Smith	19HOF	23-19halloffame/19leesmithpng.png	Pitcher	CHI-N	R	RP	350	5	R+1	1	2	3	1	1-5	6-12	13-18	19	20-23	24	 -	25+	SV	AS				
+Mike Mussina	19HOF	23-19halloffame/19mikemussina.png	Pitcher	NY-A	R	SP	555	5	R+1	-1	7	4	1	1-5	6-12	13-17	18	19-23	24	 -	25+	K	GG				
+Mariano Rivera	19HOF	23-19halloffame/19marianorivera.png	Pitcher	NY-A	R	RP	355	6	L+2	2	1	4	1	1-5	6-15	16-18	19	20-24	25	 -	26+	SV	AS				
+Lee Smith	19HOF	23-19halloffame/19leesmith.png	Pitcher	CHI-N	R	RP	350	5	R+1	1	2	3	1	1-5	6-12	13-18	19	20-23	24	 -	25+	SV	AS				
 Ehire Adrianza '19	2019S3	26-19series3/19ehireadrianza.png	Batter	MIN	S	IF	315	13	-	-1	12	2	-	1	2-3	4-5	6-11	12-20	21	22	23+						
 Austin Allen '19	2019S3	26-19series3/19austinallen.png	Batter	SD	L	C	145	10	R+2	3	8	7	-	1	2-4	5-7	8-10	11-19	20-23	-	24+						
 Peter Alonso '19	2019S3	26-19series3/19peteralonso.png	Batter	NY-N	R	1B	385	13	-	-2	12	1	-	1-2	3-4	5-6	7-12	13-15	16-18	-	19+						
@@ -1338,47 +1338,47 @@ Roy Oswalt Traded	2019S3	26-19series3/19royoswalttraded.png	Pitcher	HOU/PHI	R	SP
 CC Sabathia Traded	2019S3	26-19series3/19ccsabathiatraded.png	Pitcher	CLE/MIL	L	SP	630	6	-	1	8	4	1	1-5	6-11	12-17	18	19-23	24	-	25+	K					
 Curt Schilling Traded	2019S3	26-19series3/19curtschillingtraded.png	Pitcher	PHI/BOS	R	SP	430	5	-	-2	7	5	1-2	1-4	5-9	10-17	18	19-22	23	-	24+						
 Rick Sutcliffe Traded	2019S3	26-19series3/19ricksutcliffetraded.png	Pitcher	CLE/CHI-N	R	SP	485	5	-	-2	7	4	1-2	1-5	6-10	11-17	18	19-23	24	-	25+	MVP	W	K			
-London Stadium	2019S3	25-19series3preorder/19londonstadiumpng.png	Stadium																								
-nooneisinvincible.png	2019S3	26-19series3/19nooneisinvinciblepng.png	Strategy																								
-unorthodoxapproach.png	2019S3	26-19series3/19unorthodoxapproachpng.png	Strategy																								
-iaminevitable.png	2019S3	26-19series3/19iaminevitablepng.png	Strategy																								
-thinkoutsidethebox.png	2019S3	26-19series3/19thinkoutsidetheboxpng.png	Strategy																								
-UNDERRATED OVERLOOKED	2019S3	26-19series3/19underratedoverlooked.png	Strategy																								
-nowornever.png	2019S3	26-19series3/19noworneverpng.png	Strategy																								
-payoffpitch.png	2019S3	26-19series3/19payoffpitchpng.png	Strategy																								
-brushbackpitch.png	2019S3	26-19series3/19brushbackpitchpng.png	Strategy																								
-bullpencart.png	2019S3	26-19series3/19bullpencartpng.png	Strategy																								
-chasethepitch.png	2019S3	26-19series3/19chasethepitchpng.png	Strategy																								
-dontrunonus.png	2019S3	26-19series3/19dontrunonus.png	Strategy																								
-flashtheleather.png	2019S3	26-19series3/19flashtheleatherpng.png	Strategy																								
-getonthesamepage.png	2019S3	26-19series3/19getonthesamepagepng.png	Strategy																								
-holeinhisbat.png	2019S3	26-19series3/19holeinhisbatpng.png	Strategy																								
-inittowinit.png	2019S3	26-19series3/19inittowinitpng.png	Strategy																								
-makeupcall.png	2019S3	26-19series3/19makeupcallpng.png	Strategy																								
-sleightofhand.png	2019S3	26-19series3/19sleightofhandpng.png	Strategy																								
-stepofftherubber.png	2019S3	26-19series3/19stepofftherubberpng.png	Strategy																								
-crowdtheplate.png	2019S3	26-19series3/19crowdtheplatepng.png	Strategy																								
-curtaincall.png	2019S3	26-19series3/19curtaincallpng.png	Strategy																								
-failuretocommunicate.png	2019S3	26-19series3/19failuretocommunicatepng.png	Strategy																								
-goodtake.png	2019S3	26-19series3/19goodtakepng.png	Strategy																								
-gotapieceofit.png	2019S3	26-19series3/19gotapieceofitpng.png	Strategy																								
-hitemwheretheyaint.png	2019S3	26-19series3/19hitemwheretheyaint.png	Strategy																								
-holeinhisglove.png	2019S3	26-19series3/19holeinhisglovepng.png	Strategy																								
-stepoutofthebox.png	2019S3	26-19series3/19stepoutoftheboxpng.png	Strategy																								
-stretchit.png	2019S3	26-19series3/19stretchitpng.png	Strategy																								
-tablesetter.png	2019S3	26-19series3/19tablesetterpng.png	Strategy																								
-tapemeasureblast.png	2019S3	26-19series3/19tapemeasureblastpng.png	Strategy																								
-7thinningstretch.png	2019S3	26-19series3/197thinningstretchpng.png	Strategy																								
-backtobasics.png	2019S3	26-19series3/19backtobasicspng.png	Strategy																								
-betterlucknexttime.png	2019S3	26-19series3/19betterlucknexttimepng.png	Strategy																								
-desperatemeasures.png	2019S3	26-19series3/19desperatemeasurespng.png	Strategy																								
-desperatetimes.png	2019S3	26-19series3/19desperatetimespng.png	Strategy																								
-dressedfortheoccasion.png	2019S3	26-19series3/19dressedfortheoccasionpng.png	Strategy																								
-exchangingsigns.png	2019S3	26-19series3/19exchangingsignspng.png	Strategy																								
-fullcount.png	2019S3	26-19series3/19fullcountpng.png	Strategy																								
-itsatarp.png	2019S3	26-19series3/19itsatarp.png	Strategy																								
-letsjustkeepplaying.png	2019S3	26-19series3/19letsjustkeepplaying.png	Strategy																								
-judgementcall.png	2019S3	26-19series3/19judgementcallpng.png	Strategy																								
+London Stadium	2019S3	25-19series3preorder/19londonstadium.png	Stadium																								
+Brush-Back Pitch	2019S3	26-19series3/19brushbackpitch.png	Strategy																								
+Bullpen Cart	2019S3	26-19series3/19bullpencart.png	Strategy																								
+Chase the Pitch	2019S3	26-19series3/19chasethepitch.png	Strategy																								
+Flash the Leather	2019S3	26-19series3/19flashtheleather.png	Strategy																								
+"Underrated, Overlooked"	2019S3	26-19series3/19underratedoverlooked.png	Strategy																								
+Get On The Same Page	2019S3	26-19series3/19getonthesamepage.png	Strategy																								
+Hole In His Bat	2019S3	26-19series3/19holeinhisbat.png	Strategy																								
+In It To Win It	2019S3	26-19series3/19inittowinit.png	Strategy																								
+Judgement Call	2019S3	26-19series3/19judgementcall.png	Strategy																								
+Make Up Call	2019S3	26-19series3/19makeupcall.png	Strategy																								
+Don't Run on Us	2019S3	26-19series3/19dontrunonus.png	Strategy																								
+No One Is Invincible	2019S3	26-19series3/19nooneisinvincible.png	Strategy																								
+Sleight of Hand	2019S3	26-19series3/19sleightofhand.png	Strategy																								
+Step Off The Rubber	2019S3	26-19series3/19stepofftherubber.png	Strategy																								
+Unorthodox Approach	2019S3	26-19series3/19unorthodoxapproach.png	Strategy																								
+Crowd the Plate	2019S3	26-19series3/19crowdtheplate.png	Strategy																								
+Curtain Call	2019S3	26-19series3/19curtaincall.png	Strategy																								
+Faliure to Communicate	2019S3	26-19series3/19faliuretocommunicate.png	Strategy																								
+Good Take	2019S3	26-19series3/19goodtake.png	Strategy																								
+Got a Piece of It	2019S3	26-19series3/19gotapieceofit.png	Strategy																								
+Hole In His Glove	2019S3	26-19series3/19holeinhisglove.png	Strategy																								
+I Am Inevitable	2019S3	26-19series3/19iaminevitable.png	Strategy																								
+Step Out of The Box	2019S3	26-19series3/19stepoutofthebox.png	Strategy																								
+Hit 'Em Where They Ain't	2019S3	26-19series3/19hitemwheretheyaint.png	Strategy																								
+Stretch It	2019S3	26-19series3/19stretchit.png	Strategy																								
+Tablesetter	2019S3	26-19series3/19tablesetter.png	Strategy																								
+Tape Measure Blast	2019S3	26-19series3/19tapemeasureblast.png	Strategy																								
+Think Outside the Box	2019S3	26-19series3/19thinkoutsidethebox.png	Strategy																								
+7th Inning Stretch	2019S3	26-19series3/197thinningstretch.png	Strategy																								
+Back to Basics	2019S3	26-19series3/19backtobasics.png	Strategy																								
+Better Luck Next Time	2019S3	26-19series3/19betterlucknexttime.png	Strategy																								
+Desperate Times	2019S3	26-19series3/19desperatetimes.png	Strategy																								
+Dressed For The Occasion	2019S3	26-19series3/19dressedfortheoccasion.png	Strategy																								
+Exchanging Signs	2019S3	26-19series3/19exchangingsigns.png	Strategy																								
+Full Count	2019S3	26-19series3/19fullcount.png	Strategy																								
+Now Or Never	2019S3	26-19series3/19nowornever.png	Strategy																								
+Payoff Pitch	2019S3	26-19series3/19payoffpitch.png	Strategy																								
+It's a Tarp!	2019S3	26-19series3/19itsatarp.png	Strategy																								
+Let's Just Keep Playing	2019S3	26-19series3/19letsjustkeepplaying.png	Strategy																								
+Desperate Measures	2019S3	26-19series3/19desperatemeasures.png	Strategy																								
 Chase Utley	19HH	27-19highheat/19chaseutley.png	Batter																								
 Randy Jones	19HH	27-19highheat/19randyjones.png	Pitcher																								
 Akinori Otsuka	19HH	27-19highheat/19akinoriotsuka.png	Pitcher																								
