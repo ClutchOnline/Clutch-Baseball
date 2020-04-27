@@ -57,7 +57,7 @@ Freddie Freeman '19	2019S1	18-19series1/19freddiefreeman.png	Batter	ATL	L	1B	480
 Anthony Rendon '19	2019S1	18-19series1/19anthonyrendon.png	Batter	WAS	R	3B	445	13	0	-1	16	4	-	1	2	3-4	5-9	10-17	18-21	-	22+						
 Matt Chapman '19	2019S1	18-19series1/19mattchapman.png	Batter	OAK	R	3B	360	12	0	1	16	4	-	1-2	3-4	5-6	7-10	11-17	18-21	-	22+	GG					
 Corey Dickerson '19	2019S1	18-19series1/19coreydickerson.png	Batter	PIT	L	LF/RF	290	11	0	-1	12	4	-	1	2-3	4	5-6	7-17	18-21	-	22+	GG					
-Nicholas Castellanos '19	2019S1	18-19series1/19nicholascastellanos.png	Batter	DET	R	LF/RF	235	11	L+1	1	12	1	-	1	2-3	4-5	6-8	9-17	18-21	-	22+						
+Nicholas Castellanos '19	2019S1	18-19series1/19nicholascastellanosdet.png	Batter	DET	R	LF/RF	235	11	L+1	1	12	1	-	1	2-3	4-5	6-8	9-17	18-21	-	22+						
 Anthony Rizzo '19	2019S1	18-19series1/19anthonyrizzo.png	Batter	CHI-N	L	1B	410	13	R+1	1	4	2	-	1	2-3	4-5	6-10	11-18	19-20	-	21+	GG					
 Marcell Ozuna '19	2019S1	18-19series1/19marcellozuna.png	Batter	STL	R	LF/RF	345	12	0	1	12	3	-	1	2-3	4	5-7	8-18	19-20	-	21+						
 George Springer '19	2019S1	18-19series1/19georgespringer.png	Batter	HOU	R	OF	320	12	L+1	-1	12	2	-	1	2-3	4-5	6-10	11-18	19-20	-	21+						
@@ -421,7 +421,7 @@ Front Loaded	2019S1	18-19series1/19frontloaded.png	Strategy	C
 Get Hyphy	2019S1	18-19series1/19gethyphy.png	Strategy	C	MVP/W/K/SV/HL	Momentum																					
 Grab and Go	2019S1	18-19series1/19grabandgo.png	Strategy	C	GG																						
 Grudge Match	2019S1	18-19series1/19grudgematch.png	Strategy	U	MVP/W/K/SV/HL																						
-Hanging K's	2019S1	18-19series1/19hangingks.png	Strategy	U	MVP/K	Momentum																					
+Hanging K's	2019S1	18-19series1/19hanginks.png	Strategy	U	MVP/K	Momentum																					
 High and Tight	2019S1	18-19series1/19highandtight.png	Strategy	U	K																						
 Jack in the Box	2019S1	18-19series1/19jackinthebox.png	Strategy	C																							
 Left for Dead	2019S1	18-19series1/19leftfordead.png	Strategy	R																							
@@ -472,37 +472,37 @@ Frozen Fingers	2019S1	18-19series1/19frozenfingers.png	Strategy	C
 Muddy Track	2019S1	18-19series1/19muddytrack.png	Strategy	C	SB																						
 Craig Counsell	2019S1	18-19series1/19craigcounsell.png	Strategy	R																							
 Alex Cora	2019S1	18-19series1/19alexcora.png	Strategy	C																							
-Arizona Field	2019S1	18-19series1/19arizonafield.png	Stadium																								
-Atlanta Park	2019S1	18-19series1/19atlantapark.png	Stadium																								
-Baltimore Yards	2019S1	18-19series1/19baltimoreyards.png	Stadium																								
-Boston Park	2019S1	18-19series1/19bostonpark.png	Stadium																								
-Brooklyn Field	Black History	18-19series1/19brooklynfield.png	Stadium																								
-Chicago (A) Field	2019S1	18-19series1/19chicagoafield.png	Stadium																								
-Chicago (N) Field	2019S1	18-19series1/19chicagonfield.png	Stadium																								
-Cincinnati Park	2019S1	18-19series1/19cincinnatipark.png	Stadium																								
-Cleveland Field	2019S1	18-19series1/19clevelandfield.png	Stadium																								
-Colorado Field	2019S1	18-19series1/19coloradofield.png	Stadium																								
-Detroit Park	2019S1	18-19series1/19detroitpark.png	Stadium																								
-Houston Park	2019S1	18-19series1/19houstonpark.png	Stadium																								
-Kansas City Stadium	2019S1	18-19series1/19kansascitystadium.png	Stadium																								
-Los Angeles (A) Stadium	2019S1	18-19series1/19losangelesastadium.png	Stadium																								
-Los Angeles (N) Stadium	2019S1	18-19series1/19losangelesnstadium.png	Stadium																								
-Miami Park	2019S1	18-19series1/19miamipark.png	Stadium																								
-Milwaukee Park	2019S1	18-19series1/19milwaukeepark.png	Stadium																								
-Minnesota Field	2019S1	18-19series1/19minnesotafield.png	Stadium																								
-New York (A) Stadium	2019S1	18-19series1/19newyorkastadium.png	Stadium																								
-New York (N) Field	2019S1	18-19series1/19newyorknfield.png	Stadium																								
-Oakland Stadium	2019S1	18-19series1/19oaklandstadium.png	Stadium																								
-Philadelphia Park	2019S1	18-19series1/19philadelphiapark.png	Stadium																								
-Pittsburgh Park	2019S1	18-19series1/19pittsburghpark.png	Stadium																								
-San Diego Park	2019S1	18-19series1/19sandiegopark.png	Stadium																								
-San Francisco Park	2019S1	18-19series1/19sanfranciscopark.png	Stadium																								
-Seattle Field	2019S1	18-19series1/19seattlefield.png	Stadium																								
-St. Louis Stadium	2019S1	18-19series1/19stlouisstadium.png	Stadium																								
-Tampa Bay Field	2019S1	18-19series1/19tampabayfield.png	Stadium																								
-Texas Park	2019S1	18-19series1/19texaspark.png	Stadium																								
-Toronto Centre	2019S1	18-19series1/19torontocentre.png	Stadium																								
-Washington Park	2019S1	18-19series1/19washingtonpark.png	Stadium																								
+Arizona Field	2019S1	18-19series1/19arizona.png	Stadium																								
+Atlanta Park	2019S1	18-19series1/19atlanta.png	Stadium																								
+Baltimore Yards	2019S1	18-19series1/19baltimore.png	Stadium																								
+Boston Park	2019S1	18-19series1/19boston.png	Stadium																								
+Brooklyn Field	Black History	15-19blackhistory/19brooklyn.png	Stadium																								
+Chicago (A) Field	2019S1	18-19series1/19chicagoa.png	Stadium																								
+Chicago (N) Field	2019S1	18-19series1/19chicagon.png	Stadium																								
+Cincinnati Park	2019S1	18-19series1/19cincinnati.png	Stadium																								
+Cleveland Field	2019S1	18-19series1/19cleveland.png	Stadium																								
+Colorado Field	2019S1	18-19series1/19colorado.png	Stadium																								
+Detroit Park	2019S1	18-19series1/19detroit.png	Stadium																								
+Houston Park	2019S1	18-19series1/19houston.png	Stadium																								
+Kansas City Stadium	2019S1	18-19series1/19kansascity.png	Stadium																								
+Los Angeles (A) Stadium	2019S1	18-19series1/19losangelesa.png	Stadium																								
+Los Angeles (N) Stadium	2019S1	18-19series1/19losangelesn.png	Stadium																								
+Miami Park	2019S1	18-19series1/19miami.png	Stadium																								
+Milwaukee Park	2019S1	18-19series1/19milwaukee.png	Stadium																								
+Minnesota Field	2019S1	18-19series1/19minnesota.png	Stadium																								
+New York (A) Stadium	2019S1	18-19series1/19newyorka.png	Stadium																								
+New York (N) Field	2019S1	18-19series1/19neworkn.png	Stadium																								
+Oakland Stadium	2019S1	18-19series1/19oakland.png	Stadium																								
+Philadelphia Park	2019S1	18-19series1/19philadelphia.png	Stadium																								
+Pittsburgh Park	2019S1	18-19series1/19pittsburgh.png	Stadium																								
+San Diego Park	2019S1	18-19series1/19sandiego.png	Stadium																								
+San Francisco Park	2019S1	18-19series1/19sanfrancisco.png	Stadium																								
+Seattle Field	2019S1	18-19series1/19seattle.png	Stadium																								
+St. Louis Stadium	2019S1	18-19series1/19stlouis.png	Stadium																								
+Tampa Bay Field	2019S1	18-19series1/19tampabay.png	Stadium																								
+Texas Park	2019S1	18-19series1/19texas.png	Stadium																								
+Toronto Centre	2019S1	18-19series1/19toronto.png	Stadium																								
+Washington Park	2019S1	18-19series1/19washington.png	Stadium																								
 Mickey Mantle	TripleCrown	19-19triplecrown/19mickeymantle.png	Batter	NY-A	S	CF	895	16	0	1	12	3		1	2	3	4-9	10-15	16-17	-	18+	MVP	HR	RBI	R	AS	
 Ted Williams	TripleCrown	19-19triplecrown/19tedwilliams.png	Batter	BOS	L	LF/RF	840	16	0	1	8	2		-	1	2	3-9	10-15	16-18	-	19+	HR	RBI	R	AS		
 Luis Gonzalez	BallparkExclusive	17-19ballparkexclusives/19luisgonzalez.png	Batter	ARI	L	LF/RF	685	15	0	2	8	1		1	2	3-4	5-9	10-15	16-18	-	19+	SL	HR	RBI	AS		
@@ -694,8 +694,8 @@ Now This is Baseball	2019S2	22-19series2/19nowthisisbaseball.png	Strategy	U
 Oh I Don't Think So	2019S2	22-19series2/19ohidontthinkso.png	Strategy	U																							
 Prime-Time Performance	2019S2	22-19series2/19primetimeperformance.png	Strategy	R																							
 Cleveland Stadium	2019S2	22-19series2/19clevelandstadium.png	Stadium	R																							
-The Jake in Cleveland	2019S2	22-19series2/19thejakeincleveland.png	Stadium	R																							
-Whiff City	Promo	22-19series2/19whiffcity.png	Stadium	UR																							
+The Jake in Cleveland	2019S2	22-19series2/19thejake.png	Stadium	R																							
+Whiff City	2019S2preorder	21-19series2preorder/19whiffcity.png	Stadium	UR																							
 Justin Verlander ASG '19	2019S2	22-19series2/19asgjustinverlander.png	Pitcher	HOU	R	SP	795	8	L+1	-2	7	4	1	1-6	7-13	14-19	20	21	-	-	22+	AS					
 Lucas Giolito ASG '19	2019S2	22-19series2/19asglucasgiolito.png	Pitcher	CHI-A	R	SP	585	6	-	-2	6	5	1	1-5	6-12	13-18	19	20-23	24	-	25+	AS					
 Matthew Boyd ASG '19	2019S2	22-19series2/19asgmatthewboyd.png	Pitcher	DET	L	SP	510	6	-	-2	6	4	1	1-5	6-12	13-17	18	19-22	23	-	24+	AS					
@@ -805,7 +805,7 @@ Splitter 2.0	ASG18	11-18washington/18splitter20.png	Strategy	U
 Check Swing 2.0	ASG18	11-18washington/18checkswing20.png	Strategy	U																							
 Super Sub 2.0	ASG18	11-18washington/18supersub20.png	Strategy	U																							
 Scattered Showers 2.0	ASG18	11-18washington/18scatteredshowers20.png	Strategy	U																							
-Flyswatter	ASG18	11-18washington/18flyswater.png	Strategy	UR																							
+Flyswatter	ASG18	11-18washington/18flyswatter.png	Strategy	UR																							
 Security Bypass	ASG18	11-18washington/18securitybypass.png	Strategy	UR																							
 Turning Point	ASG18	11-18washington/18turningpoint.png	Strategy	UR																							
 The Flip	GEN18	14-18generations/18theflip.png	Strategy	R																							
@@ -817,41 +817,41 @@ Aaron Boone	18Postseason	13-18postseason/18aaronboone.png	Strategy	UR
 Heartbreaker	Valentines	06-18valentines/18heartbreaker.png	Strategy	UR																							
 Back to the Track	Memorial	09-18memorial/18backtothetrack.png	Strategy	UR																							
 Short Porch	Memorial	09-18memorial/18shortporch.png	Strategy	UR																							
-Washington Park (ASG)	ASG18	11-18washington/1818asgwashington.png	Stadium	UR																							
-Montreal Stadium	ASG18	11-18washington/1818asgmontreal.png	Stadium	UR																							
+Washington Park (ASG)	ASG18	11-18washington/18asgwashington.png	Stadium	UR																							
+Montreal Stadium	ASG18	11-18washington/18asgmontreal.png	Stadium	UR																							
 Old New York Stadium	GEN18	14-18generations/18oldnewyorkstadium.png	Stadium	UR																							
 Dinger Town	18Preorder	07-18preorder/18dingertown.png	Stadium	UR																							
 Big Red Machine	Valentines	06-18valentines/18bigredmachine.png	Stadium	UR																							
-Arizona Field	2018S1	08-18base/18arizonafield.png	Stadium	C																							
-Atlanta Park	2018S1	08-18base/18atlantapark.png	Stadium	U																							
-Baltimore Yards	2018S1	08-18base/18baltimoreyards.png	Stadium	R																							
-Boston Park	2018S1	08-18base/18bostonpark.png	Stadium	R																							
-Chicago (A) Field	2018S1	08-18base/18chicagoafield.png	Stadium	C																							
-Chicago (N) Field	2018S1	08-18base/18chicagonfield.png	Stadium	C																							
-Cincinnati Park	2018S1	08-18base/18cincinnatipark.png	Stadium	U																							
-Cleveland Field	2018S1	08-18base/18clevelandfield.png	Stadium	C																							
-Colorado Field	2018S1	08-18base/18coloradofield.png	Stadium	U																							
-Detroit Park	2018S1	08-18base/18detroitpark.png	Stadium	C																							
-Houston Park	2018S1	08-18base/18houstonpark.png	Stadium	C																							
-Kansas City Stadium	2018S1	08-18base/18kansascitystadium.png	Stadium	C																							
-Los Angeles (A) Stadium	2018S1	08-18base/18losangelesastadium.png	Stadium	R																							
-Los Angeles (N) Stadium	2018S1	08-18base/18losangelesnstadium.png	Stadium	C																							
-Miami Park	2018S1	08-18base/18miamipark.png	Stadium	C																							
-Milwaukee Park	2018S1	08-18base/18milwaukeepark.png	Stadium	C																							
-Minnesota Field	2018S1	08-18base/18minnesotafield.png	Stadium	C																							
-New York (A) Field	2018S1	08-18base/18newyorkafield.png	Stadium	R																							
-New York (N) Field	2018S1	08-18base/18newyorknfield.png	Stadium	C																							
-Oakland Stadium	2018S1	08-18base/18oaklandstadium.png	Stadium	C																							
-Philadelphia Park	2018S1	08-18base/18philadelphiapark.png	Stadium	U																							
-Pittsburgh Park	2018S1	08-18base/18pittsburghpark.png	Stadium	U																							
-San Diego Park	2018S1	08-18base/18sandiegopark.png	Stadium	C																							
-San Francisco Park	2018S1	08-18base/18sanfranciscopark.png	Stadium	C																							
-Seattle Field	2018S1	08-18base/18seattlefield.png	Stadium	U																							
-St. Louis Stadium	2018S1	08-18base/18stlouisstadium.png	Stadium	U																							
-Tampa Bay Field	2018S1	08-18base/18tampabayfield.png	Stadium	C																							
-Texas Park	2018S1	08-18base/18texaspark.png	Stadium	C																							
-Toronto Centre	2018S1	08-18base/18torontocentre.png	Stadium	C																							
-Washington Park	2018S1	08-18base/18washingtonpark.png	Stadium	U																							
+Arizona Field	2018S1	08-18base/18arizona.png	Stadium	C																							
+Atlanta Park	2018S1	08-18base/18atlanta.png	Stadium	U																							
+Baltimore Yards	2018S1	08-18base/18baltimore.png	Stadium	R																							
+Boston Park	2018S1	08-18base/18boston.png	Stadium	R																							
+Chicago (A) Field	2018S1	08-18base/18chicagoa.png	Stadium	C																							
+Chicago (N) Field	2018S1	08-18base/18chicagon.png	Stadium	C																							
+Cincinnati Park	2018S1	08-18base/18cincinnati.png	Stadium	U																							
+Cleveland Field	2018S1	08-18base/18cleveland.png	Stadium	C																							
+Colorado Field	2018S1	08-18base/18colorado.png	Stadium	U																							
+Detroit Park	2018S1	08-18base/18detroit.png	Stadium	C																							
+Houston Park	2018S1	08-18base/18houston.png	Stadium	C																							
+Kansas City Stadium	2018S1	08-18base/18kansascity.png	Stadium	C																							
+Los Angeles (A) Stadium	2018S1	08-18base/18losangelesa.png	Stadium	R																							
+Los Angeles (N) Stadium	2018S1	08-18base/18losangelesn.png	Stadium	C																							
+Miami Park	2018S1	08-18base/18miami.png	Stadium	C																							
+Milwaukee Park	2018S1	08-18base/18milwaukee.png	Stadium	C																							
+Minnesota Field	2018S1	08-18base/18minnesota.png	Stadium	C																							
+New York (A) Field	2018S1	08-18base/18newyorka.png	Stadium	R																							
+New York (N) Field	2018S1	08-18base/18newyorkn.png	Stadium	C																							
+Oakland Stadium	2018S1	08-18base/18oakland.png	Stadium	C																							
+Philadelphia Park	2018S1	08-18base/18philadelphia.png	Stadium	U																							
+Pittsburgh Park	2018S1	08-18base/18pittsburgh.png	Stadium	U																							
+San Diego Park	2018S1	08-18base/18sandiego.png	Stadium	C																							
+San Francisco Park	2018S1	08-18base/18sanfrancisco.png	Stadium	C																							
+Seattle Field	2018S1	08-18base/18seattle.png	Stadium	U																							
+St. Louis Stadium	2018S1	08-18base/18stlouis.png	Stadium	U																							
+Tampa Bay Field	2018S1	08-18base/18tampabay.png	Stadium	C																							
+Texas Park	2018S1	08-18base/18texas.png	Stadium	C																							
+Toronto Centre	2018S1	08-18base/18toronto.png	Stadium	C																							
+Washington Park	2018S1	08-18base/18washington.png	Stadium	U																							
 Barry Bonds	GEN18	14-18generations/18barrybonds.png	Batter	SF	L	LF/RF	870	15	R+1	1	16	4	-	-	1	2-3	4-9	10-15	16-18	-	19+	MVP	SL	HR	RBI	GG	
 Frank Thomas	GEN18	14-18generations/18frankthomas.png	Batter	CHI-A	R	1B	705	16	-	-1	8	0	-	-	-	1-2	3-9	10-16	17-19	-	20+	MVP	SL	HR	RBI		
 Barry Larkin	GEN18	14-18generations/18barrylarkin.png	Batter	CIN	R	SS	725	14	-	1	20	4	-	-	1	2-3	4-8	9-17	18-20	21	22+	MVP	SL	SB	GG		
@@ -904,7 +904,7 @@ Scott Kingery '18	GEN18	14-18generations/18scottkingery.png	Batter	PHI	R	U	50	9	
 Tzu-Wei Lin '18	GEN18	14-18generations/18tzuweilin.png	Batter	BOS	L	IF	60	10	R+2	-3	16	1	-	1-2	3-5	6-7	8-10	11-19	20-23	-	24+						
 Jeff McNeil '18	GEN18	14-18generations/18jeffmcneil.png	Batter	NY-N	L	2B/3B	370	12	R+1	-1	16	2	-	1	2-3	4	5-7	8-17	18-20	21	22+						
 Francisco Mejia '18	GEN18	14-18generations/18franciscomejia.png	Batter	SD	S	C	80	9	R+2	1	12	6	-	1-2	3-5	6-8	9-12	13-17	18-20	-	21+						
-Shohei Ohtani 18 Gens	GEN18	14-18generations/18shoheiohtani.png	Batter	LA-A	L	DH	350	12	R+1	2	16	0	-	1-2	3-4	5	6-9	10-16	17-20	-	21+						
+Shohei Ohtani 18 Gens	GEN18	14-18generations/18gensshoheiohtanibatter.png	Batter	LA-A	L	DH	350	12	R+1	2	16	0	-	1-2	3-4	5	6-9	10-16	17-20	-	21+						
 Alex Verdugo '18	GEN18	14-18generations/18alexverdugo.png	Batter	LA-N	L	OF	210	10	R+2	-1	16	2	-	1	2-3	4-6	7-10	11-16	17-21	-	22+						
 Jesse Winker '18	GEN18	14-18generations/18jessewinker.png	Batter	CIN	L	LF/RF	350	13	R+1	1	8	1	-	1	2-3	4	5-10	11-19	20-22	-	23+						
 Deion Sanders	GEN18	14-18generations/18deionsanders.png	Batter	ATL	L	OF	325	11	R+1	2	20	3	-	-	1-2	3-4	5-6	7-19	20	21-22	23+						
@@ -1049,11 +1049,11 @@ Twist of Fate	ASG17	03-17miami/17twistoffate.png	Strategy	UR
 Goatbusters	17Preorder	01-17preorder/17goatbusters.png	Strategy	UR																							
 Curse Of The Black Cat	Halloween	05-17halloween/17curseoftheblackcat.png	Strategy	UR																							
 Edgar Martinez	19HOF	23-19halloffame/19edgarmartinez.png	Batter	SEA	R	DH	685	15	L+2	1	8	0	 -	-	1	2	3-10	11-17	18-22	-	23+	SL	RBI	AS			
-Harold Baines	19HOF	23-19halloffame/19haroldbaines.png	Batter	CHI-A	L	LF/RF	460	13	R+1	1	12	2	 -	-	1-2	3-4	5-8	9-17	18-20	21	22+						
+Harold Baines	19HOFpromo	24-19hofpromo/19haroldbaines.png	Batter	CHI-A	L	LF/RF	460	13	R+1	1	12	2	 -	-	1-2	3-4	5-8	9-17	18-20	21	22+						
 Roy Halladay HOF	19HOF	23-19halloffame/19royhalladay.png	Pitcher	PHI	R	SP	705	6	-	2	8	4	1	1-5	6-14	15-17	-	18-23	24	 -	25+	MVP	W	K	AS		
 Mike Mussina	19HOF	23-19halloffame/19mikemussina.png	Pitcher	NY-A	R	SP	555	5	R+1	-1	7	4	1	1-5	6-12	13-17	18	19-23	24	 -	25+	K	GG				
 Mariano Rivera	19HOF	23-19halloffame/19marianorivera.png	Pitcher	NY-A	R	RP	355	6	L+2	2	1	4	1	1-5	6-15	16-18	19	20-24	25	 -	26+	SV	AS				
-Lee Smith	19HOF	23-19halloffame/19leesmith.png	Pitcher	CHI-N	R	RP	350	5	R+1	1	2	3	1	1-5	6-12	13-18	19	20-23	24	 -	25+	SV	AS				
+Lee Smith	19HOFpromo	24-19hofpromo/19leesmith.png	Pitcher	CHI-N	R	RP	350	5	R+1	1	2	3	1	1-5	6-12	13-18	19	20-23	24	 -	25+	SV	AS				
 Ehire Adrianza '19	2019S3	26-19series3/19ehireadrianza.png	Batter	MIN	S	IF	315	13	-	-1	12	2	-	1	2-3	4-5	6-11	12-20	21	22	23+						
 Austin Allen '19	2019S3	26-19series3/19austinallen.png	Batter	SD	L	C	145	10	R+2	3	8	7	-	1	2-4	5-7	8-10	11-19	20-23	-	24+						
 Peter Alonso '19	2019S3	26-19series3/19peteralonso.png	Batter	NY-N	R	1B	385	13	-	-2	12	1	-	1-2	3-4	5-6	7-12	13-15	16-18	-	19+						
@@ -1069,7 +1069,7 @@ Willie Calhoun '19	2019S3	26-19series3/19williecalhoun.png	Batter	TEX	L	LF/RF	37
 Mark Canha '19	2019S3	26-19series3/19markcanha.png	Batter	OAK	R	1B/OF	330	13	-	-3	12	2	-	1	2-3	4-7	8-14	15-17	18-19	-	20+						
 Victor Caratini '19	2019S3	26-19series3/19victorcaratini.png	Batter	CHI-N	S	C	255	11	L+2	-2	8	7	-	1	2-3	4-6	7-12	13-18	19-21	-	22+						
 Curt Casali '19	2019S3	26-19series3/19curtcasali.png	Batter	CIN	R	C	250	12	-	1	12	6	-	1-2	3	4-6	7-12	13-19	20-21	-	22+						
-Nicholas Castellanos '19	2019S3	26-19series3/19nicholascastellanos.png	Batter	CHI-N	R	LF/RF	175	10	L+2	1	12	1	-	1	2-3	4-5	6-9	10-17	18-22	-	23+						
+Nicholas Castellanos '19	2019S3	26-19series3/19nicholascastellanoschn.png	Batter	CHI-N	R	LF/RF	175	10	L+2	1	12	1	-	1	2-3	4-5	6-9	10-17	18-22	-	23+						
 Welington Castillo '19	2019S3	26-19series3/19welingtoncastillo.png	Batter	CHI-A	R	C	50	9	-	3	8	5	-	1-3	4-6	7-9	10-14	15-19	20-21	-	22+						
 Harold Castro '19	2019S3	26-19series3/19haroldcastro.png	Batter	DET	L	U	150	10	R+2	-1	12	2	-	1	2-3	4	5-6	7-20	21-22	23	24+						
 Michael Chavis '19	2019S3	26-19series3/19michaelchavis.png	Batter	BOS	R	1B/2B	270	11	R+2	1	12	2	-	1-2	3-4	5-6	7-10	11-18	19-20	-	21+						
@@ -1087,7 +1087,7 @@ Brandon Dixon '19	2019S3	26-19series3/19brandondixon.png	Batter	DET	R	U	145	10	-
 Hunter Dozier '19	2019S3	26-19series3/19hunterdozier.png	Batter	KC	R	1B/3B	375	13	-	2	12	1	-	1	2	3-5	6-11	12-17	18-20	21	22+						
 Brian Dozier '19	2019S3	26-19series3/19briandozier.png	Batter	WAS	R	2B	255	11	L+2	1	12	3	-	1-2	3-4	5-7	8-13	14-18	19-21	-	22+						
 Tommy Edman '19	2019S3	26-19series3/19tommyedman.png	Batter	STL	S	2B/3B	195	10	-	2	20	3	-	1	2-3	4-6	7-9	10-18	19-20	21	22+						
-Edwin Encarnacion '19	2019S3	26-19series3/19edwinencarnacion.png	Batter	NY-A	R	1B	245	12	-	2	12	1	-	1-2	3-4	5-8	9-14	15-17	18-19	-	20+						
+Edwin Encarnacion Traded '19	2019S3	26-19series3/19edwinencarnaciontraded.png	Batter	NY-A	R	1B	245	12	-	2	12	1	-	1-2	3-4	5-8	9-14	15-17	18-19	-	20+						
 Adam Engel '19	2019S3	26-19series3/19adamengel.png	Batter	CHI-A	R	CF	175	11	-	2	16	3	-	1-2	3-4	5-7	8-11	12-20	21	22	23+						
 Tim Federowicz '19	2019S3	26-19series3/19timfederowicz.png	Batter	TEX	R	C	50	9	-	-1	12	7	-	1-3	4-5	6-9	10-13	14-18	19-20	-	21+						
 Derek Fisher '19	2019S3	26-19series3/19derekfisher.png	Batter	TOR	L	LF/RF	135	10	L+2	3	16	3	-	1-2	3-5	6-8	9-14	15-20	21-22	23	24+						
@@ -1176,7 +1176,7 @@ Matt Wieters '19	2019S3	26-19series3/19mattwieters.png	Batter	STL	S	C	120	10	R+1
 Mike Yastrzemski '19	2019S3	26-19series3/19mikeyastrzemski.png	Batter	SF	L	LF/RF	255	11	-	-1	12	3	-	1	2	3-5	6-9	10-16	17-19	20	21+						
 Richie Ashburn	2019S3	26-19series3/19richieashburn.png	Batter	PHI	L	CF	620	15	-	1	20	3	-	-	1-2	3	4-9	10-20	21-22	23	24+	SB					
 Yogi Berra	2019S3	26-19series3/19yogiberra.png	Batter	NY-A	L	C	555	13	R+1	1	12	8	-	-	1-2	3	4-7	8-19	20-21	-	22+	RBI					
-Brett Boone	2019S3	26-19series3/19brettboone.png	Batter	SEA	R	2B	590	12	L+2	1	12	4	-	-	1-2	3	4-6	7-16	17-19	-	20+	SL	RBI	R			
+Brett Boone	2019S3	26-19series3/01bretboone.png	Batter	SEA	R	2B	590	12	L+2	1	12	4	-	-	1-2	3	4-6	7-16	17-19	-	20+	SL	RBI	R			
 Ken Boyer	2019S3	26-19series3/19kenboyer.png	Batter	STL	R	3B	545	13	L+1	1	12	4	-	-	1-2	3-4	5-9	10-18	19-20	21	22+	MVP	RBI				
 Norm Cash	2019S3	26-19series3/19normcash.png	Batter	DET	L	1B	695	15	R+2	-1	12	2	-	-	1	2	3-9	10-17	18-19	20	21+						
 Julio Franco	2019S3	26-19series3/19juliofranco.png	Batter	TEX	R	2B	465	14	-	-1	16	1	-	-	1-2	3	4-8	9-20	21-22	-	23+	SL					
@@ -1197,11 +1197,11 @@ David Ortiz	2019S3	26-19series3/19davidortiz.png	Batter	BOS	L	1B	585	13	R+2	2	8	
 Kirby Puckett	2019S3	26-19series3/19kirbypuckett.png	Batter	MIN	R	CF	360	11	L+2	1	12	3	-	-	1-2	3-4	5-6	7-18	19-21	22	23+	GG					
 Albert Pujols	2019S3	26-19series3/19albertpujols.png	Batter	STL	R	1B	735	15	-	1	16	2	-	-	1	2-3	4-8	9-16	17-19	-	20+	MVL	HR	RBI	R		
 Scott Spiezio	2019S3	26-19series3/19scottspiezio.png	Batter	LA-A	S	1B/3B	350	12	L+2	3	8	2	-	-	1-2	3-5	6-11	12-19	20-22	-	23+						
-Carlos Beltran Traded	2019S3	26-19series3/19carlosbeltrantraded.png	Batter	KC/HOU	S	CF	595	13	-	1	24	3	-	1	2-3	4-5	6-11	12-15	16-18	19	20+	R	SB				
-Matt Holliday Traded	2019S3	26-19series3/19matthollidaytraded.png	Batter	OAK/ATL	R	LF/RF	490	14	-	1	12	3	-	1	2	3-4	5-9	10-18	19-21	-	22+						
-David Justice Traded	2019S3	26-19series3/19davidjusticetraded.png	Batter	CLE/NY-A	L	LF/RF	465	13	-	1	12	4	-	1	2-3	4-5	6-10	11-17	18-19	-	20+						
-Manny Ramirez Traded	2019S3	26-19series3/19mannyramireztraded.png	Batter	BOS/LA-N	R	LF/RF	680	15	R+1	2	12	1	-	1	2	3	4-8	9-16	17-19	-	20+	RBI					
-Mark Teixeira Traded	2019S3	26-19series3/19markteixeiratraded.png	Batter	ATL/LA-A	S	1B	550	14	-	1	12	2	-	1	2	3-4	5-10	11-16	17-19	-	20+	RBI					
+Carlos Beltran Traded	2019S3	26-19series3/19carlosbeltran.png	Batter	KC/HOU	S	CF	595	13	-	1	24	3	-	1	2-3	4-5	6-11	12-15	16-18	19	20+	R	SB				
+Matt Holliday Traded	2019S3	26-19series3/19mattholliday.png	Batter	OAK/ATL	R	LF/RF	490	14	-	1	12	3	-	1	2	3-4	5-9	10-18	19-21	-	22+						
+David Justice Traded	2019S3	26-19series3/19davidjustice.png	Batter	CLE/NY-A	L	LF/RF	465	13	-	1	12	4	-	1	2-3	4-5	6-10	11-17	18-19	-	20+						
+Manny Ramirez Traded	2019S3	26-19series3/19mannyramirez.png	Batter	BOS/LA-N	R	LF/RF	680	15	R+1	2	12	1	-	1	2	3	4-8	9-16	17-19	-	20+	RBI					
+Mark Teixeira Traded	2019S3	26-19series3/19markteixera.png	Batter	ATL/LA-A	S	1B	550	14	-	1	12	2	-	1	2	3-4	5-10	11-16	17-19	-	20+	RBI					
 Victor Alcantara '19	2019S3	26-19series3/19victoralcantara.png	Pitcher	DET	R	RP	105	3	L+1	2	1	3	1-3	1-3	4-10	11-17	18	19-20	21-22	-	23+						
 Logan Allen '19	2019S3	26-19series3/19loganallen.png	Pitcher	CLE	L	RP	140	2	L+1	2	3	2	1-3	1-3	4-10	11-16	17-18	19-21	22-23	-	24+						
 Jose Alvarez '19	2019S3	26-19series3/19josealvarez.png	Pitcher	PHI	L	RP	125	3	L+2	-2	1	2	1	1-5	6-11	12-17	18	19-22	23	-	24+						
@@ -1331,13 +1331,13 @@ Mark Fidrych	19S3PreOrder	25-19series3preorder/19markfidrych.png	Pitcher	DET	R	S
 Dennis Eckersley	2019S3	26-19series3/19denniseckersley.png	Pitcher	OAK	R	RP	400	8	R+1	1	1	4	1	1-6	7-11	12-19	-	20-22	23	-	24+	SV					
 Don Larsen	2019S3	26-19series3/19donlarsen.png	Pitcher	NY-A	R	SP	420	4	-	1	8	4	1	1-3	4-9	10-17	18-19	20-22	23	-	24+						
 Christy Mathewson	2019S3	26-19series3/19christymathewson.png	Pitcher	SF	R	SP	660	6	-	1	9	3	1	1-3	4-10	11-17	18	19-24	25	-	26+	W	K				
-David Cone Traded	2019S3	26-19series3/19davidconetraded.png	Pitcher	NY-N/TOR	R	SP	550	5	-	1	7	5	1	1-6	7-11	12-17	18	19-23	24	-	25+	K					
-Johnny Cueto Traded	2019S3	26-19series3/19johnnycuetotraded.png	Pitcher	CIN/KC	R	SP	490	5	-	1	7	5	1-2	1-4	5-10	11-17	18	19-23	24	-	25+						
+David Cone Traded	2019S3	26-19series3/19davidcone.png	Pitcher	NY-N/TOR	R	SP	550	5	-	1	7	5	1	1-6	7-11	12-17	18	19-23	24	-	25+	K					
+Johnny Cueto Traded	2019S3	26-19series3/19johnnycueto.png	Pitcher	CIN/KC	R	SP	490	5	-	1	7	5	1-2	1-4	5-10	11-17	18	19-23	24	-	25+						
 Zack Greinke Traded	2019S3	26-19series3/19zackgreinketraded.png	Pitcher	ARI/HOU	R	SP	570	6	-	2	6	5	1	1-5	6-10	11-17	-	18-22	23	-	24+						
-Roy Oswalt Traded	2019S3	26-19series3/19royoswalttraded.png	Pitcher	HOU/PHI	R	SP	520	6	-	2	6	3	1	1-5	6-10	11-17	18	19-22	23	-	24+						
-CC Sabathia Traded	2019S3	26-19series3/19ccsabathiatraded.png	Pitcher	CLE/MIL	L	SP	630	6	-	1	8	4	1	1-5	6-11	12-17	18	19-23	24	-	25+	K					
-Curt Schilling Traded	2019S3	26-19series3/19curtschillingtraded.png	Pitcher	PHI/BOS	R	SP	430	5	-	-2	7	5	1-2	1-4	5-9	10-17	18	19-22	23	-	24+						
-Rick Sutcliffe Traded	2019S3	26-19series3/19ricksutcliffetraded.png	Pitcher	CLE/CHI-N	R	SP	485	5	-	-2	7	4	1-2	1-5	6-10	11-17	18	19-23	24	-	25+	MVP	W	K			
+Roy Oswalt Traded	2019S3	26-19series3/19royoswalt.png	Pitcher	HOU/PHI	R	SP	520	6	-	2	6	3	1	1-5	6-10	11-17	18	19-22	23	-	24+						
+CC Sabathia Traded	2019S3	26-19series3/19ccsabathia.png	Pitcher	CLE/MIL	L	SP	630	6	-	1	8	4	1	1-5	6-11	12-17	18	19-23	24	-	25+	K					
+Curt Schilling Traded	2019S3	26-19series3/19curtschilling.png	Pitcher	PHI/BOS	R	SP	430	5	-	-2	7	5	1-2	1-4	5-9	10-17	18	19-22	23	-	24+						
+Rick Sutcliffe Traded	2019S3	26-19series3/19ricksutcliffe.png	Pitcher	CLE/CHI-N	R	SP	485	5	-	-2	7	4	1-2	1-5	6-10	11-17	18	19-23	24	-	25+	MVP	W	K			
 London Stadium	2019S3	25-19series3preorder/19londonstadium.png	Stadium																								
 Brush-Back Pitch	2019S3	26-19series3/19brushbackpitch.png	Strategy																								
 Bullpen Cart	2019S3	26-19series3/19bullpencart.png	Strategy																								
@@ -1356,7 +1356,7 @@ Step Off The Rubber	2019S3	26-19series3/19stepofftherubber.png	Strategy
 Unorthodox Approach	2019S3	26-19series3/19unorthodoxapproach.png	Strategy																								
 Crowd the Plate	2019S3	26-19series3/19crowdtheplate.png	Strategy																								
 Curtain Call	2019S3	26-19series3/19curtaincall.png	Strategy																								
-Faliure to Communicate	2019S3	26-19series3/19faliuretocommunicate.png	Strategy																								
+Faliure to Communicate	2019S3	26-19series3/19failuretocommunicate.png	Strategy																								
 Good Take	2019S3	26-19series3/19goodtake.png	Strategy																								
 Got a Piece of It	2019S3	26-19series3/19gotapieceofit.png	Strategy																								
 Hole In His Glove	2019S3	26-19series3/19holeinhisglove.png	Strategy																								
@@ -1420,7 +1420,7 @@ Marwin Gonzalez '20	2020ST	28-20starter/20marwingonzalez.png	Batter	MIN	S		285	1
 Robinson Cano '20	2020ST	28-20starter/20robinsoncano.png	Batter	NY-N	L		275	11	0	1	10			1	2	3-4	5-8	9-15	16-19	-	20+						
 Oscar Mercado '20	2020ST	28-20starter/20oscarmercado.png	Batter	CLE	R		255	10	R+1	-1	15			1	2-3	4-7	8-10	11-15	16-18	19	20+						
 Asdrubal Cabrera '20	2020ST	28-20starter/20asdrubalcabrera.png	Batter	WAS	S		250	10	L+2	1	5			1	2-3	4-6	7-9	10-14	15-18	-	19+						
-Will Smith '20	2020ST	28-20starter/20willsmith.png	Batter	LA-N	R		245	9	R+3	2	7			1-2	3	4-6	7-8	9-16	17-19	-	20+						
+Will Smith '20	2020ST	28-20starter/20willsmithbatter.png	Batter	LA-N	R		245	9	R+3	2	7			1-2	3	4-6	7-8	9-16	17-19	-	20+						
 Yoan Moncada '20	2020ST	28-20starter/20yoanmoncada.png	Batter	CH-A	S		245	11	0	2	15			1-2	3-4	5-7	8-11	12-15	16-18	19	20+						
 Robinson Chirinos '20	2020ST	28-20starter/20robinsonchirinos.png	Batter	TEX	R		240	12	0	-1	7			1-2	3-4	5-7	8-12	13-17	18-19	-	20+						
 David Dahl '20	2020ST	28-20starter/20daviddahl.png	Batter	COL	L		225	10	R+1	-1	13			1-2	3-4	5-7	8-10	11-13	14-17	18	19+						
@@ -1565,7 +1565,7 @@ Mike Montgomery '20	2020X1	29-20x1/20mikemontgomery.png	Pitcher	KC	L	SP	270	4	R+
 Austin Pruitt '20	2020X1	29-20x1/20austinpruitt.png	Pitcher	HOU	R	RP	270	5	L+2	-2	3	3	1-2	1-3	4-9	10-16	-	17-21	22-23		24+						
 Pedro Baez '20	2020X1	29-20x1/20pedrobaez.png	Pitcher	LA-N	R	RP	250	6	0	2	1	3	1	1-4	5-8	9-17	18-19	20-22	23-24		25+	HL					
 Kenley Jansen '20	2020X1	29-20x1/20kenleyjansen.png	Pitcher	LA-N	R	RP	250	7	0	2	1	1	1-2	1-5	6-9	10-17	18	19-22	-		23+						
-Will Smith '20	2020X1	29-20x1/20willsmith.png	Pitcher	ATL	L	RP	250	4	L+3	3	1	1	1	1-7	8-12	13-18	-	19-23	-		24+	SV					
+Will Smith '20	2020X1	29-20x1/20willsmithpitcher.png	Pitcher	ATL	L	RP	250	4	L+3	3	1	1	1	1-7	8-12	13-18	-	19-23	-		24+	SV					
 Josh James '20	2020X1	29-20x1/20joshjames.png	Pitcher	HOU	R	RP	240	4	R+2	1	2	2	1-2	1-6	7-10	11-17	18-19	20-22	-		23+						
 Brandon Workman '20	2020X1	29-20x1/20brandonworkman.png	Pitcher	BOS	R	RP	240	6	0	2	1	1	1	1-5	6-11	12-17	18-19	20-22	23-24		25+	K					
 Junior Guerra '20	2020X1	29-20x1/20juniorguerra.png	Pitcher	ARI	R	RP	240	5	R+2	-2	2	1	1-2	1-4	5-9	10-16	17-18	19-21	22-23		24+						
