@@ -1802,56 +1802,86 @@ Adam Haseley '20	2020X2	30-20x2/20adamhaseley.png	Batter	PHI	L		125	9	R+2	-1	13	
 Khris Davis '20	2020X2	30-20x2/20khrisdavis.png	Batter	OAK	R		110	10	L+1	2	8			1-3	4-5	6-9	10-12	13-16	17-18	-	19+						
 Randal Grichuk '20	2020X2	30-20x2/20randalgrichuk.png	Batter	TOR	R		50	9	L+1	-3	13			1-2	3-5	6-9	10-11	12-15	16-18	19	20+						
 Mike Zunino '20	2020X2	30-20x2/20mikezunino.png	Batter	TB	R		50	8	R+1	-2	9			1-3	4-5	6-8	9	10-18	19-20	-	21+						
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
- 																											
+Quality Start '20	2020ST	28-20starter/20qualitystart.png	Strategy																								
+Bear Down	2020ST	28-20starter/20beardown.png	Strategy																								
+First Pitch Strikes	2020ST	28-20starter/20firstpitchstrikes.png	Strategy																								
+Master Of Efficiency	2020ST	28-20starter/20masterofefficiency.png	Strategy																								
+Snap Throw	2020ST	28-20starter/20snapthrow.png	Strategy																								
+Ducking the Batter	2020ST	28-20starter/20duckingthebatter.png	Strategy																								
+Strong Side	2020ST	28-20starter/20strongside.png	Strategy																								
+Good Wood	2020ST	28-20starter/20goodwood.png	Strategy																								
+Lost The Handle	2020ST	28-20starter/20lostthehandle.png	Strategy																								
+Patient Hitter	2020ST	28-20starter/20patienthitter.png	Strategy																								
+Pull The Ball	2020ST	28-20starter/20pulltheball.png	Strategy																								
+Rally Cap	2020ST	28-20starter/20rallycap.png	Strategy																								
+Barnum And Bailey '20	2020ST	28-20starter/20barnumandbailey.png	Strategy																								
+Hit and Run '20	2020ST	28-20starter/20hitandrun.png	Strategy																								
+Deja Vu '20	2020ST	28-20starter/20dejavu.png	Strategy																								
+Instant Replay '20	2020ST	28-20starter/20instantreplay.png	Strategy																								
+Against All Odds	2020ST	28-20starter/20againstallodds.png	Strategy																								
+Not Without a Fight '20	2020ST	28-20starter/20notwithoutafight.png	Strategy																								
+Challenge Flag '20	2020ST	28-20starter/20challengeflag.png	Strategy																								
+Advanced Scout	2020ST	28-20starter/20advancedscout.png	Strategy																								
+10th Man	2020ST	28-20starter/2010thman.png	Strategy																								
+Lost His Mojo	2020ST	28-20starter/20losthismojo.png	Strategy																								
+The Bright Side	2020ST	28-20starter/20thebrightside.png	Strategy																								
+Dave Martinez	2020ST	28-20starter/20davemartinez.png	Strategy																								
+Rocco Baldelli	2020ST	28-20starter/20roccobaldelli.png	Strategy																								
+Joe Dillon	2020ST	28-20starter/20joedillon.png	Strategy																								
+Marcus Thames	2020ST	28-20starter/20marcusthames.png	Strategy																								
+Kyle Snyder	2020ST	28-20starter/20kylesnyder.png	Strategy																								
+Mike Maddux	2020ST	28-20starter/20mikemaddux.png	Strategy																								
+Houston	2020ST	28-20starter/20houston.png	Stadium																								
+Washington 	2020ST	28-20starter/20washington.png	Stadium																								
+Climbing the Wall	2020X1	29-20x1/20climbingthewall.png	Strategy																								
+All For Nothing	2020X1	29-20x1/20allfornothing.png	Strategy																								
+Firing Bullets	2020X1	29-20x1/20firingbullets.png	Strategy																								
+Highlight Reel	2020X1	29-20x1/20highlightreel.png	Strategy																								
+Full Steam Ahead	2020X1	29-20x1/20fullsteamahead.png	Strategy																								
+Overthrown	2020X1	29-20x1/20overthrown.png	Strategy																								
+Carpe Diem	2020X1	29-20x1/20carpediem.png	Strategy																								
+See It Clearly	2020X1	29-20x1/20seeitclearly.png	Strategy																								
+Dave Magadan	2020X1	29-20x1/20davemagadan.png	Strategy																								
+Brant Brown	2020X1	29-20x1/20brantbrown.png	Strategy																								
+Brent Strom	2020X1	29-20x1/20brentstrom.png	Strategy																								
+Larry Rothchild	2020X1	29-20x1/20larryrothchild.png	Strategy																								
+Arizona	2020X1	29-20x1/20arizona.png	Stadium																								
+Atlanta	2020X1	29-20x1/20atlanta.png	Stadium																								
+Baltimore	2020X1	29-20x1/20baltimore.png	Stadium																								
+Boston	2020X1	29-20x1/20boston.png	Stadium																								
+Chicago (A) 	2020X1	29-20x1/20chicagoa).png	Stadium																								
+Chicago (N) 	2020X1	29-20x1/20chicagon).png	Stadium																								
+Cincinnati	2020X1	29-20x1/20cincinnati.png	Stadium																								
+Cleveland	2020X1	29-20x1/20cleveland.png	Stadium																								
+Colorado	2020X1	29-20x1/20colorado.png	Stadium																								
+Detroit	2020X1	29-20x1/20detroit.png	Stadium																								
+Kansas City	2020X1	29-20x1/20kansascity.png	Stadium																								
+Los Angeles (A)	2020X1	29-20x1/20losangelesa).png	Stadium																								
+Los Angeles (N) 	2020X1	29-20x1/20losangelesn).png	Stadium																								
+Miami	2020X1	29-20x1/20miami.png	Stadium																								
+Ice In Their Veins	2020X2	30-20x2/20iceintheirveins.png	Strategy																								
+Keep Them At Bay	2020X2	30-20x2/20keepthematbay.png	Strategy																								
+Playing Shallow	2020X2	30-20x2/20playingshallow.png	Strategy																								
+Top 10	2020X2	30-20x2/20top10.png	Strategy																								
+Launch Angle	2020X2	30-20x2/20launchangle.png	Strategy																								
+Catch Me If You Can	2020X2	30-20x2/20catchmeifyoucan.png	Strategy																								
+Lean Into It	2020X2	30-20x2/20leanintoit.png	Strategy																								
+Tough Hop	2020X2	30-20x2/20toughhop.png	Strategy																								
+Chili Davis	2020X2	30-20x2/20chilidavis.png	Strategy																								
+Tim Laker	2020X2	30-20x2/20timlaker.png	Strategy																								
+Mel Stottlemyre Jr.	2020X2	30-20x2/20melstottlemyrejr.png	Strategy																								
+Don Cooper	2020X2	30-20x2/20doncooper.png	Strategy																								
+Milwaukee	2020X2	30-20x2/20milwaukee.png	Stadium																								
+Minnesota	2020X2	30-20x2/20minnesota.png	Stadium																								
+New York A	2020X2	30-20x2/20newyorka.png	Stadium																								
+New York N	2020X2	30-20x2/20newyorkn.png	Stadium																								
+Oakland	2020X2	30-20x2/20oakland.png	Stadium																								
+Philadelphia	2020X2	30-20x2/20philadelphia.png	Stadium																								
+Pittsburgh	2020X2	30-20x2/20pittsburgh.png	Stadium																								
+San Diego	2020X2	30-20x2/20sandiego.png	Stadium																								
+San Francisco	2020X2	30-20x2/20sanfrancisco.png	Stadium																								
+Seattle	2020X2	30-20x2/20seattle.png	Stadium																								
+St. Louis	2020X2	30-20x2/20stlouis.png	Stadium																								
+Tampa Bay	2020X2	30-20x2/20tampabay.png	Stadium																								
+Texas	2020X2	30-20x2/20texas.png	Stadium																								
+Toronto	2020X2	30-20x2/20toronto.png	Stadium																								
