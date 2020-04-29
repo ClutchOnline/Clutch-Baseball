@@ -1849,15 +1849,15 @@ Arizona	2020X1	29-20x1/20arizona.png	Stadium
 Atlanta	2020X1	29-20x1/20atlanta.png	Stadium																								
 Baltimore	2020X1	29-20x1/20baltimore.png	Stadium																								
 Boston	2020X1	29-20x1/20boston.png	Stadium																								
-Chicago (A) 	2020X1	29-20x1/20chicagoa).png	Stadium																								
-Chicago (N) 	2020X1	29-20x1/20chicagon).png	Stadium																								
+Chicago (A) 	2020X1	29-20x1/20chicagoa.png	Stadium																								
+Chicago (N) 	2020X1	29-20x1/20chicagon.png	Stadium																								
 Cincinnati	2020X1	29-20x1/20cincinnati.png	Stadium																								
 Cleveland	2020X1	29-20x1/20cleveland.png	Stadium																								
 Colorado	2020X1	29-20x1/20colorado.png	Stadium																								
 Detroit	2020X1	29-20x1/20detroit.png	Stadium																								
 Kansas City	2020X1	29-20x1/20kansascity.png	Stadium																								
-Los Angeles (A)	2020X1	29-20x1/20losangelesa).png	Stadium																								
-Los Angeles (N) 	2020X1	29-20x1/20losangelesn).png	Stadium																								
+Los Angeles (A)	2020X1	29-20x1/20losangelesa.png	Stadium																								
+Los Angeles (N) 	2020X1	29-20x1/20losangelesn.png	Stadium																								
 Miami	2020X1	29-20x1/20miami.png	Stadium																								
 Ice In Their Veins	2020X2	30-20x2/20iceintheirveins.png	Strategy																								
 Keep Them At Bay	2020X2	30-20x2/20keepthematbay.png	Strategy																								
@@ -1885,3 +1885,108 @@ St. Louis	2020X2	30-20x2/20stlouis.png	Stadium
 Tampa Bay	2020X2	30-20x2/20tampabay.png	Stadium																								
 Texas	2020X2	30-20x2/20texas.png	Stadium																								
 Toronto	2020X2	30-20x2/20toronto.png	Stadium																								
+Avisail Garcia '20	2020X3	31-20x3/20avisailgarcia.png	Batter	MIL	R		270	11	L+2	-1	13			1-3	4-6	7-8	9-11	12-16	17-18	-	19+						
+Danny Jansen '20	2020X3	31-20x3/20dannyjansen.png	Batter	TOR	R		175	10	0	1	12			1-3	4-6	7-9	10-12	13-17	18-19	-	20+						
+Didi Gregorius '20	2020X3	31-20x3/20didigregorius.png	Batter	PHI	L		270	11	R+1	2	16			1-2	3-5	6-9	10-12	13-15	16-17	18	19+						
+Domingo Santana '20	2020X3	31-20x3/20domingosantana.png	Batter	CLE	R		295	11	R+1	-1	14			1-3	4-5	6	7-10	11-15	16-18	-	19+						
+Franchy Cordero '20	2020X3	31-20x3/20franchycordero.png	Batter	SD	L		170	9	R+3	-1	16			1-4	5-6	7	8-9	10-15	16-18	19	20+						
+Jarrod Dyson '20	2020X3	31-20x3/20jarroddyson.png	Batter	PIT	L		410	11	L+2	1	23			1-2	3-4	5-6	7-10	11-19	20	21	22+	SB					
+Johan Camargo '20	2020X3	31-20x3/20johancamargo.png	Batter	ATL	S		225	10	L+2	2	11			1-2	3-5	6-8	9-11	12-14	15-18	19	20+						
+Jonathan Villar '20	2020X3	31-20x3/20jonathanvillar.png	Batter	MIA	S		330	10	R+2	-2	23			1-2	3	4	5-7	8-17	18-19	-	20+	SB					
+Luke Voit '20	2020X3	31-20x3/20lukevoit.png	Batter	NY-A	R		295	11	L+1	2	9			1-2	3-4	5	6-9	10-16	17-18	-	19+						
+Michael Brantley '20	2020X3	31-20x3/20michaelbrantley.png	Batter	HOU	L		305	11	R+1	3	16			1	2-5	6-7	8-11	12-16	17-19	-	20+						
+Michael Conforto '20	2020X3	31-20x3/20michaelconforto.png	Batter	NY-N	L		320	11	R+1	2	15			1-2	3-4	5-6	7-10	11-16	17-18	-	19+						
+Niko Goodrum '20	2020X3	31-20x3/20nikogoodrum.png	Batter	DET	S		350	10	L+3	-1	22			1-3	4-5	6-7	8-10	11-14	15-18	19	20+						
+Robbie Grossman '20	2020X3	31-20x3/20robbiegrossman.png	Batter	OAK	S		300	12	0	1	9			1	2-3	4-5	6-10	11-18	19-20	-	21+						
+Sam Hilliard '20	2020X3	31-20x3/20samhilliard.png	Batter	COL	L		475	12	L+1	-2	11			1-3	4-5	6	7-11	12	13-15	16-17	18+						
+Shed Long Jr. '20	2020X3	31-20x3/20shedlongjr.png	Batter	SEA	L		275	12	0	-3	12			1-2	3-4	5-6	7-10	11-15	16-19	-	20+						
+Shohei Ohtani '20	2020X3	31-20x3/20shoheiohtani.png	Batter	LA-A	L		370	12	0	1	12			1-2	3-4	5	6-9	10-14	15-17	18	19+						
+Whit Merrifield '20	2020X3	31-20x3/20whitmerrifield.png	Batter	KC	R		320	11	0	1	20			1	2-3	4-5	6-8	9-16	17-19	20	21+						
+Yan Gomes '20	2020X3	31-20x3/20yangomes.png	Batter	WAS	R		230	10	L+3	-1	9			1-3	4-6	7-9	10-12	13-16	17-19	-	20+						
+Masahiro Tanaka '20	2020X3	31-20x3/20masahirotanaka.png	Pitcher	NY-A	R	SP	410	4	R+1	1	6	4	1-2	1-6	7-13	14-18	-	19-20	21-22		23+						
+Carlos Carrasco '20	2020X3	31-20x3/20carloscarrasco.png	Pitcher	CLE	R	SP	350	4	0	2	6	3	1-3	1-8	9-14	15-18	-	19-21	22		23+						
+John Brebbia '20	2020X3	31-20x3/20johnbrebbia.png	Pitcher	STL	R	RP	195	4	R+3	-1	1	1	1	1-7	8-11	12-17	18	19-21	22-23		24+						
+Tyler Duffey '20	2020X3	31-20x3/20tylerduffey.png	Pitcher	MIN	R	RP	190	4	R+2	2	1	1	1-2	1-7	8-13	14-18	-	19-22	-		23+						
+Pedro Strop '20	2020X3	31-20x3/20pedrostrop.png	Pitcher	CIN	R	RP	180	5	R+1	-2	1	3	1	1-7	8-13	14-17	18-19	20-21	22-23		24+						
+Heath Hembree '20	2020X3	31-20x3/20heathhembree.png	Pitcher	BOS	R	RP	175	6	=+0	2	1	1	1-3	1-7	8-11	12-16	17-18	19-21	22		23+						
+Yoan Lopez '20	2020X3	31-20x3/20yoanlopez.png	Pitcher	ARI	R	RP	160	4	L+3	-2	1	3	1-3	1-5	6-13	14-18	-	19-21	22		23+						
+Jarlin Garcia '20	2020X3	31-20x3/20jarlingarcia.png	Pitcher	SF	L	RP	155	4	0	1	1	3	1-2	1-5	6-12	13-18	19	20-22	-		23+						
+Jose Alvarado '20	2020X3	31-20x3/20josealvarado.png	Pitcher	TB	L	RP	150	4	0	-1	1	1	1	1-7	8-13	14-17	18-19	20-22	23-25		26+						
+Randy Rosario '20	2020X3	31-20x3/20randyrosario.png	Pitcher	KC	L	RP	145	4	L+3	1	1	1	1-2	1-4	5-12	13-15	16-17	18-21	22-23		24+						
+David McKay '20	2020X3	31-20x3/20davidmckay.png	Pitcher	DET	R	RP	140	4	R+2	2	1	2	1-2	1-7	8-10	11-15	16-17	18-21	22-23		24+						
+Brett Martin '20	2020X3	31-20x3/20brettmartin.png	Pitcher	TEX	L	RP	120	5	0	-2	1	2	1-2	1-5	6-12	13-15	16	17-21	22-23		24+						
+Kelvin Herrera '20	2020X3	31-20x3/20kelvinherrera.png	Pitcher	CH-A	R	RP	100	3	0	-1	1	1	1-2	1-6	7-12	13-18	-	19-22	-		23+						
+Paul Fry '20	2020X3	31-20x3/20paulfry.png	Pitcher	BAL	L	RP	95	2	R+2	-2	1	1	1	1-6	7-14	15-17	18-19	20-22	23		24+						
+Pierce Johnson '20	2020X3	31-20x3/20piercejohnson.png	Pitcher	SD	R	RP	85	2	L+3	-1	1	3	1	1-5	6-10	11-15	16	17-21	22-23		24+						
+Dylan Floro '20	2020X3	31-20x3/20dylanfloro.png	Pitcher	LA-N	R	RP	80	1	R+3	-2	1	1	1	1-6	7-14	15-18	-	19-21	22-24		25+						
+Casey Sadler '20	2020X3	31-20x3/20caseysadler.png	Pitcher	CH-N	R	RP	80	1	R+3	2	2	3	1-2	1-4	5-12	13-16	-	17-21	22-23		24+						
+Zach Davies '20	2020X4	34-20x4/20zachdavies.png	Pitcher	SD	R	SP	375	5	R+1	2	5	4	1-2	1-4	5-11	12-16	17	18-21	22-23		24+						
+Jakob Junis '20	2020X4	34-20x4/20jakobjunis.png	Pitcher	KC	R	SP	260	3	R+1	-1	6	0	1-2	1-6	7-12	13-18	-	19-21	22		23+						
+Ivan Nova '20	2020X4	34-20x4/20ivannova.png	Pitcher	DET	R	SP	220	4	0	-1	6	1	1-2	1-4	5-12	13-17	-	18-21	22		23+						
+Chad Green '20	2020X4	34-20x4/20chadgreen.png	Pitcher	NY-A	R	RP	215	6	0	2	1	1	1-2	1-8	9-12	13-17	18	19-21	22-23		24+						
+Jose Alvarez '20	2020X4	34-20x4/20josealvarez.png	Pitcher	PHI	L	RP	205	4	L+3	2	1	4	1	1-5	6-12	13-16	17	18-21	22-23		24+						
+Wilmer Font '20	2020X4	34-20x4/20wilmerfont.png	Pitcher	TOR	R	RP	195	5	L+1	1	2	1	1-3	1-6	7-11	12-16	17	18-20	21-22		23+						
+Brandon Kintzler '20	2020X4	34-20x4/20brandonkintzler.png	Pitcher	MIA	R	RP	170	5	=+0	1	1	3	1	1-5	6-13	14-17	18	19-21	22-24		25+						
+Wander Suero '20	2020X4	34-20x4/20wandersuero.png	Pitcher	WAS	R	RP	155	4	R+1	-3	1	3	1	1-7	8-12	13-17	18	19-20	21-24		25+						
+Lou Trivino '20	2020X4	34-20x4/20loutrivino.png	Pitcher	OAK	R	RP	145	5	=+0	1	1	0	1-2	1-6	7-12	13-16	17-18	19-21	22-23		24+						
+Chris Martin '20	2020X4	34-20x4/20chrismartin.png	Pitcher	ARI	R	RP	140	3	L+2	1	1	1	1-2	1-7	8-14	15-18	-	19-21	22		23+						
+Chris Devenski '20	2020X4	34-20x4/20chrisdevenski.png	Pitcher	HOU	R	RP	135	4	0	1	1	0	1-2	1-7	8-12	13-18	-	19-21	22		23+						
+Bryan Shaw '20	2020X4	34-20x4/20bryanshaw.png	Pitcher	COL	R	RP	130	4	L+2	-3	1	1	1-2	1-5	6-12	13-16	17	18-21	22-23		24+						
+David Phelps '20	2020X4	34-20x4/20davidphelps.png	Pitcher	MIL	R	RP	120	4	R+1	-1	1	1	1-2	1-6	7-11	12-16	17-18	19-23	-		24+						
+Carl Edwards Jr. '20	2020X4	34-20x4/20carledwardsjr.png	Pitcher	SEA	R	RP	110	1	R+3	-1	1	1	1	1-8	9-12	13-18	19-20	21-23	-		24+						
+Michael Feliz '20	2020X4	34-20x4/20michaelfeliz.png	Pitcher	PIT	R	RP	90	3	0	-2	1	1	1-2	1-8	9-12	13-18	19	20-21	22		23+						
+Jeurys Familia '20	2020X4	34-20x4/20jeurysfamilia.png	Pitcher	NY-N	R	RP	85	2	R+2	-3	1	0	1	1-7	8-13	14-17	18-19	20-21	22-24		25+						
+Phil Maton '20	2020X4	34-20x4/20philmaton.png	Pitcher	CLE	R	RP	85	4	0	-2	1	1	1-2	1-6	7-12	13-17	18	19-20	21-22		23+						
+Mike Mayers '20	2020X4	34-20x4/20mikemayers.png	Pitcher	LA-A	R	RP	70	4	R+1	-2	1	2	1-3	1-5	6-10	11-15	16	17-19	20-22		23+						
+Andrelton Simmons '20	2020X4	34-20x4/20andreltonsimmons.png	Batter	LA-N	R		300	11	L+2	-1	16			1	2-5	6-8	9-11	12-17	18-20	-	21+						
+Anthony Santander '20	2020X4	34-20x4/20anthonysantander.png	Batter	BAL	S		145	10	L+1	-1	12			1-3	4-6	7-9	10-11	12-15	16-18	-	19+						
+Brandon Nimmo '20	2020X4	34-20x4/20brandonnimmo.png	Batter	NY-N	L		435	13	R+1	2	17			1-3	4-5	6-7	8-13	14-16	17-18	19	20+						
+Christian Walker '20	2020X4	34-20x4/20christianwalker.png	Batter	ARI	R		310	11	L+2	-1	16			1-3	4-5	6-7	8-11	12-16	17-18	-	19+						
+Ender Inciarte '20	2020X4	34-20x4/20enderinciarte.png	Batter	ATL	L		315	11	L+1	1	18			1	2-4	5-6	7-10	11-17	18-19	20	21+						
+Gavin Lux '20	2020X4	34-20x4/20gavinlux.png	Batter	LA-N	L		145	9	R+3	-1	11			1-4	5-6	7-8	9-10	11-15	16-18	19	20+						
+James McCann '20	2020X4	34-20x4/20jamesmccann.png	Batter	CH-A	R		230	10	L+2	-2	10			1-2	3-4	5-6	7-9	10-16	17-19	-	20+						
+Jason Heyward '20	2020X4	34-20x4/20jasonheyward.png	Batter	CH-N	L		310	11	0	1	18			1	2-4	5-6	7-10	11-16	17-18	19	20+						
+Jay Bruce '20	2020X4	34-20x4/20jaybruce.png	Batter	PHI	L		185	10	L+1	-2	10			1-2	3-4	5-7	8-10	11-15	16-18	-	19+						
+Jesse Winker '20	2020X4	34-20x4/20jessewinker.png	Batter	CIN	L		315	10	R+3	1	8			1	2-3	4-5	6-8	9-15	16-18	-	19+						
+Ji-Man Choi '20	2020X4	34-20x4/20jimanchoi.png	Batter	TB	L		280	10	R+2	2	11			1-2	3-4	5-6	7-9	10-14	15-17	18	19+						
+Joey Gallo '20	2020X4	34-20x4/20joeygallo.png	Batter	TEX	L		390	12	0	-1	17			1-4	5	6-7	8-12	13-15	16-17	-	18+						
+Matt Carpenter '20	2020X4	34-20x4/20mattcarpenter.png	Batter	STL	L		355	12	L+1	2	9			1-2	3-4	5-6	7-11	12-16	17-19	-	20+						
+Mauricio Dubon '20	2020X4	34-20x4/20mauriciodubon.png	Batter	SF	R		205	10	R+2	-1	9			1-2	3-6	7-8	9-10	11-15	16-18	-	19+						
+Max Kepler '20	2020X4	34-20x4/20maxkepler.png	Batter	MIN	L		350	12	0	2	14			1-2	3-5	6-8	9-13	14-15	16-18	-	19+						
+Michael Chavis '20	2020X4	34-20x4/20michaelchavis.png	Batter	BOS	R		275	10	R+3	1	6			1-2	3-4	5	6-8	9-17	18	-	19+						
+Orlando Arcia '20	2020X4	34-20x4/20orlandoarcia.png	Batter	MIL	R		100	10	L+1	-1	16			1-3	4-7	8-9	10-12	13-18	19-20	-	21+						
+Dmitri Young '20	2020OD	32-20openingday/20dmitriyoung.png	Batter	DET	S		185	10	R+1	-3	13			1-2	3-6	7-8	9-11	12-14	15-17	18	19+						
+Gee Walker '20	2020OD	32-20openingday/20geewalker.png	Batter	DET	R		390	11	L+2	-1	21			1	2-4	5-6	7-9	10-16	17-19	-	20+	AS SB					
+Clayton Kershaw OD '20	2020OD	32-20openingday/20claytonkershawod.png	Pitcher	LA-N	L	SP	875	6	L+1	3	7	4	1	1-6	7-13	14-18	-	19-22	23-24		25+	AS K MVP W					
+Bob Feller '20	2020OD	32-20openingday/20bobfeller.png	Pitcher	CLE	R	SP	785	5	R+1	1	9	2	1	1-5	6-11	12-17	18	19-22	23-25		26+	AS K W					
+Hi Bithorn '20	2020PR	35-20puertorico/20hibithorn.png	Pitcher	CH-N	R	SP	635	4	R+2	2	8	3	1	1-2	3-10	11-17	-	18-22	23-25		26+	W					
+Puerto Rico	2020PR	35-20puertorico/20puertorico.png	Stadium																								
+Bruce Sutter '20	2020PR	35-20puertorico/20brucesutter.png	Pitcher	CHI-N	R	RP	460	6	L+2	2	2	0	1	1-6	7-13	14-17	18	19-24	25		26+	MVP K SV AS					
+Nellie Fox '20	2020PR	35-20puertorico/20nelliefox.png	Batter	CH-A	L		430	13	0	3	8			-	1-2	3	4-7	8-21	22-23	-	24+	AS GG MVP					
+Orlando Cepeda '20	2020PR	35-20puertorico/20orlandocepeda.png	Batter	SF	R		490	12	0	2	14			1	2-4	5-6	7-9	10-15	16-17	-	18+	AS HR RBI					
+Phil Nevin '20	2020OD	32-20openingday/20philnevin.png	Batter	SD	R		365	11	0	3	15			1	2-3	4-5	6-9	10-15	16-18	-	19+						
+Roberto Clemente '20	2020PR	35-20puertorico/20robertoclemente.png	Batter	PIT	R		555	13	0	2	15			1-2	3-4	5-6	7-8	9-16	17-18	19	20+	AS GG MVP R RBI					
+Dan Quisenberry '20	2020OD	32-20openingday/20danquisenberry.png	Pitcher	KC	R	RP	380	5	R+2	3	2	1	1	1-2	3-11	12-18	-	19-22	23-25		26+	AS SV					
+Koji Uehara '20	2020PP	33-20polarpower/20kojiuehara.png	Pitcher	BOS	R	RP	355	7	L+1	3	1	2	1	1-9	10-14	15-19	-	20-22	23-24		25+	K					
+Jermaine Dye '20	2020PP	33-20polarpower/20jermainedye.png	Batter	CH-A	R		515	12	L+1	3	3			1	2	3	4-8	9-15	16-17	-	18+	AS HR SL					
+Matt Kemp '20	2020PP	33-20polarpower/20mattkemp.png	Batter	LA-N	R		700	11	L+3	3	22			1-2	3	4	5-8	9-14	15-17	-	18+	AS GG HR R RBI SB SL					
+Intimidation Factor	2020X3	31-20x3/20intimidationfactor.png	Strategy																								
+Mop-Up Man	2020X3	31-20x3/20mopupman.png	Strategy																								
+Down the Line	2020X3	31-20x3/20downtheline.png	Strategy																								
+Flags Flying Out	2020X3	31-20x3/20flagsflyingout.png	Strategy																								
+In the Dirt	2020X3	31-20x3/20inthedirt.png	Strategy																								
+Best in the Biz	2020X3	31-20x3/20bestinthebiz.png	Strategy																								
+Ban the Wave	2020X3	31-20x3/20banthewave.png	Strategy																								
+Don Mattingly	2020X3	31-20x3/20donmattingly.png	Strategy																								
+Mickey Callaway	2020X3	31-20x3/20mickeycallaway.png	Strategy																								
+Jeff Albert	2020X3	31-20x3/20jeffalbert.png	Strategy																								
+Empty Real Estate	2020X4	34-20x4/20emptyrealestate.png	Strategy																								
+The Rosin Bag	2020X4	34-20x4/20therosinbag.png	Strategy																								
+Your Best Friend	2020X4	34-20x4/20yourbestfriend.png	Strategy																								
+Sneak Attack	2020X4	34-20x4/20sneakattack.png	Strategy																								
+Squared It Up	2020X4	34-20x4/20squareditup.png	Strategy																								
+Focused 	2020X4	34-20x4/20focused.png	Strategy																								
+Playing the Shift	2020X4	34-20x4/20playingtheshift.png	Strategy																								
+Rick Renteria	2020X4	34-20x4/20rickrenteria.png	Strategy																								
+Tim Hyers	2020X4	34-20x4/20timhyers.png	Strategy																								
+Andrew Bailey	2020X4	34-20x4/20andrewbailey.png	Strategy																								

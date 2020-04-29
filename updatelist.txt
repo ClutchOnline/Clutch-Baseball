@@ -1,6 +1,6 @@
 Clutch-Baseball	04-26-20
 plugins/Clutch-Baseball/plugininfo.txt	https://raw.githubusercontent.com/ClutchOnline/Clutch-Baseball/master/plugininfo.txt	183235
 plugins/Clutch-Baseball/sets/setimages/cardback.jpg	https://raw.githubusercontent.com/ClutchOnline/Clutch-Baseball/master/cardback.jpg	0
-plugins/Clutch-Baseball/sets/carddata.txt	https://raw.githubusercontent.com/ClutchOnline/Clutch-Baseball/master/carddata.txt	13346375
+plugins/Clutch-Baseball/sets/carddata.txt	https://raw.githubusercontent.com/ClutchOnline/Clutch-Baseball/master/carddata.txt	14057260
 CardGeneralURLs:
 https://cards.clutchbaseball.com/
