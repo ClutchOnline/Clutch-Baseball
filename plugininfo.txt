@@ -17,13 +17,25 @@
 </deckzone>
 
 <deckzone>
-     <label>Hitters</label>
+     <label>Lineup</label>
+     <gamezonetoloadto>Lineup</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+
+<deckzone>
+     <label>Bench</label>
      <gamezonetoloadto>Bench</gamezonetoloadto>
      <shuffle>no</shuffle>
 </deckzone>
 
 <deckzone>
-     <label>Pitchers</label>
+     <label>Rotation</label>
+     <gamezonetoloadto>Rotation</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+
+<deckzone>
+     <label>Bullpen</label>
      <gamezonetoloadto>Bullpen</gamezonetoloadto>
      <shuffle>no</shuffle>
 </deckzone>
@@ -33,6 +45,14 @@
      <gamezonetoloadto>Stadium</gamezonetoloadto>
      <shuffle>no</shuffle>
 </deckzone>
+
+<deckzone>
+     <label>Coaches</label>
+     <gamezonetoloadto>Coaches</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+
+
 
 
 <gamezone>
@@ -54,13 +74,31 @@
 </gamezone>
 
 <gamezone>
+     <label>Lineup</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
      <label>Bench</label>
      <visibletoowner>yes</visibletoowner>
      <visibletoothers>yes</visibletoothers>
 </gamezone>
 
 <gamezone>
+     <label>Rotation</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
      <label>Bullpen</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Coaches</label>
      <visibletoowner>yes</visibletoowner>
      <visibletoothers>yes</visibletoothers>
 </gamezone>
