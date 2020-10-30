@@ -2095,3 +2095,332 @@ Brian McCann   	20ASG	41-20allstarmvps/20brianmccann.png	Batter
 Bo Jackson	20ASG	41-20allstarmvps/20bojackson.png	Batter																								
 Don Drysdale	20ASG	41-20allstarmvps/20dondrysdale.png	Pitcher																								
 Bo Bichette '20	2020X6	40-20x6/20bobichette20.png	Batter																								
+Tommy Edman '20	2020X7	42-20x7/20tommyedman.png	Batter																								
+Aaron Hicks '20	2020X7	42-20x7/20aaronhicks.png	Batter																								
+Byron Buxton '20	2020X7	42-20x7/20byronbuxton.png	Batter																								
+Chris Taylor '20	2020X7	42-20x7/20christaylor.png	Batter																								
+A.J. Pollock '20	2020X7	42-20x7/20ajpollock.png	Batter																								
+Jarrod Dyson TRD '20	2020X7	42-20x7/20jarroddysontraded.png	Batter																								
+Jose Martinez '20	2020X7	42-20x7/20josemartinez.png	Batter																								
+Ehire Adrianza '20	2020X7	42-20x7/20ehireadrianza.png	Batter																								
+Phillip Ervin TRD '20	2020X7	42-20x7/20phillipervintraded.png	Batter																								
+Austin Nola TRD '20	2020X7	42-20x7/20austinnolatraded.png	Batter																								
+Kevin Pillar '20	2020X7	42-20x7/20kevinpillar.png	Batter																								
+Robinson Chirinos TRD '20	2020X7	42-20x7/20robinsonchirinostraded.png	Batter																								
+Brian Goodwin TRD '20	2020X7	42-20x7/20briangoodwintraded.png	Batter																								
+Cameron Maybin '20	2020X7	42-20x7/20cameronmaybin.png	Batter																								
+Eric Thames '20	2020X7	42-20x7/20ericthames.png	Batter																								
+Starling Marte TRD '20	2020X7	42-20x7/20starlingmartetraded.png	Batter																								
+Austin Romine '20	2020X7	42-20x7/20austinromine.png	Batter																								
+Mitch Moreland TRD '20	2020X7	42-20x7/20mitchmorelandtraded.png	Batter																								
+Todd Frazier TRD '20	2020X7	42-20x7/20toddfraziertraded.png	Batter																								
+Tommy La Stella TRD '20	2020X7	42-20x7/20tommylastellatraded.png	Batter																								
+Yairo Munoz TRD '20	2020X7	42-20x7/20yairomunoztraded.png	Batter																								
+Jake Lamb TRD '20	2020X7	42-20x7/20jakelambtraded.png	Batter																								
+Jordy Mercer '20	2020X7	42-20x7/20jordymercer.png	Batter																								
+Derek Dietrich '20	2020X7	42-20x7/20derekdietrich.png	Batter																								
+Jonathan Villar TRD '20	2020X7	42-20x7/20jonathanvillartraded.png	Batter																								
+Jose Peraza '20	2020X7	42-20x7/20joseperaza.png	Batter																								
+Isiah Kiner-Falefa '20	2020X7	42-20x7/20isiahkinerfalefa.png	Batter																								
+Wilmer Flores '20	2020X7	42-20x7/20wilmerflores.png	Batter																								
+Yolmer Sanchez '20	2020X7	42-20x7/20yolmersanchez.png	Batter																								
+Kyle Tucker '20	2020X7	42-20x7/20kyletucker.png	Batter																								
+Brock Holt '20	2020X7	42-20x7/20brockholt.png	Batter																								
+Guillermo Heredia '20	2020X7	42-20x7/20guillermoheredia.png	Batter																								
+Ildemaro Vargas '20	2020X7	42-20x7/20ildemarovargas.png	Batter																								
+Adam Duvall '20	2020X7	42-20x7/20adamduvall.png	Batter																								
+Daniel Vogelbach TRD '20	2020X7	42-20x7/20danielvogelbachtraded.png	Batter																								
+Josh Naylor '20	2020X7	42-20x7/20joshnaylor.png	Batter																								
+Alex Dickerson '20	2020X7	42-20x7/20alexdickerson.png	Batter																								
+Franchy Cordero TRD '20	2020X7	42-20x7/20franchycorderotraded.png	Batter																								
+Pablo Sandoval '20	2020X7	42-20x7/20pablosandoval.png	Batter																								
+Billy Hamilton '20	2020X7	42-20x7/20billyhamilton.png	Batter																								
+Austin Hedges TRD '20	2020X7	42-20x7/20austinhedgestraded.png	Batter																								
+Jason Castro TRD '20	2020X7	42-20x7/20jasoncastrotraded.png	Batter																								
+Chance Sisco '20	2020X7	42-20x7/20chancesisco.png	Batter																								
+Christian Arroyo '20	2020X7	42-20x7/20christianarroyo.png	Batter																								
+Josh VanMeter TRD '20	2020X7	42-20x7/20joshvanmetertraded.png	Batter																								
+Harold Castro '20	2020X7	42-20x7/20haroldcastro.png	Batter																								
+Greg Allen TRD '20	2020X7	42-20x7/20gregallentraded.png	Batter																								
+Brett Phillips '20	2020X7	42-20x7/20brettphillips.png	Batter																								
+Bubba Starling '20	2020X7	42-20x7/20bubbastarling.png	Batter																								
+Franklin Barreto '20	2020X7	42-20x7/20franklinbarreto.png	Batter																								
+Pat Valaika '20	2020X7	42-20x7/20patvalaika.png	Batter																								
+Ty France '20	2020X7	42-20x7/20tyfrance.png	Batter																								
+Mike Clevinger TRD '20	2020X7	42-20x7/20mikeclevingertraded.png	Pitcher																								
+Robbie Ray TRD '20	2020X7	42-20x7/20robbieraytraded.png	Pitcher																								
+Adam Wainwright '20	2020X7	42-20x7/20adamwainwright.png	Pitcher																								
+Mike Minor TRD '20	2020X7	42-20x7/20mikeminortraded.png	Pitcher																								
+Anthony Desclafani '20	2020X7	42-20x7/20anthonydesclafani.png	Pitcher																								
+Dylan Bundy '20	2020X7	42-20x7/20dylanbundy.png	Pitcher																								
+Anibal Sanchez '20	2020X7	42-20x7/20anibalsanchez.png	Pitcher																								
+Michael Pineda '20	2020X7	42-20x7/20michaelpineda.png	Pitcher																								
+Ross Stripling '20	2020X7	42-20x7/20rossstripling.png	Pitcher																								
+Caleb Smith TRD '20	2020X7	42-20x7/20calebsmithtraded.png	Pitcher																								
+Reynaldo Lopez '20	2020X7	42-20x7/20reynaldolopez.png	Pitcher																								
+Ryan Yarbrough '20	2020X7	42-20x7/20ryanyarbrough.png	Pitcher																								
+Tommy Milone '20	2020X7	42-20x7/20tommymilone.png	Pitcher																								
+Felix Pena '20	2020X7	42-20x7/20felixpena.png	Pitcher																								
+Taijuan Walker '20	2020X7	42-20x7/20taijuanwalker.png	Pitcher																								
+Brandon Workman TRD '20	2020X7	42-20x7/20brandonworkmantraded.png	Pitcher																								
+Brad Peacock '20	2020X7	42-20x7/20bradpeacock.png	Pitcher																								
+Jorge Lopez '20	2020X7	42-20x7/20jorgelopez.png	Pitcher																								
+Framber Valdez '20	2020X7	42-20x7/20frambervaldez.png	Pitcher																								
+Richard Bleier TRD '20	2020X7	42-20x7/20richardbleiertraded.png	Pitcher																								
+Archie Bradley TRD '20	2020X7	42-20x7/20archiebradleytraded.png	Pitcher																								
+Tony Gonsolin '20	2020X7	42-20x7/20tonygonsolin.png	Pitcher																								
+Andrew Triggs '20	2020X7	42-20x7/20andrewtriggs.png	Pitcher																								
+Pedro Strop TRD '20	2020X7	42-20x7/20pedrostroptraded.png	Pitcher																								
+Heath Hembree TRD '20	2020X7	42-20x7/20heathhembreetraded.png	Pitcher																								
+Mychal Givens TRD '20	2020X7	42-20x7/20mychalgivenstraded.png	Pitcher																								
+Corey Knebel '20	2020X7	42-20x7/20coreyknebel.png	Pitcher																								
+Nick Tropeano '20	2020X7	42-20x7/20nicktropeano.png	Pitcher																								
+Nick Pivetta '20	2020X7	42-20x7/20nickpivetta.png	Pitcher																								
+Cal Quantrill TRD '20	2020X7	42-20x7/20calquantrilltraded.png	Pitcher																								
+Jonathan Holder '20	2020X7	42-20x7/20jonathanholder.png	Pitcher																								
+Tim Hill TRD '20	2020X7	42-20x7/20timhilltraded.png	Pitcher																								
+Trevor Cahill '20	2020X7	42-20x7/20trevorcahill.png	Pitcher																								
+Andrew Chafin TRD '20	2020X7	42-20x7/20andrewchafintraded.png	Pitcher																								
+Greg Holland '20	2020X7	42-20x7/20gregholland.png	Pitcher																								
+Carson Fulmer '20	2020X7	42-20x7/20carsonfulmer.png	Pitcher																								
+Erick Fedde '20	2020X7	42-20x7/20erickfedde.png	Pitcher																								
+Bryan Shaw TRD '20	2020X7	42-20x7/20bryanshawtraded.png	Pitcher																								
+Aaron Loup '20	2020X7	42-20x7/20aaronloup.png	Pitcher																								
+Travis Bergen '20	2020X7	42-20x7/20travisbergen.png	Pitcher																								
+Jake McGee TRD '20	2020X7	42-20x7/20jakemcgeetraded.png	Pitcher																								
+Miguel Castro TRD '20	2020X7	42-20x7/20miguelcastrotraded.png	Pitcher																								
+James Hoyt '20	2020X7	42-20x7/20jameshoyt.png	Pitcher																								
+David Phelps TRD '20	2020X7	42-20x7/20davidphelpstraded.png	Pitcher																								
+Josh Osich '20	2020X7	42-20x7/20joshosich.png	Pitcher																								
+Dereck Rodriguez '20	2020X7	42-20x7/20dereckrodriguez.png	Pitcher																								
+Casey Sadler TRD '20	2020X7	42-20x7/20caseysadlertraded.png	Pitcher																								
+Austin Gomber '20	2020X7	42-20x7/20austingomber.png	Pitcher																								
+Ray Black '20	2020X7	42-20x7/20rayblack.png	Pitcher																								
+Austin Davis '20	2020X7	42-20x7/20austindavis.png	Pitcher																								
+Walker Lockett '20	2020X7	42-20x7/20walkerlockett.png	Pitcher																								
+Kolby Allard '20	2020X7	42-20x7/20kolbyallard.png	Pitcher																								
+Jesus Tinoco '20	2020X7	42-20x7/20jesustinoco.png	Pitcher																								
+Trevor Rosenthal TRD '20	2020X7	42-20x7/20trevorrosenthaltraded.png	Pitcher																								
+Carlos Martinez '20	2020X8	45-20x8/20carlosmartinez.png	Pitcher																								
+J.A. Happ '20	2020X8	45-20x8/20jahapp.png	Pitcher																								
+Matt Moore '20	2020X8	45-20x8/20mattmoore.png	Pitcher																								
+Kyle Freeland '20	2020X8	45-20x8/20kylefreeland.png	Pitcher																								
+Brent Suter '20	2020X8	45-20x8/20brentsuter.png	Pitcher																								
+Julio Urias '20	2020X8	45-20x8/20juliourias.png	Pitcher																								
+Austin Voth '20	2020X8	45-20x8/20austinvoth.png	Pitcher																								
+Rich Hill '20	2020X8	45-20x8/20richhill.png	Pitcher																								
+Jake Arrieta '20	2020X8	45-20x8/20jakearrieta.png	Pitcher																								
+Tyler Glasnow '20	2020X8	45-20x8/20tylerglasnow.png	Pitcher																								
+Wade Miley '20	2020X8	45-20x8/20wademiley.png	Pitcher																								
+Andrew Cashner '20	2020X8	45-20x8/20andrewcashner.png	Pitcher																								
+Jose Urquidy '20	2020X8	45-20x8/20joseurquidy.png	Pitcher																								
+Tyson Ross '20	2020X8	45-20x8/20tysonross.png	Pitcher																								
+Jose Urena '20	2020X8	45-20x8/20joseurena.png	Pitcher																								
+Chris Bassitt '20	2020X8	45-20x8/20chrisbassitt.png	Pitcher																								
+Drew Pomeranz '20	2020X8	45-20x8/20drewpomeranz.png	Pitcher																								
+Jordan Lyles '20	2020X8	45-20x8/20jordanlyles.png	Pitcher																								
+Carlos Rodon '20	2020X8	45-20x8/20carlosrodon.png	Pitcher																								
+Zach Plesac '20	2020X8	45-20x8/20zachplesac.png	Pitcher																								
+Zack Godley '20	2020X8	45-20x8/20zackgodley.png	Pitcher																								
+Wade LeBlanc '20	2020X8	45-20x8/20wadeleblanc.png	Pitcher																								
+Francisco Liriano '20	2020X8	45-20x8/20franciscoliriano.png	Pitcher																								
+Bartolo Colon '20	2020X8	45-20x8/20bartolocolon.png	Pitcher																								
+Jaime Barria '20	2020X8	45-20x8/20jaimebarria.png	Pitcher																								
+Martin Perez '20	2020X8	45-20x8/20martinperez.png	Pitcher																								
+Vince Velasquez '20	2020X8	45-20x8/20vincevelasquez.png	Pitcher																								
+Nathan Eovaldi '20	2020X8	45-20x8/20nathaneovaldi.png	Pitcher																								
+Tyler Chatwood '20	2020X8	45-20x8/20tylerchatwood.png	Pitcher																								
+Sean Newcomb '20	2020X8	45-20x8/20seannewcomb.png	Pitcher																								
+Adalberto Mejia '20	2020X8	45-20x8/20adalbertomejia.png	Pitcher																								
+Alex Wood '20	2020X8	45-20x8/20alexwood.png	Pitcher																								
+Michael Wacha '20	2020X8	45-20x8/20michaelwacha.png	Pitcher																								
+J.B. Wendelken '20	2020X8	45-20x8/20jbwendelken.png	Pitcher																								
+Matt Harvey '20	2020X8	45-20x8/20mattharvey.png	Pitcher																								
+Brandon Morrow '20	2020X8	45-20x8/20brandonmorrow.png	Pitcher																								
+Daniel Mengden '20	2020X8	45-20x8/20danielmengden.png	Pitcher																								
+Daniel Ponce de Leon '20	2020X8	45-20x8/20danielponcedeleon.png	Pitcher																								
+Derek Holland '20	2020X8	45-20x8/20derekholland.png	Pitcher																								
+Michael Fulmer '20	2020X8	45-20x8/20michaelfulmer.png	Pitcher																								
+Josh Fields '20	2020X8	45-20x8/20joshfields.png	Pitcher																								
+Tyler Rogers '20	2020X8	45-20x8/20tylerrogers.png	Pitcher																								
+Drew VerHagen '20	2020X8	45-20x8/20drewverhagen.png	Pitcher																								
+Kevin Ginkel '20	2020X8	45-20x8/20kevinginkel.png	Pitcher																								
+Robbie Erlin '20	2020X8	45-20x8/20robbieerlin.png	Pitcher																								
+Aaron Slegers '20	2020X8	45-20x8/20aaronslegers.png	Pitcher																								
+Dan Winkler '20	2020X8	45-20x8/20danwinkler.png	Pitcher																								
+Jerry Blevins '20	2020X8	45-20x8/20jerryblevins.png	Pitcher																								
+Luke Farrell '20	2020X8	45-20x8/20lukefarrell.png	Pitcher																								
+Chad Kuhl '20	2020X8	45-20x8/20chadkuhl.png	Pitcher																								
+Andrew Suarez '20	2020X8	45-20x8/20andrewsuarez.png	Pitcher																								
+Darren O'Day '20	2020X8	45-20x8/20darrenoday.png	Pitcher																								
+Wei-Yin Chen '20	2020X8	45-20x8/20weiyinchen.png	Pitcher																								
+Anthony Swarzak '20	2020X8	45-20x8/20anthonyswarzak.png	Pitcher																								
+Jonathan Hernandez '20	2020X8	45-20x8/20jonathanhernandez.png	Pitcher																								
+Steven Matz '20	2020X8	45-20x8/20stevenmatz.png	Pitcher																								
+Tyler Anderson '20	2020X8	45-20x8/20tyleranderson.png	Pitcher																								
+Matt Andriese '20	2020X8	45-20x8/20mattandriese.png	Pitcher																								
+Nick Vincent '20	2020X8	45-20x8/20nickvincent.png	Pitcher																								
+Jared Hughes '20	2020X8	45-20x8/20jaredhughes.png	Pitcher																								
+Paul Blackburn '20	2020X8	45-20x8/20paulblackburn.png	Pitcher																								
+Nick Ramirez '20	2020X8	45-20x8/20nickramirez.png	Pitcher																								
+Taylor Clarke '20	2020X8	45-20x8/20taylorclarke.png	Pitcher																								
+Eric Yardley '20	2020X8	45-20x8/20ericyardley.png	Pitcher																								
+Luis Avilan '20	2020X8	45-20x8/20luisavilan.png	Pitcher																								
+Jacob Barnes '20	2020X8	45-20x8/20jacobbarnes.png	Pitcher																								
+Caleb Ferguson '20	2020X8	45-20x8/20calebferguson.png	Pitcher																								
+Erasmo Ramirez '20	2020X8	45-20x8/20erasmoramirez.png	Pitcher																								
+Stefan Crichton '20	2020X8	45-20x8/20stefancrichton.png	Pitcher																								
+Brian Flynn '20	2020X8	45-20x8/20brianflynn.png	Pitcher																								
+Grant Dayton '20	2020X8	45-20x8/20grantdayton.png	Pitcher																								
+Adam Plutko '20	2020X8	45-20x8/20adamplutko.png	Pitcher																								
+Brad Boxberger '20	2020X8	45-20x8/20bradboxberger.png	Pitcher																								
+A.J. Minter '20	2020X8	45-20x8/20ajminter.png	Pitcher																								
+Jose Ruiz '20	2020X8	45-20x8/20joseruiz.png	Pitcher																								
+Sal Romano '20	2020X8	45-20x8/20salromano.png	Pitcher																								
+Dylan Cease '20	2020X8	45-20x8/20dylancease.png	Pitcher																								
+Jonathan Loaisiga '20	2020X8	45-20x8/20jonathanloaisiga.png	Pitcher																								
+A.J. Cole '20	2020X8	45-20x8/20ajcole.png	Pitcher																								
+Ryne Harper '20	2020X8	45-20x8/20ryneharper.png	Pitcher																								
+Cody Stashak '20	2020X8	45-20x8/20codystashak.png	Pitcher																								
+Justus Sheffield '20	2020X8	45-20x8/20justussheffield.png	Pitcher																								
+Genesis Cabrera '20	2020X8	45-20x8/20genesiscabrera.png	Pitcher																								
+Chi Chi Gonzalez '20	2020X8	45-20x8/20chichigonzalez.png	Pitcher																								
+Devin Smeltzer '20	2020X8	45-20x8/20devinsmeltzer.png	Pitcher																								
+Kyle McGowin '20	2020X8	45-20x8/20kylemcgowin.png	Pitcher																								
+Nick Margevicius '20	2020X8	45-20x8/20nickmargevicius.png	Pitcher																								
+Thomas Eshelman '20	2020X8	45-20x8/20thomaseshelman.png	Pitcher																								
+Logan Allen '20	2020X8	45-20x8/20loganallen.png	Pitcher																								
+Joe Biagini '20	2020X8	45-20x8/20joebiagini.png	Pitcher																								
+Cy Sneed '20	2020X8	45-20x8/20cysneed.png	Pitcher																								
+Jake Newberry '20	2020X8	45-20x8/20jakenewberry.png	Pitcher																								
+Shaun Anderson '20	2020X8	45-20x8/20shaunanderson.png	Pitcher																								
+Pete Fairbanks '20	2020X8	45-20x8/20petefairbanks.png	Pitcher																								
+Ryan Borucki '20	2020X8	45-20x8/20ryanborucki.png	Pitcher																								
+Travis Lakins Sr. '20	2020X8	45-20x8/20travislakinssr.png	Pitcher																								
+Jesse Biddle '20	2020X8	45-20x8/20jessebiddle.png	Pitcher																								
+John Schreiber '20	2020X8	45-20x8/20johnschreiber.png	Pitcher																								
+Josh Staumont '20	2020X8	45-20x8/20joshstaumont.png	Pitcher																								
+Devin Williams '20	2020X8	45-20x8/20devinwilliams.png	Pitcher																								
+Myles Straw '20	2020X8	45-20x8/20mylesstraw.png	Batter																								
+Nick Solak '20	2020X8	45-20x8/20nicksolak.png	Batter																								
+Edwin Rios '20	2020X8	45-20x8/20edwinrios.png	Batter																								
+Jordan Luplow '20	2020X8	45-20x8/20jordanluplow.png	Batter																								
+Sean Murphy '20	2020X8	45-20x8/20seanmurphy.png	Batter																								
+Ben Gamel '20	2020X8	45-20x8/20bengamel.png	Batter																								
+Curt Casali '20	2020X8	45-20x8/20curtcasali.png	Batter																								
+Mike Tauchman '20	2020X8	45-20x8/20miketauchman.png	Batter																								
+Dustin Garneau '20	2020X8	45-20x8/20dustingarneau.png	Batter																								
+Jedd Gyorko '20	2020X8	45-20x8/20jeddgyorko.png	Batter																								
+Aristides Aquino '20	2020X8	45-20x8/20aristidesaquino.png	Batter																								
+Austin Barnes '20	2020X8	45-20x8/20austinbarnes.png	Batter																								
+Cesar Puello '20	2020X8	45-20x8/20cesarpuello.png	Batter																								
+Russell Martin '20	2020X8	45-20x8/20russellmartin.png	Batter																								
+Alex Avila '20	2020X8	45-20x8/20alexavila.png	Batter																								
+Delino DeShields '20	2020X8	45-20x8/20delinodeshields.png	Batter																								
+Travis Shaw '20	2020X8	45-20x8/20travisshaw.png	Batter																								
+Brian Dozier '20	2020X8	45-20x8/20briandozier.png	Batter																								
+Tyler Naquin '20	2020X8	45-20x8/20tylernaquin.png	Batter																								
+Christian Villanueva '20	2020X8	45-20x8/20christianvillanueva.png	Batter																								
+Daniel Robertson '20	2020X8	45-20x8/20danielrobertson.png	Batter																								
+Jon Berti '20	2020X8	45-20x8/20jonberti.png	Batter																								
+Manny Pina '20	2020X8	45-20x8/20mannypina.png	Batter																								
+Michael Brosseau '20	2020X8	45-20x8/20michaelbrosseau.png	Batter																								
+Wil Myers '20	2020X8	45-20x8/20wilmyers.png	Batter																								
+Brandon Phillips '20	2020X8	45-20x8/20brandonphillips.png	Batter																								
+Jose Bautista '20	2020X8	45-20x8/20josebautista.png	Batter																								
+Ryan Goins '20	2020X8	45-20x8/20ryangoins.png	Batter																								
+Tony Kemp '20	2020X8	45-20x8/20tonykemp.png	Batter																								
+LaMonte Wade Jr. '20	2020X8	45-20x8/20lamontewadejr.png	Batter																								
+DJ Stewart '20	2020X8	45-20x8/20djstewart.png	Batter																								
+Tim Locastro '20	2020X8	45-20x8/20timlocastro.png	Batter																								
+Yasiel Puig '20	2020X8	45-20x8/20yasielpuig.png	Batter																								
+Dominic Smith '20	2020X8	45-20x8/20dominicsmith.png	Batter																								
+Francisco Cervelli '20	2020X8	45-20x8/20franciscocervelli.png	Batter																								
+Garrett Hampson '20	2020X8	45-20x8/20garretthampson.png	Batter																								
+Matt Kemp '20	2020X8	45-20x8/20mattkemp.png	Batter																								
+Tyler O'Neill '20	2020X8	45-20x8/20tyleroneill.png	Batter																								
+Chad Pinder '20	2020X8	45-20x8/20chadpinder.png	Batter																								
+Tim Lopes '20	2020X8	45-20x8/20timlopes.png	Batter																								
+Hanley Ramirez '20	2020X8	45-20x8/20hanleyramirez.png	Batter																								
+Neil Walker '20	2020X8	45-20x8/20neilwalker.png	Batter																								
+Jon Jay '20	2020X8	45-20x8/20jonjay.png	Batter																								
+Leury Garcia '20	2020X8	45-20x8/20leurygarcia.png	Batter																								
+Matt Beaty '20	2020X8	45-20x8/20mattbeaty.png	Batter																								
+Nate Lowe '20	2020X8	45-20x8/20natelowe.png	Batter																								
+Adeiny Hechavarria '20	2020X8	45-20x8/20adeinyhechavarria.png	Batter																								
+Clint Frazier '20	2020X8	45-20x8/20clintfrazier.png	Batter																								
+Jorge Bonifacio '20	2020X8	45-20x8/20jorgebonifacio.png	Batter																								
+Victor Caratini '20	2020X8	45-20x8/20victorcaratini.png	Batter																								
+Christin Stewart '20	2020X8	45-20x8/20christinstewart.png	Batter																								
+Luis Rengifo '20	2020X8	45-20x8/20luisrengifo.png	Batter																								
+Matt Joyce '20	2020X8	45-20x8/20mattjoyce.png	Batter																								
+Michael A. Taylor '20	2020X8	45-20x8/20michaelataylor.png	Batter																								
+Roman Quinn '20	2020X8	45-20x8/20romanquinn.png	Batter																								
+Jake Cave '20	2020X8	45-20x8/20jakecave.png	Batter																								
+Raimel Tapia '20	2020X8	45-20x8/20raimeltapia.png	Batter																								
+Gerardo Parra '20	2020X8	45-20x8/20gerardoparra.png	Batter																								
+Scooter Gennett '20	2020X8	45-20x8/20scootergennett.png	Batter																								
+Kyle Farmer '20	2020X8	45-20x8/20kylefarmer.png	Batter																								
+Nicky Delmonico '20	2020X8	45-20x8/20nickydelmonico.png	Batter																								
+Abraham Toro '20	2020X8	45-20x8/20abrahamtoro.png	Batter																								
+Austin Slater '20	2020X8	45-20x8/20austinslater.png	Batter																								
+Dylan Moore '20	2020X8	45-20x8/20dylanmoore.png	Batter																								
+Matt Wieters '20	2020X8	45-20x8/20mattwieters.png	Batter																								
+Ryan McBroom '20	2020X8	45-20x8/20ryanmcbroom.png	Batter																								
+Zack Cozart '20	2020X8	45-20x8/20zackcozart.png	Batter																								
+Kelvin Gutierrez '20	2020X8	45-20x8/20kelvingutierrez.png	Batter																								
+Kevan Smith '20	2020X8	45-20x8/20kevansmith.png	Batter																								
+Gorkys Hernandez '20	2020X8	45-20x8/20gorkyshernandez.png	Batter																								
+Kevin Plawecki '20	2020X8	45-20x8/20kevinplawecki.png	Batter																								
+Tyler Heineman '20	2020X8	45-20x8/20tylerheineman.png	Batter																								
+Andrew Stevenson '20	2020X8	45-20x8/20andrewstevenson.png	Batter																								
+Jason Martin '20	2020X8	45-20x8/20jasonmartin.png	Batter																								
+Joe Panik '20	2020X8	45-20x8/20joepanik.png	Batter																								
+Josh Harrison '20	2020X8	45-20x8/20joshharrison.png	Batter																								
+Phil Gosselin '20	2020X8	45-20x8/20philgosselin.png	Batter																								
+Rowdy Tellez '20	2020X8	45-20x8/20rowdytellez.png	Batter																								
+Josh Rojas '20	2020X8	45-20x8/20joshrojas.png	Batter																								
+Mikie Mahtook '20	2020X8	45-20x8/20mikiemahtook.png	Batter																								
+Albert Pujols '20	2020X8	45-20x8/20albertpujols.png	Batter																								
+Derek Fisher '20	2020X8	45-20x8/20derekfisher.png	Batter																								
+Austin Riley '20	2020X8	45-20x8/20austinriley.png	Batter																								
+Matt Adams '20	2020X8	45-20x8/20mattadams.png	Batter																								
+Salvador Perez '20	2020X8	45-20x8/20salvadorperez.png	Batter																								
+Erik Gonzalez '20	2020X8	45-20x8/20erikgonzalez.png	Batter																								
+Ronald Torreyes '20	2020X8	45-20x8/20ronaldtorreyes.png	Batter																								
+Brandon Dixon '20	2020X8	45-20x8/20brandondixon.png	Batter																								
+Kyle Lewis '20	2020X8	45-20x8/20kylelewis.png	Batter																								
+Andrew Romine '20	2020X8	45-20x8/20andrewromine.png	Batter																								
+Rangel Ravelo '20	2020X8	45-20x8/20rangelravelo.png	Batter																								
+Andrew Velazquez '20	2020X8	45-20x8/20andrewvelazquez.png	Batter																								
+Austin Dean '20	2020X8	45-20x8/20austindean.png	Batter																								
+Blake Swihart '20	2020X8	45-20x8/20blakeswihart.png	Batter																								
+Cedric Mullins '20	2020X8	45-20x8/20cedricmullins.png	Batter																								
+Cole Tucker '20	2020X8	45-20x8/20coletucker.png	Batter																								
+Drew Butera '20	2020X8	45-20x8/20drewbutera.png	Batter																								
+Erik Kratz '20	2020X8	45-20x8/20erikkratz.png	Batter																								
+Jeff Mathis '20	2020X8	45-20x8/20jeffmathis.png	Batter																								
+JT Riddle '20	2020X8	45-20x8/20jtriddle.png	Batter																								
+Magneuris Sierra '20	2020X8	45-20x8/20magneurissierra.png	Batter																								
+Taylor Ward '20	2020X8	45-20x8/20taylorward.png	Batter																								
+Babe Ruth	Iowa	43-20iowa/20baberuth.png	Batter																								
+Cy Young	Iowa	43-20iowa/20cyyoung.png	Pitcher																								
+Ty Cobb	Iowa	43-20iowa/20tycobb.png	Batter																								
+Lou Brock	Iowa	43-20iowa/20loubrock.png	Batter																								
+Tom Seaver	Iowa	43-20iowa/20tomseaver.png	Pitcher																								
+Andy Van Slyke	2020HH	44-20highheat/20andyvanslyke.png	Batter																								
+Jake Arrieta	2020HH	44-20highheat/20jakearrieta.png	Pitcher																								
+Pete Vuckovich	2020HH	44-20highheat/20petevuckovich.png	Pitcher																								
+High Chopper	2020X7	42-20x7/20highchopper.png	Strategy																								
+Tipping Their Pitches	2020X7	42-20x7/20tippingtheirpitches.png	Strategy																								
+Buffalo '20	2020X7	42-20x7/20buffalo.png	Stadium																								
+Nashville '20	2020X8	45-20x8/20nashville.png	Stadium																								
+Clamped Down	2020X8	45-20x8/20clampeddown.png	Strategy																								
+Ramping Up	2020X8	45-20x8/20rampingup.png	Strategy																								
+You Really Got Me	2020X8	45-20x8/20youreallygotme.png	Strategy																								
+Captain Clutch	2020X8	45-20x8/20captainclutch.png	Strategy																								
+Ambush Them	2020X8	45-20x8/20ambushthem.png	Strategy																								
+Knock Them In	2020X8	45-20x8/20knockthemin.png	Strategy																								
+Running With the Devil	2020X8	45-20x8/20runningwiththedevil.png	Strategy																								
+Encore	2020X8	45-20x8/20encore.png	Strategy																								
+Battle of Nerves	2020X8	45-20x8/20battleofnerves.png	Strategy																								
