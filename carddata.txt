@@ -491,7 +491,7 @@ Miami Park	2019S1	18-19series1/19miami.png	Stadium
 Milwaukee Park	2019S1	18-19series1/19milwaukee.png	Stadium																								
 Minnesota Field	2019S1	18-19series1/19minnesota.png	Stadium																								
 New York (A) Stadium	2019S1	18-19series1/19newyorka.png	Stadium																								
-New York (N) Field	2019S1	18-19series1/19neworkn.png	Stadium																								
+New York (N) Field	2019S1	18-19series1/19newyorkn.png	Stadium																								
 Oakland Stadium	2019S1	18-19series1/19oakland.png	Stadium																								
 Philadelphia Park	2019S1	18-19series1/19philadelphia.png	Stadium																								
 Pittsburgh Park	2019S1	18-19series1/19pittsburgh.png	Stadium																								
@@ -693,7 +693,7 @@ Know Your Role	2019S2	22-19series2/19knowyourrole.png	Strategy	U
 Now This is Baseball	2019S2	22-19series2/19nowthisisbaseball.png	Strategy	U																							
 Oh I Don't Think So	2019S2	22-19series2/19ohidontthinkso.png	Strategy	U																							
 Prime-Time Performance	2019S2	22-19series2/19primetimeperformance.png	Strategy	R																							
-Cleveland Stadium	2019S2	22-19series2/19clevelandstadium.png	Stadium	R																							
+Cleveland Stadium	2019S2	22-19series2/19asgclevelandstadium.png	Stadium	R																							
 The Jake in Cleveland	2019S2	22-19series2/19thejake.png	Stadium	R																							
 Whiff City	2019S2preorder	21-19series2preorder/19whiffcity.png	Stadium	UR																							
 Justin Verlander ASG '19	2019S2	22-19series2/19asgjustinverlander.png	Pitcher	HOU	R	SP	795	8	L+1	-2	7	4	1	1-6	7-13	14-19	20	21	-	-	22+	AS					
@@ -1201,7 +1201,7 @@ Carlos Beltran Traded	2019S3	26-19series3/19carlosbeltran.png	Batter	KC/HOU	S	CF
 Matt Holliday Traded	2019S3	26-19series3/19mattholliday.png	Batter	OAK/ATL	R	LF/RF	490	14	-	1	12	3	-	1	2	3-4	5-9	10-18	19-21	-	22+						
 David Justice Traded	2019S3	26-19series3/19davidjustice.png	Batter	CLE/NY-A	L	LF/RF	465	13	-	1	12	4	-	1	2-3	4-5	6-10	11-17	18-19	-	20+						
 Manny Ramirez Traded	2019S3	26-19series3/19mannyramirez.png	Batter	BOS/LA-N	R	LF/RF	680	15	R+1	2	12	1	-	1	2	3	4-8	9-16	17-19	-	20+	RBI					
-Mark Teixeira Traded	2019S3	26-19series3/19markteixera.png	Batter	ATL/LA-A	S	1B	550	14	-	1	12	2	-	1	2	3-4	5-10	11-16	17-19	-	20+	RBI					
+Mark Teixeira Traded	2019S3	26-19series3/19markteixeira.png	Batter	ATL/LA-A	S	1B	550	14	-	1	12	2	-	1	2	3-4	5-10	11-16	17-19	-	20+	RBI					
 Victor Alcantara '19	2019S3	26-19series3/19victoralcantara.png	Pitcher	DET	R	RP	105	3	L+1	2	1	3	1-3	1-3	4-10	11-17	18	19-20	21-22	-	23+						
 Logan Allen '19	2019S3	26-19series3/19loganallen.png	Pitcher	CLE	L	RP	140	2	L+1	2	3	2	1-3	1-3	4-10	11-16	17-18	19-21	22-23	-	24+						
 Jose Alvarez '19	2019S3	26-19series3/19josealvarez.png	Pitcher	PHI	L	RP	125	3	L+2	-2	1	2	1	1-5	6-11	12-17	18	19-22	23	-	24+						
@@ -2050,7 +2050,7 @@ Enrique Hernandez '20	2020X6	40-20x6/20enriquehernandez.png	Batter	LA-N	R		290	1
 Joey Wendle '20	2020X6	40-20x6/20joeywendle.png	Batter	TB	L		270	11	R+2	2	17 B			1-2	3-5	6-8	9-12	13-16	17-19	20	21+						
 Nick Senzel '20	2020X6	40-20x6/20nicksenzel.png	Batter	CIN	R		250	10	L+3	-2	11 C			1-2	3-5	6-7	8-11	12-15	16-18	19	20+						
 Corey Dickerson '20	2020X6	40-20x6/20coreydickerson.png	Batter	MIA	L		225	10	0	-1	11 C			1	2-3	4	5-6	7-14	15-18	19	20+						
-Jonothan Schoop '20	2020X6	40-20x6/20jonothanschoop.png	Batter	DET	R		200	10	L+1	-2	13 C			1-2	3-5	6-7	8-10	11-15	16-18	-	19+						
+Jonathan Schoop '20	2020X6	40-20x6/20jonathanschoop.png	Batter	DET	R		200	10	L+1	-2	13 C			1-2	3-5	6-7	8-10	11-15	16-18	-	19+						
 Brad Miller '20	2020X6	40-20x6/20bradmiller.png	Batter	STL	L		185	9	R+1	-2	11			1-2	3	4-5	6-8	9-14	15-17	18	19+						
 Andrew Knapp '20	2020X6	40-20x6/20andrewknapp.png	Batter	PHI	R		165	11	R+2	-3	13 C			1-3	4-5	6-7	8-11	12-18	19-20	-	21+						
 Jose Osuna '20	2020X6	40-20x6/20joseosuna.png	Batter	PIT	R		145	9	R+3	1	12 C			1-2	3-5	6-7	8-10	11-14	15-18	-	19+						
@@ -2094,7 +2094,7 @@ Cal Ripken Jr.	20ASG	41-20allstarmvps/20calripkenjr.png	Batter
 Brian McCann   	20ASG	41-20allstarmvps/20brianmccann.png	Batter																								
 Bo Jackson	20ASG	41-20allstarmvps/20bojackson.png	Batter																								
 Don Drysdale	20ASG	41-20allstarmvps/20dondrysdale.png	Pitcher																								
-Bo Bichette '20	2020X6	40-20x6/20bobichette20.png	Batter																								
+Bo Bichette '20	2020X6	40-20x6/20bobichette.png	Batter																								
 Tommy Edman '20	2020X7	42-20x7/20tommyedman.png	Batter																								
 Aaron Hicks '20	2020X7	42-20x7/20aaronhicks.png	Batter																								
 Byron Buxton '20	2020X7	42-20x7/20byronbuxton.png	Batter																								
@@ -2120,7 +2120,7 @@ Jake Lamb TRD '20	2020X7	42-20x7/20jakelambtraded.png	Batter
 Jordy Mercer '20	2020X7	42-20x7/20jordymercer.png	Batter																								
 Derek Dietrich '20	2020X7	42-20x7/20derekdietrich.png	Batter																								
 Jonathan Villar TRD '20	2020X7	42-20x7/20jonathanvillartraded.png	Batter																								
-Jose Peraza '20	2020X7	42-20x7/20joseperaza.png	Batter																								
+Jose Peraza '20	2020X8	45-20x8/20joseperaza.png	Batter																								
 Isiah Kiner-Falefa '20	2020X7	42-20x7/20isiahkinerfalefa.png	Batter																								
 Wilmer Flores '20	2020X7	42-20x7/20wilmerflores.png	Batter																								
 Yolmer Sanchez '20	2020X7	42-20x7/20yolmersanchez.png	Batter																								
@@ -2409,7 +2409,7 @@ Ty Cobb	Iowa	43-20iowa/20tycobb.png	Batter
 Lou Brock	Iowa	43-20iowa/20loubrock.png	Batter																								
 Tom Seaver	Iowa	43-20iowa/20tomseaver.png	Pitcher																								
 Andy Van Slyke	2020HH	44-20highheat/20andyvanslyke.png	Batter																								
-Jake Arrieta	2020HH	44-20highheat/20jakearrieta.png	Pitcher																								
+Jake Arrieta	2020HH	44-20highheat/20jakearrietahh.png	Pitcher																								
 Pete Vuckovich	2020HH	44-20highheat/20petevuckovich.png	Pitcher																								
 High Chopper	2020X7	42-20x7/20highchopper.png	Strategy																								
 Tipping Their Pitches	2020X7	42-20x7/20tippingtheirpitches.png	Strategy																								
