@@ -52,7 +52,17 @@
      <shuffle>no</shuffle>
 </deckzone>
 
+<deckzone>
+     <label>Sideboard One</label>
+     <gamezonetoloadto>Out of Play</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
 
+<deckzone>
+     <label>Sideboard Two</label>
+     <gamezonetoloadto>Out of Play</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
 
 
 <gamezone>
@@ -107,6 +117,12 @@
      <label>Stadium</label>
      <visibletoowner>yes</visibletoowner>
      <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Out of Play</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
 </gamezone>
 
 

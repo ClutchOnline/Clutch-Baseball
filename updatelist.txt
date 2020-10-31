@@ -1,5 +1,5 @@
-Clutch-Baseball	10-29-20
-plugins/Clutch-Baseball/plugininfo.txt	https://raw.githubusercontent.com/ClutchOnline/Clutch-Baseball/master/plugininfo.txt	252134
+Clutch-Baseball	10-31-20
+plugins/Clutch-Baseball/plugininfo.txt	https://raw.githubusercontent.com/ClutchOnline/Clutch-Baseball/master/plugininfo.txt	287953
 plugins/Clutch-Baseball/sets/setimages/cardback.jpg	https://raw.githubusercontent.com/ClutchOnline/Clutch-Baseball/master/cardback.jpg	0
 plugins/Clutch-Baseball/sets/carddata.txt	https://raw.githubusercontent.com/ClutchOnline/Clutch-Baseball/master/carddata.txt	16329667
 plugins/Clutch-Baseball/pluginpreferences.txt	https://raw.githubusercontent.com/ClutchOnline/Clutch-Baseball/master/pluginpreferences.txt	224783
