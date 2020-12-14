@@ -2446,7 +2446,7 @@ Lance McCullers LE20	2020FD	39-20fathersday/le20lancemccullers.png	Pitcher
 Tom Gordon LE20	2020FD	39-20fathersday/le20tomgordon.png	Pitcher																								
 Dmitri Young LE20	2020OD	32-20openingday/le20dmitriyoung.png	Batter	DET	S		185	10	R+1	-3	13			1-2	3-6	7-8	9-11	12-14	15-17	18	19+						
 Gee Walker LE20	2020OD	32-20openingday/le20geewalker.png	Batter	DET	R		390	11	L+2	-1	21			1	2-4	5-6	7-9	10-16	17-19	-	20+	AS SB					
-Clayton Kershaw OD LE20	2020OD	32-20openingday/le20claytonkershaw.png	Pitcher	LA-N	L	SP	875	6	L+1	3	7	4	1	1-6	7-13	14-18	-	19-22	23-24		25+	AS K MVP W					
+Clayton Kershaw OD LE20	2020OD	32-20openingday/le20claytonkershawod.png	Pitcher	LA-N	L	SP	875	6	L+1	3	7	4	1	1-6	7-13	14-18	-	19-22	23-24		25+	AS K MVP W					
 Bob Feller LE20	2020OD	32-20openingday/le20bobfeller.png	Pitcher	CLE	R	SP	785	5	R+1	1	9	2	1	1-5	6-11	12-17	18	19-22	23-25		26+	AS K W					
 Hi Bithorn LE20	2020PR	35-20puertorico/le20hibithorn.png	Pitcher	CH-N	R	SP	635	4	R+2	2	8	3	1	1-2	3-10	11-17	-	18-22	23-25		26+	W					
 Puerto Rico LE20	2020PR	35-20puertorico/le20puertorico.png	Stadium																								
@@ -2466,3 +2466,5 @@ Jeff McNeil Fire '20	Fire	36-fire/firejeffmcneil.png	Pitcher
 Aroldis Chapman Ice '20	Ice	37-ice/icearoldischapman.png	Pitcher																								
 Ronald Acuna Jr. Fire '20	Fire	36-fire/fireronaldacunajr.png	Batter																								
 Josh Hader Fire '20	Fire	36-fire/firejoshhader.png	Pitcher																								
+Josh Hader Ice '20	Ice	37-ice/icejoshhader.png	Pitcher																								
+Ian Kennedy Fire '20	Fire	36-fire/fireiankennedy.png	Pitcher																								
