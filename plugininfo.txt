@@ -127,8 +127,11 @@
 
 
 
-<generalfunction><label>Draw</label><kind>DRAWCARD</kind></generalfunction>
+<generalfunction><label>Draw</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
 <generalfunction><label>Roll Regular Die</label><kind>ROLLD20</kind><includeasbutton>yes</includeasbutton></generalfunction>
+
+<generalfunction><label>Full Monty</label><kind>DRAWCARDTOTABLE</kind><includeasbutton>yes</includeasbutton></generalfunction>
+
 
 <cardfunction><label>Take Control</label><kind>CHANGEOWNER</kind></cardfunction>
 <cardfunction><label>Turn Over</label><kind>TURNOVER</kind></cardfunction>
