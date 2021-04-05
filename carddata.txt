@@ -3170,3 +3170,11 @@ Yu Darvish ASG '17	ASG2017	03-17miami/17asgyudarvish.png	Pitcher
 Zack Greinke ASG '17	ASG2017	03-17miami/17asgzackgreinke.png	Pitcher																					
 Florida Park ASG '17	ASG2017	03-17miami/17asgflorida.png	Stadium																					
 Miami Park ASG '17	ASG2017	03-17miami/17asgmiami.png	Stadium																					
+Mike Schmidt '17	2017PHI	04-17philadelphia/17mikeschmidt.png	Batter																					
+David Ortiz '17	PO2017	01-17preorder/17davidortiz.png	Batter																					
+Ken Griffey Jr. '17	PO2017	01-17preorder/17kengriffeyjr.png	Batter																					
+Kyle Schwarber '17	PO2017	01-17preorder/17kyleschwarber.png	Batter																					
+Steve Carlton '17	2017PHI	04-17philadelphia/17stevecarlton.png	Pitcher																					
+Jose Fernandez '17	PO2017	01-17preorder/17josefernandez.png	Pitcher																					
+Brandon Webb '17	2017HAL	05-17halloween/17brandonwebb.png	Pitcher																					
+Vlad the Impaler '17	2017HAL	05-17halloween/17vladtheimpaler.png	Batter																					
