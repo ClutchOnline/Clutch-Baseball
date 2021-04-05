@@ -2688,3 +2688,485 @@ Touki Toussaint '21	2020X9	48-21x9/21toukitoussaint.png	Pitcher
 James Pazos '21	2020X9	48-21x9/21jamespazos.png	Pitcher																					
 Taylor Williams '21	2020X9	48-21x9/21taylorwilliams.png	Pitcher																					
 Robert Stock '21	2020X9	48-21x9/21robertstock.png	Pitcher																					
+Mike Trout '17	2017B	02-17base/17miketrout.png	Batter																					
+Paul Goldschmidt '17	2017B	02-17base/17paulgoldschmidt.png	Batter																					
+Joey Votto '17	2017B	02-17base/17joeyvotto.png	Batter																					
+Bryce Harper '17	2017B	02-17base/17bryceharper.png	Batter																					
+Josh Donaldson '17	2017B	02-17base/17joshdonaldson.png	Batter																					
+Jose Altuve '17	2017B	02-17base/17josealtuve.png	Batter																					
+Miguel Cabrera '17	2017B	02-17base/17miguelcabrera.png	Batter																					
+Gary Sanchez '17	2017B	02-17base/17garysanchez.png	Batter																					
+Anthony Rizzo '17	2017B	02-17base/17anthonyrizzo.png	Batter																					
+Nolan Arenado '17	2017B	02-17base/17nolanarenado.png	Batter																					
+Corey Seager '17	2017B	02-17base/17coreyseager.png	Batter																					
+Kris Bryant '17	2017B	02-17base/17krisbryant.png	Batter																					
+A.J. Pollock '17	2017B	02-17base/17ajpollock.png	Batter																					
+Adrian Beltre '17	2017B	02-17base/17adrianbeltre.png	Batter																					
+Freddie Freeman '17	2017B	02-17base/17freddiefreeman.png	Batter																					
+Edwin Encarnacion '17	2017B	02-17base/17edwinencarnacion.png	Batter																					
+Buster Posey '17	2017B	02-17base/17busterposey.png	Batter																					
+Mookie Betts '17	2017B	02-17base/17mookiebetts.png	Batter																					
+Trea Turner '17	2017B	02-17base/17treaturner.png	Batter																					
+Dustin Pedroia '17	2017B	02-17base/17dustinpedroia.png	Batter																					
+Trevor Story '17	2017B	02-17base/17trevorstory.png	Batter																					
+Charlie Blackmon '17	2017B	02-17base/17charlieblackmon.png	Batter																					
+Matt Carpenter '17	2017B	02-17base/17mattcarpenter.png	Batter																					
+Nelson Cruz '17	2017B	02-17base/17nelsoncruz.png	Batter																					
+DJ LeMahieu '17	2017B	02-17base/17djlemahieu.png	Batter																					
+Starling Marte '17	2017B	02-17base/17starlingmarte.png	Batter																					
+Brandon Belt '17	2017B	02-17base/17brandonbelt.png	Batter																					
+Ian Kinsler '17	2017B	02-17base/17iankinsler.png	Batter																					
+Christian Yelich '17	2017B	02-17base/17christianyelich.png	Batter																					
+Lorenzo Cain '17	2017B	02-17base/17lorenzocain.png	Batter																					
+Yoenis Cespedes '17	2017B	02-17base/17yoeniscespedes.png	Batter																					
+Jonathan Villar '17	2017B	02-17base/17jonathanvillar.png	Batter																					
+Ender Inciarte '17	2017B	02-17base/17enderinciarte.png	Batter																					
+Jackie Bradley Jr. '17	2017B	02-17base/17jackiebradleyjr.png	Batter																					
+Adam Eaton '17	2017B	02-17base/17adameaton.png	Batter																					
+David Peralta '17	2017B	02-17base/17davidperalta.png	Batter																					
+Justin Turner '17	2017B	02-17base/17justinturner.png	Batter																					
+George Springer '17	2017B	02-17base/17georgespringer.png	Batter																					
+Brandon Crawford '17	2017B	02-17base/17brandoncrawford.png	Batter																					
+Jason Kipnis '17	2017B	02-17base/17jasonkipnis.png	Batter																					
+Francisco Lindor '17	2017B	02-17base/17franciscolindor.png	Batter																					
+Giancarlo Stanton '17	2017B	02-17base/17giancarlostanton.png	Batter																					
+Michael Brantley '17	2017B	02-17base/17michaelbrantley.png	Batter																					
+Ryan Braun '17	2017B	02-17base/17ryanbraun.png	Batter																					
+Kyle Seager '17	2017B	02-17base/17kyleseager.png	Batter																					
+Joe Panik '17	2017B	02-17base/17joepanik.png	Batter																					
+Carlos Santana '17	2017B	02-17base/17carlossantana.png	Batter																					
+Xander Bogaerts '17	2017B	02-17base/17xanderbogaerts.png	Batter																					
+Brett Gardner '17	2017B	02-17base/17brettgardner.png	Batter																					
+Carlos Gonzalez '17	2017B	02-17base/17carlosgonzalez.png	Batter																					
+Dansby Swanson '17	2017B	02-17base/17dansbyswanson.png	Batter																					
+Ben Zobrist '17	2017B	02-17base/17benzobrist.png	Batter																					
+Andrew McCutchen '17	2017B	02-17base/17andrewmccutchen.png	Batter																					
+Jose Bautista '17	2017B	02-17base/17josebautista.png	Batter																					
+Robinson Cano '17	2017B	02-17base/17robinsoncano.png	Batter																					
+Brian Dozier '17	2017B	02-17base/17briandozier.png	Batter																					
+Odubel Herrera '17	2017B	02-17base/17odubelherrera.png	Batter																					
+Eric Hosmer '17	2017B	02-17base/17erichosmer.png	Batter																					
+Manny Machado '17	2017B	02-17base/17mannymachado.png	Batter																					
+Daniel Murphy '17	2017B	02-17base/17danielmurphy.png	Batter																					
+Hunter Pence '17	2017B	02-17base/17hunterpence.png	Batter																					
+Dee Gordon '17	2017B	02-17base/17deegordon.png	Batter																					
+Stephen Piscotty '17	2017B	02-17base/17stephenpiscotty.png	Batter																					
+Jason Heyward '17	2017B	02-17base/17jasonheyward.png	Batter																					
+Tyler Naquin '17	2017B	02-17base/17tylernaquin.png	Batter																					
+Shin-Soo Choo '17	2017B	02-17base/17shinsoochoo.png	Batter																					
+Chris Davis '17	2017B	02-17base/17chrisdavis.png	Batter																					
+Jarrod Dyson '17	2017B	02-17base/17jarroddyson.png	Batter																					
+Dexter Fowler '17	2017B	02-17base/17dexterfowler.png	Batter																					
+Anthony Rendon '17	2017B	02-17base/17anthonyrendon.png	Batter																					
+J.D. Martinez '17	2017B	02-17base/17jdmartinez.png	Batter																					
+Kevin Kiermaier '17	2017B	02-17base/17kevinkiermaier.png	Batter																					
+Jung Ho Kang '17	2017B	02-17base/17junghokang.png	Batter																					
+Miguel Sano '17	2017B	02-17base/17miguelsano.png	Batter																					
+Danny Valencia '17	2017B	02-17base/17dannyvalencia.png	Batter																					
+Yunel Escobar '17	2017B	02-17base/17yunelescobar.png	Batter																					
+Cesar Hernandez '17	2017B	02-17base/17cesarhernandez.png	Batter																					
+Jonathan Lucroy '17	2017B	02-17base/17jonathanlucroy.png	Batter																					
+Mark Trumbo '17	2017B	02-17base/17marktrumbo.png	Batter																					
+Carlos Beltran '17	2017B	02-17base/17carlosbeltran.png	Batter																					
+Joe Mauer '17	2017B	02-17base/17joemauer.png	Batter																					
+Eduardo Nunez '17	2017B	02-17base/17eduardonunez.png	Batter																					
+Gregory Polanco '17	2017B	02-17base/17gregorypolanco.png	Batter																					
+Hanley Ramirez '17	2017B	02-17base/17hanleyramirez.png	Batter																					
+Neil Walker '17	2017B	02-17base/17neilwalker.png	Batter																					
+Logan Forsythe '17	2017B	02-17base/17loganforsythe.png	Batter																					
+Wil Myers '17	2017B	02-17base/17wilmyers.png	Batter																					
+Evan Longoria '17	2017B	02-17base/17evanlongoria.png	Batter																					
+Kendrys Morales '17	2017B	02-17base/17kendrysmorales.png	Batter																					
+Josh Reddick '17	2017B	02-17base/17joshreddick.png	Batter																					
+Devon Travis '17	2017B	02-17base/17devontravis.png	Batter																					
+Nori Aoki '17	2017B	02-17base/17noriaoki.png	Batter																					
+Keon Broxton '17	2017B	02-17base/17keonbroxton.png	Batter																					
+Nick Markakis '17	2017B	02-17base/17nickmarkakis.png	Batter																					
+Joc Pederson '17	2017B	02-17base/17jocpederson.png	Batter																					
+Kevin Pillar '17	2017B	02-17base/17kevinpillar.png	Batter																					
+Elvis Andrus '17	2017B	02-17base/17elvisandrus.png	Batter																					
+Carlos Correa '17	2017B	02-17base/17carloscorrea.png	Batter																					
+Rajai Davis '17	2017B	02-17base/17rajaidavis.png	Batter																					
+Alex Gordon '17	2017B	02-17base/17alexgordon.png	Batter																					
+Cameron Maybin '17	2017B	02-17base/17cameronmaybin.png	Batter																					
+Mike Moustakas '17	2017B	02-17base/17mikemoustakas.png	Batter																					
+Denard Span '17	2017B	02-17base/17denardspan.png	Batter																					
+Jose Abreu '17	2017B	02-17base/17joseabreu.png	Batter																					
+Francisco Cervelli '17	2017B	02-17base/17franciscocervelli.png	Batter																					
+Lonnie Chisenhall '17	2017B	02-17base/17lonniechisenhall.png	Batter																					
+Adrian Gonzalez '17	2017B	02-17base/17adriangonzalez.png	Batter																					
+Jake Lamb '17	2017B	02-17base/17jakelamb.png	Batter																					
+Mitch Moreland '17	2017B	02-17base/17mitchmoreland.png	Batter																					
+Yadier Molina '17	2017B	02-17base/17yadiermolina.png	Batter																					
+Jose Reyes '17	2017B	02-17base/17josereyes.png	Batter																					
+Jean Segura '17	2017B	02-17base/17jeansegura.png	Batter																					
+Lucas Duda '17	2017B	02-17base/17lucasduda.png	Batter																					
+Howie Kendrick '17	2017B	02-17base/17howiekendrick.png	Batter																					
+Albert Pujols '17	2017B	02-17base/17albertpujols.png	Batter																					
+Adam Duvall '17	2017B	02-17base/17adamduvall.png	Batter																					
+Yasmani Grandal '17	2017B	02-17base/17yasmanigrandal.png	Batter																					
+Curtis Granderson '17	2017B	02-17base/17curtisgranderson.png	Batter																					
+Tim Anderson '17	2017B	02-17base/17timanderson.png	Batter																					
+Brandon Phillips '17	2017B	02-17base/17brandonphillips.png	Batter																					
+Troy Tulowitzki '17	2017B	02-17base/17troytulowitzki.png	Batter																					
+Corey Dickerson '17	2017B	02-17base/17coreydickerson.png	Batter																					
+Rougned Odor '17	2017B	02-17base/17rougnedodor.png	Batter																					
+Michael Saunders '17	2017B	02-17base/17michaelsaunders.png	Batter																					
+David Wright '17	2017B	02-17base/17davidwright.png	Batter																					
+Yonder Alonso '17	2017B	02-17base/17yonderalonso.png	Batter																					
+Kole Calhoun '17	2017B	02-17base/17kolecalhoun.png	Batter																					
+Zack Cozart '17	2017B	02-17base/17zackcozart.png	Batter																					
+Khris Davis '17	2017B	02-17base/17khrisdavis.png	Batter																					
+Todd Frazier '17	2017B	02-17base/17toddfrazier.png	Batter																					
+Marcell Ozuna '17	2017B	02-17base/17marcellozuna.png	Batter																					
+Addison Russell '17	2017B	02-17base/17addisonrussell.png	Batter																					
+Travis Shaw '17	2017B	02-17base/17travisshaw.png	Batter																					
+Andrelton Simmons '17	2017B	02-17base/17andreltonsimmons.png	Batter																					
+Yangervis Solarte '17	2017B	02-17base/17yangervissolarte.png	Batter																					
+Stephen Vogt '17	2017B	02-17base/17stephenvogt.png	Batter																					
+Chris Carter '17	2017B	02-17base/17chriscarter.png	Batter																					
+Salvador Perez '17	2017B	02-17base/17salvadorperez.png	Batter																					
+Adam Jones '17	2017B	02-17base/17adamjones.png	Batter																					
+Justin Upton '17	2017B	02-17base/17justinupton.png	Batter																					
+Justin Bour '17	2017B	02-17base/17justinbour.png	Batter																					
+C.J. Cron '17	2017B	02-17base/17cjcron.png	Batter																					
+Jose Iglesias '17	2017B	02-17base/17joseiglesias.png	Batter																					
+Kolten Wong '17	2017B	02-17base/17koltenwong.png	Batter																					
+Matt Kemp '17	2017B	02-17base/17mattkemp.png	Batter																					
+Javier Baez '17	2017B	02-17base/17javierbaez.png	Batter																					
+Jay Bruce '17	2017B	02-17base/17jaybruce.png	Batter																					
+Asdrubal Cabrera '17	2017B	02-17base/17asdrubalcabrera.png	Batter																					
+Welington Castillo '17	2017B	02-17base/17welingtoncastillo.png	Batter																					
+Adonis Garcia '17	2017B	02-17base/17adonisgarcia.png	Batter																					
+Josh Harrison '17	2017B	02-17base/17joshharrison.png	Batter																					
+J.T. Realmuto '17	2017B	02-17base/17jtrealmuto.png	Batter																					
+Jonathan Schoop '17	2017B	02-17base/17jonathanschoop.png	Batter																					
+Wilson Ramos '17	2017B	02-17base/17wilsonramos.png	Batter																					
+Jacoby Ellsbury '17	2017B	02-17base/17jacobyellsbury.png	Batter																					
+Carlos Gomez '17	2017B	02-17base/17carlosgomez.png	Batter																					
+Didi Gregorius '17	2017B	02-17base/17didigregorius.png	Batter																					
+Yasiel Puig '17	2017B	02-17base/17yasielpuig.png	Batter																					
+Eugenio Suarez '17	2017B	02-17base/17eugeniosuarez.png	Batter																					
+Melky Cabrera '17	2017B	02-17base/17melkycabrera.png	Batter																					
+Ian Desmond '17	2017B	02-17base/17iandesmond.png	Batter																					
+Russell Martin '17	2017B	02-17base/17russellmartin.png	Batter																					
+Victor Martinez '17	2017B	02-17base/17victormartinez.png	Batter																					
+Maikel Franco '17	2017B	02-17base/17maikelfranco.png	Batter																					
+Brad Miller '17	2017B	02-17base/17bradmiller.png	Batter																					
+Miguel Montero '17	2017B	02-17base/17miguelmontero.png	Batter																					
+Cory Spangenberg '17	2017B	02-17base/17coryspangenberg.png	Batter																					
+Tucker Barnhart '17	2017B	02-17base/17tuckerbarnhart.png	Batter																					
+Marwin Gonzalez '17	2017B	02-17base/17marwingonzalez.png	Batter																					
+Chase Headley '17	2017B	02-17base/17chaseheadley.png	Batter																					
+Roberto Perez '17	2017B	02-17base/17robertoperez.png	Batter																					
+Brett Lawrie '17	2017B	02-17base/17brettlawrie.png	Batter																					
+Marcus Semien '17	2017B	02-17base/17marcussemien.png	Batter																					
+Steven Souza Jr. '17	2017B	02-17base/17stevensouzajr.png	Batter																					
+Freddy Galvis '17	2017B	02-17base/17freddygalvis.png	Batter																					
+Avisail Garcia '17	2017B	02-17base/17avisailgarcia.png	Batter																					
+Brandon Moss '17	2017B	02-17base/17brandonmoss.png	Batter																					
+Cameron Rupp '17	2017B	02-17base/17cameronrupp.png	Batter																					
+Wilmer Flores '17	2017B	02-17base/17wilmerflores.png	Batter																					
+Scooter Gennett '17	2017B	02-17base/17scootergennett.png	Batter																					
+Billy Hamilton '17	2017B	02-17base/17billyhamilton.png	Batter																					
+Adeiny Hechavarria '17	2017B	02-17base/17adeinyhechavarria.png	Batter																					
+James McCann '17	2017B	02-17base/17jamesmccann.png	Batter																					
+Travis Jankowski '17	2017B	02-17base/17travisjankowski.png	Batter																					
+Ichiro Suzuki '17	2017B	02-17base/17ichirosuzuki.png	Batter																					
+Jason Castro '17	2017B	02-17base/17jasoncastro.png	Batter																					
+Evan Gattis '17	2017B	02-17base/17evangattis.png	Batter																					
+Brian McCann '17	2017B	02-17base/17brianmccann.png	Batter																					
+Leonys Martin '17	2017B	02-17base/17leonysmartin.png	Batter																					
+Jayson Werth '17	2017B	02-17base/17jaysonwerth.png	Batter																					
+Alcides Escobar '17	2017B	02-17base/17alcidesescobar.png	Batter																					
+Jed Lowrie '17	2017B	02-17base/17jedlowrie.png	Batter																					
+Jedd Gyorko '17	2017B	02-17base/17jeddgyorko.png	Batter																					
+J.J. Hardy '17	2017B	02-17base/17jjhardy.png	Batter																					
+Derek Norris '17	2017B	02-17base/17dereknorris.png	Batter																					
+Chris Owings '17	2017B	02-17base/17chrisowings.png	Batter																					
+Starlin Castro '17	2017B	02-17base/17starlincastro.png	Batter																					
+Chris Iannetta '17	2017B	02-17base/17chrisiannetta.png	Batter																					
+Ryan Zimmerman '17	2017B	02-17base/17ryanzimmerman.png	Batter																					
+Ryan Flaherty '17	2017B	02-17base/17ryanflaherty.png	Batter																					
+Clayton Kershaw '17	2017B	02-17base/17claytonkershaw.png	Pitcher																					
+Max Scherzer '17	2017B	02-17base/17maxscherzer.png	Pitcher																					
+Madison Bumgarner '17	2017B	02-17base/17madisonbumgarner.png	Pitcher																					
+Zack Greinke '17	2017B	02-17base/17zackgreinke.png	Pitcher																					
+Jake Arrieta '17	2017B	02-17base/17jakearrieta.png	Pitcher																					
+Justin Verlander '17	2017B	02-17base/17justinverlander.png	Pitcher																					
+Rich Hill '17	2017B	02-17base/17richhill.png	Pitcher																					
+Johnny Cueto '17	2017B	02-17base/17johnnycueto.png	Pitcher																					
+Masahiro Tanaka '17	2017B	02-17base/17masahirotanaka.png	Pitcher																					
+Dallas Keuchel '17	2017B	02-17base/17dallaskeuchel.png	Pitcher																					
+Jon Lester '17	2017B	02-17base/17jonlester.png	Pitcher																					
+Corey Kluber '17	2017B	02-17base/17coreykluber.png	Pitcher																					
+Chris Sale '17	2017B	02-17base/17chrissale.png	Pitcher																					
+Jacob deGrom '17	2017B	02-17base/17jacobdegrom.png	Pitcher																					
+David Price '17	2017B	02-17base/17davidprice.png	Pitcher																					
+Rick Porcello '17	2017B	02-17base/17rickporcello.png	Pitcher																					
+Noah Syndergaard '17	2017B	02-17base/17noahsyndergaard.png	Pitcher																					
+Junior Guerra '17	2017B	02-17base/17juniorguerra.png	Pitcher																					
+Jake Odorizzi '17	2017B	02-17base/17jakeodorizzi.png	Pitcher																					
+Jerad Eickhoff '17	2017B	02-17base/17jeradeickhoff.png	Pitcher																					
+Kenta Maeda '17	2017B	02-17base/17kentamaeda.png	Pitcher																					
+Carlos Carrasco '17	2017B	02-17base/17carloscarrasco.png	Pitcher																					
+Jameson Taillon '17	2017B	02-17base/17jamesontaillon.png	Pitcher																					
+Marco Estrada '17	2017B	02-17base/17marcoestrada.png	Pitcher																					
+Carlos Martinez '17	2017B	02-17base/17carlosmartinez.png	Pitcher																					
+Chris Archer '17	2017B	02-17base/17chrisarcher.png	Pitcher																					
+Sean Manaea '17	2017B	02-17base/17seanmanaea.png	Pitcher																					
+John Lackey '17	2017B	02-17base/17johnlackey.png	Pitcher																					
+Matt Harvey '17	2017B	02-17base/17mattharvey.png	Pitcher																					
+Felix Hernandez '17	2017B	02-17base/17felixhernandez.png	Pitcher																					
+Michael Fulmer '17	2017B	02-17base/17michaelfulmer.png	Pitcher																					
+Stephen Strasburg '17	2017B	02-17base/17stephenstrasburg.png	Pitcher																					
+Julio Teheran '17	2017B	02-17base/17julioteheran.png	Pitcher																					
+Aaron Sanchez '17	2017B	02-17base/17aaronsanchez.png	Pitcher																					
+Josh Tomlin '17	2017B	02-17base/17joshtomlin.png	Pitcher																					
+Lance McCullers '17	2017B	02-17base/17lancemccullers.png	Pitcher																					
+Garrett Richards '17	2017B	02-17base/17garrettrichards.png	Pitcher																					
+Jose Quintana '17	2017B	02-17base/17josequintana.png	Pitcher																					
+Jeff Samardzija '17	2017B	02-17base/17jeffsamardzija.png	Pitcher																					
+Andrew Miller '17	2017B	02-17base/17andrewmiller.png	Pitcher																					
+Danny Duffy '17	2017B	02-17base/17dannyduffy.png	Pitcher																					
+Kyle Hendricks '17	2017B	02-17base/17kylehendricks.png	Pitcher																					
+Tyler Chatwood '17	2017B	02-17base/17tylerchatwood.png	Pitcher																					
+Yu Darvish '17	2017B	02-17base/17yudarvish.png	Pitcher																					
+Wei-Yin Chen '17	2017B	02-17base/17weiyinchen.png	Pitcher																					
+Bartolo Colon '17	2017B	02-17base/17bartolocolon.png	Pitcher																					
+Hisashi Iwakuma '17	2017B	02-17base/17hisashiiwakuma.png	Pitcher																					
+J.A. Happ '17	2017B	02-17base/17jahapp.png	Pitcher																					
+Collin McHugh '17	2017B	02-17base/17collinmchugh.png	Pitcher																					
+Zach Britton '17	2017B	02-17base/17zachbritton.png	Pitcher																					
+Chris Tillman '17	2017B	02-17base/17christillman.png	Pitcher																					
+James Paxton '17	2017B	02-17base/17jamespaxton.png	Pitcher																					
+Sonny Gray '17	2017B	02-17base/17sonnygray.png	Pitcher																					
+CC Sabathia '17	2017B	02-17base/17ccsabathia.png	Pitcher																					
+Cole Hamels '17	2017B	02-17base/17colehamels.png	Pitcher																					
+Kenley Jansen '17	2017B	02-17base/17kenleyjansen.png	Pitcher																					
+Mark Melancon '17	2017B	02-17base/17markmelancon.png	Pitcher																					
+Ian Kennedy '17	2017B	02-17base/17iankennedy.png	Pitcher																					
+Marcus Stroman '17	2017B	02-17base/17marcusstroman.png	Pitcher																					
+Anthony DeSclafani '17	2017B	02-17base/17anthonydesclafani.png	Pitcher																					
+Dan Straily '17	2017B	02-17base/17danstraily.png	Pitcher																					
+Ervin Santana '17	2017B	02-17base/17ervinsantana.png	Pitcher																					
+Gerrit Cole '17	2017B	02-17base/17gerritcole.png	Pitcher																					
+Jordan Zimmermann '17	2017B	02-17base/17jordanzimmermann.png	Pitcher																					
+Yordano Ventura '17	2017B	02-17base/17yordanoventura.png	Pitcher																					
+Zach Davies '17	2017B	02-17base/17zachdavies.png	Pitcher																					
+Tanner Roark '17	2017B	02-17base/17tannerroark.png	Pitcher																					
+Darren O'Day '17	2017B	02-17base/17darrenoday.png	Pitcher																					
+Jeremy Hellickson '17	2017B	02-17base/17jeremyhellickson.png	Pitcher																					
+Steven Matz '17	2017B	02-17base/17stevenmatz.png	Pitcher																					
+Steven Wright '17	2017B	02-17base/17stevenwright.png	Pitcher																					
+Francisco Rodriguez '17	2017B	02-17base/17franciscorodriguez.png	Pitcher																					
+Matt Wisler '17	2017B	02-17base/17mattwisler.png	Pitcher																					
+Michael Pineda '17	2017B	02-17base/17michaelpineda.png	Pitcher																					
+Roberto Osuna '17	2017B	02-17base/17robertoosuna.png	Pitcher																					
+Seung Oh '17	2017B	02-17base/17seungoh.png	Pitcher																					
+Luis Severino '17	2017B	02-17base/17luisseverino.png	Pitcher																					
+Matt Bush '17	2017B	02-17base/17mattbush.png	Pitcher																					
+Pedro Strop '17	2017B	02-17base/17pedrostrop.png	Pitcher																					
+Raisel Iglesias '17	2017B	02-17base/17raiseliglesias.png	Pitcher																					
+Robbie Ray '17	2017B	02-17base/17robbieray.png	Pitcher																					
+Wade Davis '17	2017B	02-17base/17wadedavis.png	Pitcher																					
+Drew Smyly '17	2017B	02-17base/17drewsmyly.png	Pitcher																					
+Koji Uehara '17	2017B	02-17base/17kojiuehara.png	Pitcher																					
+Matt Shoemaker '17	2017B	02-17base/17mattshoemaker.png	Pitcher																					
+Nate Jones '17	2017B	02-17base/17natejones.png	Pitcher																					
+Trevor Bauer '17	2017B	02-17base/17trevorbauer.png	Pitcher																					
+Tony Watson '17	2017B	02-17base/17tonywatson.png	Pitcher																					
+Aroldis Chapman '17	2017B	02-17base/17aroldischapman.png	Pitcher																					
+Hunter Strickland '17	2017B	02-17base/17hunterstrickland.png	Pitcher																					
+Ryan Dull '17	2017B	02-17base/17ryandull.png	Pitcher																					
+Will Harris '17	2017B	02-17base/17willharris.png	Pitcher																					
+Addison Reed '17	2017B	02-17base/17addisonreed.png	Pitcher																					
+Jeurys Familia '17	2017B	02-17base/17jeurysfamilia.png	Pitcher																					
+Julio Urias '17	2017B	02-17base/17juliourias.png	Pitcher																					
+Kelvin Herrera '17	2017B	02-17base/17kelvinherrera.png	Pitcher																					
+Shawn Kelley '17	2017B	02-17base/17shawnkelley.png	Pitcher																					
+Tyler Thornburg '17	2017B	02-17base/17tylerthornburg.png	Pitcher																					
+Hector Rondon '17	2017B	02-17base/17hectorrondon.png	Pitcher																					
+Kendall Graveman '17	2017B	02-17base/17kendallgraveman.png	Pitcher																					
+Brandon Finnegan '17	2017B	02-17base/17brandonfinnegan.png	Pitcher																					
+Jon Gray '17	2017B	02-17base/17jongray.png	Pitcher																					
+Michael Wacha '17	2017B	02-17base/17michaelwacha.png	Pitcher																					
+Adam Wainwright '17	2017B	02-17base/17adamwainwright.png	Pitcher																					
+Brad Brach '17	2017B	02-17base/17bradbrach.png	Pitcher																					
+Ivan Nova '17	2017B	02-17base/17ivannova.png	Pitcher																					
+James Shields '17	2017B	02-17base/17jamesshields.png	Pitcher																					
+Mychal Givens '17	2017B	02-17base/17mychalgivens.png	Pitcher																					
+A.J. Ramos '17	2017B	02-17base/17ajramos.png	Pitcher																					
+George Kontos '17	2017B	02-17base/17georgekontos.png	Pitcher																					
+Luke Gregerson '17	2017B	02-17base/17lukegregerson.png	Pitcher																					
+Pat Neshek '17	2017B	02-17base/17patneshek.png	Pitcher																					
+Tyson Ross '17	2017B	02-17base/17tysonross.png	Pitcher																					
+Yovani Gallardo '17	2017B	02-17base/17yovanigallardo.png	Pitcher																					
+Adam Ottavino '17	2017B	02-17base/17adamottavino.png	Pitcher																					
+Alex Wilson '17	2017B	02-17base/17alexwilson.png	Pitcher																					
+Cody Allen '17	2017B	02-17base/17codyallen.png	Pitcher																					
+Gio Gonzalez '17	2017B	02-17base/17giogonzalez.png	Pitcher																					
+Kyle Gibson '17	2017B	02-17base/17kylegibson.png	Pitcher																					
+Carlos Rodon '17	2017B	02-17base/17carlosrodon.png	Pitcher																					
+Chad Bettis '17	2017B	02-17base/17chadbettis.png	Pitcher																					
+Craig Kimbrel '17	2017B	02-17base/17craigkimbrel.png	Pitcher																					
+Joaquin Benoit '17	2017B	02-17base/17joaquinbenoit.png	Pitcher																					
+Hector Neris '17	2017B	02-17base/17hectorneris.png	Pitcher																					
+Kevin Siegrist '17	2017B	02-17base/17kevinsiegrist.png	Pitcher																					
+Martin Perez '17	2017B	02-17base/17martinperez.png	Pitcher																					
+Sean Doolittle '17	2017B	02-17base/17seandoolittle.png	Pitcher																					
+Tom Koehler '17	2017B	02-17base/17tomkoehler.png	Pitcher																					
+Dellin Betances '17	2017B	02-17base/17dellinbetances.png	Pitcher																					
+Jarred Cosart '17	2017B	02-17base/17jarredcosart.png	Pitcher																					
+Sam Dyson '17	2017B	02-17base/17samdyson.png	Pitcher																					
+Vidal Nuno '17	2017B	02-17base/17vidalnuno.png	Pitcher																					
+Xavier Cedeno '17	2017B	02-17base/17xaviercedeno.png	Pitcher																					
+Brad Ziegler '17	2017B	02-17base/17bradziegler.png	Pitcher																					
+Dan Otero '17	2017B	02-17base/17danotero.png	Pitcher																					
+Edwin Diaz '17	2017B	02-17base/17edwindiaz.png	Pitcher																					
+Alex Colome '17	2017B	02-17base/17alexcolome.png	Pitcher																					
+Robbie Ross Jr. '17	2017B	02-17base/17robbierossjr.png	Pitcher																					
+Sergio Romo '17	2017B	02-17base/17sergioromo.png	Pitcher																					
+David Robertson '17	2017B	02-17base/17davidrobertson.png	Pitcher																					
+Edinson Volquez '17	2017B	02-17base/17edinsonvolquez.png	Pitcher																					
+David Phelps '17	2017B	02-17base/17davidphelps.png	Pitcher																					
+Felipe Rivero '17	2017B	02-17base/17feliperivero.png	Pitcher																					
+Jason Grilli '17	2017B	02-17base/17jasongrilli.png	Pitcher																					
+Matt Bowman '17	2017B	02-17base/17mattbowman.png	Pitcher																					
+Pedro Baez '17	2017B	02-17base/17pedrobaez.png	Pitcher																					
+Tyler Clippard '17	2017B	02-17base/17tylerclippard.png	Pitcher																					
+Ryan Madson '17	2017B	02-17base/17ryanmadson.png	Pitcher																					
+Shelby Miller '17	2017B	02-17base/17shelbymiller.png	Pitcher																					
+Andrew Chafin '17	2017B	02-17base/17andrewchafin.png	Pitcher																					
+Dan Jennings '17	2017B	02-17base/17danjennings.png	Pitcher																					
+Jhoulys Chacin '17	2017B	02-17base/17jhoulyschacin.png	Pitcher																					
+Alex Claudio '17	2017B	02-17base/17alexclaudio.png	Pitcher																					
+Jhan Marinez '17	2017B	02-17base/17jhanmarinez.png	Pitcher																					
+Justin Wilson '17	2017B	02-17base/17justinwilson.png	Pitcher																					
+Tyler Skaggs '17	2017B	02-17base/17tylerskaggs.png	Pitcher																					
+Blake Treinen '17	2017B	02-17base/17blaketreinen.png	Pitcher																					
+Carlos Torres '17	2017B	02-17base/17carlostorres.png	Pitcher																					
+Chris Young '17	2017B	02-17base/17chrisyoung.png	Pitcher																					
+Ken Giles '17	2017B	02-17base/17kengiles.png	Pitcher																					
+Nick Vincent '17	2017B	02-17base/17nickvincent.png	Pitcher																					
+Brett Cecil '17	2017B	02-17base/17brettcecil.png	Pitcher																					
+Cam Bedrosian '17	2017B	02-17base/17cambedrosian.png	Pitcher																					
+Joakim Soria '17	2017B	02-17base/17joakimsoria.png	Pitcher																					
+Kyle Barraclough '17	2017B	02-17base/17kylebarraclough.png	Pitcher																					
+Liam Hendriks '17	2017B	02-17base/17liamhendriks.png	Pitcher																					
+Brad Hand '17	2017B	02-17base/17bradhand.png	Pitcher																					
+Jake Barrett '17	2017B	02-17base/17jakebarrett.png	Pitcher																					
+Ryan Pressly '17	2017B	02-17base/17ryanpressly.png	Pitcher																					
+Tommy Layne '17	2017B	02-17base/17tommylayne.png	Pitcher																					
+Trevor May '17	2017B	02-17base/17trevormay.png	Pitcher																					
+Brandon Maurer '17	2017B	02-17base/17brandonmaurer.png	Pitcher																					
+Glen Perkins '17	2017B	02-17base/17glenperkins.png	Pitcher																					
+Hansel Robles '17	2017B	02-17base/17hanselrobles.png	Pitcher																					
+Jake McGee '17	2017B	02-17base/17jakemcgee.png	Pitcher																					
+Jeanmar Gomez '17	2017B	02-17base/17jeanmargomez.png	Pitcher																					
+Jim Johnson '17	2017B	02-17base/17jimjohnson.png	Pitcher																					
+Brandon Kintzler '17	2017B	02-17base/17brandonkintzler.png	Pitcher																					
+Huston Street '17	2017B	02-17base/17hustonstreet.png	Pitcher																					
+Mike Morin '17	2017B	02-17base/17mikemorin.png	Pitcher																					
+Tony Sipp '17	2017B	02-17base/17tonysipp.png	Pitcher																					
+Steve Cishek '17	2017B	02-17base/17stevecishek.png	Pitcher																					
+Zach Putnam '17	2017B	02-17base/17zachputnam.png	Pitcher																					
+Jonathan Broxton '17	2017B	02-17base/17jonathanbroxton.png	Pitcher																					
+Juan Nicasio '17	2017B	02-17base/17juannicasio.png	Pitcher																					
+Jumbo Diaz '17	2017B	02-17base/17jumbodiaz.png	Pitcher																					
+Neftali Feliz '17	2017B	02-17base/17neftalifeliz.png	Pitcher																					
+Ubaldo Jimenez '17	2017B	02-17base/17ubaldojimenez.png	Pitcher																					
+David Hernandez '17	2017B	02-17base/17davidhernandez.png	Pitcher																					
+Fernando Rodney '17	2017B	02-17base/17fernandorodney.png	Pitcher																					
+Mike Dunn '17	2017B	02-17base/17mikedunn.png	Pitcher																					
+Kevin Quackenbush '17	2017B	02-17base/17kevinquackenbush.png	Pitcher																					
+Danny Farquhar '17	2017B	02-17base/17dannyfarquhar.png	Pitcher																					
+Ian Krol '17	2017B	02-17base/17iankrol.png	Pitcher																					
+John Axford '17	2017B	02-17base/17johnaxford.png	Pitcher																					
+Tanner Scheppers '17	2017B	02-17base/17tannerscheppers.png	Pitcher																					
+Tony Cingrani '17	2017B	02-17base/17tonycingrani.png	Pitcher																					
+Brad Boxberger '17	2017B	02-17base/17bradboxberger.png	Pitcher																					
+Jordan Lyles '17	2017B	02-17base/17jordanlyles.png	Pitcher																					
+Michael Tonkin '17	2017B	02-17base/17michaeltonkin.png	Pitcher																					
+Aaron Judge ASG '17	ASG2017	03-17miami/17asgaaronjudge.png	Batter																					
+Albert Pujols ASG '17	ASG2017	03-17miami/17asgalbertpujols.png	Batter																					
+Alex Avila ASG '17	ASG2017	03-17miami/17alexavila.png	Batter																					
+Alex Bregman ASG '17	ASG2017	03-17miami/17alexbregman.png	Batter																					
+Andrew Benintendi ASG '17	ASG2017	03-17miami/17andrewbenintendi.png	Batter																					
+Avisail Garcia ASG '17	ASG2017	03-17miami/17asgavisailgarcia.png	Batter																					
+Ben Gamel ASG '17	ASG2017	03-17miami/17bengamel.png	Batter																					
+Bryce Harper ASG '17	ASG2017	03-17miami/17asgbryceharper.png	Batter																					
+Buster Posey ASG '17	ASG2017	03-17miami/17asgbusterposey.png	Batter																					
+Carlos Correa ASG '17	ASG2017	03-17miami/17asgcarloscorrea.png	Batter																					
+Charlie Blackmon ASG '17	ASG2017	03-17miami/17asgcharlieblackmon.png	Batter																					
+Cody Bellinger ASG '17	ASG2017	03-17miami/17asgcodybellinger.png	Batter																					
+Corey Seager ASG '17	ASG2017	03-17miami/17asgcoreyseager.png	Batter																					
+Corey Dickerson ASG '17	ASG2017	03-17miami/17asgcoreydickerson.png	Batter																					
+Daniel Murphy ASG '17	ASG2017	03-17miami/17asgdanielmurphy.png	Batter																					
+DJ LeMahieu ASG '17	ASG2017	03-17miami/17asgdjlemahieu.png	Batter																					
+Ender Inciarte ASG '17	ASG2017	03-17miami/17asgenderinciarte.png	Batter																					
+Eric Thames ASG '17	ASG2017	03-17miami/17ericthames.png	Batter																					
+Francisco Lindor ASG '17	ASG2017	03-17miami/17asgfranciscolindor.png	Batter																					
+Gary Sanchez ASG '17	ASG2017	03-17miami/17asggarysanchez.png	Batter																					
+George Springer ASG '17	ASG2017	03-17miami/17asggeorgespringer.png	Batter																					
+Giancarlo Stanton ASG '17	ASG2017	03-17miami/17asggiancarlostanton.png	Batter																					
+Jeff Conine ASG '17	ASG2017	03-17miami/17asgjeffconine.png	Batter																					
+Joey Votto ASG '17	ASG2017	03-17miami/17asgjoeyvotto.png	Batter																					
+Jose Altuve ASG '17	ASG2017	03-17miami/17asgjosealtuve.png	Batter																					
+Jose Ramirez ASG '17	ASG2017	03-17miami/17asgjoseramirez.png	Batter																					
+Josh Harrison ASG '17	ASG2017	03-17miami/17asgjoshharrison.png	Batter																					
+Justin Smoak ASG '17	ASG2017	03-17miami/17asgjustinsmoak.png	Batter																					
+Luis Castillo ASG '17	ASG2017	03-17miami/17asgluiscastillo.png	Batter																					
+Marcell Ozuna ASG '17	ASG2017	03-17miami/17asgmarcellozuna.png	Batter																					
+Matt Holliday ASG '17	ASG2017	03-17miami/17mattholliday.png	Batter																					
+Michael Conforto ASG '17	ASG2017	03-17miami/17asgmichaelconforto.png	Batter																					
+Michael Brantley ASG '17	ASG2017	03-17miami/17asgmichaelbrantley.png	Batter																					
+Miguel Sano ASG '17	ASG2017	03-17miami/17asgmiguelsano.png	Batter																					
+Mike Trout ASG '17	ASG2017	03-17miami/17asgmiketrout.png	Batter																					
+Mookie Betts ASG '17	ASG2017	03-17miami/17asgmookiebetts.png	Batter																					
+Nelson Cruz ASG '17	ASG2017	03-17miami/17asgnelsoncruz.png	Batter																					
+Nolan Arenado ASG '17	ASG2017	03-17miami/17asgnolanarenado.png	Batter																					
+Nomar Mazara ASG '17	ASG2017	03-17miami/17nomarmazara.png	Batter																					
+Paul Goldschmidt ASG '17	ASG2017	03-17miami/17asgpaulgoldschmidt.png	Batter																					
+Ryan Zimmerman ASG '17	ASG2017	03-17miami/17asgryanzimmerman.png	Batter																					
+Salvador Perez ASG '17	ASG2017	03-17miami/17asgsalvadorperez.png	Batter																					
+Scott Schebler ASG '17	ASG2017	03-17miami/17scottschebler.png	Batter																					
+Starlin Castro ASG '17	ASG2017	03-17miami/17asgstarlincastro.png	Batter																					
+Yadier Molina ASG '17	ASG2017	03-17miami/17asgyadiermolina.png	Batter																					
+Yonder Alonso ASG '17	ASG2017	03-17miami/17asgyonderalonso.png	Batter																					
+Zack Cozart ASG '17	ASG2017	03-17miami/17asgzackcozart.png	Batter																					
+Alex Wood ASG '17	ASG2017	03-17miami/17alexwood.png	Pitcher																					
+Andrew Miller ASG '17	ASG2017	03-17miami/17asgandrewmiller.png	Pitcher																					
+Antonio Senzatela ASG '17	ASG2017	03-17miami/17antoniosenzatela.png	Pitcher																					
+Brad Hand ASG '17	ASG2017	03-17miami/17asgbradhand.png	Pitcher																					
+Carlos Martinez ASG '17	ASG2017	03-17miami/17asgcarlosmartinez.png	Pitcher																					
+Chase Anderson ASG '17	ASG2017	03-17miami/17chaseanderson.png	Pitcher																					
+Chris Sale ASG '17	ASG2017	03-17miami/17asgchrissale.png	Pitcher																					
+Chris Devenski ASG '17	ASG2017	03-17miami/17chrisdevenski.png	Pitcher																					
+Clayton Kershaw ASG '17	ASG2017	03-17miami/17asgclaytonkershaw.png	Pitcher																					
+Corey Kluber ASG '17	ASG2017	03-17miami/17asgcoreykluber.png	Pitcher																					
+Corey Knebel ASG '17	ASG2017	03-17miami/17asgcoreyknebel.png	Pitcher																					
+Craig Kimbrel ASG '17	ASG2017	03-17miami/17asgcraigkimbrel.png	Pitcher																					
+Dallas Keuchel ASG '17	ASG2017	03-17miami/17asgdallaskeuchel.png	Pitcher																					
+Dellin Betances ASG '17	ASG2017	03-17miami/17asgdellinbetances.png	Pitcher																					
+Dontrelle Willis ASG '17	ASG2017	03-17miami/17asgdontrellewillis.png	Pitcher																					
+Ervin Santana ASG '17	ASG2017	03-17miami/17asgervinsantana.png	Pitcher																					
+Greg Holland ASG '17	ASG2017	03-17miami/17asggregholland.png	Pitcher																					
+Jason Vargas ASG '17	ASG2017	03-17miami/17asgjasonvargas.png	Pitcher																					
+Jerry Blevins ASG '17	ASG2017	03-17miami/17jerryblevins.png	Pitcher																					
+Josh Beckett ASG '17	ASG2017	03-17miami/17asgjoshbeckett.png	Pitcher																					
+Kenley Jansen ASG '17	ASG2017	03-17miami/17asgkenleyjansen.png	Pitcher																					
+Lance McCullers ASG '17	ASG2017	03-17miami/17asglancemccullers.png	Pitcher																					
+Lance Lynn ASG '17	ASG2017	03-17miami/17lancelynn.png	Pitcher																					
+Luis Severino ASG '17	ASG2017	03-17miami/17asgluisseverino.png	Pitcher																					
+Max Scherzer ASG '17	ASG2017	03-17miami/17asgmaxscherzer.png	Pitcher																					
+Michael Fulmer ASG '17	ASG2017	03-17miami/17asgmichaelfulmer.png	Pitcher																					
+Mike Leake ASG '17	ASG2017	03-17miami/17mikeleake.png	Pitcher																					
+Pat Neshek ASG '17	ASG2017	03-17miami/17asgpatneshek.png	Pitcher																					
+Robbie Ray ASG '17	ASG2017	03-17miami/17asgrobbieray.png	Pitcher																					
+Stephen Strasburg ASG '17	ASG2017	03-17miami/17asgstephenstrasburg.png	Pitcher																					
+Wade Davis ASG '17	ASG2017	03-17miami/17asgwadedavis.png	Pitcher																					
+Yu Darvish ASG '17	ASG2017	03-17miami/17asgyudarvish.png	Pitcher																					
+Zack Greinke ASG '17	ASG2017	03-17miami/17asgzackgreinke.png	Pitcher																					
+Florida Park ASG '17	ASG2017	03-17miami/17asgflorida.png	Stadium																					
+Miami Park ASG '17	ASG2017	03-17miami/17asgmiami.png	Stadium																					
