@@ -3300,7 +3300,7 @@ Joe Musgrove '21	2020X10	51-21x10/21joemusgrove.png	Pitcher
 Jose Quintana '21	2020X10	51-21x10/21josequintana.png	Pitcher																								
 Kwang hyun Kim '21	2020X10	51-21x10/21kwanghyunkim.png	Pitcher																								
 Jake Odorizzi '21	2020X10	51-21x10/21jakeodorizzi.png	Pitcher																								
-Shaun Anderson '21	2020X10	51-21x10/21shaunanderson.png	Pitcher																								
+Shaun Anderson Traded '21	2020X10	51-21x10/21shaunandersontraded.png	Pitcher																								
 Corey Kluber '21	2020X10	51-21x10/21coreykluber.png	Pitcher																								
 Rich Hill '21	2020X10	51-21x10/21richhill.png	Pitcher																								
 Derek Holland '21	2020X10	51-21x10/21derekholland.png	Pitcher																								
@@ -3318,7 +3318,7 @@ Keegan Akin '21	2020X10	51-21x10/21keeganakin.png	Pitcher
 Liam Hendriks '21	2020X10	51-21x10/21liamhendriks.png	Pitcher																								
 Cristian Javier '21	2020X10	51-21x10/21cristianjavier.png	Pitcher																								
 Dillon Tate '21	2020X10	51-21x10/21dillontate.png	Pitcher																								
-Joakim Soria '21	2020X10	51-21x10/21joakimsoria.png	Pitcher																								
+Joakim Soria traded '21	2020X10	51-21x10/21joakimsoriatraded.png	Pitcher																								
 Austin Gomber '21	2020X10	51-21x10/21austingomber.png	Pitcher																								
 Anthony Bass '21	2020X10	51-21x10/21anthonybass.png	Pitcher																								
 Chris Archer '21	2020X10	51-21x10/21chrisarcher.png	Pitcher																								
@@ -3374,7 +3374,7 @@ David Phelps '21	2020X10	51-21x10/21davidphelps.png	Pitcher
 Sean Doolittle '21	2020X10	51-21x10/21seandoolittle.png	Pitcher																								
 Sam Coonrod '21	2020X10	51-21x10/21samcoonrod.png	Pitcher																								
 Chris Devenski '21	2020X10	51-21x10/21chrisdevenski.png	Pitcher																								
-Tyler Anderson '21	2020X10	51-21x10/21tyleranderson.png	Pitcher																								
+Tyler Anderson Traded '21	2020X10	51-21x10/21tylerandersontraded.png	Pitcher																								
 Matt Harvey '21	2020X10	51-21x10/21mattharvey.png	Pitcher																								
 Jordan Yamamoto '21	2020X10	51-21x10/21jordanyamamoto.png	Pitcher																								
 Ken Giles '21	2020X10	51-21x10/21kengiles.png	Pitcher																								
@@ -3462,6 +3462,278 @@ Torey Lovullo '21	2021Strat	52-21strategycards/21toreylovullo.png	Coach
 Under Pressure '21	2021Strat	52-21strategycards/21underpressure.png	Strategy																								
 Upside Down '21	2021Strat	52-21strategycards/21upsidedown.png	Strategy																								
 Wheels In Motion '21	2021Strat	52-21strategycards/21wheelsinmotion.png	Strategy																								
-Under Pressure '21	2021Strat	52-21strategycards/21underpressure.png	Strategy																								
-Upside Down '21	2021Strat	52-21strategycards/21upsidedown.png	Strategy																								
-Wheels In Motion '21	2021Strat	52-21strategycards/21wheelsinmotion.png	Strategy																								
+Trea Turner '21	2021X11	56-21x11/21treaturner.png	Batter																								
+Nelson Cruz '21	2021X11	56-21x11/21nelsoncruz.png	Batter																								
+Jace Peterson '21	2021X11	56-21x11/21jacepeterson.png	Batter																								
+Kris Bryant '21	2021X11	56-21x11/21krisbryant.png	Batter																								
+Cesar Puello '21	2021X11	56-21x11/21cesarpuello.png	Batter																								
+Anthony Rizzo '21	2021X11	56-21x11/21anthonyrizzo.png	Batter																								
+Tyler Stephenson '21	2021X11	56-21x11/21tylerstephenson.png	Batter																								
+Jonathan India '21	2021X11	56-21x11/21jonathanindia.png	Batter																								
+Starling Marte '21	2021X11	56-21x11/21starlingmarte.png	Batter																								
+Joey Gallo '21	2021X11	56-21x11/21joeygallo.png	Batter																								
+Kyle Schwarber '21	2021X11	56-21x11/21kyleschwarber.png	Batter																								
+Akil Baddoo '21	2021X11	56-21x11/21akilbaddoo.png	Batter																								
+Derek Dietrich '21	2021X11	56-21x11/21derekdietrich.png	Batter																								
+Ryan Jeffers '21	2021X11	56-21x11/21ryanjeffers.png	Batter																								
+Jake Lamb traded '21	2021X11	56-21x11/21jakelambtraded.png	Batter																								
+Rene Rivera '21	2021X11	56-21x11/21renerivera.png	Batter																								
+Stephen Vogt '21	2021X11	56-21x11/21stephenvogt.png	Batter																								
+Jordan Luplow '21	2021X11	56-21x11/21jordanluplow.png	Batter																								
+Joc Pederson '21	2021X11	56-21x11/21jocpederson.png	Batter																								
+Nico Hoerner '21	2021X11	56-21x11/21nicohoerner.png	Batter																								
+Tyler Heineman '21	2021X11	56-21x11/21tylerheineman.png	Batter																								
+Nick Maton '21	2021X11	56-21x11/21nickmaton.png	Batter																								
+Yermin Mercedes '21	2021X11	56-21x11/21yerminmercedes.png	Batter																								
+Nick Madrigal '21	2021X11	56-21x11/21nickmadrigal.png	Batter																								
+Chas Mccormick '21	2021X11	56-21x11/21chasmccormick.png	Batter																								
+Javier Baez '21	2021X11	56-21x11/21javierbaez.png	Batter																								
+Mike Tauchman '21	2021X11	56-21x11/21miketauchman.png	Batter																								
+Adolis Garcia '21	2021X11	56-21x11/21adolisgarcia.png	Batter																								
+Cesar Hernandez '21	2021X11	56-21x11/21cesarhernandez.png	Batter																								
+Adam Frazier '21	2021X11	56-21x11/21adamfrazier.png	Batter																								
+Charlie Culberson '21	2021X11	56-21x11/21charlieculberson.png	Batter																								
+Andrew Vaughn '21	2021X11	56-21x11/21andrewvaughn.png	Batter																								
+Joe Panik '21	2021X11	56-21x11/21joepanik.png	Batter																								
+Yan Gomes '21	2021X11	56-21x11/21yangomes.png	Batter																								
+Yolmer Sanchez '21	2021X11	56-21x11/21yolmersanchez.png	Batter																								
+Willy Adames '21	2021X11	56-21x11/21willyadames.png	Batter																								
+Seth Brown '21	2021X11	56-21x11/21sethbrown.png	Batter																								
+Renato Nunez Traded '21	2021X11	56-21x11/21renatonuneztraded.png	Batter																								
+Adam Eaton '21	2021X11	56-21x11/21adameaton.png	Batter																								
+Taylor Trammell '21	2021X11	56-21x11/21taylortrammell.png	Batter																								
+Chadwick Tromp '21	2021X11	56-21x11/21chadwicktromp.png	Batter																								
+Joey Rickard '21	2021X11	56-21x11/21joeyrickard.png	Batter																								
+Bobby Dalbec '21	2021X11	56-21x11/21bobbydalbec.png	Batter																								
+Asdrubal Cabrera '21	2021X11	56-21x11/21asdrubalcabrera.png	Batter																								
+Jarrod Dyson traded '21	2021X11	56-21x11/21jarroddysontraded.png	Batter																								
+Kevan Smith '21	2021X11	56-21x11/21kevansmith.png	Batter																								
+Jorge Soler '21	2021X11	56-21x11/21jorgesoler.png	Batter																								
+Tim Locastro '21	2021X11	56-21x11/21timlocastro.png	Batter																								
+Eddie Rosario '21	2021X11	56-21x11/21eddierosario.png	Batter																								
+Jose Iglesias traded '21	2021X11	56-21x11/21joseiglesiastraded.png	Batter																								
+Josh Harrison '21	2021X11	56-21x11/21joshharrison.png	Batter																								
+Taylor Walls '21	2021X11	56-21x11/21taylorwalls.png	Batter																								
+Eduardo Escobar '21	2021X11	56-21x11/21eduardoescobar.png	Batter																								
+Danny Mendick '21	2021X11	56-21x11/21dannymendick.png	Batter																								
+Sean Rodriguez '21	2021X11	56-21x11/21seanrodriguez.png	Batter																								
+Rowdy Tellez '21	2021X11	56-21x11/21rowdytellez.png	Batter																								
+Trevor Larnach '21	2021X11	56-21x11/21trevorlarnach.png	Batter																								
+Robinson Chirinos '21	2021X11	56-21x11/21robinsonchirinos.png	Batter																								
+Rougned Odor '21	2021X11	56-21x11/21rougnedodor.png	Batter																								
+Ben Gamel '21	2021X11	56-21x11/21bengamel.png	Batter																								
+Gerardo Parra '21	2021X11	56-21x11/21gerardoparra.png	Batter																								
+Delino Deshields '21	2021X11	56-21x11/21delinodeshields.png	Batter																								
+Cameron Maybin '21	2021X11	56-21x11/21cameronmaybin.png	Batter																								
+Freddy Galvis '21	2021X11	56-21x11/21freddygalvis.png	Batter																								
+Brian Goodwin '21	2021X11	56-21x11/21briangoodwin.png	Batter																								
+Albert Pujols '21	2021X11	56-21x11/21albertpujols.png	Batter																								
+Josh Reddick '21	2021X11	56-21x11/21joshreddick.png	Batter																								
+Ha-Seong Kim '21	2021X11	56-21x11/21haseongkim.png	Batter																								
+Rio Ruiz '21	2021X11	56-21x11/21rioruiz.png	Batter																								
+Jonathan Lucroy '21	2021X11	56-21x11/21jonathanlucroy.png	Batter																								
+Jake Bauers '21	2021X11	56-21x11/21jakebauers.png	Batter																								
+Corey Dickerson '21	2021X11	56-21x11/21coreydickerson.png	Batter																								
+Alex Kirilloff '21	2021X11	56-21x11/21alexkirilloff.png	Batter																								
+Orlando Arcia '21	2021X11	56-21x11/21orlandoarcia.png	Batter																								
+Wilson Ramos '21	2021X11	56-21x11/21wilsonramos.png	Batter																								
+Greg Garcia '21	2021X11	56-21x11/21greggarcia.png	Batter																								
+William Contreras '21	2021X11	56-21x11/21williamcontreras.png	Batter																								
+Shogo Akiyama '21	2021X11	56-21x11/21shogoakiyama.png	Batter																								
+Mason Williams '21	2021X11	56-21x11/21masonwilliams.png	Batter																								
+Tony Wolters traded '21	2021X11	56-21x11/21tonywolterstraded.png	Batter																								
+Ka'ai Tom '21	2021X11	56-21x11/21kaaitom.png	Batter																								
+Santiago Espinal '21	2021X11	56-21x11/21santiagoespinal.png	Batter																								
+Justin Smoak '21	2021X11	56-21x11/21justinsmoak.png	Batter																								
+Abraham Toro '21	2021X11	56-21x11/21abrahamtoro.png	Batter																								
+Zack Collins '21	2021X11	56-21x11/21zackcollins.png	Batter																								
+Ryon Healy '21	2021X11	56-21x11/21ryonhealy.png	Batter																								
+Andres Gimenez '21	2021X11	56-21x11/21andresgimenez.png	Batter																								
+Jorge Bonifacio '21	2021X11	56-21x11/21jorgebonifacio.png	Batter																								
+Cheslor Cuthbert '21	2021X11	56-21x11/21cheslorcuthbert.png	Batter																								
+Dawel Lugo '21	2021X11	56-21x11/21dawellugo.png	Batter																								
+Marwin Gonzalez '21	2021X11	56-21x11/21marwingonzalez.png	Batter																								
+David Dahl traded '21	2021X11	56-21x11/21daviddahltraded.png	Batter																								
+Ender Inciarte '21	2021X11	56-21x11/21enderinciarte.png	Batter																								
+Myles Straw Traded '21	2021X11	56-21x11/21mylesstrawtraded.png	Batter																								
+Billy Mckinney '21	2021X11	56-21x11/21billymckinney.png	Batter																								
+Yoshi Tsutsugo '21	2021X11	56-21x11/21yoshitsutsugo.png	Batter																								
+Kevin Cron '21	2021X11	56-21x11/21kevincron.png	Batter																								
+Maikel Franco traded '21	2021X11	56-21x11/21maikelfrancotraded.png	Batter																								
+Michael Chavis '21	2021X11	56-21x11/21michaelchavis.png	Batter																								
+Chance Sisco '21	2021X11	56-21x11/21chancesisco.png	Batter																								
+Mallex Smith '21	2021X11	56-21x11/21mallexsmith.png	Batter																								
+Ildemaro Vargas '21	2021X11	56-21x11/21ildemarovargas.png	Batter																								
+Kelvin Gutierrez '21	2021X11	56-21x11/21kelvingutierrez.png	Batter																								
+Travis Shaw traded '21	2021X11	56-21x11/21travisshawtraded.png	Batter																								
+Will Craig '21	2021X11	56-21x11/21willcraig.png	Batter																								
+Eduardo Nunez '21	2021X11	56-21x11/21eduardonunez.png	Batter																								
+Hernan Perez '21	2021X11	56-21x11/21hernanperez.png	Batter																								
+Stevie Wilkerson '21	2021X11	56-21x11/21steviewilkerson.png	Batter																								
+Drew Butera '21	2021X11	56-21x11/21drewbutera.png	Batter																								
+Chad Wallach '21	2021X11	56-21x11/21chadwallach.png	Batter																								
+Dustin Fowler traded '21	2021X11	56-21x11/21dustinfowlertraded.png	Batter																								
+Braden Bishop '21	2021X11	56-21x11/21bradenbishop.png	Batter																								
+Dilson Herrera '21	2021X11	56-21x11/21dilsonherrera.png	Batter																								
+Gregory Polanco '21	2021X11	56-21x11/21gregorypolanco.png	Batter																								
+Mike Ford '21	2021X11	56-21x11/21mikeford.png	Batter																								
+Kyle Gibson '21	2021X11	56-21x11/21kylegibson.png	Pitcher																								
+Danny Duffy '21	2021X11	56-21x11/21dannyduffy.png	Pitcher																								
+Max Scherzer traded '21	2021X11	56-21x11/21maxscherzertraded.png	Pitcher																								
+Josh Fleming '21	2021X11	56-21x11/21joshfleming.png	Pitcher																								
+Jose Berrios '21	2021X11	56-21x11/21joseberrios.png	Pitcher																								
+Marcus Stroman '21	2021X11	56-21x11/21marcusstroman.png	Pitcher																								
+Jose Quintana traded '21	2021X11	56-21x11/21josequintanatraded.png	Pitcher																								
+Ian Anderson '21	2021X11	56-21x11/21iananderson.png	Pitcher																								
+Chris Flexen '21	2021X11	56-21x11/21chrisflexen.png	Pitcher																								
+Brady Singer '21	2021X11	56-21x11/21bradysinger.png	Pitcher																								
+Jt Brubaker '21	2021X11	56-21x11/21jtbrubaker.png	Pitcher																								
+Matt Shoemaker Traded '21	2021X11	56-21x11/21mattshoemakertraded.png	Pitcher																								
+Trevor Richards Traded '21	2021X11	56-21x11/21trevorrichardstraded.png	Pitcher																								
+John Gant '21	2021X11	56-21x11/21johngant.png	Pitcher																								
+Cole Hamels '21	2021X11	56-21x11/21colehamels.png	Pitcher																								
+Dane Dunning '21	2021X11	56-21x11/21danedunning.png	Pitcher																								
+Alex Young traded '21	2021X11	56-21x11/21alexyoungtraded.png	Pitcher																								
+Tarik Skubal '21	2021X11	56-21x11/21tarikskubal.png	Pitcher																								
+Kendall Graveman '21	2021X11	56-21x11/21kendallgraveman.png	Pitcher																								
+Daniel Norris '21	2021X11	56-21x11/21danielnorris.png	Pitcher																								
+Luis Cessa '21	2021X11	56-21x11/21luiscessa.png	Pitcher																								
+Aaron Sanchez '21	2021X11	56-21x11/21aaronsanchez.png	Pitcher																								
+Andrew Heaney '21	2021X11	56-21x11/21andrewheaney.png	Pitcher																								
+Rich Hill traded '21	2021X11	56-21x11/21richhilltraded.png	Pitcher																								
+J.A. Happ traded '21	2021X11	56-21x11/21jahapptraded.png	Pitcher																								
+Shohei Ohtani '21	2021X11	56-21x11/21shoheiohtani.png	Pitcher																								
+Tanner Roark '21	2021X11	56-21x11/21tannerroark.png	Pitcher																								
+Tommy Hunter traded '21	2021X11	56-21x11/21tommyhuntertraded.png	Pitcher																								
+Vince Velasquez '21	2021X11	56-21x11/21vincevelasquez.png	Pitcher																								
+Tyler Anderson '21	2021X11	56-21x11/21tyleranderson.png	Pitcher																								
+Richard Rodriguez '21	2021X11	56-21x11/21richardrodriguez.png	Pitcher																								
+Andrew Chafin '21	2021X11	56-21x11/21andrewchafin.png	Pitcher																								
+Craig Kimbrel '21	2021X11	56-21x11/21craigkimbrel.png	Pitcher																								
+Trevor Rogers '21	2021X11	56-21x11/21trevorrogers.png	Pitcher																								
+Daniel Hudson traded '21	2021X11	56-21x11/21danielhudsontraded.png	Pitcher																								
+Ryan Tepera '21	2021X11	56-21x11/21ryantepera.png	Pitcher																								
+Matt Wisler traded '21	2021X11	56-21x11/21mattwislertraded.png	Pitcher																								
+Casey Mize '21	2021X11	56-21x11/21caseymize.png	Pitcher																								
+Brad Hand traded '21	2021X11	56-21x11/21bradhandtraded.png	Pitcher																								
+Yimi Garcia '21	2021X11	56-21x11/21yimigarcia.png	Pitcher																								
+Shaun Anderson '21	2021X11	56-21x11/21shaunanderson.png	Pitcher																								
+Diego Castillo '21	2021X11	56-21x11/21diegocastillo.png	Pitcher																								
+Brandon Brennan '21	2021X11	56-21x11/21brandonbrennan.png	Pitcher																								
+Alex Claudio Traded '21	2021X11	56-21x11/21alexclaudiotraded.png	Pitcher																								
+Justin Wilson traded '21	2021X11	56-21x11/21justinwilsontraded.png	Pitcher																								
+Nick Vincent traded '21	2021X11	56-21x11/21nickvincenttraded.png	Pitcher																								
+Wandy Peralta '21	2021X11	56-21x11/21wandyperalta.png	Pitcher																								
+Ian Kennedy traded '21	2021X11	56-21x11/21iankennedytraded.png	Pitcher																								
+Adam Cimber traded '21	2021X11	56-21x11/21adamcimbertraded.png	Pitcher																								
+Austin Davis '21	2021X11	56-21x11/21austindavis.png	Pitcher																								
+Jake Arrieta traded '21	2021X11	56-21x11/21jakearrietatraded.png	Pitcher																								
+Mychal Givens '21	2021X11	56-21x11/21mychalgivens.png	Pitcher																								
+Rafael Montero Traded '21	2021X11	56-21x11/21rafaelmonterotraded.png	Pitcher																								
+Sal Romano '21	2021X11	56-21x11/21salromano.png	Pitcher																								
+Noe Ramirez traded '21	2021X11	56-21x11/21noeramireztraded.png	Pitcher																								
+Marco Estrada '21	2021X11	56-21x11/21marcoestrada.png	Pitcher																								
+J.B. Wendelken '21	2021X11	56-21x11/21jbwendelken.png	Pitcher																								
+Jerad Eickhoff '21	2021X11	56-21x11/21jeradeickhoff.png	Pitcher																								
+Cesar Valdez '21	2021X11	56-21x11/21cesarvaldez.png	Pitcher																								
+Joakim Soria traded '21	2021X11	56-21x11/21joakimsoriatraded.png	Pitcher																								
+Brad Brach traded '21	2021X11	56-21x11/21bradbrachtraded.png	Pitcher																								
+Taylor Williams Traded '21	2021X11	56-21x11/21taylorwilliamstraded.png	Pitcher																								
+Jacob Barnes traded '21	2021X11	56-21x11/21jacobbarnestraded.png	Pitcher																								
+Jesse Chavez '21	2021X11	56-21x11/21jessechavez.png	Pitcher																								
+Mike Morin '21	2021X11	56-21x11/21mikemorin.png	Pitcher																								
+Cam Bedrosian traded '21	2021X11	56-21x11/21cambedrosiantraded.png	Pitcher																								
+Matt Andriese traded '21	2021X11	56-21x11/21mattandriesetraded.png	Pitcher																								
+Kyle Crick '21	2021X11	56-21x11/21kylecrick.png	Pitcher																								
+Nick Tropeano traded '21	2021X11	56-21x11/21nicktropeanotraded.png	Pitcher																								
+Brad Peacock '21	2021X11	56-21x11/21bradpeacock.png	Pitcher																								
+Tommy Milone traded '21	2021X11	56-21x11/21tommymilonetraded.png	Pitcher																								
+Tyler Chatwood Traded '21	2021X11	56-21x11/21tylerchatwoodtraded.png	Pitcher																								
+Trevor Williams Traded '21	2021X11	56-21x11/21trevorwilliamstraded.png	Pitcher																								
+Jesse Biddle '21	2021X11	56-21x11/21jessebiddle.png	Pitcher																								
+Mike Foltynewicz '21	2021X11	56-21x11/21mikefoltynewicz.png	Pitcher																								
+Shane Greene '21	2021X11	56-21x11/21shanegreene.png	Pitcher																								
+Wade Leblanc '21	2021X11	56-21x11/21wadeleblanc.png	Pitcher																								
+Hansel Robles traded '21	2021X11	56-21x11/21hanselroblestraded.png	Pitcher																								
+Cory Gearrin '21	2021X11	56-21x11/21corygearrin.png	Pitcher																								
+Phil Maton '21	2021X11	56-21x11/21philmaton.png	Pitcher																								
+Chase Anderson '21	2021X11	56-21x11/21chaseanderson.png	Pitcher																								
+Carl Edwards Jr. '21	2021X11	56-21x11/21carledwardsjr.png	Pitcher																								
+Asher Wojciechowski '21	2021X11	56-21x11/21asherwojciechowski.png	Pitcher																								
+Jason Vargas '21	2021X11	56-21x11/21jasonvargas.png	Pitcher																								
+Buck Farmer '21	2021X11	56-21x11/21buckfarmer.png	Pitcher																								
+Jake Faria '21	2021X11	56-21x11/21jakefaria.png	Pitcher																								
+Heath Hembree traded '21	2021X11	56-21x11/21heathhembreetraded.png	Pitcher																								
+Austin Pruitt '21	2021X11	56-21x11/21austinpruitt.png	Pitcher																								
+Robert Stock traded '21	2021X11	56-21x11/21robertstocktraded.png	Pitcher																								
+Sean Doolittle '21	2021X11	56-21x11/21seandoolittle.png	Pitcher																								
+Ryan Weber traded '21	2021X11	56-21x11/21ryanwebertraded.png	Pitcher																								
+Josh Rogers traded '21	2021X11	56-21x11/21joshrogerstraded.png	Pitcher																								
+Ryan Buchter '21	2021X11	56-21x11/21ryanbuchter.png	Pitcher																								
+Javy Guerra '21	2021X11	56-21x11/21javyguerra.png	Pitcher																								
+Derek Law '21	2021X11	56-21x11/21dereklaw.png	Pitcher																								
+Shun Yamaguchi '21	2021X11	56-21x11/21shunyamaguchi.png	Pitcher																								
+David Hess traded '21	2021X11	56-21x11/21davidhesstraded.png	Pitcher																								
+Shawn Armstrong '21	2021X11	56-21x11/21shawnarmstrong.png	Pitcher																								
+Yoan Lopez '21	2021X11	56-21x11/21yoanlopez.png	Pitcher																								
+Kevin Mccarthy '21	2021X11	56-21x11/21kevinmccarthy.png	Pitcher																								
+Marcus Walden '21	2021X11	56-21x11/21marcuswalden.png	Pitcher																								
+Justin Shafer '21	2021X11	56-21x11/21justinshafer.png	Pitcher																								
+Michael Feliz '21	2021X11	56-21x11/21michaelfeliz.png	Pitcher																								
+T.J. Mcfarland traded '21	2021X11	56-21x11/21tjmcfarlandtraded.png	Pitcher																								
+Adam Conley '21	2021X11	56-21x11/21adamconley.png	Pitcher																								
+Jacob deGrom AS '21	2021ASG	53-21colorado/jacobdegromas.png	Pitcher																								
+Joe Musgrove AS '21	2021ASG	53-21colorado/joemusgroveas.png	Pitcher																								
+Shohei Ohtani AS '21	2021ASG	53-21colorado/shoheiohtanias.png	Pitcher																								
+Hyun-Jin Ryu AS '21	2021ASG	53-21colorado/hyunjinryuas.png	Pitcher																								
+John Means AS '21	2021ASG	53-21colorado/johnmeansas.png	Pitcher																								
+Ranger Suarez AS '21	2021ASG	53-21colorado/rangersuarezas.png	Pitcher																								
+Craig Kimbrel AS '21	2021ASG	53-21colorado/craigkimbrelas.png	Pitcher																								
+Kenley Jansen AS '21	2021ASG	53-21colorado/kenleyjansenas.png	Pitcher																								
+Shohei Ohtani AS Pitcher '21	2021ASG	53-21colorado/shoheiohtaniaspitcher.png	Pitcher																								
+Matt Barnes AS '21	2021ASG	53-21colorado/mattbarnesas.png	Pitcher																								
+Liam Hendriks AS '21	2021ASG	53-21colorado/liamhendriksas.png	Pitcher																								
+Diego Castillo AS '21	2021ASG	53-21colorado/diegocastilloas.png	Pitcher																								
+Brad Hand AS '21	2021ASG	53-21colorado/bradhandas.png	Pitcher																								
+Drew Steckenrider AS '21	2021ASG	53-21colorado/drewsteckenrideras.png	Pitcher																								
+Shohei Ohtani AS '21 Batter	2021ASG	53-21colorado/shoheiohtanias.png	Batter																								
+Byron Buxton AS '21	2021ASG	53-21colorado/byronbuxtonas.png	Batter																								
+Vladimir Guerrero Jr. AS '21	2021ASG	53-21colorado/vladimirguerrerojras.png	Batter																								
+Ronald Acuna Jr. AS '21	2021ASG	53-21colorado/ronaldacunajras.png	Batter																								
+Fernando Tatis Jr. AS '21	2021ASG	53-21colorado/fernandotatisjras.png	Batter																								
+Shohei Ohtani AS Batter '21	2021ASG	53-21colorado/shoheiohtaniasbatter.png	Batter																								
+Jesse Winker AS '21	2021ASG	53-21colorado/jessewinkeras.png	Batter																								
+Cedric Mullens II AS '21	2021ASG	53-21colorado/cedricmullensiias.png	Batter																								
+Kyle Schwarber AS '21	2021ASG	53-21colorado/kyleschwarberas.png	Batter																								
+Buster Posey AS '21	2021ASG	53-21colorado/busterposeyas.png	Batter																								
+Chris Taylor AS '21	2021ASG	53-21colorado/christayloras.png	Batter																								
+Kris Bryant AS '21	2021ASG	53-21colorado/krisbryantas.png	Batter																								
+Jean Segura AS '21	2021ASG	53-21colorado/jeanseguraas.png	Batter																								
+Joey Gallo AS '21	2021ASG	53-21colorado/joeygalloas.png	Batter																								
+Salvador Perez AS '21	2021ASG	53-21colorado/salvadorperezas.png	Batter																								
+Shohei Ohtani AS '21 Pitcher	2021ASG	53-21colorado/shoheiohtaniaspitcher.png	Pitcher																								
+Troy Tulowitzki '21	2021ASG	53-21colorado/21troytulowitzki.png	Batter																								
+Carlos Gonzalez '21	2021ASG	53-21colorado/21carlosgonzalez.png	Batter																								
+Ubaldo Jimenez '21	2021ASG	53-21colorado/21ubaldojimenez.png	Pitcher																								
+Mike Hampton '21	2021ASG	53-21colorado/21mikehampton.png	Pitcher																								
+Brian Fuentes '21	2021ASG	53-21colorado/21brianfuentes.png	Pitcher																								
+Todd Helton '21	2021ASG	53-21colorado/21toddhelton.png	Batter																								
+Bobby Abreu '21	2021PHI	54-21philadelphia/21bobbyabreu.png	Batter																								
+Darren Daulton '21	2021PHI	54-21philadelphia/21darrendaulton.png	Batter																								
+Lenny Dysktra '21	2021PHI	54-21philadelphia/21lennydysktra.png	Batter																								
+21 Cole Hamels '21	2021PHI	54-21philadelphia/2121colehamels.png	Pitcher																								
+John Denny '21	2021PHI	54-21philadelphia/21johndenny.png	Pitcher																								
+Steve Bedrosian '21	2021PHI	54-21philadelphia/21stevebedrosian.png	Pitcher																								
+Brad Lidge '21	2021PHI	54-21philadelphia/21bradlidge.png	Pitcher																								
+Roger Clemens '21	2021SPR	55-21springfield/21rogerclemens.png	Pitcher																								
+Ken Griffey Jr. '21	2021SPR	55-21springfield/21kengriffeyjr.png	Batter																								
+Jose Canseco '21	2021SPR	55-21springfield/21josecanseco.png	Batter																								
+Ozzie Smith '21	2021SPR	55-21springfield/21ozziesmith.png	Batter																								
+Darryl Strawberry '21	2021SPR	55-21springfield/21darrylstrawberry.png	Batter																								
+Wade Boggs '21	2021SPR	55-21springfield/21wadeboggs.png	Batter																								
+Don Mattingly '21	2021SPR	55-21springfield/21donmattingly.png	Batter																								
+Steve Sax '21	2021SPR	55-21springfield/21stevesax.png	Batter																								
+Mike Scioscia '21	2021SPR	55-21springfield/21mikescioscia.png	Batter																								
+Manny Ramirez '21	2021HH	58-21highheat21/21mannyramirez.png	Batter																								
+Alex Rodriguez '21	2021HH	58-21highheat21/21alexrodriguez.png	Batter																								
+Jeff Manship '21	2021HH	58-21highheat21/21jeffmanship.png	Pitcher																								
