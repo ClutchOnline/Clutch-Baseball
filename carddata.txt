@@ -3300,7 +3300,7 @@ Joe Musgrove '21	2020X10	51-21x10/21joemusgrove.png	Pitcher
 Jose Quintana '21	2020X10	51-21x10/21josequintana.png	Pitcher																								
 Kwang hyun Kim '21	2020X10	51-21x10/21kwanghyunkim.png	Pitcher																								
 Jake Odorizzi '21	2020X10	51-21x10/21jakeodorizzi.png	Pitcher																								
-Shaun Anderson Traded '21	2020X10	51-21x10/21shaunandersontraded.png	Pitcher																								
+Shaun Anderson '21	2020X10	51-21x10/21shaunanderson.png	Pitcher																								
 Corey Kluber '21	2020X10	51-21x10/21coreykluber.png	Pitcher																								
 Rich Hill '21	2020X10	51-21x10/21richhill.png	Pitcher																								
 Derek Holland '21	2020X10	51-21x10/21derekholland.png	Pitcher																								
@@ -3374,7 +3374,7 @@ David Phelps '21	2020X10	51-21x10/21davidphelps.png	Pitcher
 Sean Doolittle '21	2020X10	51-21x10/21seandoolittle.png	Pitcher																								
 Sam Coonrod '21	2020X10	51-21x10/21samcoonrod.png	Pitcher																								
 Chris Devenski '21	2020X10	51-21x10/21chrisdevenski.png	Pitcher																								
-Tyler Anderson Traded '21	2020X10	51-21x10/21tylerandersontraded.png	Pitcher																								
+Tyler Anderson '21	2020X10	51-21x10/21tyleranderson.png	Pitcher																								
 Matt Harvey '21	2020X10	51-21x10/21mattharvey.png	Pitcher																								
 Jordan Yamamoto '21	2020X10	51-21x10/21jordanyamamoto.png	Pitcher																								
 Ken Giles '21	2020X10	51-21x10/21kengiles.png	Pitcher																								
@@ -3552,10 +3552,10 @@ Andres Gimenez '21	2021X11	56-21x11/21andresgimenez.png	Batter
 Jorge Bonifacio '21	2021X11	56-21x11/21jorgebonifacio.png	Batter																								
 Cheslor Cuthbert '21	2021X11	56-21x11/21cheslorcuthbert.png	Batter																								
 Dawel Lugo '21	2021X11	56-21x11/21dawellugo.png	Batter																								
-Marwin Gonzalez '21	2021X11	56-21x11/21marwingonzalez.png	Batter																								
+Marwin Gonzalez Traded '21	2021X11	56-21x11/21marwingonzaleztraded.png	Batter																								
 David Dahl traded '21	2021X11	56-21x11/21daviddahltraded.png	Batter																								
 Ender Inciarte '21	2021X11	56-21x11/21enderinciarte.png	Batter																								
-Myles Straw Traded '21	2021X11	56-21x11/21mylesstrawtraded.png	Batter																								
+Myles Straw Traded '21	2021X11	56-21x11/21mylesstrawq.png	Batter																								
 Billy Mckinney '21	2021X11	56-21x11/21billymckinney.png	Batter																								
 Yoshi Tsutsugo '21	2021X11	56-21x11/21yoshitsutsugo.png	Batter																								
 Kevin Cron '21	2021X11	56-21x11/21kevincron.png	Batter																								
@@ -3606,7 +3606,7 @@ Shohei Ohtani '21	2021X11	56-21x11/21shoheiohtani.png	Pitcher
 Tanner Roark '21	2021X11	56-21x11/21tannerroark.png	Pitcher																								
 Tommy Hunter traded '21	2021X11	56-21x11/21tommyhuntertraded.png	Pitcher																								
 Vince Velasquez '21	2021X11	56-21x11/21vincevelasquez.png	Pitcher																								
-Tyler Anderson '21	2021X11	56-21x11/21tyleranderson.png	Pitcher																								
+Tyler Anderson Traded '21	2021X11	56-21x11/21tylerandersontraded.png	Pitcher																								
 Richard Rodriguez '21	2021X11	56-21x11/21richardrodriguez.png	Pitcher																								
 Andrew Chafin '21	2021X11	56-21x11/21andrewchafin.png	Pitcher																								
 Craig Kimbrel '21	2021X11	56-21x11/21craigkimbrel.png	Pitcher																								
@@ -3617,7 +3617,7 @@ Matt Wisler traded '21	2021X11	56-21x11/21mattwislertraded.png	Pitcher
 Casey Mize '21	2021X11	56-21x11/21caseymize.png	Pitcher																								
 Brad Hand traded '21	2021X11	56-21x11/21bradhandtraded.png	Pitcher																								
 Yimi Garcia '21	2021X11	56-21x11/21yimigarcia.png	Pitcher																								
-Shaun Anderson '21	2021X11	56-21x11/21shaunanderson.png	Pitcher																								
+Shaun Anderson Traded '21	2021X11	56-21x11/21shaunandersontraded.png	Pitcher																								
 Diego Castillo '21	2021X11	56-21x11/21diegocastillo.png	Pitcher																								
 Brandon Brennan '21	2021X11	56-21x11/21brandonbrennan.png	Pitcher																								
 Alex Claudio Traded '21	2021X11	56-21x11/21alexclaudiotraded.png	Pitcher																								
@@ -3666,7 +3666,7 @@ Jake Faria '21	2021X11	56-21x11/21jakefaria.png	Pitcher
 Heath Hembree traded '21	2021X11	56-21x11/21heathhembreetraded.png	Pitcher																								
 Austin Pruitt '21	2021X11	56-21x11/21austinpruitt.png	Pitcher																								
 Robert Stock traded '21	2021X11	56-21x11/21robertstocktraded.png	Pitcher																								
-Sean Doolittle '21	2021X11	56-21x11/21seandoolittle.png	Pitcher																								
+Sean Doolittle Traded '21	2021X11	56-21x11/21seandoolittletraded.png	Pitcher																								
 Ryan Weber traded '21	2021X11	56-21x11/21ryanwebertraded.png	Pitcher																								
 Josh Rogers traded '21	2021X11	56-21x11/21joshrogerstraded.png	Pitcher																								
 Ryan Buchter '21	2021X11	56-21x11/21ryanbuchter.png	Pitcher																								
@@ -3737,3 +3737,23 @@ Mike Scioscia '21	2021SPR	55-21springfield/21mikescioscia.png	Batter
 Manny Ramirez '21	2021HH	58-21highheat21/21mannyramirez.png	Batter																								
 Alex Rodriguez '21	2021HH	58-21highheat21/21alexrodriguez.png	Batter																								
 Jeff Manship '21	2021HH	58-21highheat21/21jeffmanship.png	Pitcher																								
+AJ Hinch '21	2021STRATTWO	57-21strategycards2/21ajhinch.png	Coach																								
+Center Cut '21	2021STRATTWO	57-21strategycards2/21centercut.png	Strategy																								
+Chris Hook '21	2021STRATTWO	57-21strategycards2/21chrishook.png	Strategy																								
+Coaching Adjustment '21	2021STRATTWO	57-21strategycards2/21coachingadjustment.png	Strategy																								
+Exit Velocity '21	2021STRATTWO	57-21strategycards2/21exitvelocity.png	Strategy																								
+For The Win '21	2021STRATTWO	57-21strategycards2/21forthewin.png	Strategy																								
+Full Windup '21	2021STRATTWO	57-21strategycards2/21fullwindup.png	Strategy																								
+Get It out of the ocean '21	2021STRATTWO	57-21strategycards2/21getitoutoftheocean.png	Strategy																								
+Hooking Foul '21	2021STRATTWO	57-21strategycards2/21hookingfoul.png	Strategy																								
+Impulse Control '21	2021STRATTWO	57-21strategycards2/21impulsecontrol.png	Strategy																								
+Insult to Injury '21	2021STRATTWO	57-21strategycards2/21insulttoinjury.png	Strategy																								
+In The Gap '21	2021STRATTWO	57-21strategycards2/21inthegap.png	Strategy																								
+In The Groove '21	2021STRATTWO	57-21strategycards2/21inthegroove.png	Strategy																								
+Keep the Party Going '21	2021STRATTWO	57-21strategycards2/21keepthepartygoing.png	Strategy																								
+Kevin Seitzer '21	2021STRATTWO	57-21strategycards2/21kevinseitzer.png	Coach																								
+Portland '21	2021STRATTWO	57-21strategycards2/21portland.png	Stadium																								
+Rally Killer '21	2021STRATTWO	57-21strategycards2/21rallykiller.png	Strategy																								
+Slam the Door '21	2021STRATTWO	57-21strategycards2/21slamthedoor.png	Strategy																								
+Wake Up Bats '21	2021STRATTWO	57-21strategycards2/21wakeupbats.png	Strategy																								
+Williamsport '21	2021STRATTWO	57-21strategycards2/21williamsport.png	Stadium																								
