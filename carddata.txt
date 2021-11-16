@@ -2550,7 +2550,7 @@ Dwight Smith '21	2020X9	48-21x9/21dwightsmith.png	Batter
 Welington Castillo '21	2020X9	48-21x9/21welingtoncastillo.png	Batter																								
 Rob Refsnyder '21	2020X9	48-21x9/21robrefsnyder.png	Batter																								
 Bradley Zimmer '21	2020X9	48-21x9/21bradleyzimmer.png	Batter																								
-Greg Bird '21	2020X9	48-21x9/21gregbird.png	Batter																								
+Greg Bird '21	2020X10	51-21x10/21gregbird.png	Batter																								
 Rafael Ortega '21	2020X9	48-21x9/21rafaelortega.png	Batter																								
 Dilson Herrera '21	2020X9	48-21x9/21dilsonherrera.png	Batter																								
 Richie Martin '21	2020X9	48-21x9/21richiemartin.png	Batter																								
