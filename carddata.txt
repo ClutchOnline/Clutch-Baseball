@@ -3737,6 +3737,7 @@ Manny Ramirez '21	2021HH	58-21highheat21/21mannyramirez.png	Batter
 Alex Rodriguez '21	2021HH	58-21highheat21/21alexrodriguez.png	Batter																								
 Jeff Manship '21	2021HH	58-21highheat21/21jeffmanship.png	Pitcher																								
 AJ Hinch '21	2021STRATTWO	57-21strategycards2/21ajhinch.png	Coach																								
+AJ Hinch '21	2021STRATTWO	57-21strategycards2/21ajhinch.png	Coach																								
 Center Cut '21	2021STRATTWO	57-21strategycards2/21centercut.png	Strategy																								
 Chris Hook '21	2021STRATTWO	57-21strategycards2/21chrishook.png	Strategy																								
 Coaching Adjustment '21	2021STRATTWO	57-21strategycards2/21coachingadjustment.png	Strategy																								
@@ -3786,3 +3787,70 @@ Tampa Bay '22	2022ST	60-22starter/22tampabay.png	Stadium
 Texas '22	2022ST	60-22starter/22texas.png	Stadium																								
 Toronto '22	2022ST	60-22starter/22toronto.png	Stadium																								
 Washington '22	2022ST	60-22starter/22washington.png	Stadium																								
+Brandon Hyde '22	2022ST	60-22starter/22brandonhyde.png	Coach																								
+Bud Black '22	2022OD	61-22openingday/22budblack.png	Coach																								
+David Bell '22	2022ST	60-22starter/22davidbell.png	Coach																								
+Terry Francona '22	2022OD	61-22openingday/22terryfrancona.png	Coach																								
+Chad Mottola '22	2022OD	61-22openingday/22chadmottola.png	Coach																								
+Jeremy Reed '22	2022ST	60-22starter/22jeremyreed.png	Coach																								
+Justin Viele '22	2022ST	60-22starter/22justinviele.png	Coach																								
+Alex Cintron '22	2022OD	61-22openingday/22alexcintron.png	Coach																								
+Mark Prior '22	2022OD	61-22openingday/22markprior.png	Coach																								
+Rick Kranitz '22	2022ST	60-22starter/22rickkranitz.png	Coach																								
+Scott Emerson '22	2022OD	61-22openingday/22scottemerson.png	Coach																								
+Matt Blake '22	2022ST	60-22starter/22mattblake.png	Coach																								
+Catch Me If You Can '22	2022ST	60-22starter/22catchmeifyoucan.png	Strategy																								
+Good Wood '22	2022ST	60-22starter/22goodwood.png	Strategy																								
+Hit and Run '22	2022ST	60-22starter/22hitandrun.png	Strategy																								
+Hitters Count '22	2022ST	60-22starter/22hitterscount.png	Strategy																								
+Never Enough '22	2022ST	60-22starter/22neverenough.png	Strategy																								
+Overthrown '22	2022ST	60-22starter/22overthrown.png	Strategy																								
+Pine Tar '22	2022ST	60-22starter/22pinetar.png	Strategy																								
+Prime Time '22	2022ST	60-22starter/22primetime.png	Strategy																								
+See It Clearly '22	2022ST	60-22starter/22seeitclearly.png	Strategy																								
+Advanced Scout '22	2022ST	60-22starter/22advancedscout.png	Strategy																								
+Challenge Flag '22	2022ST	60-22starter/22challengeflag.png	Strategy																								
+Deja Vu '22	2022ST	60-22starter/22dejavu.png	Strategy																								
+Instant Replay '22	2022ST	60-22starter/22instantreplay.png	Strategy																								
+Prime Time Performance '22	2022ST	60-22starter/22primetimeperformance.png	Strategy																								
+Upside Down '22	2022ST	60-22starter/22upsidedown.png	Strategy																								
+Clean Cleats '22	2022ST	60-22starter/22cleancleats.png	Strategy																								
+Firing Bullets '22	2022ST	60-22starter/22firingbullets.png	Strategy																								
+First Pitch Strikes '22	2022ST	60-22starter/22firstpitchstrikes.png	Strategy																								
+Left For Dead '22	2022ST	60-22starter/22leftfordead.png	Strategy																								
+Make Some Noise '22	2022ST	60-22starter/22makesomenoise.png	Strategy																								
+Pitchers Count '22	2022ST	60-22starter/22pitcherscount.png	Strategy																								
+Snap Throw '22	2022ST	60-22starter/22snapthrow.png	Strategy																								
+Strong Side '22	2022ST	60-22starter/22strongside.png	Strategy																								
+Top Ten '22	2022ST	60-22starter/22topten.png	Strategy																								
+Ace In The Hole '22	2022OD	61-22openingday/22aceinthehole.png	Strategy																								
+Ahead In The Count '22	2022OD	61-22openingday/22aheadinthecount.png	Strategy																								
+Bang Bang '22	2022OD	61-22openingday/22bangbang.png	Strategy																								
+Claustrophobia '22	2022OD	61-22openingday/22claustrophobia.png	Strategy																								
+Get Your Game On '22	2022OD	61-22openingday/22getyourgameon.png	Strategy																								
+Going For It '22	2022OD	61-22openingday/22goingforit.png	Strategy																								
+Head Held High '22	2022OD	61-22openingday/22headheldhigh.png	Strategy																								
+Leaping Snag '22	2022OD	61-22openingday/22leapingsnag.png	Strategy																								
+Phantom Tag '22	2022OD	61-22openingday/22phantomtag.png	Strategy																								
+The Man Is Non-Stop '22	2022OD	61-22openingday/22themanisnonstop.png	Strategy																								
+Tiger Blood '22	2022OD	61-22openingday/22tigerblood.png	Strategy																								
+Full Count '22	2022OD	61-22openingday/22fullcount.png	Strategy																								
+Half Monty '22	2022OD	61-22openingday/22halfmonty.png	Strategy																								
+Know Your Role '22	2022OD	61-22openingday/22knowyourrole.png	Strategy																								
+Not Today '22	2022OD	61-22openingday/22nottoday.png	Strategy																								
+Now or Never '22	2022OD	61-22openingday/22nowornever.png	Strategy																								
+Payoff Pitch '22	2022OD	61-22openingday/22payoffpitch.png	Strategy																								
+Heads Up Play '22	2022OD	61-22openingday/22headsupplay.png	Strategy																								
+Light Tower Power '22	2022OD	61-22openingday/22lighttowerpower.png	Strategy																								
+Moonshot '22	2022OD	61-22openingday/22moonshot.png	Strategy																								
+Ol Reliable '22	2022OD	61-22openingday/22olreliable.png	Strategy																								
+On Deck Circle '22	2022OD	61-22openingday/22ondeckcircle.png	Strategy																								
+Slump Buster '22	2022OD	61-22openingday/22slumpbuster.png	Strategy																								
+Take What Is Given '22	2022OD	61-22openingday/22takewhatisgiven.png	Strategy																								
+Third Time Charm '22	2022OD	61-22openingday/22thirdtimecharm.png	Strategy																								
+Upon Further Review '22	2022OD	61-22openingday/22uponfurtherreview.png	Strategy																								
+We Are Due '22	2022OD	61-22openingday/22wearedue.png	Strategy																								
+You Are An All Star '22	2022OD	61-22openingday/22youareanallstar.png	Strategy																								
+Bob Howry '22	2021PP	62-22polarpower21/22bobhowry.png	Pitcher																								
+Hanley Ramirez '22	2021PP	62-22polarpower21/22hanleyramirez.png	Batter																								
+Paul Konerko '22	2021PP	62-22polarpower21/22paulkonerko.png	Batter																								
