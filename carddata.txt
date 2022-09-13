@@ -4434,3 +4434,184 @@ Nick Markakis '19 LE1	2019LE	22-19series2/le1nickmarkakis.png	Batter
 Mike Hampton LE5	2021COL	53-21colorado/21mikehamptonle5.png	Pitcher																								
 Ron Santo LE9	2019LE	22-19series2/le9ronsanto.png	Batter																								
 The Freak LE1	2019LE	22-19series2/le1thefreak.png	Pitcher																								
+Shohei Ohtani '22 Blue 2	2022RB	67-22rainbow/22shoheiohtaniblue2.png	TwoWay																								
+Zack Greinke '22 Pink 2	2022RB	67-22rainbow/22zackgreinkepink2.png	Pitcher																								
+Nick Markakis '08	2022ODL	68-22openingdayleague/22nickmarkakis.png	Batter																								
+JJ Putz '07	2022ODL	68-22openingdayleague/22jjputz.png	Pitcher																								
+Carl Crawford '10	2022ODL	68-22openingdayleague/22carlcrawford.png	Batter																								
+Cliff Lee '10	2022ODL	68-22openingdayleague/22clifflee.png	Pitcher																								
+Babe Ruth '18	2022ODL	68-22openingdayleague/22baberuth.png	TwoWay																								
+Johnny Bench '70	2022ODL	68-22openingdayleague/22johnnybench.png	Batter																								
+Tony Gwynn '94	2022ODL	68-22openingdayleague/22tonygwynn.png	Batter																								
+Wilbur Wood '68	2022ODL	68-22openingdayleague/22wilburwood.png	Pitcher																								
+Carl Crawford LE5	2022ODL	68-22openingdayleague/22carlcrawfordle5.png	Batter																								
+Nick Markakis LE5	2022ODL	68-22openingdayleague/22nickmarkakisle5.png	Batter																								
+Wilbur Wood LE5	2022ODL	68-22openingdayleague/22wilburwoodle5.png	Pitcher																								
+Yordan Alvarez AS '22	2022AS	66-22losangeles/22yordanalvarezas.png	Batter																								
+Paul Goldschmidt AS '22	2022AS	66-22losangeles/22paulgoldschmidtas.png	Batter																								
+Mike Trout AS '22	2022AS	66-22losangeles/22miketroutas.png	Batter																								
+Bryce Harper AS '22	2022AS	66-22losangeles/22bryceharperas.png	Batter																								
+Rafael Devers AS '22	2022AS	66-22losangeles/22rafaeldeversas.png	Batter																								
+Byron Buxton AS '22	2022AS	66-22losangeles/22byronbuxtonas.png	Batter																								
+Dansby Swanson AS '22	2022AS	66-22losangeles/22dansbyswansonas.png	Batter																								
+Manny Machado AS '22	2022AS	66-22losangeles/22mannymachadoas.png	Batter																								
+Aaron Judge AS '22	2022AS	66-22losangeles/22aaronjudgeas.png	Batter																								
+Trea Turner AS '22	2022AS	66-22losangeles/22treaturneras.png	Batter																								
+Starling Marte AS '22	2022AS	66-22losangeles/22starlingmarteas.png	Batter																								
+Ronald Acuna Jr. AS '22	2022AS	66-22losangeles/22ronaldacunajras.png	Batter																								
+Nolan Arenado AS '22	2022AS	66-22losangeles/22nolanarenadoas.png	Batter																								
+Kyle Tucker AS '22	2022AS	66-22losangeles/22kyletuckeras.png	Batter																								
+Ty France AS '22	2022AS	66-22losangeles/22tyfranceas.png	Batter																								
+Xander Bogaerts AS '22	2022AS	66-22losangeles/22xanderbogaertsas.png	Batter																								
+Jose Altuve AS '22	2022AS	66-22losangeles/22josealtuveas.png	Batter																								
+William Contreras AS '22	2022AS	66-22losangeles/22williamcontrerasas.png	Batter																								
+Ian Happ AS '22	2022AS	66-22losangeles/22ianhappas.png	Batter																								
+Jose Ramirez AS '22	2022AS	66-22losangeles/22joseramirezas.png	Batter																								
+Mookie Betts AS '22	2022AS	66-22losangeles/22mookiebettsas.png	Batter																								
+Austin Riley AS '22	2022AS	66-22losangeles/22austinrileyas.png	Batter																								
+Pete Alonso AS '22	2022AS	66-22losangeles/22petealonsoas.png	Batter																								
+Kyle Schwarber AS '22	2022AS	66-22losangeles/22kyleschwarberas.png	Batter																								
+Freddie Freeman AS '22	2022AS	66-22losangeles/22freddiefreemanas.png	Batter																								
+Julio Rodriguez AS '22	2022AS	66-22losangeles/22juliorodriguezas.png	Batter																								
+Alejandro Kirk AS '22	2022AS	66-22losangeles/22alejandrokirkas.png	Batter																								
+Jeff Mcneil AS '22	2022AS	66-22losangeles/22jeffmcneilas.png	Batter																								
+J.D. Martinez AS '22	2022AS	66-22losangeles/22jdmartinezas.png	Batter																								
+Vladimir Guerrero Jr. AS '22	2022AS	66-22losangeles/22vladimirguerrerojras.png	Batter																								
+Luis Arraez AS '22	2022AS	66-22losangeles/22luisarraezas.png	Batter																								
+Willson Contreras AS '22	2022AS	66-22losangeles/22willsoncontrerasas.png	Batter																								
+C.J. Cron AS '22	2022AS	66-22losangeles/22cjcronas.png	Batter																								
+Jazz Chisholm Jr. AS '22	2022AS	66-22losangeles/22jazzchisholmjras.png	Batter																								
+Juan Soto AS '22	2022AS	66-22losangeles/22juansotoas.png	Batter																								
+Giancarlo Stanton AS '22	2022AS	66-22losangeles/22giancarlostantonas.png	Batter																								
+Santiago Espinal AS '22	2022AS	66-22losangeles/22santiagoespinalas.png	Batter																								
+Andres Gimenez AS '22	2022AS	66-22losangeles/22andresgimenezas.png	Batter																								
+Garrett Cooper AS '22	2022AS	66-22losangeles/22garrettcooperas.png	Batter																								
+Tim Anderson AS '22	2022AS	66-22losangeles/22timandersonas.png	Batter																								
+Shohei Ohtani AS '22	2022AS	66-22losangeles/22shoheiohtanias.png	Batter																								
+George Springer AS '22	2022AS	66-22losangeles/22georgespringeras.png	Batter																								
+Jose Trevino AS '22	2022AS	66-22losangeles/22josetrevinoas.png	Batter																								
+Joc Pederson AS '22	2022AS	66-22losangeles/22jocpedersonas.png	Batter																								
+Andrew Benintendi AS '22	2022AS	66-22losangeles/22andrewbenintendias.png	Batter																								
+Corey Seager AS '22	2022AS	66-22losangeles/22coreyseageras.png	Batter																								
+Jake Cronenworth AS '22	2022AS	66-22losangeles/22jakecronenworthas.png	Batter																								
+Travis D'Arnaud AS '22	2022AS	66-22losangeles/22travisdarnaudas.png	Batter																								
+Miguel Cabrera AS '22	2022AS	66-22losangeles/22miguelcabreraas.png	Batter																								
+Albert Pujols AS '22	2022AS	66-22losangeles/22albertpujolsas.png	Batter																								
+Sandy Alcantara AS '22	2022AS	66-22losangeles/22sandyalcantaraas.png	Pitcher																								
+Shane McClanahan AS '22	2022AS	66-22losangeles/22shanemcclanahanas.png	Pitcher																								
+Justin Verlander AS '22	2022AS	66-22losangeles/22justinverlanderas.png	Pitcher																								
+Corbin Burnes AS '22	2022AS	66-22losangeles/22corbinburnesas.png	Pitcher																								
+Joe Musgrove AS '22	2022AS	66-22losangeles/22joemusgroveas.png	Pitcher																								
+Ryan Helsley AS '22	2022AS	66-22losangeles/22ryanhelsleyas.png	Pitcher																								
+Tony Gonsolin AS '22	2022AS	66-22losangeles/22tonygonsolinas.png	Pitcher																								
+Miles Mikolas AS '22	2022AS	66-22losangeles/22milesmikolasas.png	Pitcher																								
+Max Fried AS '22	2022AS	66-22losangeles/22maxfriedas.png	Pitcher																								
+Alek Manoah AS '22	2022AS	66-22losangeles/22alekmanoahas.png	Pitcher																								
+Gerrit Cole AS '22	2022AS	66-22losangeles/22gerritcoleas.png	Pitcher																								
+Framber Valdez AS '22	2022AS	66-22losangeles/22frambervaldezas.png	Pitcher																								
+Nestor Cortes AS '22	2022AS	66-22losangeles/22nestorcortesas.png	Pitcher																								
+Shohei Ohtani AS '22	2022AS	66-22losangeles/22shoheiohtanias.png	Pitcher																								
+Martin Perez AS '22	2022AS	66-22losangeles/22martinperezas.png	Pitcher																								
+Luis Castillo AS '22	2022AS	66-22losangeles/22luiscastilloas.png	Pitcher																								
+Carlos Rodon AS '22	2022AS	66-22losangeles/22carlosrodonas.png	Pitcher																								
+David Bednar AS '22	2022AS	66-22losangeles/22davidbednaras.png	Pitcher																								
+Tyler Anderson AS '22	2022AS	66-22losangeles/22tylerandersonas.png	Pitcher																								
+Clayton Kershaw AS '22	2022AS	66-22losangeles/22claytonkershawas.png	Pitcher																								
+Josh Hader AS '22	2022AS	66-22losangeles/22joshhaderas.png	Pitcher																								
+Emmanuel Clase AS '22	2022AS	66-22losangeles/22emmanuelclaseas.png	Pitcher																								
+Paul Blackburn AS '22	2022AS	66-22losangeles/22paulblackburnas.png	Pitcher																								
+Clay Holmes AS '22	2022AS	66-22losangeles/22clayholmesas.png	Pitcher																								
+Joe Mantiply AS '22	2022AS	66-22losangeles/22joemantiplyas.png	Pitcher																								
+Liam Hendriks AS '22	2022AS	66-22losangeles/22liamhendriksas.png	Pitcher																								
+Jorge Lopez AS '22	2022AS	66-22losangeles/22jorgelopezas.png	Pitcher																								
+Devin Williams AS '22	2022AS	66-22losangeles/22devinwilliamsas.png	Pitcher																								
+Jordan Romano AS '22	2022AS	66-22losangeles/22jordanromanoas.png	Pitcher																								
+Edwin Diaz AS '22	2022AS	66-22losangeles/22edwindiazas.png	Pitcher																								
+Gregory Soto AS '22	2022AS	66-22losangeles/22gregorysotoas.png	Pitcher																								
+Pass the Baton '22	2022TD	69-22tradedeadline/22passthebaton.png	Strategy																								
+That was Useless '22	2022TD	69-22tradedeadline/22thatwasuseless.png	Strategy																								
+Flamethrower '22	2022TD	69-22tradedeadline/22flamethrower.png	Strategy																								
+Clawing Back '22	2022TD	69-22tradedeadline/22clawingback.png	Strategy																								
+Station to Station '22	2022TD	69-22tradedeadline/22stationtostation.png	Strategy																								
+Frank Menechino '22	2022TD	69-22tradedeadline/22frankmenechino.png	Coach																								
+Dave Bush '22	2022TD	69-22tradedeadline/22davebush.png	Coach																								
+Scott Servais '22	2022TD	69-22tradedeadline/22scottservais.png	Coach																								
+Las Vegas '22	2022TD	69-22tradedeadline/22lasvegas.png	Strategy																								
+Taylor Rogers Traded '22	2022TD	69-22tradedeadline/22taylorrogerstraded.png	Pitcher																								
+Jesse Chavez '22	2022TD	69-22tradedeadline/22jessechavez.png	Pitcher																								
+Mackenzie Gore '22	2022TD	69-22tradedeadline/22mackenziegore.png	Pitcher																								
+Dinelson Lamet Traded '22	2022TD	69-22tradedeadline/22dinelsonlamettraded.png	Pitcher																								
+Raisel Iglesias Traded '22	2022TD	69-22tradedeadline/22raiseliglesiastraded.png	Pitcher																								
+Tyler Beede '22	2022TD	69-22tradedeadline/22tylerbeede.png	Pitcher																								
+Jose Quintana Traded '22	2022TD	69-22tradedeadline/22josequintanatraded.png	Pitcher																								
+Tucker Davidson '22	2022TD	69-22tradedeadline/22tuckerdavidson.png	Pitcher																								
+Chris Martin Traded '22	2022TD	69-22tradedeadline/22chrismartintraded.png	Pitcher																								
+Jake McGee Traded '22	2022TD	69-22tradedeadline/22jakemcgeetraded.png	Pitcher																								
+Anthony Bass Traded '22	2022TD	69-22tradedeadline/22anthonybasstraded.png	Pitcher																								
+Will Smith Traded '22	2022TD	69-22tradedeadline/22willsmithtraded.png	Pitcher																								
+Jake Diekman '22	2022TD	69-22tradedeadline/22jakediekman.png	Pitcher																								
+Michael Fulmer Traded '22	2022TD	69-22tradedeadline/22michaelfulmertraded.png	Pitcher																								
+David Robertson '22	2022TD	69-22tradedeadline/22davidrobertson.png	Pitcher																								
+Jorge Lopez Traded '22	2022TD	69-22tradedeadline/22jorgelopeztraded.png	Pitcher																								
+Josh Rogers Traded '22	2022TD	69-22tradedeadline/22joshrogerstraded.png	Pitcher																								
+Chris Stratton Traded '22	2022TD	69-22tradedeadline/22chrisstrattontraded.png	Pitcher																								
+Dallas Keuchel Traded '22	2022TD	69-22tradedeadline/22dallaskeucheltraded.png	Pitcher																								
+Paul Fry Traded '22	2022TD	69-22tradedeadline/22paulfrytraded.png	Pitcher																								
+Sam Howard Traded '22	2022TD	69-22tradedeadline/22samhowardtraded.png	Pitcher																								
+Hansel Robles Traded '22	2022TD	69-22tradedeadline/22hanselroblestraded.png	Pitcher																								
+Mychal Givens '22	2022TD	69-22tradedeadline/22mychalgivens.png	Pitcher																								
+Lou Trivino Traded '22	2022TD	69-22tradedeadline/22loutrivinotraded.png	Pitcher																								
+Anthony Misiewicz Traded '22	2022TD	69-22tradedeadline/22anthonymisiewicztraded.png	Pitcher																								
+Ryan Borucki '22	2022TD	69-22tradedeadline/22ryanborucki.png	Pitcher																								
+Luke Weaver Traded '22	2022TD	69-22tradedeadline/22lukeweavertraded.png	Pitcher																								
+Sean Newcomb Traded '22	2022TD	69-22tradedeadline/22seannewcombtraded.png	Pitcher																								
+Austin Voth Traded '22	2022TD	69-22tradedeadline/22austinvothtraded.png	Pitcher																								
+Ben Bowden Traded '22	2022TD	69-22tradedeadline/22benbowdentraded.png	Pitcher																								
+Shawn Armstrong '22	2022TD	69-22tradedeadline/22shawnarmstrong.png	Pitcher																								
+Luis Oviedo Traded '22	2022TD	69-22tradedeadline/22luisoviedotraded.png	Pitcher																								
+James Norwood Traded '22	2022TD	69-22tradedeadline/22jamesnorwoodtraded.png	Pitcher																								
+Juan Soto Traded '22	2022TD	69-22tradedeadline/22juansototraded.png	Batter																								
+Trayce Thompson '22	2022TD	69-22tradedeadline/22traycethompson.png	Batter																								
+Andrew Benintendi Traded '22	2022TD	69-22tradedeadline/22andrewbenintenditraded.png	Batter																								
+Josh Bell Traded '22	2022TD	69-22tradedeadline/22joshbelltraded.png	Batter																								
+Brandon Drury Traded '22	2022TD	69-22tradedeadline/22brandondrurytraded.png	Batter																								
+Harrison Bader Traded '22	2022TD	69-22tradedeadline/22harrisonbadertraded.png	Batter																								
+Darin Ruf Traded '22	2022TD	69-22tradedeadline/22darinruftraded.png	Batter																								
+Trey Mancini Traded '22	2022TD	69-22tradedeadline/22treymancinitraded.png	Batter																								
+Christian Vazquez Traded '22	2022TD	69-22tradedeadline/22christianvazqueztraded.png	Batter																								
+Robbie Grossman Traded '22	2022TD	69-22tradedeadline/22robbiegrossmantraded.png	Batter																								
+Tommy Pham Traded '22	2022TD	69-22tradedeadline/22tommyphamtraded.png	Batter																								
+Luke Voit Traded '22	2022TD	69-22tradedeadline/22lukevoittraded.png	Batter																								
+Franmil Reyes Traded '22	2022TD	69-22tradedeadline/22franmilreyestraded.png	Batter																								
+David Peralta Traded '22	2022TD	69-22tradedeadline/22davidperaltatraded.png	Batter																								
+Eric Hosmer Traded '22	2022TD	69-22tradedeadline/22erichosmertraded.png	Batter																								
+Steven Duggar Traded '22	2022TD	69-22tradedeadline/22stevenduggartraded.png	Batter																								
+Whit Merrifield Traded '22	2022TD	69-22tradedeadline/22whitmerrifieldtraded.png	Batter																								
+Carlos Santana Traded '22	2022TD	69-22tradedeadline/22carlossantanatraded.png	Batter																								
+Joey Gallo Traded '22	2022TD	69-22tradedeadline/22joeygallotraded.png	Batter																								
+Luke Williams '22	2022TD	69-22tradedeadline/22lukewilliams.png	Batter																								
+J.D. Davis Traded '22	2022TD	69-22tradedeadline/22jddavistraded.png	Batter																								
+Matt Reynolds '22	2022TD	69-22tradedeadline/22mattreynolds.png	Batter																								
+Emmanuel Rivera '22	2022TD	69-22tradedeadline/22emmanuelrivera.png	Batter																								
+Tyler Naquin Traded '22	2022TD	69-22tradedeadline/22tylernaquintraded.png	Batter																								
+Zach McKinstry '22	2022TD	69-22tradedeadline/22zachmckinstry.png	Batter																								
+Mauricio Dubon '22	2022TD	69-22tradedeadline/22mauriciodubon.png	Batter																								
+Ehire Adrianza '22	2022TD	69-22tradedeadline/22ehireadrianza.png	Batter																								
+Daniel Vogelbach '22	2022TD	69-22tradedeadline/22danielvogelbach.png	Batter																								
+Jose Siri Traded '22	2022TD	69-22tradedeadline/22josesiritraded.png	Batter																								
+Brandon Marsh '22	2022TD	69-22tradedeadline/22brandonmarsh.png	Batter																								
+Brett Phillips Traded '22	2022TD	69-22tradedeadline/22brettphillipstraded.png	Batter																								
+Tyler Wade Traded '22	2022TD	69-22tradedeadline/22tylerwadetraded.png	Batter																								
+Jonathan Arauz '22	2022TD	69-22tradedeadline/22jonathanarauz.png	Batter																								
+Stephen Piscotty Traded '22	2022TD	69-22tradedeadline/22stephenpiscottytraded.png	Batter																								
+Edmundo Sosa '22	2022TD	69-22tradedeadline/22edmundososa.png	Batter																								
+Elvis Andrus Traded '22	2022TD	69-22tradedeadline/22elvisandrustraded.png	Batter																								
+Reese McGuire '22	2022TD	69-22tradedeadline/22reesemcguire.png	Batter																								
+Matt Davidson '22	2022TD	69-22tradedeadline/22mattdavidson.png	Batter																								
+Cole Tucker Traded '22	2022TD	69-22tradedeadline/22coletuckertraded.png	Batter																								
+C.J. Abrams '22	2022TD	69-22tradedeadline/22cjabrams.png	Batter																								
+Sergio Alcantara '22	2022TD	69-22tradedeadline/22sergioalcantara.png	Batter																								
+Austin Allen Traded '22	2022TD	69-22tradedeadline/22austinallentraded.png	Batter																								
+Mark Mathias '22	2022TD	69-22tradedeadline/22markmathias.png	Batter																								
+Mickey Moniak '22	2022TD	69-22tradedeadline/22mickeymoniak.png	Batter																								
+Tyler Heineman '22	2022TD	69-22tradedeadline/22tylerheineman.png	Batter																								
